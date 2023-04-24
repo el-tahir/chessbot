@@ -1,4 +1,4 @@
-﻿# Chess Move Prediction Project
+﻿# Creating a Chess Clone of a Player
 
 This project aims to predict the next chess move made by a player given a specific board position. The dataset used to train the model is derived from a collection of PGN (Portable Game Notation) files containing the player's games. The project uses Python for data processing and machine learning model training.
 

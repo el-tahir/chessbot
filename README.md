@@ -4,7 +4,7 @@ This project aims to predict the next chess move made by a player given a specif
 
 ## Project Structure
 
-The project consists of three main Python scripts and a Jupyter Notebook:
+The project consists of two main Python scripts and a Jupyter Notebook:
 
 1. `get_pgns.py`: This script is responsible for splitting the input games from the `input_games.pgn` file into separate PGN files for black and white games.
 2. `get_csv.py`: This script is responsible for converting the PGN files into a CSV format that can be used for model training. The output CSV files contain information about each move and the top 10 moves recommended by Stockfish.

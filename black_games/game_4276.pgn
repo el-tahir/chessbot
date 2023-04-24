@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DFgLbplB"]
+[Date "2020.08.13"]
+[White "atolik"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2020.08.13"]
+[UTCTime "13:28:04"]
+[WhiteElo "2006"]
+[BlackElo "2002"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. d4 e6 5. Nf3 c5 6. c3 cxd4 7. cxd4 Bb4+ 8. Nc3 Nc6 9. Bd2 Nge7 10. Bb5 O-O 11. a3 Bxc3 12. bxc3 a6 13. Bxc6 Nxc6 14. O-O Na5 15. Ra2 Nc4 16. h3 h5 17. Nh4 Qxh4 18. Kh2 b5 19. a4 Rfb8 20. axb5 axb5 21. Rxa8 Rxa8 22. Be1 Ne3 23. Bxh4 Nxd1 24. Rxd1 Ra3 25. Rc1 Kf8 26. Be1 Ke8 27. Kg1 Kd7 28. Kf2 Kc6 29. Ke3 Ra2 30. Kf3 Be4+ 31. Ke3 Rxg2 32. Ra1 Kb6 33. Ra8 g5 34. fxg5 Rxg5 35. h4 Rg4 36. Rf8 Bg6 37. Rb8+ Ka5 38. c4+ Ka6 39. cxb5+ Ka7 40. Rc8 Rg1 41. Bf2 Ra1 42. Rc5 Rb1 43. Kf4 Kb6 44. Kg5 Rxb5 45. Rxb5+ Kxb5 46. Kf4 Kc4 47. Ke3 Kc3 48. Be1+ Kc4 49. Bg3 1/2-1/2
+

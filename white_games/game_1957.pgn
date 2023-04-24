@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0mvIIlbh"]
+[Date "2021.01.17"]
+[White "EltahirAmin"]
+[Black "Rapturetheo"]
+[Result "1-0"]
+[UTCDate "2021.01.17"]
+[UTCTime "10:27:04"]
+[WhiteElo "1942"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nf6 6. Be3 Bb4 7. Be2 Nxe4 8. Qd3 Nxc3 9. bxc3 Ba5 10. O-O O-O 11. f4 d6 12. Rf3 e5 13. Nf5 exf4 14. Rh3 Bxf5 15. Qxf5 g6 16. Qxf4 Bxc3 17. Qh6 Re8 18. Qxh7+ Kf8 19. Rf1 Ne5 20. Bf4 Bd4+ 21. Kh1 Qf6 22. Bxe5 Qxf1+ 23. Bxf1 Rxe5 24. Qh8+ Ke7 25. Qxa8 Re1 26. Qxb7+ Kf6 27. Rf3+ Kg7 28. Qxf7+ Kh6 29. Rh3+ Kg5 30. Rg3+ Kh6 31. Qf4+ Kg7 32. Rf3 Be5 33. Qf8+ Kh7 34. Rh3# 1-0
+

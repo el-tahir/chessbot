@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2FR1X1YZ"]
+[Date "2022.04.30"]
+[White "EltahirAmin"]
+[Black "Safali91"]
+[Result "0-1"]
+[UTCDate "2022.04.30"]
+[UTCTime "05:39:05"]
+[WhiteElo "2084"]
+[BlackElo "2121"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 d4 4. Ne2 e5 5. d3 f6 6. Ng3 c5 7. Nxe5 fxe5 8. Qh5+ Kd7 9. Qxe5 Nf6 10. Be2 Bd6 11. Qg5 Kc7 12. c3 Qe7 13. Bd2 Nc6 14. O-O-O Be6 15. Kb1 h6 16. Qh4 g5 17. Bxg5 hxg5 18. Qxg5 Rag8 19. Qd2 Ng4 20. Bxg4 Bxg4 21. f3 Be6 22. Ne2 Qf7 23. cxd4 Bxa2+ 24. Ka1 Nxd4 25. Nxd4 cxd4 26. Rc1+ Kb8 27. Qa5 Be6 28. g3 Rh5 29. Qa4 Rd8 30. Qxd4 Ra5+ 31. Kb1 Ba2+ 32. Kc2 Qb3+ 33. Kd2 Bb4+ 34. Qxb4 Qxb4+ 35. Ke3 Qd4+ 36. Ke2 Qxd3+ 37. Kf2 Qd4+ 38. Kg2 Qd2+ 39. Kh3 Rh8+ 40. Kg4 Qg5# 0-1
+

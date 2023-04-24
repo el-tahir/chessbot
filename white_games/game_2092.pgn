@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0cK7ku35"]
+[Date "2020.12.31"]
+[White "EltahirAmin"]
+[Black "Cotoca"]
+[Result "0-1"]
+[UTCDate "2020.12.31"]
+[UTCTime "21:12:06"]
+[WhiteElo "1976"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. Bd3 a6 8. O-O b5 9. a3 Bb7 10. Bg5 Nc6 11. Qd2 b4 12. axb4 Nxb4 13. Bb1 Rc8 14. Rc1 Re8 15. Bxf6 Bxf6 16. Ne2 Be7 17. e5 g6 18. Qh6 Bxf3 19. gxf3 Rxc1+ 20. Nxc1 Bg5 21. Qh3 Bxc1 22. Bxg6 hxg6 23. Rxc1 Qg5+ 24. Kh1 Qxc1+ 25. Kg2 0-1
+

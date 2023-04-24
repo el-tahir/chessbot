@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MCc2Pxbc"]
+[Date "2021.02.02"]
+[White "EltahirAmin"]
+[Black "punitaswal"]
+[Result "0-1"]
+[UTCDate "2021.02.02"]
+[UTCTime "09:54:15"]
+[WhiteElo "2013"]
+[BlackElo "2008"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Bb4 8. Qf3 d5 9. Bxd5 Be6 10. Bxb7 Rb8 11. Bc6+ Bd7 12. Bd5 Nh6 13. Bxh6 O-O 14. Bd2 Bxc3 15. Bxc3 Be6 16. Be4 f5 17. Bd3 Bd5 18. Qe2 Nf4 19. Qd2 Nxg2+ 20. Kf1 Ne3+ 21. Qxe3 Bxh1 22. Ke2 Qh4 23. Rxh1 f4 24. Bc4+ Kh8 25. Qd3 Qg4+ 26. f3 Qg2+ 27. Kd1 Qxh1+ 28. Be1 Qxh2 29. Qe4 Rxb2 30. Bd3 Rb1# 0-1
+

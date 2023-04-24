@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bg874ujP"]
+[Date "2022.10.09"]
+[White "Smuggl"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.09"]
+[UTCTime "02:31:39"]
+[WhiteElo "1893"]
+[BlackElo "2013"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. cxd3 c5 7. Be3 cxd4 8. Bf4 Nc6 9. h3 Bb4+ 10. Nbd2 Nge7 11. O-O O-O 12. Re1 Nf5 13. Re2 h5 14. Bh2 Rc8 15. a3 Ba5 16. Nf1 Qe7 17. Ng3 Nxg3 18. Bxg3 Rc7 19. Bh4 Qd7 20. b4 Bb6 21. Rc2 Rfc8 22. Ng5 Ne7 23. Qxh5 Rxc2 24. Qxf7+ Kh8 25. Nxe6 Qxe6 26. Qxe6 Rc1+ 27. Rxc1 Rxc1+ 28. Kh2 Nc6 29. Qc8+ Kh7 30. e6 Rc3 31. Qxb7 Nd8 32. Qxd5 Nxe6 33. Qxe6 Rxd3 34. Qe4+ g6 35. Qxd3 Kh6 36. Bg3 a5 37. bxa5 Bxa5 38. Qxd4 Bb6 39. Qxb6 1-0
+

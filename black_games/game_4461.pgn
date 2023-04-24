@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TIPp03Nd"]
+[Date "2020.05.12"]
+[White "DnexiT"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "15:54:18"]
+[WhiteElo "2009"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nf3 c5 4. e3 Nc6 5. c3 Bg4 6. Bd3 e6 7. Nbd2 Be7 8. h3 Bh5 9. O-O O-O 10. e4 dxe4 11. Nxe4 cxd4 12. Qe2 dxc3 13. bxc3 Bg6 14. Rfd1 Qa5 15. Rab1 Bxe4 16. Bxe4 Nxe4 17. Qxe4 Qa6 18. Rd7 b5 19. Bd6 Bxd6 20. Rxd6 Rac8 21. Nd4 Qxa2 22. Rxc6 Rfd8 23. Rxc8 Rxc8 24. Rxb5 Qa1+ 25. Kh2 Qxc3 26. Rb7 g6 27. Nxe6 Qf6 28. Nf4 a5 29. Nd5 Qe6 30. Qxe6 fxe6 31. Ne7+ Kf7 32. Nxc8+ Kf6 33. Ra7 Ke5 34. Rxa5+ Kf6 35. Ra6 Kf5 36. Nd6+ Kf6 37. Ne4+ Ke5 38. Ng3 Kf6 39. f4 Kf7 40. f5 Kf6 41. fxe6 Ke7 42. Ne4 g5 43. Nc5 h6 44. Ra7+ Kd6 45. e7 Kxc5 46. e8=Q Kd6 47. Qg6+ Ke5 48. Qxh6 Ke4 49. Qxg5 Kd3 50. Re7 Kd4 51. Qf6+ Kc4 52. Qd6 Kc3 53. Rc7+ Kb3 54. Qb6+ 1-0
+

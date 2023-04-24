@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vKvpey0H"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "proyecto2000"]
+[Result "1-0"]
+[UTCDate "2020.11.25"]
+[UTCTime "00:40:27"]
+[WhiteElo "1901"]
+[BlackElo "1809"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Ng3 e5 6. Nf3 exd4 7. Nxd4 Ngf6 8. Be3 Be7 9. Bd3 O-O 10. O-O Nc5 11. Be2 Nce4 12. Nxe4 Nxe4 13. Bd3 Nc5 14. Be2 Re8 15. b4 Ne4 16. Bc4 Nc3 17. Qh5 Nd5 18. Rad1 Be6 19. f4 g6 20. Qf3 Nxe3 21. Qxe3 Bxc4 22. Nf5 Bxf1 23. Rxd8 Raxd8 24. Nxe7+ Kf8 25. Kxf1 Rxe7 26. Qxa7 Rd1+ 27. Kf2 Ree1 28. Qxb7 Rf1+ 29. Kg3 h5 30. Qxc6 h4+ 31. Kxh4 Rd2 32. Kg3 Rff2 33. b5 Rxc2 34. Qa8+ Kg7 35. b6 Rxa2 36. Qd5 Rfb2 37. b7 Rb4 38. Qxa2 1-0
+

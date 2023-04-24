@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RxsEJhYe"]
+[Date "2022.05.14"]
+[White "EltahirAmin"]
+[Black "gulases"]
+[Result "0-1"]
+[UTCDate "2022.05.14"]
+[UTCTime "05:48:10"]
+[WhiteElo "2122"]
+[BlackElo "2082"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Nc6 4. d3 d6 5. Bg5 f6 6. Be3 Be6 7. Qd2 Qe7 8. O-O-O Qf7 9. Kb1 O-O-O 10. Bxc5 dxc5 11. Nb5 Kb8 12. Rg1 a6 13. Nc3 Nd4 14. Nxd4 cxd4 15. Ne2 Ne7 16. Nc1 c5 17. f4 Rc8 18. g4 Rhd8 19. fxe5 fxe5 20. Be2 c4 21. dxc4 Bxc4 22. Bxc4 Qxc4 23. Qd3 Qc5 24. Rdf1 Nc6 25. Rf7 Nb4 26. Qb3 Rc7 27. Rgf1 Rdc8 28. Rxc7 Rxc7 29. Rf2 d3 30. c3 Qxf2 31. cxb4 Qe1 32. a3 Qxc1+ 33. Ka2 d2 34. Qg8+ Ka7 35. Qd5 d1=Q 36. Qxd1 0-1
+

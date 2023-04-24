@@ -1,0 +1,19 @@
+[Event "Hourly SuperBlitz Arena"]
+[Site "https://lichess.org/sjIDNCPx"]
+[Date "2020.05.13"]
+[White "Helder37"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "17:00:14"]
+[WhiteElo "2010"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. g4 Bg6 7. Bb5+ Nc6 8. Ne5 Rc8 9. d4 e6 10. O-O Bd6 11. f4 Ne7 12. Bxc6+ bxc6 13. Qe2 O-O 14. Be3 Qb6 15. Nd7 Qxb2 16. Nxf8 Qxc3 17. Nxg6 Nxg6 18. f5 exf5 19. gxf5 Nh4 20. Rae1 Re8 21. Qf2 Re4 22. Re2 g6 23. fxg6 Re7 24. gxf7+ Kf8 25. Bh6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/00TQsvUS"]
+[Date "2022.10.21"]
+[White "XINTAY"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.10.21"]
+[UTCTime "03:28:32"]
+[WhiteElo "1979"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 dxc4 6. Bxc4 Nc6 7. Nf3 Bg4 8. Qd3 Bxf3 9. Qxf3 Qxd4 10. Bb3 O-O-O 11. Be3 Qd3 12. Rd1 Qg6 13. Rxd8+ Nxd8 14. Bxa7 Nc6 15. Bb6 e5 16. Nd5 Qe4+ 17. Qxe4 Nxe4 18. O-O Bc5 19. Bxc5 Nxc5 20. Rc1 Nxb3 21. axb3 Kd7 22. b4 Kd6 23. b5 Kxd5 24. bxc6 bxc6 25. b4 Rb8 26. Rc5+ Kd6 27. g3 Rxb4 28. Rc3 c5 29. Rf3 f6 30. Kf1 c4 31. Ke2 Rb3 32. Rf5 c3 33. Kd3 e4+ 34. Kc2 Ra3 35. f3 e3 36. Rf4 Kd5 37. Re4 e2 38. Rxe2 Ra2+ 39. Kd3 Rxe2 40. Kxe2 Kc4 41. Kd1 Kb3 42. Kc1 h5 43. h3 g5 44. f4 gxf4 45. gxf4 Kc4 46. Kc2 Kd4 47. f5 Ke4 48. Kxc3 Kxf5 49. Kd3 Kf4 50. Ke2 Kg3 51. h4 Kxh4 52. Kf3 Kh3 53. Kf2 Kh2 54. Kf1 h4 55. Kf2 h3 56. Kf1 f5 57. Kf2 Kh1 58. Kf1 f4 59. Kf2 Kh2 60. Kf1 Kg3 61. Kg1 Kf3 62. Kh2 Ke2 63. Kxh3 f3 64. Kh2 f2 65. Kg2 f1=Q+ 66. Kg3 Ke3 67. Kg4 Qf3+ 0-1
+

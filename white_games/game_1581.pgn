@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iOgWvFzx"]
+[Date "2021.02.21"]
+[White "EltahirAmin"]
+[Black "Wastl2002"]
+[Result "0-1"]
+[UTCDate "2021.02.21"]
+[UTCTime "14:42:06"]
+[WhiteElo "1962"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 Qd8 7. Nf3 e6 8. Bd3 Bd7 9. Be3 Bc6 10. Qe2 Bb4 11. O-O O-O 12. Ne5 Nd5 13. Nxd5 Bxd5 14. Qh5 f5 15. Rac1 Nc6 16. Bf4 Nxd4 17. g4 Nf3+ 18. Nxf3 Bxf3 19. gxf5 Bxh5 0-1
+

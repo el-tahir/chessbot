@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ItDsJ0LU"]
+[Date "2020.05.10"]
+[White "evgeny_firdmN"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "01:06:10"]
+[WhiteElo "2002"]
+[BlackElo "1968"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E70"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Be3 e5 7. d5 Bg4 8. Nge2 c6 9. O-O cxd5 10. cxd5 Nbd7 11. f3 Bh5 12. g4 Nxg4 13. fxg4 Bxg4 14. Qe1 Nc5 15. Bc2 f5 16. Qg3 Bxe2 17. Nxe2 f4 18. Qh3 fxe3 19. Rxf8+ Qxf8 20. Rf1 Qe7 21. b4 Nd7 22. Qxe3 Nf6 23. Ng3 Rc8 24. Bd3 Ng4 25. Qe2 Qh4 26. Nh1 Bh6 27. Ng3 Be3+ 28. Kh1 Rc1 29. Rxc1 Bxc1 30. Qc2 Bf4 31. Qc8+ Kg7 32. Qd7+ Kh6 33. Kg2 Ne3+ 34. Kg1 Qh3 35. Qxh3+ Kg7 36. Kf2 Nd1+ 37. Ke2 Nc3+ 38. Kf2 Nxa2 39. Qd7+ Kh6 40. Qxd6 Nc1 41. Qf8+ Kg5 42. Bc2 b5 43. Ne2 Nxe2 44. Kxe2 h5 45. Qe7+ Kg4 46. Qe6+ Kh4 47. Kf2 g5 48. Kg2 g4 49. Bd1 g3 50. Qf6+ Bg5 51. Qf5 Bf4 52. hxg3+ Bxg3 53. Qf6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NsmMEhCj"]
+[Date "2020.12.18"]
+[White "AlessandroFonseca"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.18"]
+[UTCTime "22:56:54"]
+[WhiteElo "2045"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 Bg4 4. cxd5 Nxd5 5. f3 Bh5 6. e4 Nb6 7. Bb5+ Nc6 8. d5 a6 9. Bxc6+ bxc6 10. dxc6 Qxd1+ 11. Nxd1 e5 12. Ne2 Bc5 13. Bd2 Nc4 14. Bc3 f6 15. b3 Na3 16. Rc1 Rd8 17. Ba5 Nb5 18. a4 Ba3 19. axb5 Bxc1 20. Nxc1 axb5 21. O-O Rc8 22. Ne3 Kf7 23. Nd5 Rhd8 24. Na2 Rd6 25. Rc1 g5 26. Nac3 g4 27. Nxb5 Re6 28. Nbxc7 Rd6 29. Bb4 Rdd8 30. Nb5 gxf3 31. c7 Rg8 32. Nd6+ Ke6 33. Nxc8 Rxg2+ 34. Kf1 Rxh2 35. Rc6+ Kd7 36. Nce7 Bg4 37. c8=Q# 1-0
+

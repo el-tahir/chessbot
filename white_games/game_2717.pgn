@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f9Zwo8Vb"]
+[Date "2020.12.09"]
+[White "EltahirAmin"]
+[Black "gallopingknight26"]
+[Result "1-0"]
+[UTCDate "2020.12.09"]
+[UTCTime "12:51:37"]
+[WhiteElo "1921"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nxc6 bxc6 7. Be2 Nf6 8. O-O Be7 9. f4 exf4 10. Bxf4 O-O 11. Qe1 Ng4 12. Qg3 f5 13. exf5 Bxf5 14. Bxg4 Bxg4 15. Qxg4 Qb6+ 16. Kh1 Qxb2 17. Ne4 Rxf4 18. Qxf4 Rf8 19. Qd2 Qe5 20. Rxf8+ Bxf8 21. Re1 d5 22. Ng5 Qf5 23. Nf3 Bd6 24. Qg5 Qxc2 25. Qd8+ Bf8 26. Re8 Qd1+ 27. Ng1 Qf1 28. Qa8 Kf7 29. Rxf8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3KKByHxh"]
+[Date "2022.05.26"]
+[White "EltahirAmin"]
+[Black "Panda-army"]
+[Result "0-1"]
+[UTCDate "2022.05.26"]
+[UTCTime "20:47:50"]
+[WhiteElo "2033"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Bb4 7. Qd3 Nf6 8. f3 d5 9. exd5 Nxd5 10. Bd2 Bxc3 11. Bxc3 Nxc3 12. bxc3 Nc6 13. Be2 O-O 14. O-O e5 15. Nf5 Bxf5 16. Qxf5 f6 17. Bd3 g5 18. Rab1 b5 19. Be4 Rac8 20. c4 Nd4 21. Bd5+ Kg7 22. Qh3 Qc5 23. Be4 f5 24. Bd3 Ne2+ 25. Kh1 Nf4 26. Qg3 h6 27. cxb5 Nh5 28. Qh3 Nf4 29. Qg3 Nxd3 30. cxd3 axb5 31. Qe1 Qd5 32. a4 bxa4 33. Rb7+ Qxb7 34. Qxe5+ Kg6 35. d4 Rce8 36. Qd6+ Rf6 37. Qa3 Qb3 38. Qc5 a3 39. f4 a2 40. fxg5 hxg5 41. g4 Qb1 42. gxf5+ Rxf5 43. Qd6+ Kh5 44. Qg3 Qxf1+ 45. Qg1 Qxg1+ 46. Kxg1 a1=Q+ 47. Kg2 Qf1+ 48. Kg3 Rf3# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6JUoOOnA"]
+[Date "2020.11.26"]
+[White "EltahirAmin"]
+[Black "Patapumpfete"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "17:14:17"]
+[WhiteElo "1903"]
+[BlackElo "1854"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bc8 6. Nf3 Nf6 7. Be2 e6 8. O-O Be7 9. Bg5 b6 10. Qd2 Bb7 11. c4 Nbd7 12. Rad1 O-O 13. Rfe1 Re8 14. h3 Qc7 15. Bf4 Bd6 16. Ne5 Rad8 17. Nxd7 Rxd7 18. Bxd6 Rxd6 19. Bf3 Red8 20. Ne4 Nxe4 21. Bxe4 Rxd4 22. Qc2 Rxd1 23. Rxd1 Rxd1+ 24. Qxd1 g6 25. h4 c5 26. Bxb7 Qxb7 27. Qd8+ Kg7 28. h5 Qe4 29. Qg5 h6 30. Qg3 g5 31. b3 Qf5 32. Qb8 Qb1+ 33. Kh2 Qb2 34. Qxa7 Qxf2 35. Qxb6 g4 36. Qd6 Qf5 37. Kg3 Qxh5 38. Qf4 Qf5 39. Qxg4+ Qxg4+ 40. Kxg4 f5+ 41. Kf4 Kf6 42. a4 e5+ 43. Kf3 Ke6 44. a5 Kd6 45. g4 fxg4+ 46. Kxg4 Kc6 47. Kf5 h5 48. Kxe5 h4 49. Kf4 h3 50. Kg3 h2 51. Kxh2 Kb7 52. Kg3 Ka6 53. Kf4 Kxa5 54. Ke5 Kb4 55. Kd5 Kxb3 56. Kxc5 Kc3 57. Kd5 Kb4 58. c5 Kb5 59. Kd6 Ka6 60. c6 Kb6 61. Kd7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tAMynDKb"]
+[Date "2020.08.07"]
+[White "sphongleman"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.08.07"]
+[UTCTime "11:36:54"]
+[WhiteElo "2048"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. d4 Bg4 6. Be2 e6 7. O-O c5 8. Be3 cxd4 9. Nxd4 Bxe2 10. Qxe2 Be7 11. Nc3 O-O 12. Rfd1 N8d7 13. Rac1 Bf6 14. Ndb5 Qe7 15. f4 g6 16. e5 Bg7 17. Nd6 Rab8 18. a4 Nc8 19. b4 Rd8 20. Ncb5 a6 21. Nc3 Nxd6 22. Rxd6 Rbc8 23. Ne4 Nb8 24. Rcd1 Nc6 25. Bb6 Rxd6 26. Nxd6 Rf8 27. b5 axb5 28. axb5 Nd8 29. Qe4 f6 30. Bc5 f5 31. Qc4 Qh4 32. g3 Qh3 33. Qe2 Nf7 34. Nxb7 Nh6 35. Bxf8 Bxf8 36. Rd8 Ng4 37. b6 h5 38. Nd6 h4 39. Qg2 Qxg2+ 40. Kxg2 hxg3 41. hxg3 Ne3+ 42. Kf3 Nd5 43. b7 1-0
+

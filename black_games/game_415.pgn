@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TAgwe76a"]
+[Date "2022.06.02"]
+[White "netteristbesser"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.02"]
+[UTCTime "21:29:09"]
+[WhiteElo "1976"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bf4 Nc6 6. c3 e6 7. Qc2 Bd6 8. Bg3 O-O 9. Bd3 Qe7 10. Ne5 h6 11. Nd2 Qc7 12. Ndf3 Bd7 13. Nxd7 Qxd7 14. Bxd6 Qxd6 15. O-O Rac8 16. Rfe1 e5 17. Bf5 e4 18. Bxc8 Rxc8 19. Nd2 Nxd4 20. Qd1 Nf5 21. Nb3 h5 22. Nd4 Ng4 23. Nxf5 Qxh2+ 24. Kf1 Qf4 25. Ne7+ Kh7 26. Qe2 Qh2 27. Qe3 Nxe3+ 28. fxe3 Re8 29. Nxd5 Re5 30. Nf4 g5 31. Ne2 Rf5+ 0-1
+

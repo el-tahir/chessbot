@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SWbF3dN3"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "sModafr"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "23:45:14"]
+[WhiteElo "2060"]
+[BlackElo "2071"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. Nc3 d4 4. Nd5 c6 5. Nxe5 cxd5 6. Qf3 dxe4 7. Qxf7# 1-0
+

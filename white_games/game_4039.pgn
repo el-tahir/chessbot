@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8Sd2YNKi"]
+[Date "2020.10.25"]
+[White "EltahirAmin"]
+[Black "AktiverSpringer15"]
+[Result "1-0"]
+[UTCDate "2020.10.25"]
+[UTCTime "11:21:05"]
+[WhiteElo "1963"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 1-0
+

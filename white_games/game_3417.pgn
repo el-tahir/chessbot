@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nbxijygN"]
+[Date "2020.11.09"]
+[White "EltahirAmin"]
+[Black "DoctorVR"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "18:43:01"]
+[WhiteElo "1940"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. Nc3 g6 2. e4 Bg7 3. Nf3 e6 4. d4 d5 5. e5 Ne7 6. Be3 c5 7. Qd2 Nf5 8. Bg5 Qb6 9. Na4 Qb4 10. Qxb4 cxb4 11. Nc5 O-O 12. Bd3 Nc6 13. Bxf5 gxf5 14. Kd2 b6 15. Nd3 Ba6 16. h4 f6 17. exf6 Bxf6 18. Nde5 Bxg5+ 19. hxg5 Rac8 20. Rh6 Nxe5 21. Nxe5 Rfe8 22. Rah1 Re7 23. g6 Rcc7 24. Ke3 hxg6 25. Rxg6+ Kf8 26. Rf6+ Kg7 27. Rg6+ Kf8 28. Rh8# 1-0
+

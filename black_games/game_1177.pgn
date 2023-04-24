@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dSBUIrl1"]
+[Date "2021.10.12"]
+[White "Kingcf98"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.12"]
+[UTCTime "03:41:23"]
+[WhiteElo "2027"]
+[BlackElo "2095"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. c3 c6 2. d4 d5 3. g3 Nf6 4. Bg2 Bg4 5. h3 Bh5 6. g4 Bg6 7. Nf3 e6 8. O-O Bd6 9. Nbd2 Bc7 10. Re1 Qd6 11. b4 Ne4 12. b5 Nd7 13. bxc6 bxc6 14. Nxe4 dxe4 15. a4 exf3 16. Bxf3 Qh2+ 17. Kf1 Qxh3+ 18. Bg2 Qxg4 19. Ba3 h5 20. f3 Qg3 21. e4 h4 22. Re2 h3 23. Bh1 h2 24. Rg2 Qh3 25. Qe2 Nf6 26. Rd1 Nh5 27. Bc1 Bf4 28. Qc4 Qxf3+ 29. Ke1 O-O 30. Qxc6 Bxc1 31. Rxc1 Bxe4 32. Qb5 Qe3+ 33. Re2 Qxc1+ 34. Kf2 Bxh1 0-1
+

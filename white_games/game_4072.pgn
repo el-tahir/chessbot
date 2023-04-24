@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RfNEFJQ9"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "El_Tigre123"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "02:20:29"]
+[WhiteElo "1930"]
+[BlackElo "1966"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nf6 4. Nf3 Be7 5. d4 cxd4 6. Nxd4 Nc6 7. Be3 Nxd4 8. Bxd4 O-O 9. Be2 d5 10. e5 Ne4 11. Nxe4 dxe4 12. g4 Bh4+ 13. Kf1 f6 14. Rg1 fxe5 15. Bxe5 Qb6 16. Kg2 Qf2+ 17. Kh1 b6 18. Qf1 e3 19. Rg2 Bb7 20. Qxf2 Bxf2 21. h3 Rad8 22. Bd3 g5 23. f5 h6 24. Kh2 Bxg2 25. Kxg2 exf5 26. gxf5 Rfe8 27. Bg3 Bxg3 28. Kxg3 e2 29. Re1 Rc8 30. Kf2 Rc5 31. Rxe2 Rxe2+ 32. Kxe2 Re5+ 33. Kf3 Kf7 34. Kg4 Kf6 35. h4 a5 36. hxg5+ hxg5 37. Kf3 Rc5 38. Ke4 Re5+ 39. Kd4 b5 40. Kc3 b4+ 41. Kb3 Re3 42. Ka4 g4 43. Ba6 g3 44. Bb7 1-0
+

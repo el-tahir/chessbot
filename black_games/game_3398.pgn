@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S729nm2A"]
+[Date "2020.11.10"]
+[White "NeilEniks"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "19:10:33"]
+[WhiteElo "1970"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O 8. Be3 Bg4 9. c3 Nd7 10. h3 Bh5 11. O-O Qc7 12. Re1 c5 13. Rc1 Qb6 14. dxc5 Nxc5 15. b4 Rac8 16. bxc5 Bxc5 17. Bxc5 Qxc5 18. Qd4 Qa5 19. Qb4 Qxa2 20. Qxb7 Rb8 21. Qc7 Rfc8 22. Qf4 a5 23. g4 Bg6 24. Nh4 a4 25. Nxg6 hxg6 26. Ra1 Qb3 27. Qxa4 Qxc3 28. Bf1 Rb2 29. Re8+ Kh7 30. Rxc8 Qxc8 31. Re1 Qc5 32. Re3 f5 33. gxf5 gxf5 34. Qh4+ Kg8 35. Re8+ 1-0
+

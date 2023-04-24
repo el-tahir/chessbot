@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IrAku2DI"]
+[Date "2020.10.15"]
+[White "Varreplay"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "12:31:33"]
+[WhiteElo "1969"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 c5 6. Nh4 Ne7 7. Nxf5 Nxf5 8. g4 Ne7 9. dxc5 Ng6 10. Qd4 Nc6 11. Qe3 Ngxe5 12. h3 Qa5 13. b4 Qc7 14. Nd2 a5 15. b5 Nd8 16. b6 Qxc5 17. Qxe5 Nc6 18. Qe3 d4 19. cxd4 Nxd4 20. Bd3 Rd8 21. O-O Bd6 22. a4 h5 23. g5 Nf5 24. Qxc5 Bxc5 25. Bxf5 exf5 26. Nf3 Bxb6 27. Re1+ Kf8 28. Ba3+ Kg8 29. Rab1 Bc7 30. Rxb7 Rd7 31. Rc1 Bh2+ 32. Nxh2 Rxb7 33. h4 Kh7 34. Nf3 Rb3 35. Bd6 Rxf3 36. Rc5 Ra8 37. Kg2 Rb3 38. Rxf5 Rb1 39. Rxf7 Kg6 40. Re7 Ra1 41. Re4 Rc8 42. Re6+ Kf7 43. Re7+ Kg8 44. Be5 Rxa4 45. Rxg7+ Kf8 46. Rh7 Rg4+ 47. Kf3 Rc3+ 48. Bxc3 Rxh4 49. Ke2 Rh3 50. Rh8+ Kf7 51. Rh7+ Kg6 52. Rh8 Kxg5 53. Rg8+ Kh4 54. Bd4 Ra3 55. Be5 Ra2+ 56. Kf3 a4 57. Kg2 a3 58. Rg6 Re2 59. Rh6 Rxe5 60. Rxh5+ Kxh5 61. f4 Rg5+ 62. Kf3 a2 63. fxg5 Kxg5 0-1
+

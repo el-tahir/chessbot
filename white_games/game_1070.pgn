@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tTrEMFXN"]
+[Date "2021.10.16"]
+[White "EltahirAmin"]
+[Black "tuna59"]
+[Result "1-0"]
+[UTCDate "2021.10.16"]
+[UTCTime "23:01:40"]
+[WhiteElo "2021"]
+[BlackElo "1999"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 c6 3. Nf3 Qf6 4. d4 exd4 5. Qxd4 Qxd4 6. Nxd4 Bb4 7. Bd2 d6 8. Bc4 Ne7 9. O-O-O Nd7 10. Rhe1 Nb6 11. Bb3 Bg4 12. f3 Bh5 13. e5 d5 14. e6 f6 15. Na4 Bxd2+ 16. Rxd2 Nxa4 17. Bxa4 O-O-O 18. g4 Bg6 19. f4 h5 20. f5 Be8 21. h3 hxg4 22. hxg4 g6 23. Rf1 gxf5 24. gxf5 Bh5 25. Bb3 Bg4 26. c4 Kb8 27. c5 Rh5 28. Rdf2 Rh4 29. Rf4 Rg8 30. Rg1 Bxf5 31. Rxg8+ Nxg8 32. Rxh4 Be4 1-0
+

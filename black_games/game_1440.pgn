@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DLbuvUFv"]
+[Date "2021.02.26"]
+[White "daniel_popa"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.26"]
+[UTCTime "15:24:08"]
+[WhiteElo "1990"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Bf4 Bg4 5. Qc2 e6 6. e3 Bd6 7. c5 Bxf4 8. exf4 Nbd7 9. h3 Bf5 10. Bd3 Ne4 11. Nf3 Ndf6 12. O-O Qc7 13. g3 O-O-O 14. b4 h5 15. b5 h4 16. b6 axb6 17. cxb6 Qxb6 18. Rfb1 Qc7 19. Bxe4 dxe4 20. Ne5 hxg3 21. Qa4 Kb8 22. Rxb7+ Kxb7 23. Rb1+ Qb6 24. Qxc6+ 1-0
+

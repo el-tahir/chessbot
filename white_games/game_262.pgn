@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cxOEKG5U"]
+[Date "2022.09.26"]
+[White "EltahirAmin"]
+[Black "SrSebas"]
+[Result "1-0"]
+[UTCDate "2022.09.26"]
+[UTCTime "01:48:44"]
+[WhiteElo "2031"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. h3 Nge7 5. d3 O-O 6. Bg5 f6 7. Bh4 a5 8. a3 d6 9. Be2 Be6 10. Qd2 Nb8 11. d4 Ba7 12. O-O c6 13. Nh2 Nd7 14. Kh1 Bf7 15. f4 Bxd4 16. Nf3 Ba7 17. Rad1 Qc7 18. Qxd6 Qxd6 19. Rxd6 Rad8 20. fxe5 Nxe5 21. Rxd8 Rxd8 22. Nxe5 fxe5 23. Bxe7 1-0
+

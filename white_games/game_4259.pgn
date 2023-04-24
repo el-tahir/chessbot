@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ET9gdruQ"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Da-NEBO"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "10:22:06"]
+[WhiteElo "1985"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C43"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Be2 Nc6 8. O-O Bd7 9. Bg5 h6 10. Bh4 g5 11. Bg3 Qe7 12. Nd5 Nxd5 13. exd5 Ne5 14. Re1 O-O-O 15. a4 a5 16. Nd4 f5 17. c4 f4 18. Nb5 fxg3 19. hxg3 Kb8 20. b4 h5 21. Qc2 h4 22. c5 dxc5 23. bxc5 Ba7 24. c6 bxc6 25. dxc6 Be6 26. Rab1 Bb6 27. Na3 hxg3 28. Rxb6+ cxb6 29. fxg3 Qh7 30. Qb2 Qh2+ 31. Kf2 Rhf8+ 32. Ke3 Qxg3+ 33. Bf3 Rxf3+ 34. Ke2 Qxg2# 0-1
+

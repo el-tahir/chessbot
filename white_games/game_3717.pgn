@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/01ptk4Iq"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "bot_win_nick"]
+[Result "1-0"]
+[UTCDate "2020.11.04"]
+[UTCTime "17:20:31"]
+[WhiteElo "2073"]
+[BlackElo "2078"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 g6 3. d4 d6 4. Nc3 Bg7 5. Be3 b5 6. a3 a5 7. Qd2 a4 8. Bd3 Nf6 9. h4 h5 10. Nh2 Bb7 11. f3 Nbd7 12. g4 hxg4 13. fxg4 Rxh4 14. O-O-O Nxg4 15. Nxg4 Rxg4 16. Bh6 Bf8 17. Bxf8 Nxf8 18. Rh8 Qb6 19. Qh6 O-O-O 20. Rxf8 Qxd4 21. Rxd8+ Kxd8 22. Bxb5 Qe3+ 23. Qxe3 1-0
+

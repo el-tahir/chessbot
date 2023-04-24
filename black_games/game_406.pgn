@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q3TwvkkF"]
+[Date "2022.06.04"]
+[White "DarkCalssic"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.04"]
+[UTCTime "15:21:40"]
+[WhiteElo "2071"]
+[BlackElo "2031"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c6 2. b3 d5 3. Bb2 Nf6 4. f4 Nbd7 5. Nf3 Qc7 6. Be2 e6 7. Ne5 Bd6 8. Nxd7 Bxd7 9. Bxf6 gxf6 10. Bh5 Rg8 11. Nc3 Rxg2 12. Qf3 Rg7 13. O-O-O O-O-O 14. Rhg1 Rdg8 15. Rxg7 Rxg7 16. Qf2 e5 17. Rg1 Rxg1+ 18. Qxg1 b6 19. Qg8+ Kb7 20. Qxf7 f5 21. Qxh7 exf4 22. exf4 Bxf4 23. Be2 Qd6 24. Bd3 Qe6 25. Qh3 Qe1+ 26. Kb2 Qxd2 27. Bxf5 Bxf5 28. Qxf5 Qxh2 29. Qd7+ Bc7 30. Qf5 Qd2 31. Qg4 Bf4 32. Qd7+ Ka6 33. Qxc6 Qc1# 0-1
+

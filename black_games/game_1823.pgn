@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kvWJ71Sw"]
+[Date "2021.01.27"]
+[White "solvap666"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.27"]
+[UTCTime "13:00:31"]
+[WhiteElo "1973"]
+[BlackElo "2033"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Qc7 6. Ne2 Nd7 7. Ng3 Bg6 8. f4 c5 9. c3 a5 10. Bd3 Bxd3 11. Qxd3 c4 12. Qc2 cxb3 13. axb3 Ne7 14. O-O Nc6 15. f5 Nxd4 16. Qb1 Nxb3 17. fxe6 Bc5+ 18. Kh1 O-O 19. exd7 Nxa1 20. Qxa1 Qxe5 21. Bf4 Qe7 22. Qa4 Rfd8 23. Bc1 Qxd7 24. Qa2 Ra6 25. b3 Rg6 26. Qxa5 b6 27. Qa2 Qg4 28. b4 Qxg3 29. bxc5 Qd3 30. Rg1 bxc5 31. Qd2 Qxd2 0-1
+

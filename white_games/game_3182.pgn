@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hAjTlNCE"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "mehmetyogrus"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:25:31"]
+[WhiteElo "1941"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 h6 4. Nc3 e6 5. Be3 Ne7 6. Qd2 d6 7. Bc4 Nd7 8. O-O-O b6 9. h4 Bb7 10. Nh2 Nf6 11. f3 Nd7 12. g4 a6 13. g5 h5 14. f4 b5 15. Bd3 Nb6 16. Rhf1 d5 17. e5 Nc4 18. Bxc4 dxc4 19. Nf3 Nd5 20. Ne4 O-O 21. Nc5 Bc6 22. Ne4 a5 23. Nf6+ Kh8 24. Nh2 b4 25. Nhg4 hxg4 26. h5 Nxe3 27. Qxe3 gxh5 28. Nxh5 Qd5 29. Rf2 Qe4 30. Qxe4 Bxe4 31. Rh2 Kg8 32. Re1 Bg6 33. Nf6+ Bxf6 34. gxf6 Rfd8 35. Reh1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KDOJRHfL"]
+[Date "2022.05.16"]
+[White "Calsinapse"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.16"]
+[UTCTime "13:35:43"]
+[WhiteElo "2096"]
+[BlackElo "2074"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 Nc6 8. O-O Nge7 9. Na3 Ng6 10. Bg5 Be7 11. Bxe7 Qxe7 12. Nb5 O-O 13. Nd6 Rab8 14. a4 f6 15. dxc5 Ngxe5 16. Nxe5 Nxe5 17. Qd4 a5 18. f4 Nc6 19. Qe3 b6 20. Rae1 Nd8 21. f5 e5 22. Qd3 bxc5 23. Qxd5+ Kh8 24. Qxc5 Rxb2 25. Rd1 Nb7 26. Nxb7 Qxb7 27. Qxf8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3gMvdCIS"]
+[Date "2021.01.14"]
+[White "jmatavele"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.14"]
+[UTCTime "09:10:58"]
+[WhiteElo "1929"]
+[BlackElo "1927"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d4 Bg4 4. Nfd2 Bxd1 0-1
+

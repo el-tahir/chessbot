@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/79YSETAx"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "vitswanathan"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "10:57:50"]
+[WhiteElo "1971"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. d4 e6 4. f3 Nf6 5. Bd3 Bb4 6. Ne2 dxe4 7. fxe4 Nbd7 8. Bd2 Nb6 9. O-O O-O 10. a3 Be7 11. e5 Nfd5 12. Nf4 Nxc3 13. Bxc3 Nd5 14. Qh5 g6 15. Nxg6 fxg6 16. Bxg6 hxg6 17. Qxg6+ Kh8 18. Qh6+ Kg8 19. Qg6+ Kh8 20. Rxf8+ Qxf8 21. Rf1 Qg7 22. Qh5+ Kg8 23. Bd2 Bd7 24. Bh6 Be8 25. Qh3 Qg6 26. Rf3 Qxc2 27. Qg4+ Bg6 28. Qxe6+ Kh7 29. Rh3 Qd1+ 30. Kf2 Qc2+ 31. Bd2+ Kg7 32. Ke1 Rf8 33. Bh6+ Kh7 34. Bxf8+ 1-0
+

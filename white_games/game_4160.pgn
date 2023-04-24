@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6l8KfEGl"]
+[Date "2020.10.16"]
+[White "EltahirAmin"]
+[Black "RafetLl"]
+[Result "0-1"]
+[UTCDate "2020.10.16"]
+[UTCTime "18:43:48"]
+[WhiteElo "1937"]
+[BlackElo "1899"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. Nf3 Nc6 3. c4 cxd4 4. Nxd4 e5 5. Nf5 d6 6. b3 Bxf5 7. Ba3 Nd4 0-1
+

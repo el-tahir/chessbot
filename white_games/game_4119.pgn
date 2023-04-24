@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M1JnuVkj"]
+[Date "2020.10.21"]
+[White "EltahirAmin"]
+[Black "Alex_xelA"]
+[Result "0-1"]
+[UTCDate "2020.10.21"]
+[UTCTime "12:02:29"]
+[WhiteElo "1863"]
+[BlackElo "1831"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Bc4 Nf6 8. Qd2 Nxd4 9. Bxd4 O-O 10. O-O-O a6 11. h4 b5 12. Bb3 b4 13. Nd5 Nxe4 14. Qe3 Bxd4 15. Rxd4 Nc5 16. Rxb4 Nxb3+ 17. Rxb3 Be6 18. Rd3 Qa5 19. Kb1 Rab8 20. Nxe7+ Kg7 21. h5 gxh5 22. Qg5+ Qxg5 0-1
+

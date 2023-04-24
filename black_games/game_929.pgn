@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gE4qnoVs"]
+[Date "2021.11.08"]
+[White "Foxley_gravity"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "00:40:22"]
+[WhiteElo "2067"]
+[BlackElo "2031"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Nc6 6. h3 e6 7. O-O Bd6 8. c3 Bc7 9. Bg5 O-O 10. Nbd2 h6 11. Bh4 Bd6 12. Re1 Be7 13. Bg3 Bd6 14. Ne5 Qe7 15. f4 Bd7 16. Rc1 Rac8 17. Bb1 Ne8 18. Qc2 f5 19. Ng6 Qf6 20. Nxf8 Qxf8 21. Nf3 g5 22. fxg5 Bxg3 23. gxh6 Qxh6 24. Qe2 Nf6 25. Ne5 Nxe5 26. dxe5 Ne4 27. Bxe4 fxe4 28. Qg4+ Qg7 29. Qxg7+ Kxg7 30. Rf1 Rf8 31. Rxf8 Kxf8 32. Rf1+ Kg7 33. Rc1 b5 34. b3 Bxe5 35. c4 d4 36. cxb5 Bxb5 37. Kf2 Kf6 38. Rc5 Bd3 39. a4 Bd6 40. Rc6 Ke5 41. g4 Kd5 42. Rc8 e3+ 43. Ke1 Bg3+ 44. Kd1 e2+ 45. Kd2 e1=Q+ 46. Kxd3 Qe3+ 47. Kc2 Be1 48. Kb2 Qd2+ 49. Rc2 Qb4 50. Rc4 Bc3+ 51. Kc2 Qa3 52. g5 Qb2+ 53. Kd1 Qd2# 0-1
+

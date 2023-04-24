@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BJVEnurl"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "midofox"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "16:35:47"]
+[WhiteElo "2044"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. Bb5 Nf6 5. d4 cxd4 6. Nxd4 Nxd4 7. Qxd4 b6 8. Bg5 Be7 9. O-O-O O-O 10. h4 a6 11. Be2 b5 12. g4 Bb7 13. Rhg1 b4 14. Nb1 Nxe4 15. Bxe7 Qxe7 16. Bf3 d5 17. g5 Rac8 18. h5 Nxg5 19. h6 e5 20. Qg4 f6 21. hxg7 Qxg7 22. Qxb4 h6 23. Qxb7 Qxb7 24. Bxd5+ Qxd5 25. Rxd5 Kh7 26. Ra5 Rc6 27. Nc3 Rfc8 28. Rd1 Nf3 29. Rd7+ Kg6 30. Ra7 Nd4 31. Kd2 Nf3+ 32. Ke3 Rxc3+ 33. bxc3 Rxc3+ 34. Ke4 f5+ 35. Kd5 Rxc2 36. R5xa6+ Kg5 37. Rg7+ Kf4 38. Rxh6 Rd2+ 39. Ke6 Rxf2 40. Rf7 Ke4 41. Rxf5 Nd4+ 42. Kd6 Nxf5+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BntbpkFB"]
+[Date "2021.03.01"]
+[White "luizrouanet"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "15:13:44"]
+[WhiteElo "2050"]
+[BlackElo "2066"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Bg4 5. Ne5 Bf5 6. cxd5 cxd5 7. Qb3 Bc8 8. e4 dxe4 9. Qxf7# 1-0
+

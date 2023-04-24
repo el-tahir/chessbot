@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hqbk1Hyk"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "halfouqaha"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "01:20:44"]
+[WhiteElo "1958"]
+[BlackElo "1897"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb8 7. e5 Ng8 8. d6 cxd6 9. exd6 Qf6 10. Nb5 Na6 11. Bc4 Qe5+ 12. Be3 Nf6 13. O-O b6 14. Re1 Kd8 15. Bxb6+ Nc7 16. Bxc7+ 1-0
+

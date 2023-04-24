@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KFT5PL6v"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "Edu_BS78"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "10:32:34"]
+[WhiteElo "1906"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. Nxe5 Bxc3 5. bxc3 Nxe4 6. Bb2 d6 7. Nf3 O-O 8. Bd3 d5 9. O-O c6 10. c4 Be6 11. Re1 Nc5 12. cxd5 Bxd5 13. Bf1 Nbd7 14. d4 Ne4 15. c4 Nxf2 16. Kxf2 Bxf3 17. Qxf3 Nf6 18. Rad1 Qc7 19. Bd3 Rad8 20. Kg1 Rfe8 21. d5 Qd6 22. Qf5 cxd5 23. Bxf6 Qxf6 24. Qxh7+ Kf8 25. Qh8# 1-0
+

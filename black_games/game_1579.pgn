@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kWmoLxtk"]
+[Date "2021.02.21"]
+[White "Makena2020"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.21"]
+[UTCTime "14:47:53"]
+[WhiteElo "1944"]
+[BlackElo "1950"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. Be3 Qb6 8. dxc5 Qxb2 9. Qc3 Qxc3+ 10. Nxc3 Nc6 11. Nd4 Bxc5 12. Nxc6 Bxe3 13. fxe3 bxc6 14. O-O Kd7 15. e4 Rf8 16. exd5 cxd5 17. Nb5 Ne7 18. Nd6 g6 19. Rab1 Nf5 20. Rb7+ Kc6 21. Rxf7 Rxf7 22. Nxf7 Rb8 23. a4 Rb2 24. c3 Rc2 25. Rf3 Ra2 26. Rf4 Ra3 27. c4 Rxa4 28. cxd5+ Kb5 29. Rxa4 Kxa4 30. d6 1-0
+

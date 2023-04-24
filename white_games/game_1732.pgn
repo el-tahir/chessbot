@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1afV4nIq"]
+[Date "2021.02.07"]
+[White "EltahirAmin"]
+[Black "MaiconMS"]
+[Result "0-1"]
+[UTCDate "2021.02.07"]
+[UTCTime "22:54:11"]
+[WhiteElo "1951"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 f6 6. Nf3 Bd6 7. fxe5 fxe5 8. Ng3 Be6 9. Be2 Nf6 10. O-O Nc6 11. Ng5 Qd7 12. Bh5+ g6 13. Rxf6 O-O-O 14. Rxe6 gxh5 15. Qxh5 Rdg8 16. Rf6 Be7 17. Rxc6+ Qxc6 18. Nf7 c4 19. Nxh8 Rxh8 20. Qxe5 Re8 21. Qf5+ Kb8 22. Bf4+ Ka8 23. Qxh7 cxd3 24. cxd3 Qc2 25. Qf7 Qc6 26. Rc1 Qd7 27. Rc7 Qd8 28. Qxe7 Rxe7 29. Rc4 a6 30. Bg5 b5 31. Bxe7 Qxe7 32. Rxd4 Qe5 33. Rd8+ Kb7 34. Kf2 Qxb2+ 35. Kf3 Qxa2 36. h4 a5 37. h5 a4 38. h6 a3 39. h7 Qf7+ 40. Nf5 Qxh7 41. Re8 Qh5+ 42. Ke3 Qxe8 0-1
+

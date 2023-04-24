@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VyseMBTE"]
+[Date "2020.11.26"]
+[White "chessinsilent"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.26"]
+[UTCTime "19:43:31"]
+[WhiteElo "2041"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. b3 Nc6 6. Bb2 Bg4 7. e3 Bxd1 8. Rxd1 e6 9. a3 Bd6 10. Bd3 O-O 11. Nf3 Rc8 12. O-O Qa5 13. b4 Qc7 14. h3 e5 15. dxe5 Nxe5 16. Nb5 Nxf3+ 17. gxf3 Qd7 18. Bxf6 gxf6 19. Nxa7 Rc3 20. Kg2 Kh8 21. Rh1 Rg8+ 22. Kf1 Qa4 23. Nb5 Qxd1# 0-1
+

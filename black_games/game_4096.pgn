@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m7UO2Fqj"]
+[Date "2020.10.23"]
+[White "Mikola62"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.23"]
+[UTCTime "17:54:41"]
+[WhiteElo "1909"]
+[BlackElo "1894"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 Nf6 5. a3 Bg4 6. Ne2 e6 7. d3 Bd6 8. O-O O-O 9. Qd2 Nc6 10. Ng3 Qe7 11. Nc3 Rac8 12. Ba2 Rfd8 13. Nb5 Bb8 14. c3 e5 15. a4 e4 16. d4 a6 17. Na3 Qd6 18. Qe3 h5 19. f4 h4 20. Nh1 Ne7 21. Nc2 Nf5 22. Qf2 Re8 23. Ne3 b5 24. axb5 axb5 25. Nxf5 Bxf5 26. Be3 b4 27. Qxh4 bxc3 28. bxc3 Rxc3 29. Rae1 Qa3 30. Bd2 Rc2 31. Bxd5 Nxd5 32. Bc1 Qc3 33. Ng3 Qxd4+ 34. Kh1 Bh7 35. Nh5 e3 36. Qg5 Bg6 37. Ba3 Qe4 38. Be7 Bxh5 39. Qxh5 Qxg2# 0-1
+

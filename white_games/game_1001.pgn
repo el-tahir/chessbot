@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zFsUmCuX"]
+[Date "2021.10.25"]
+[White "EltahirAmin"]
+[Black "BCGolem"]
+[Result "0-1"]
+[UTCDate "2021.10.25"]
+[UTCTime "00:42:37"]
+[WhiteElo "2049"]
+[BlackElo "2050"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C77"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 a6 5. Ba4 d6 6. d3 Be7 7. Bg5 h6 8. Be3 O-O 9. Qd2 b5 10. Bb3 Na5 11. O-O Nxb3 12. axb3 c6 13. Bxh6 Re8 14. Qg5 g6 15. Qg3 Nh5 16. Qh3 Bxh3 17. gxh3 Nf4 18. Kh1 Nxh3 19. Ne2 Bg5 20. Bxg5 Nxg5 0-1
+

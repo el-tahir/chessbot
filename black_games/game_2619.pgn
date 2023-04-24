@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DAjUqm8Y"]
+[Date "2020.12.15"]
+[White "qwerty55"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.15"]
+[UTCTime "10:30:45"]
+[WhiteElo "1910"]
+[BlackElo "1911"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. d3 c6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Bg4 5. a3 Nbd7 6. b3 e5 7. Bb2 Bd6 8. Nc3 O-O 9. Qd2 Re8 10. O-O e4 11. dxe4 dxe4 12. Nd4 c5 13. Ndb5 Be5 14. Nd6 Re6 15. Ndxe4 Nxe4 16. Bxe4 Bxc3 17. Qxc3 Nf6 18. Bxb7 Rb8 19. Bf3 Bh3 20. Rfd1 Qb6 21. Rd3 Rbe8 22. Rad1 h6 23. b4 Rxe2 24. Bxe2 Rxe2 25. Rd8+ Kh7 26. Qd3+ Re4 27. f3 cxb4+ 28. Bd4 Qxd8 29. fxe4 bxa3 30. Qxa3 Nxe4 31. Qd3 f5 32. Bxa7 Qa8 33. Qe3 Ng5 34. Qf2 Nf3+ 35. Kh1 Nd4+ 36. Kg1 Ne2+ 37. Qxe2 Qxa7+ 38. Qf2 Qb7 39. Re1 Qd5 40. Qe2 Bg4 41. Qe5 Qd2 42. c4 Bh3 43. Qe2 Qd4+ 44. Qe3 Qxc4 45. Kf2 Qc2+ 46. Re2 Qc6 47. Qf3 Qc5+ 48. Re3 Qc6 49. Qxc6 Bg4 50. Qe6 h5 51. Re5 h4 52. Rxf5 hxg3+ 0-1
+

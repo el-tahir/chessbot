@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N3MwmALF"]
+[Date "2021.02.20"]
+[White "Tinaeintracht"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.20"]
+[UTCTime "17:57:11"]
+[WhiteElo "2024"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Bf5 5. Bf4 e6 6. Nf3 Bc5 7. dxc5 1-0
+

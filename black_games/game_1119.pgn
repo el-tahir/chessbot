@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w1D7NQKn"]
+[Date "2021.10.15"]
+[White "Justlikemee"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "05:46:22"]
+[WhiteElo "2009"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. d4 Qc7 8. g3 Nd7 9. Nf3 Nb6 10. Bd3 Bg4 11. O-O O-O-O 12. Qc2 Nd5 13. a3 Rhe8 14. c4 Ne3 15. Bxe3 Rxe3 16. Nd2 Rde8 17. Rad1 Bxd1 18. Rxd1 h5 19. Rf1 h4 20. Ne4 hxg3 21. hxg3 f5 22. Nxd6+ Qxd6 23. Bxf5+ Kb8 0-1
+

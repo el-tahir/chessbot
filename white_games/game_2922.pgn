@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GbauMnv7"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "CarlosMagnussen"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "14:40:29"]
+[WhiteElo "1895"]
+[BlackElo "1831"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 f6 10. Nb5 cxd6 11. exd6 Qa5+ 12. Bd2 Qb6 13. Bc4 Bxd6 14. Qe2+ N8e7 15. O-O-O Nxf4 16. Nxd6+ Qxd6 17. Bxf4 Qxf4+ 18. Kb1 Qc7 19. Rhe1 Qd8 20. Qh5+ g6 21. Qf3 Rb8 22. Qxf6 Rf8 23. Qg7 b6 24. Qxh7 Bb7 25. Qxg6+ Rf7 26. Qxf7# 1-0
+

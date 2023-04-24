@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/itTZHrii"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "ErRadolovic"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "11:52:20"]
+[WhiteElo "1946"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bd3 cxd4 7. Nxd4 Nxe5 8. f4 Nxd3+ 9. Qxd3 a6 10. O-O Bc5 11. Be3 O-O 12. Rf3 Qb6 13. Rh3 f5 14. Na4 Qa7 15. Nxc5 Qxc5 16. Nxe6 Qc4 17. Nxf8 Kxf8 18. Qxc4 dxc4 19. Rd1 h6 20. Rd8+ Kf7 21. Rxc8 Nc6 22. Rc7+ 1-0
+

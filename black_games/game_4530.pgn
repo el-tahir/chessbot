@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jvDgjBAa"]
+[Date "2020.05.11"]
+[White "YuraRudenko1987"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "20:34:22"]
+[WhiteElo "1960"]
+[BlackElo "1979"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. f4 d6 5. Nf3 dxe5 6. fxe5 Bg4 7. c3 e6 8. Bd3 Be7 9. O-O O-O 10. Qe1 c5 11. Bc2 cxd4 12. cxd4 Bxf3 13. Rxf3 Qxd4+ 14. Kh1 Nd5 15. Rh3 g6 16. Bh6 Rc8 17. Nc3 Nxc3 18. bxc3 Qg4 19. Rf3 Nc6 20. Qe3 Na5 21. Raf1 Nc4 22. Qf2 Nxe5 23. Rxf7 Bc5 24. Rg7+ Kh8 25. Qf6 Nd7 26. Rxd7+ 1-0
+

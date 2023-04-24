@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jPzpoJkB"]
+[Date "2021.02.16"]
+[White "ReShana"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "16:16:51"]
+[WhiteElo "1970"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A60"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. d5 e6 3. c4 Nf6 4. Nc3 a5 5. e4 d6 6. Nf3 Be7 7. Bd3 O-O 8. O-O Nbd7 9. dxe6 fxe6 10. Re1 b6 11. a4 Bb7 12. Bc2 Qc7 13. Qd3 Rf7 14. Bg5 Raf8 15. Rad1 Ng4 16. Bxe7 Rxe7 17. e5 Ngxe5 18. Nxe5 Nxe5 19. Rxe5 g6 20. Ree1 Qc6 21. f3 Ref7 22. Qe4 Qd7 23. Qd3 Rxf3 24. gxf3 Rxf3 25. Qxd6 Qf7 26. Qxe6 Rf1+ 27. Rxf1 Qxe6 28. Rde1 Qg4+ 29. Kf2 Qg2+ 30. Ke3 Qxc2 31. Ne2 Qxb2 32. Rf4 Qb3+ 33. Kf2 Qxa4 34. Rc1 Qa3 35. Rc3 Qa1 36. Re3 Qh1 37. Kg3 Qg2+ 38. Kh4 Kg7 39. Rg4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7iWcmzmj"]
+[Date "2020.11.13"]
+[White "Pupon"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "10:02:32"]
+[WhiteElo "2010"]
+[BlackElo "2005"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bg4 5. O-O Qd7 6. b3 Bh3 7. Bb2 Bxg2 8. Kxg2 h5 9. Ne5 Qc8 10. Nd2 Nbd7 11. Ndf3 e6 12. c4 Be7 13. cxd5 exd5 14. Re1 Ne4 15. Qc2 h4 16. b4 hxg3 17. hxg3 Nxe5 18. Nxe5 Qh3+ 19. Kf3 Bg5 20. Rh1 Qf5+ 0-1
+

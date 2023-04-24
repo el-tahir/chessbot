@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WOGlTgOu"]
+[Date "2020.11.16"]
+[White "Tblrone"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "16:27:40"]
+[WhiteElo "1940"]
+[BlackElo "1954"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 Nd7 4. Nc3 e5 5. dxe5 Nxe5 6. exd5 Nf6 7. dxc6 Qb6 8. cxb7 Bxb7 9. Bb5+ Nc6 10. Nge2 Bb4 11. Qd3 O-O 12. Be3 Qc7 13. O-O-O Rfe8 14. Rhe1 Rad8 15. Nd4 Nxd4 16. Bxd4 Rxe1 17. Rxe1 h6 18. Qc4 Qf4+ 19. Kb1 Qxd4 20. Re8+ Nxe8 21. Bxe8 Qxc4 0-1
+

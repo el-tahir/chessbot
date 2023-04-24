@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qkKjXd78"]
+[Date "2020.11.09"]
+[White "EltahirAmin"]
+[Black "kuulas"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "15:11:55"]
+[WhiteElo "1916"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d3 d5 3. Be2 e5 4. Nf3 Nc6 5. d4 e4 6. Nfd2 f5 7. c3 Nf6 8. O-O Be7 9. f3 O-O 10. fxe4 fxe4 11. b3 cxd4 12. cxd4 Be6 13. Bb2 Qd7 14. Nc3 Ng4 15. Bxg4 Bxg4 16. Qe1 Bg5 17. Qg3 Nxd4 18. exd4 Bxd2 19. h3 Bh5 20. Ba3 Rxf1+ 21. Rxf1 e3 22. Qf4 h6 23. Qe5 Re8 24. Qxh5 1-0
+

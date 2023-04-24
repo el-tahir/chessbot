@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wSrgiG6a"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "MaxMT87"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "05:51:45"]
+[WhiteElo "2152"]
+[BlackElo "2155"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. exd5 cxd5 5. d4 Nc6 6. Be2 e6 7. O-O Bxf3 8. Bxf3 Be7 9. Re1 Bf6 10. Be3 Nge7 11. Qd2 Nf5 12. Re2 O-O 13. Rae1 Nfxd4 14. Bxd4 Nxd4 15. Re3 Nf5 16. R3e2 Rc8 17. g4 Nd4 18. Re3 Nxf3+ 19. Rxf3 Qa5 20. Rg3 Rc4 21. g5 Bxc3 22. bxc3 Rfc8 23. Ree3 Qxa2 24. Kg2 d4 25. cxd4 Rxc2 26. Qe1 Rc1 27. Qe2 R8c2 28. Qf3 Qb1 29. Qf4 1-0
+

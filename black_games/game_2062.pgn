@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IAVleGLM"]
+[Date "2021.01.05"]
+[White "numerodiecisiete"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.05"]
+[UTCTime "22:05:28"]
+[WhiteElo "1982"]
+[BlackElo "1935"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 Bg4 4. e3 e6 5. Be2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Qb3 Bxd2 9. Nbxd2 c5 10. Qxb7 Nbd7 11. cxd5 Rb8 12. Qa6 Rb3 13. axb3 1-0
+

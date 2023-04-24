@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RCEx8Nqx"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "NethmiGamage"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "19:37:29"]
+[WhiteElo "1933"]
+[BlackElo "1943"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C15"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Bg4 6. Qe2+ Ne7 7. Qb5+ Nbc6 8. Ne5 a6 9. Qxb7 Bxc3+ 10. bxc3 Nxe5 0-1
+

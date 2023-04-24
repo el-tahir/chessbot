@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ce422Huy"]
+[Date "2021.11.20"]
+[White "aboacer"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.20"]
+[UTCTime "21:31:44"]
+[WhiteElo "1945"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d6 3. Nf3 Nf6 4. d3 Bg4 5. Be2 Nbd7 6. O-O e5 7. fxe5 Nxe5 8. Nxe5 Bxe2 9. Qxe2 dxe5 10. Nc3 Bc5+ 11. Kh1 Qd7 12. h3 O-O-O 13. a3 h5 14. Be3 Bd4 15. Qf2 c5 16. Rab1 Ng4 17. Qxf7 Bxe3 18. Qxd7+ Rxd7 19. Nd5 Bg5 20. hxg4 hxg4+ 21. Kg1 Rxd5 22. exd5 Be3+ 23. Rf2 g3 24. Kf1 Bxf2 25. Ke2 Rh2 26. Kf3 Kd7 27. c4 g5 28. Rd1 g4+ 29. Kxg4 Rxg2 30. b4 cxb4 31. axb4 Rg1 32. Rd2 Be1 33. Re2 Bxb4 34. Rxe5 Bc5 35. Re4 g2 36. d4 Rd1 37. dxc5 g1=Q+ 38. Kf5 Qxc5 0-1
+

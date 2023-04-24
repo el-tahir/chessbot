@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ISyNOeuU"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "MJaxon20"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "13:07:48"]
+[WhiteElo "2010"]
+[BlackElo "2003"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 d5 8. Bxd5 Bb4 9. Qf3 Qe7 10. O-O c6 11. Bb3 Bxc3 12. bxc3 Nh4 13. Qe4 Bf5 14. Qf4 Be6 15. a4 Ng6 16. Qf3 O-O-O 17. Ba3 Qd7 18. c4 Nh4 19. Qe3 Nf5 20. Qf4 Qxd4 21. Qg5 Qh4 22. Qc1 Ngh6 23. c5 Bxb3 24. cxb3 Ng4 25. h3 Nxe5 26. Qe1 f6 27. Bb2 Nd4 28. Qa5 Kb8 29. Qe1 Qh5 30. f3 Qg6 31. Qf2 Nxb3 32. Rad1 Nd3 33. Qc2 Ndxc5 34. Qc4 Rxd1 35. Rxd1 Re8 36. Rb1 Qxb1+ 37. Kh2 Qf5 38. Ba3 Qd5 39. Qf4+ Qe5 40. Qg3 Qxg3+ 41. Kxg3 Kc7 42. Bb2 Nxa4 43. Bc3 Nxc3 44. h4 c5 45. h5 a5 46. Kf2 a4 47. g4 a3 48. h6 gxh6 49. Kg3 a2 50. Kh4 a1=Q 51. Kh5 1-0
+

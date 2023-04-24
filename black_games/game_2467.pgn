@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cYbCpPWa"]
+[Date "2020.12.19"]
+[White "HeadlessChicken"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "12:04:27"]
+[WhiteElo "2027"]
+[BlackElo "2009"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bb5 Bb4 7. O-O Nge7 8. a3 Bxc3 9. bxc3 O-O 10. Bg5 Qb6 11. a4 a6 12. Bd3 f6 13. Be3 Qc7 14. Bc5 Ng6 15. Bxf8 Kxf8 16. Qb3 b6 17. Qa3+ Kf7 18. Nd4 Bb7 19. f4 d5 20. f5 Nge5 21. fxe6+ Ke8 22. exd5 Nxd4 23. cxd4 Nxd3 24. Qxd3 Bxd5 25. Rae1 Ke7 26. Qxh7 Bxe6 27. Qxg7+ Kd6 1-0
+

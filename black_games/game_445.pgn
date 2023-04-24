@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pzmb3Uk2"]
+[Date "2022.05.23"]
+[White "Gaskarovius"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.23"]
+[UTCTime "23:40:56"]
+[WhiteElo "2001"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Bb5 Rc8 9. O-O e6 10. h3 Bh5 11. Bf4 Bd6 12. Bxd6 Qxd6 13. g4 Bg6 14. Ne5 O-O 15. Nxc6 bxc6 16. Bd3 Nf4 17. Bxg6 hxg6 18. Qf3 Nd5 19. Ne4 Qb4 20. h4 Qxd4 21. Rad1 Qxb2 22. h5 gxh5 23. gxh5 Nf6 24. Ng5 Qe5 25. Qg2 Nxh5 26. Qg4 g6 27. Rde1 Qf6 28. Re3 Nf4 29. Rf3 e5 30. Kh2 Kg7 31. Rh1 Rh8+ 32. Kg3 Qf5 33. Rg1 Qxg4+ 34. Kxg4 f5+ 35. Kg3 Kf6 36. Ne6 Kxe6 37. Re1 Rh3# 0-1
+

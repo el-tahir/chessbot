@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bBB4DSJq"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "Pavel73"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "14:19:52"]
+[WhiteElo "2005"]
+[BlackElo "1998"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 e5 6. Nc3 Qxd4 7. Qxd4 exd4 8. Nb5 Na6 9. Nf3 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 Bg4 12. Nfxd4 O-O-O 13. Rc1+ Kb8 14. Ke3 Nf6 15. Be2 Rhe8+ 16. Kd2 Bxe2 17. Rhe1 Bxb5 0-1
+

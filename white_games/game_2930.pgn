@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o8p3faXt"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "botvinnikDz"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "12:49:00"]
+[WhiteElo "1921"]
+[BlackElo "1914"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 c5 2. Bb2 Nf6 3. g3 d5 4. Bg2 e6 5. Nf3 Be7 6. O-O Nc6 7. Re1 O-O 8. d3 Qc7 9. e4 d4 10. Nbd2 e5 11. a4 a5 12. c3 Bg4 13. Rc1 dxc3 14. Rxc3 Qd7 15. Qa1 Nb4 16. Nxe5 Qc7 17. Nxg4 Nxg4 18. d4 cxd4 19. Rxc7 1-0
+

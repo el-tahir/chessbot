@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1oDXWN3F"]
+[Date "2020.10.30"]
+[White "jess_retana"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:12:37"]
+[WhiteElo "2078"]
+[BlackElo "2029"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Bg4 6. Qb3 b6 7. h3 Bh5 8. g4 Bg6 9. Bb5+ Nbd7 10. Ne2 e6 11. Bf4 Be7 12. O-O O-O 13. Nd2 Rc8 14. Ba6 Ra8 15. Bb7 Ne4 16. Bxa8 Qxa8 17. Nf3 Ndf6 18. Rfe1 h5 19. Ne5 Bh7 20. f3 Nd6 21. g5 Nfe8 22. Nd7 f6 23. Nxf8 Kxf8 24. h4 Nf5 25. Qc2 Kg8 26. gxf6 Nxh4 27. f7+ Kh8 28. fxe8=Q+ Qxe8 29. Qd1 Nxf3+ 30. Kf2 Be4 31. Ng3 Bh4 32. Rxe4 dxe4 33. Ke3 Qg6 34. Nxe4 Ng5 35. Nxg5 Bxg5 36. Qf3 Bxf4+ 37. Qxf4 Kg8 38. Rf1 Qe8 39. Qe5 Qg6 40. Rf3 Qh6+ 41. Qf4 Qxf4+ 42. Rxf4 Kh7 43. Ke4 Kg6 44. Ke5 h4 45. Rxh4 Kf7 46. Rg4 Kg8 47. Kxe6 Kf8 48. Rf4+ 1-0
+

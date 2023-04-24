@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LtrWUkem"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "daniel_popa"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "13:32:25"]
+[WhiteElo "1968"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be3 O-O 8. Qd2 Bg4 9. Be2 Re8 10. O-O-O b5 11. h3 Be6 12. g4 Bxa2 13. b3 Ba3# 0-1
+

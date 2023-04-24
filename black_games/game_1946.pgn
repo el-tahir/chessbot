@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CIuUtzQh"]
+[Date "2021.01.18"]
+[White "CountDrakula"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.18"]
+[UTCTime "16:55:25"]
+[WhiteElo "1941"]
+[BlackElo "1944"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 Nf6 5. fxe4 Bg4 6. Nf3 e6 7. Be3 Bb4 8. Qd2 Nbd7 9. Bd3 O-O 10. h3 Bxf3 11. gxf3 a5 12. a3 Bxc3 13. Qxc3 b5 14. Qxc6 b4 15. axb4 a4 16. Rxa4 Rc8 17. Qd6 Ne8 18. Qg3 Nb6 19. Ra1 g6 20. h4 Nc4 21. Bh6 Ng7 22. h5 Qxd4 23. hxg6 fxg6 24. Qf2 Qxb2 25. Rd1 Qxb4+ 26. Kf1 Ne5 27. Bxg7 Rxf3 28. Bxe5 Rxf2+ 29. Kxf2 Qc5+ 0-1
+

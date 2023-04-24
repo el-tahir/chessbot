@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SGdOCBHV"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "shigeru09"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "20:20:06"]
+[WhiteElo "1941"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nd7 4. d4 exd4 5. Nxd4 Ngf6 6. Bg5 Be7 7. Bc4 O-O 8. O-O Ne5 9. Bb3 c5 10. Nde2 a6 11. f4 Nc6 12. Qe1 Qc7 13. Qg3 Nh5 14. Qh4 Bxg5 15. Qxg5 Nf6 16. Nd5 Nxd5 17. Bxd5 Ne7 18. Bb3 b5 19. c4 Nc6 20. f5 h6 21. Qg3 Ne5 22. f6 g6 23. cxb5 axb5 24. Rf5 Kh7 25. Nf4 Bxf5 26. exf5 g5 27. Nd5 Qa7 28. Ne7 c4+ 29. Kh1 cxb3 30. a3 Qd4 31. h4 Qxh4+ 32. Qxh4 gxh4 33. Rd1 Rad8 34. Kh2 Ng4+ 35. Kh3 Nxf6 36. Kxh4 Rfe8 37. Nc6 Rc8 38. Nd4 Re4+ 39. Kh3 Rg8 40. Nf3 Rgg4 41. Rxd6 Rgf4 42. Rxf6 Re2 43. Rxf7+ Kg8 44. Rf6 Rxb2 45. Rxh6 Rc2 46. Ng5 b2 47. Rg6+ Kf8 48. Ne6+ Ke8 49. Nxf4 b1=Q 50. Rg8+ Kf7 51. Rg6 Qb3+ 52. Rg3 Qc4 53. Rg4 Qf1 54. Nh5 Rc3+ 55. Kh4 Qh1+ 56. Kg5 Rc6 57. Rh4 Qd1 58. Nf4 Qc1 59. Rh7+ 1-0
+

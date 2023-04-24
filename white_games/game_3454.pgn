@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2vMLDT5s"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "GrigoryMelekhoff1917"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "20:57:14"]
+[WhiteElo "1981"]
+[BlackElo "1999"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Bb4 7. exf6 Qxf6 8. Be2 Bxc3+ 9. bxc3 O-O 10. O-O d5 11. Rb1 b6 12. Bf3 c6 13. Ba3 Re8 14. Qd3 Bf5 15. Qa6 Bxc2 16. Rbe1 Nf4 17. Qb7 Reb8 18. Qd7 Bd3 19. Bd6 Rd8 20. Qxc6 Qxd6 21. Qa4 Bxf1 22. Kxf1 0-1
+

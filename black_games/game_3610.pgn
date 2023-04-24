@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CYKNGuut"]
+[Date "2020.11.07"]
+[White "BogaNet"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "09:45:55"]
+[WhiteElo "2000"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. c3 c6 2. d3 d5 3. h3 Nf6 4. g4 Bf5 5. gxf5 Qc8 6. Nd2 Qxf5 7. Bg2 e6 8. Ngf3 Bd6 9. Qa4 Nbd7 10. b4 O-O 11. b5 Ne5 12. Nxe5 Bxe5 13. Bb2 Rac8 14. Bf3 c5 15. Bg4 Nxg4 16. Qxg4 Qxg4 17. hxg4 f5 18. gxf5 exf5 19. Nf3 Bf6 20. O-O-O f4 21. c4 d4 22. Kc2 a6 23. a4 axb5 24. axb5 Ra8 25. Ra1 b6 26. Rxa8 Rxa8 27. Ra1 Re8 28. Kd1 g5 29. Ra6 Bd8 30. Bc1 g4 31. Ng1 g3 32. fxg3 fxg3 33. Bf4 g2 34. Ra7 Rf8 35. Bh2 Rf1+ 36. Kd2 Bg5+ 37. Kc2 Be3 38. Ra8+ Kg7 39. Be5+ Kh6 40. Nf3 Rxf3 41. Rg8 Rf2 42. Kd1 Rf1+ 43. Kc2 g1=Q 44. Rxg1 Rxg1 45. Bc7 Rg6 46. Kd1 Kg5 0-1
+

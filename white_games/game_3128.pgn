@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/oQJ0uxt3"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "Anonymous"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "19:34:48"]
+[WhiteElo "1951"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Nf6 3. e5 Ng8 4. f4 Bb7 5. Nf3 Bc8 6. d5 c5 7. Nc3 Nh6 8. d6 exd6 9. exd6 g6 10. Nb5 Ba6 11. Qe2+ Be7 12. Nc7+ Kf8 13. dxe7+ Kg7 14. exd8=Q Rxd8 15. Qe5+ Kf8 16. f5 Bb7 17. Bxh6+ Kg8 18. Qg7# 1-0
+

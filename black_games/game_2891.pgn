@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oHP1wNNG"]
+[Date "2020.11.25"]
+[White "Hosiwahosiwa09"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "00:44:12"]
+[WhiteElo "1869"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bb5 Bg4 7. O-O Rc8 8. h3 Bh5 9. g4 Bg6 10. Ne5 e6 11. Bg5 Bd6 12. Nxc6 bxc6 13. Ba4 O-O 14. Qe1 c5 15. dxc5 Bxc5 16. Ne2 Be7 17. f3 Ne8 18. Bxe7 Qxe7 19. Bxe8 Rfxe8 20. c3 Qb7 21. b3 Rc6 22. Nf4 Rec8 23. Nxg6 hxg6 24. Rc1 d4 25. cxd4 Rxc1 26. Qe2 R8c2 27. Qd3 Rxf1+ 28. Kxf1 Rxa2 29. d5 Qxd5 30. Qc3 Qd1+ 0-1
+

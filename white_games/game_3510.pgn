@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ct315fDh"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "aziz1963"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "09:58:03"]
+[WhiteElo "1941"]
+[BlackElo "1913"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Be7 8. Qf3 f6 9. Qd5 Nh6 10. Bxh6 Rf8 11. Bxg7 c6 12. Qe4 d5 13. exd6 Qxd6 14. Bxf8 Kxf8 15. O-O-O Qf4+ 16. Qxf4 Nxf4 17. g3 Ng6 18. Rhe1 Bf5 19. d5 b5 20. Bb3 a5 21. dxc6 Bb4 22. a3 Bxc3 23. bxc3 b4 24. cxb4 axb4 25. a4 Rc8 26. Rd6 Kg7 27. Red1 Ne5 28. c7 Rxc7 29. f4 Nc6 30. Rg1 Na5 31. Kb2 Nxb3 32. cxb3 Rc2+ 33. Ka1 Rxh2 34. g4 Bc2 35. g5 f5 36. Rg3 Be4 37. a5 Rh1+ 38. Kb2 Rb1+ 39. Ka2 Rf1 40. Rd7+ Kf8 41. Rh3 Rf2+ 42. Ka1 Rf1+ 43. Kb2 Rf2+ 44. Kc1 Rxf4 45. Rhxh7 Ke8 46. Rc7 Rf2 47. Rc8# 1-0
+

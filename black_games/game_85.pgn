@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/63uMcXDE"]
+[Date "2023.03.01"]
+[White "Gaetano2001"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "22:24:51"]
+[WhiteElo "1925"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 Bb7 3. Nc3 Nf6 4. d3 e6 5. Bg5 Be7 6. Qd2 O-O 7. Be2 d5 8. e5 Nfd7 9. Bxe7 Qxe7 10. d4 c5 11. Nb5 a6 12. Nd6 Ra7 13. c3 Nc6 14. a3 f6 15. Nxb7 Rxb7 16. Bxa6 Rc7 17. Bb5 fxe5 18. Bxc6 Rxc6 19. O-O e4 20. Ne1 Rf5 21. f3 exf3 22. Rxf3 Rxf3 23. Nxf3 e5 24. Re1 e4 25. Ng5 Rg6 26. Nh3 Qe6 27. Qe3 Rh6 28. Nf4 Qg4 29. h3 Qg5 30. Rf1 Nf6 31. Re1 Nh5 32. Nxh5 Qxe3+ 33. Rxe3 Rxh5 34. g4 Rg5 35. Kg2 Rg6 36. Kg3 Rc6 37. Kf4 Re6 38. dxc5 bxc5 39. b4 cxb4 40. axb4 h6 41. Kf5 Kf7 42. Re1 g6+ 43. Kf4 Rc6 44. Rc1 Ke6 45. Ke3 Ke5 46. Rc2 Rf6 47. Rf2 Rxf2 48. Kxf2 d4 49. cxd4+ Kxd4 50. b5 Kc5 51. b6 Kxb6 52. Ke3 Kc6 53. Kxe4 Kd6 54. h4 Ke6 55. Kf4 Kf6 56. g5+ hxg5+ 57. hxg5+ Kg7 58. Ke5 Kf7 59. Kd6 Kg7 60. Ke7 Kh7 61. Kf7 Kh8 62. Kxg6 Kg8 63. Kf6 Kh8 64. Kf7 Kh7 65. g6+ Kh8 66. g7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QgPbfzu4"]
+[Date "2020.05.11"]
+[White "EltahirAmin"]
+[Black "aquariusPP"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "10:33:00"]
+[WhiteElo "1950"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d4 cxd4 5. cxd4 Nc6 6. Bd3 Bd7 7. Nc3 a6 8. Bg5 e5 9. d5 Nd4 10. Nxd4 exd4 11. Ne2 Bg4 12. Qa4+ Bd7 13. Qxd4 Be7 14. O-O O-O 15. Rac1 Rc8 16. Kh1 Qa5 17. Bb1 Nxd5 18. Bxe7 Nxe7 19. Nf4 Bb5 20. Nh5 f6 21. Rfd1 Rxc1 22. Rxc1 Be2 23. Nf4 Bb5 24. Qxd6 Ng6 25. Ne6 Re8 26. Qd5 Bc6 27. Qxa5 1-0
+

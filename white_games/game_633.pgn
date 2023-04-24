@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Rea2KvYl"]
+[Date "2022.04.30"]
+[White "EltahirAmin"]
+[Black "KURA1234"]
+[Result "1-0"]
+[UTCDate "2022.04.30"]
+[UTCTime "04:01:42"]
+[WhiteElo "2097"]
+[BlackElo "2122"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C48"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d3 Bd7 6. Bg5 Be7 7. Qd2 h6 8. Be3 a6 9. Ba4 O-O 10. O-O-O b5 11. Bb3 Na5 12. Bxh6 gxh6 13. Qxh6 Nh7 14. Kb1 Nxb3 15. axb3 Bg5 16. Qh5 Qc8 17. Nxg5 Nxg5 18. Qxg5+ Kh8 19. Nd5 Qd8 20. Qh6+ Kg8 21. Nf6+ Qxf6 22. Qxf6 1-0
+

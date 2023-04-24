@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J3emCiCz"]
+[Date "2022.07.25"]
+[White "Kreuz_und_Querdenker"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.25"]
+[UTCTime "15:43:20"]
+[WhiteElo "2050"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Nf3 e6 7. c3 Bd6 8. h3 Bxf3 9. Qxf3 Nbd7 10. Bd3 Nb6 11. Bg5 Be7 12. Bf4 Nbd5 13. Bg5 Qb6 14. Qe2 O-O 15. O-O c5 16. c4 Nb4 17. d5 Nxd3 18. Qxd3 exd5 19. cxd5 Rad8 20. Qc3 Rxd5 21. Rac1 Rfd8 22. Rfe1 Rxg5 23. Rxe7 Qd6 24. Qc4 Qxe7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p5kr7BiA"]
+[Date "2020.11.20"]
+[White "EltahirAmin"]
+[Black "Ashrafhammad25"]
+[Result "0-1"]
+[UTCDate "2020.11.20"]
+[UTCTime "10:04:09"]
+[WhiteElo "1916"]
+[BlackElo "1902"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bd3 O-O 6. Be3 Bg4 7. Qd2 c5 8. O-O-O cxd4 9. Bxd4 e5 10. Be3 Nc6 11. h3 Bxf3 12. gxf3 Nd4 13. f4 Nh5 14. fxe5 dxe5 15. f4 Nxf4 16. Bxf4 exf4 17. Qxf4 Qb6 18. Qd2 Rac8 19. Bf1 Nf3 20. Qd3 Bxc3 21. bxc3 Ne5 22. Qd4 Qc7 23. Bg2 Rfd8 24. Qe3 Qa5 25. Rxd8+ Rxd8 26. Kb2 Nc4+ 0-1
+

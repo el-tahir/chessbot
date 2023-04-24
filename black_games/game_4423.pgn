@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L3XaNODo"]
+[Date "2020.05.12"]
+[White "Noname1987"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "22:21:03"]
+[WhiteElo "1965"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bd3 Bd6 7. Ne2 O-O 8. Ng3 Nd7 9. O-O Re8 10. Be3 Qc7 11. c3 Nb6 12. Qc2 g6 13. Kh1 Nd5 14. Ne4 Nxe3 15. fxe3 f5 16. Nf6+ Kf8 17. Nxe8 Kxe8 18. e4 f4 19. e5 Be7 20. Rxf4 c5 21. Raf1 f5 22. exf6 1-0
+

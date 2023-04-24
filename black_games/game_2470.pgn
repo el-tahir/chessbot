@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FMvj1447"]
+[Date "2020.12.19"]
+[White "Daud_Klimenkov"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "10:55:06"]
+[WhiteElo "1987"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+
+1. Nf3 e5 2. Nxe5 Nc6 3. d4 Nf6 4. Bg5 Be7 5. e3 d6 6. Nxc6 bxc6 7. Bd3 Rb8 8. b3 h6 9. Bh4 g5 10. Bg3 Bg4 11. f3 Be6 12. c4 d5 13. c5 Nh5 14. Be5 f6 15. Bg3 Nxg3 16. hxg3 Kf7 17. Qc2 Qg8 18. Kf2 g4 19. Nd2 Qg7 20. e4 Rbg8 21. f4 f5 22. exf5 Qxd4+ 23. Ke2 Bc8 24. Rh5 Bxc5 25. Rf1 Re8+ 26. Kd1 Re3 27. Be2 Rxe2 28. Kxe2 Ba6+ 29. Kd1 Bxf1 30. f6 Re8 31. Rxh6 Be2+ 32. Kc1 Qa1+ 33. Qb1 Qxb1+ 34. Kxb1 Bd3+ 35. Kb2 Bd4+ 36. Ka3 Bc5+ 37. Ka4 Rg8 38. Rh7+ Kxf6 39. Rxc7 Bb6 40. Rxc6+ Kf5 41. Nc4 Bxc4 42. bxc4 dxc4 43. Rxb6 axb6 44. Kb5 c3 45. Kxb6 c2 0-1
+

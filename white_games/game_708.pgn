@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EnSxr2hU"]
+[Date "2021.11.22"]
+[White "EltahirAmin"]
+[Black "Ziudsura"]
+[Result "1-0"]
+[UTCDate "2021.11.22"]
+[UTCTime "02:24:11"]
+[WhiteElo "2064"]
+[BlackElo "2064"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 d4 4. Ne2 d3 5. Nc3 dxc2 6. Qxc2 Bg4 7. Be2 Bxf3 8. Bxf3 e5 9. O-O Nf6 10. Rd1 Bb4 11. Ne2 O-O 12. d4 Qc7 13. Bg5 Be7 14. Rd2 Nbd7 15. Rad1 Rad8 16. Ng3 Rfe8 17. Nf5 h6 18. Bh4 Nf8 19. Bg3 Qc8 20. Bxe5 Ng6 21. Bg3 Rd7 22. Qb3 Red8 23. Bh4 Nh7 24. Nxe7+ Nxe7 25. Bh5 g6 26. Bxe7 Rxe7 27. Bxg6 Kg7 28. Bf5 Qc7 29. Rd3 Ng5 30. Rg3 Kf6 31. h4 Nxe4 32. Bxe4 Rxe4 33. Rf3+ Kg7 34. h5 Rde8 35. Qd3 Re1+ 36. Rxe1 Rxe1+ 37. Qf1 Rxf1+ 38. Kxf1 Qd6 39. Rd3 Qd5 40. b3 Qxh5 41. Rg3+ Kf6 42. Ke1 Ke6 43. Kd2 Kd5 44. Rd3 f5 45. Rf3 Qg5+ 46. Re3 Kxd4 47. Ke2 Qxe3+ 48. fxe3+ Ke4 49. g3 h5 50. a4 b5 51. a5 c5 52. a6 c4 53. Kd2 cxb3 54. Kc3 Kxe3 55. Kxb3 Kf3 56. Kb4 Kxg3 57. Kxb5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/28cMSGJl"]
+[Date "2021.01.12"]
+[White "EltahirAmin"]
+[Black "Aboalnaga"]
+[Result "1-0"]
+[UTCDate "2021.01.12"]
+[UTCTime "20:04:31"]
+[WhiteElo "1917"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 d6 6. Be3 Nf6 7. Bc4 O-O 8. Qd2 Nc6 9. O-O-O e5 10. Nb3 a6 11. f4 Ng4 12. Bg1 exf4 13. Qxf4 Bh6 14. Qxh6 Nxh6 15. h4 b5 16. Bd5 Bd7 17. h5 Kg7 18. hxg6 hxg6 19. Nd4 Rc8 20. Be3 Rh8 21. Rdf1 Nxd4 22. Bxh6+ Rxh6 23. Rxf7+ Kg8 24. Rxh6 Qg5+ 25. Rf4+ Kg7 26. g3 Qxh6 27. Kd1 Be8 28. Nb1 Qh1+ 29. Kd2 Qg2+ 30. Ke3 Nxc2+ 31. Kd3 Nb4+ 32. Kd4 Qd2+ 33. Nxd2 Nxd5 34. exd5 Bf7 35. Kd3 Bxd5 36. a3 Bc4+ 37. Nxc4 bxc4+ 38. Rxc4 Re8 39. Rc6 Re6 40. Rxa6 Kf6 41. a4 Kg5 42. a5 Kg4 43. Ra8 Kxg3 44. Rg8 Kf4 45. a6 Re7 46. Rxg6 Ra7 47. Rxd6 Rxa6 48. Rxa6 Ke5 49. Rc6 Kd5 50. Rc3 Kd6 51. b4 Kd7 52. b5 Kd6 53. b6 Ke5 54. b7 Kf4 55. b8=Q+ Kf3 56. Qb4 Kf2 57. Kd4 Ke2 58. Kd5 Kd2 59. Qb2+ Kd1 60. Rc1# 1-0
+

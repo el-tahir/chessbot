@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/ewDT2lWF"]
+[Date "2020.12.19"]
+[White "Asim59"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "17:21:42"]
+[WhiteElo "990"]
+[BlackElo "1994"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nh3 d5 3. Qf3 dxe4 4. Qf4 Nf6 5. Ng5 Nbd7 6. f3 exf3 7. gxf3 e5 8. Qf5 Nb6 9. Qxe5+ Be7 10. Qe3 O-O 11. Qb3 Be6 12. Nxe6 fxe6 13. Qxe6+ Kh8 14. b3 Nfd5 15. Bc4 Rf6 16. Qg4 Rg6 17. Qf5 Bh4+ 18. Kf1 Qe7 19. Rg1 Qe1# 0-1
+

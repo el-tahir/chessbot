@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OI7wqYxr"]
+[Date "2022.07.24"]
+[White "Uteukikuia2021"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.07.24"]
+[UTCTime "18:45:25"]
+[WhiteElo "1993"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A03"]
+[Termination "Normal"]
+
+1. f4 d5 2. e3 c5 3. Nf3 Nc6 4. b3 Nf6 5. Bb2 e6 6. Nc3 Be7 7. Ne2 a5 8. Ng3 a4 9. Bd3 axb3 10. axb3 Rxa1 11. Qxa1 Qd6 12. Ng5 h6 13. Nf3 b6 14. O-O Bb7 15. Ne5 O-O 16. Nxc6 Bxc6 17. Be5 Qd7 18. Qd1 Ne8 19. Qg4 Bf6 20. Nh5 Bxe5 21. fxe5 g6 22. Bxg6 fxg6 23. Qxg6+ Qg7 24. Nxg7 Rxf1+ 25. Kxf1 Nxg7 26. Qxh6 1-0
+

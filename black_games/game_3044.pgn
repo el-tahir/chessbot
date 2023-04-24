@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EniEhACC"]
+[Date "2020.11.19"]
+[White "MohammadLK"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2020.11.19"]
+[UTCTime "21:10:34"]
+[WhiteElo "1956"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bg4 4. e3 e6 5. Bd3 Bd6 6. c3 c6 7. Nbd2 O-O 8. h3 Bh5 9. Qc2 Na6 10. Ne5 Rc8 11. Ndf3 c5 12. Qd2 cxd4 13. exd4 Nd7 14. O-O f6 15. Ng4 Bxg4 16. hxg4 e5 17. dxe5 fxe5 18. Bg5 Qe8 19. Bf5 e4 20. Qxd5+ Kh8 21. Qxd6 exf3 22. Bxd7 fxg2 23. Bxe8 gxf1=Q+ 24. Rxf1 Rcxe8 25. Be3 Nb8 26. Qc7 Nc6 27. Qxb7 Ne5 28. Qe4 Nf3+ 29. Qxf3 Rxf3 30. Kg2 Rf7 31. Rd1 a5 32. Bb6 a4 33. Rd4 Ra8 34. a3 h6 35. c4 Rb7 36. c5 Kg8 37. Rc4 Kf7 38. Rf4+ Ke7 39. Re4+ Kd7 40. Rf4 Ke6 41. Re4+ Kd5 42. f3 g5 43. Kf2 Ra6 44. Ke3 Raxb6 45. cxb6 Rxb6 46. Rxa4 Rxb2 47. Ra6 Rb3+ 48. Kf2 Rb2+ 49. Kg3 Ra2 50. Rxh6 Rxa3 51. Rh5 Ra1 52. Rxg5+ Ke6 53. Rf5 Rg1+ 54. Kh4 Rh1+ 55. Kg5 Rh8 56. Kf4 Ra8 57. Re5+ Kf6 58. Re4 Rf8 59. g5+ Kg6+ 60. Kg4 Ra8 61. f4 Ra1 62. Re6+ Kf7 63. Rf6+ Ke7 64. Kh5 Rg1 65. Kg6 Ra1 66. f5 Ra8 67. Rf7+ Ke8 68. Kf6 Kd8 69. Kg7 Ke8 70. Rf8+ Ke7 71. Rxa8 Kd6 72. Ra7 Ke5 73. g6 Kxf5 74. Ra5+ Ke6 75. Re5+ Kxe5 76. Kf7 Kd5 77. g7 Kc4 78. g8=Q Kd4 1/2-1/2
+

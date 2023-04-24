@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xODctVZj"]
+[Date "2021.03.07"]
+[White "StanleyR-Tingzon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "18:13:03"]
+[WhiteElo "2019"]
+[BlackElo "2090"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 b6 2. c4 c5 3. Nc3 Bb7 4. d5 e6 5. e4 d6 6. dxe6 fxe6 7. Qh5+ g6 8. Qf3 Bg7 9. Bg5 Ne7 10. Bd3 Nd7 11. Qh3 Nf8 12. Nge2 Qd7 13. Nb5 a6 14. Nbc3 O-O-O 15. Nf4 e5 16. Qxd7+ Rxd7 17. Nfd5 Nxd5 18. exd5 h6 19. Be3 g5 20. Ne4 Ng6 21. Nxg5 hxg5 22. Bxg6 g4 23. Bf5 Kd8 24. Bxd7 Kxd7 25. O-O-O Bc8 26. h3 g3 27. fxg3 e4 28. Rdf1 Kc7 29. Rf7+ 1-0
+

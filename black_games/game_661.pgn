@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ADdHcW7i"]
+[Date "2022.04.28"]
+[White "janicetot"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:15:18"]
+[WhiteElo "2167"]
+[BlackElo "2100"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. c4 d5 2. cxd5 Nf6 3. Nf3 Nxd5 4. g3 Bg4 5. Bg2 Nc6 6. O-O Qd7 7. Nc3 O-O-O 8. b4 Nxc3 9. Qa4 Nxa4 0-1
+

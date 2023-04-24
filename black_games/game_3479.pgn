@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TvQdRLrY"]
+[Date "2020.11.08"]
+[White "galdeirsy"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "14:27:54"]
+[WhiteElo "1985"]
+[BlackElo "1998"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. e6 Nf6 6. Bd3 Qd6 7. exf7+ Bxf7 8. Nc3 Nbd7 9. Qf3 e5 10. Bf5 O-O-O 11. Bg5 Be7 12. O-O-O Rhf8 13. Qe2 Ne4 14. Bxe7 Qxe7 15. Nxe4 dxe4 16. Qxe4 Bd5 17. Qd3 Bxh1 18. f3 Kb8 19. Nh3 Bg2 20. Nf2 Nb6 21. Rg1 Rxd4 22. Qb3 Qg5+ 23. Kb1 Nc4 24. Qc3 Nd2+ 25. Ka1 Rfd8 26. a3 Nxf3 27. Rxg2 Rd1+ 28. Nxd1 Rxd1+ 29. Ka2 Qc1 30. Rf2 Qa1+ 31. Kb3 Nd4+ 32. Qxd4 Rxd4 33. c3 Rf4 34. Rxf4 exf4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pDl1o9wX"]
+[Date "2021.02.16"]
+[White "EltahirAmin"]
+[Black "serg480"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "15:19:20"]
+[WhiteElo "1988"]
+[BlackElo "2013"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 g6 5. Bd3 Bg7 6. Bg5 f6 7. Bh4 Qe7 8. Qd2 Nc6 9. O-O-O O-O-O 10. g4 g5 11. Bg3 h5 12. gxh5 Rxh5 13. h4 Nh6 14. hxg5 Rxh1 15. Rxh1 fxg5 16. Qxg5 Qxg5+ 17. Nxg5 Rh8 18. d5 Nd4 19. dxe6 Nxe6 20. Nxe6 dxe6 21. Nb5 a6 22. Nxc7 Ng4 23. Rxh8+ Bxh8 24. Nxe6 1-0
+

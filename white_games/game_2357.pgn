@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CJPbmRHV"]
+[Date "2020.12.21"]
+[White "EltahirAmin"]
+[Black "Ded_Ahmed"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "11:08:15"]
+[WhiteElo "1974"]
+[BlackElo "1894"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 b6 4. Be3 Bb7 5. Bc4 d6 6. Qf3 e6 7. Nh3 h6 8. Nf4 Qe7 9. O-O-O Nd7 10. Rhe1 a6 11. d5 e5 12. Nd3 Bf6 13. Qg3 g5 14. Nb4 Nc5 15. Nc6 Bxc6 16. dxc6 b5 17. Nd5 Qd8 18. Bxc5 dxc5 19. Nb6 Qb8 20. Bxf7+ Kxf7 21. Rd7+ Kg6 22. Nxa8 Qxa8 23. Qf3 Ne7 24. Rxc7 Qb8 25. Rd7 Rf8 26. Red1 h5 27. R7d6 g4 28. Qe3 Nxc6 29. Rxc6 Qe8 30. Rdd6 Qe7 31. h3 Kg7 32. hxg4 hxg4 33. f3 g3 34. f4 c4 35. Qxg3+ Kf7 36. f5 Rg8 37. Qh3 Bg5+ 38. Kb1 Qxd6 39. Rxd6 Bf6 40. Qh7+ Kf8 41. Rxf6+ Ke8 42. Qxg8+ Kd7 43. Qg6 Kc7 44. Rf7+ Kd8 45. Qg8# 1-0
+

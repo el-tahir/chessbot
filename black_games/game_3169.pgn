@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OWORkYEz"]
+[Date "2020.11.15"]
+[White "fira147"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "17:35:44"]
+[WhiteElo "1950"]
+[BlackElo "1949"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. Nc3 c6 2. d4 d5 3. Nf3 Nf6 4. Bg5 Bg4 5. Ne5 Bf5 6. g4 Nxg4 7. h3 Nxe5 8. dxe5 Qc7 9. f4 e6 10. Bg2 Be7 11. e4 Bxg5 12. exf5 Bh4+ 13. Kf1 Qb6 14. Qf3 Qxb2 15. Rb1 Qxc2 16. Rxb7 Nd7 17. Kg1 Nc5 18. Kh2 Nxb7 0-1
+

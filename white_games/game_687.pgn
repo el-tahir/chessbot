@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BEKyDC7t"]
+[Date "2021.12.16"]
+[White "EltahirAmin"]
+[Black "ddananic"]
+[Result "1/2-1/2"]
+[UTCDate "2021.12.16"]
+[UTCTime "05:11:15"]
+[WhiteElo "2116"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d6 3. d4 c6 4. Bd3 Ne7 5. Be3 g6 6. Qd2 Bg7 7. O-O-O O-O 8. Bh6 f6 9. Bxg7 Kxg7 10. h4 h6 11. g4 e5 12. g5 fxg5 13. hxg5 h5 14. Nh3 Bg4 15. Rdf1 Bf3 16. Rh2 Nd7 17. dxe5 Nxe5 18. Be2 Bxe2 19. Qxe2 Nf3 20. Rg2 d5 21. exd5 Nxd5 22. Ne4 Re8 23. Rg3 Nd4 24. Qd3 Nf5 25. Rf3 Qe7 26. Re1 b5 27. Nf4 Nxf4 28. Rxf4 Rad8 29. Qc3+ Kf8 30. Qh8+ Kf7 31. Qh7+ Kf8 32. Qxe7+ Rxe7 33. f3 Rde8 34. Kd2 a5 35. Nf6 Rxe1 36. Nd7+ Kg7 37. Nc5 R1e5 38. Nd3 Rd8 39. Kc3 b4+ 40. Kc4 Ne3+ 41. Kb3 c5 42. Nxe5 c4+ 43. Ka4 Nxc2 44. Rf7+ Kg8 45. Rc7 Rd5 46. Nxc4 Nd4 47. Ra7 Nxf3 48. Rxa5 Rxa5+ 49. Nxa5 Nxg5 50. Kxb4 h4 51. Nc4 h3 52. Ne3 h2 53. a4 h1=Q 54. Nc4 Qb7+ 55. Ka5 Ne6 56. b4 Kf7 57. Nb6 Ke7 58. Kb5 Kd8 59. a5 Nc7+ 60. Kc5 Qa6 61. Nd5 Nxd5 62. Kxd5 Qb5+ 63. Kd6 Qxb4+ 64. Kc6 Qxa5 65. Kb7 1/2-1/2
+

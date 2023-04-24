@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ox2zpWNG"]
+[Date "2020.10.29"]
+[White "EltahirAmin"]
+[Black "ndamus"]
+[Result "1-0"]
+[UTCDate "2020.10.29"]
+[UTCTime "13:40:49"]
+[WhiteElo "2017"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Be7 4. d4 Nf6 5. Bg5 exd4 6. Nxd4 O-O 7. Qd2 a6 8. Bd3 b5 9. Nce2 c5 10. Nf5 c4 11. Bh6 cxd3 12. Qg5 d2+ 13. Kf1 g6 14. Nf4 Bxf5 15. exf5 Ne4 16. Qg4 Bg5 17. Bxf8 Kxf8 18. Nd5 Nc6 19. h4 Bh6 20. Qxe4 Bg7 21. c3 Ne5 22. f4 Nc4 23. h5 Qe8 24. Qxe8+ Rxe8 25. hxg6 Ne3+ 26. Kf2 d1=Q 27. Raxd1 Nxd1+ 28. Kg3 Ne3 29. gxf7 Re4 30. Nxe3 Rxe3+ 31. Kg4 1-0
+

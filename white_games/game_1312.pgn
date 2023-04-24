@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BnHv8gkG"]
+[Date "2021.03.03"]
+[White "EltahirAmin"]
+[Black "Hmsr56"]
+[Result "0-1"]
+[UTCDate "2021.03.03"]
+[UTCTime "19:31:37"]
+[WhiteElo "2024"]
+[BlackElo "1999"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Qf6+ 7. Ke1 Ng6 8. Qf3 Qxd4 9. Be3 Qb4 10. Rb1 Nf6 11. Bd3 d6 12. h3 Ne5 13. Qe2 Nxd3+ 14. Qxd3 O-O 15. g4 Re8 16. g5 Nxe4 17. a3 Qc5 18. Bxc5 Nxc5+ 19. Qe2 Rxe2+ 20. Kxe2 Bf5 21. Kd2 Ne4+ 22. Nxe4 Bxe4 23. Rhe1 d5 24. h4 Rd8 25. Re3 c5 26. c3 b5 27. Rbe1 Kf8 28. h5 a6 29. Rg3 Ke7 30. g6 fxg6 31. hxg6 h6 32. Rf1 Rf8 33. Rxf8 Kxf8 34. Ke3 Ke7 35. Kf4 Kf6 36. b4 cxb4 37. axb4 Bxg6 38. Rd3 Bxd3 0-1
+

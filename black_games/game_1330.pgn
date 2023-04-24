@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WfQsbHjG"]
+[Date "2021.03.02"]
+[White "Mabuzz"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.02"]
+[UTCTime "13:16:48"]
+[WhiteElo "2034"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Nf3 e6 7. Be2 Bd6 8. Be3 O-O 9. Qd2 Na6 10. a3 c5 11. dxc5 Nxc5 12. O-O-O Nce4 13. Nxe4 Nxe4 14. Qd4 Bf5 15. g4 Bg6 16. h4 Qc7 17. Bd3 f5 18. h5 Bf7 19. gxf5 exf5 20. h6 Bg6 21. hxg7 Qxg7 22. Bc4+ Kh8 23. Rdg1 Qxd4 24. Bxd4+ Nf6 25. Rxg6 Bf4+ 26. Kb1 Rac8 27. Rxf6 1-0
+

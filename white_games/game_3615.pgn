@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/044EdpQv"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "diverspongers"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "20:22:51"]
+[WhiteElo "1961"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Qd5 5. Ng3 Nf6 6. c4 Bb4+ 7. Bd2 Qa5 8. Nf3 O-O 9. Bxb4 Qxb4+ 10. Nd2 Qxb2 11. Be2 Qxd4 12. O-O Nc6 13. Rb1 e5 14. Nf5 Bxf5 15. Nf3 Qxd1 16. Rbxd1 Rfd8 17. Rb1 b6 18. c5 Bxb1 0-1
+

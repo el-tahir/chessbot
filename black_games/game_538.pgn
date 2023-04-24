@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pb5NtQcT"]
+[Date "2022.05.10"]
+[White "Nicobustamante2020"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "01:57:12"]
+[WhiteElo "2055"]
+[BlackElo "2092"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4 Nf6 8. Ne5 e6 9. Qe2 Bd6 10. O-O Qc7 11. d4 O-O 12. f4 Rd8 13. c3 b6 14. Be3 Bb7 15. g4 c5 16. g5 Nd5 17. Bxd5 Bxd5 18. Qh5 g6 19. Qh6 Bxe5 20. fxe5 Rf8 21. Rf4 cxd4 22. cxd4 Qc2 23. Rh4 Qg2# 0-1
+

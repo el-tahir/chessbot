@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vmDHrWtO"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "boreconstrictor"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "20:08:21"]
+[WhiteElo "1987"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. Rb1 Nc6 7. Be3 a6 8. Be2 b5 9. a3 Qb6 10. O-O Be7 11. Qd2 h6 12. b4 cxb4 13. axb4 Bxb4 14. Nh4 g5 15. Nf3 Bb7 16. Nxg5 hxg5 17. Bxg5 Be7 18. f4 Nxd4 19. Kh1 Nxe2 20. Nxe2 Bxg5 21. fxg5 Nxe5 22. Qf4 Qc7 23. Nd4 O-O-O 24. Rbe1 Ng4 25. Qxc7+ Kxc7 26. Rxf7+ Kb8 27. h3 e5 28. Ne6 Rd6 29. Nc5 Bc8 30. g6 Rxg6 31. Kg1 Nh6 32. Re7 e4 33. Rd1 Rhg8 34. g4 Rd6 35. Nxe4 Re6 36. Rxe6 Bxe6 37. Nc5 Bc8 38. Rxd5 Rg6 39. Ne4 Nf7 40. Rf5 Bxf5 41. Ng3 Bxc2 42. Kf2 Nd6 43. Kf3 a5 44. h4 a4 45. h5 Rg8 46. Kf4 a3 47. g5 a2 48. h6 a1=Q 49. Nh5 Qd4+ 50. Kf3 Rf8+ 51. Kg3 Qe3+ 52. Kg4 Qf3+ 53. Kh4 Bd1 54. h7 Qg4# 0-1
+

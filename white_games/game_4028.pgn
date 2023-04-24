@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7NMgGd0F"]
+[Date "2020.10.25"]
+[White "EltahirAmin"]
+[Black "badri_raghavan"]
+[Result "0-1"]
+[UTCDate "2020.10.25"]
+[UTCTime "16:07:54"]
+[WhiteElo "1965"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 f5 5. f4 fxe4 6. dxe4 Nc6 7. Nf3 Bd6 8. fxe5 Bxe5 9. Ng3 Bxg3+ 10. hxg3 Nf6 11. e5 Ng4 12. Bf4 O-O 13. Qd2 Qe7 14. Bd3 h6 15. O-O-O Ncxe5 16. Nxd4 Nxd3+ 17. Qxd3 c5 18. Qc4+ Qf7 19. Qxc5 Qxa2 20. Nb3 Be6 21. Rh4 Bxb3 22. Rxg4 Be6 23. Rxg7+ Kxg7 24. Qe5+ Kh7 25. Qe4+ Bf5 26. Rd7+ Kg6 27. Qe7 Qf7 28. Qd6+ Qf6 29. Qxf6+ Rxf6 30. Rxb7 Rc6 31. c3 Rac8 32. Rd7 Bxd7 0-1
+

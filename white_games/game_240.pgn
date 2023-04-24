@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DIXjeXrM"]
+[Date "2022.10.07"]
+[White "EltahirAmin"]
+[Black "Jeutankule-Assek"]
+[Result "1/2-1/2"]
+[UTCDate "2022.10.07"]
+[UTCTime "17:19:16"]
+[WhiteElo "2010"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be7 6. Bg5 O-O 7. Bd3 Nbd7 8. O-O Ne5 9. Kh1 Nxd3 10. cxd3 h6 11. Be3 Ng4 12. Bd2 Ne5 13. Be3 c6 14. h3 Bg5 15. f4 Bxh3 16. fxg5 Qd7 17. Qe2 Bg4 18. Qf2 hxg5 19. Bxg5 f6 20. Bf4 Kf7 21. Bxe5 dxe5 22. Nf5 Rh8+ 23. Kg1 Bxf5 24. Qxf5 Qxd3 25. Rad1 Qe3+ 26. Rf2 Rad8 27. Rd7+ Rxd7 28. Qxd7+ Kg6 29. Nd1 Qe1+ 30. Rf1 Rh1+ 31. Kxh1 Qxf1+ 32. Kh2 Qf4+ 33. g3 Qxe4 34. Nf2 Qe2 35. Qg4+ Qxg4 36. Nxg4 Kf5 37. Ne3+ Ke4 38. Nc4 Kd5 39. Na5 b6 40. Nb3 e4 41. Kg2 c5 42. Kf2 f5 43. Ke3 g6 44. Nd2 b5 45. b3 a5 46. g4 c4 47. gxf5 gxf5 48. bxc4+ bxc4 49. Nb1 Kc5 50. a3 c3 51. Nxc3 Kc4 52. Nb1 Kb3 53. Kf4 Kb2 54. Kxf5 e3 55. Kf4 e2 56. Nd2 e1=Q 57. Nc4+ Kb3 58. Nxa5+ Qxa5 59. Kg3 Qxa3 60. Kf2 Qb2+ 61. Ke1 Kc3 62. Kf1 Kd3 63. Kg1 Ke3 64. Kh1 Kf3 65. Kg1 Qf2+ 66. Kh1 Qe2 67. Kg1 Qd2 68. Kh1 Kg3 69. Kg1 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cDxkB51C"]
+[Date "2020.11.15"]
+[White "ChristianAbellera"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:35:28"]
+[WhiteElo "1956"]
+[BlackElo "1951"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c4 cxd4 7. Nxd4 Bg6 8. O-O Nc6 9. cxd5 Qxd5 10. Be3 Bc5 11. Nc3 Qd7 12. Bb5 Bb6 13. Qa4 Rc8 14. Nxc6 bxc6 15. Ba6 Rc7 16. Rad1 Qe7 17. Nb5 Nh6 18. Nxc7+ Qxc7 19. Rc1 O-O 20. Bxb6 axb6 21. Rxc6 Qxe5 22. Rxb6 Ng4 23. g3 Qh5 24. h4 Qd5 25. Bb7 Qe5 26. Rb5 Qe2 27. Rb3 Rd8 28. Bf3 Qe5 29. Qxg4 h6 30. Re3 Qxb2 31. Rxe6 Rd4 32. Re8+ Kh7 33. Qc8 Bc2 34. h5 Rd8 35. Qxd8 g6 36. Rh8+ Qxh8 37. Qd2 Qg7 38. Qxc2 Qg8 39. Qd2 Kh8 40. Qe3 Qg7 41. Qe5 1-0
+

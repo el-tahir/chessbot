@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vstSyCXQ"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "Pelechess"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "14:41:09"]
+[WhiteElo "1988"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B44"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. Bd3 a6 7. c4 Bb4+ 8. Nc3 O-O 9. a3 Bxc3+ 10. bxc3 Ne5 11. O-O d5 12. cxd5 exd5 13. f4 Nxd3 14. Qxd3 dxe4 15. Qe2 Bg4 16. Qb2 b5 17. h3 Bc8 18. Rad1 Qc7 19. Rd2 Nd5 20. Bf2 e3 21. Bxe3 Nxe3 22. Re1 Nc4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FAeY6CyV"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "M_Karimipour"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "09:05:34"]
+[WhiteElo "1927"]
+[BlackElo "1950"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Time forfeit"]
+
+1. f4 c6 2. Nf3 d5 3. b3 Bg4 4. Bb2 e6 5. h3 Nf6 6. hxg4 Nxg4 7. e4 Qb6 8. Qe2 dxe4 9. Ne5 Nf6 10. Nc3 Qd4 11. Na4 Qb4 12. a3 Qa5 13. Bc3 Qc7 14. Qe3 b6 15. O-O-O Bxa3+ 16. Kb1 Qe7 17. g4 b5 18. Nb2 Bc5 19. Bd4 Bxd4 20. Qxd4 c5 21. Bxb5+ Kf8 22. Qf2 g6 23. Nbc4 a6 24. Ba4 Nbd7 25. Rhf1 Nxe5 26. Nxe5 c4 27. Nxc4 Nxg4 28. Qd4 Qf6 29. Qd6+ Kg7 30. Ne5 Nxe5 31. fxe5 Qd8 32. Qc6 Qd5 33. Qc7 Rhf8 34. Bc6 Qc5 35. Qd6 Qxd6 36. exd6 Rad8 37. Bxe4 Rxd6 38. d4 f5 39. Bd3 Kf6 40. Bc4 Rfd8 41. c3 g5 42. Rh1 Kg6 43. Rde1 1-0
+

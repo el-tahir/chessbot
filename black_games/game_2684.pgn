@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O1ZWBMpr"]
+[Date "2020.12.12"]
+[White "OLIVERWESTSCOT"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "16:09:01"]
+[WhiteElo "1877"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 c5 4. Nf3 Nc6 5. O-O Bg4 6. Nbd2 Qd7 7. Re1 Bh3 8. e4 Bxg2 9. Kxg2 h5 10. Kg1 h4 11. Nxh4 Rxh4 12. gxh4 e6 13. Nf3 Bd6 14. Bg5 Ke7 15. Bxf6+ gxf6 16. Kh1 Rh8 17. Rg1 Ne5 18. Nxe5 Bxe5 19. Rg2 Rxh4 20. Rb1 Qd6 21. Qg1 a5 22. Rf1 b5 23. b3 f5 24. exf5 exf5 25. Re1 f4 26. Rg4 Rh3 27. Rxf4 Kf8 28. Rxe5 Qxe5 29. Rg4 Qh8 30. Qg2 Qa1+ 31. Qg1 Qh8 32. Rg2 d4 33. Qe1 Qf6 34. Qe4 Rf3 35. Qa8+ Ke7 36. Qb7+ Ke6 37. Qc6+ Ke5 38. Qxc5+ Kf4 39. Qc7+ Kf5 40. Qc5+ Ke6 41. Qc6+ Ke5 42. Qxf6+ Kxf6 43. h4 Rh3+ 44. Rh2 Rf3 45. h5 Kg7 46. h6+ Kh7 47. Kg2 Rf6 48. Rh5 Rg6+ 49. Kf1 Rf6 50. Rxb5 Kxh6 51. Rxa5 Rc6 52. Rd5 Rxc2 53. a4 Rb2 54. Rb5 Kg6 55. Kg2 Rd2 56. Kf3 Rxd3+ 57. Ke4 Rd2 58. Rd5 Rxf2 59. Kxd4 f5 60. a5 Rd2+ 61. Kc4 Ra2 62. Kb4 f4 63. Rd6+ Kg5 64. a6 f3 65. Rd5+ Kg4 66. Ra5 Re2 67. a7 Re4+ 68. Ka3 f2 69. a8=Q Rf4 70. Qg8+ Kf3 71. Qc8 f1=Q 72. Qc3+ Kg2 73. Ra4 1-0
+

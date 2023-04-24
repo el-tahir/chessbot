@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L6p2EMKD"]
+[Date "2022.05.04"]
+[White "EltahirAmin"]
+[Black "themanp15"]
+[Result "0-1"]
+[UTCDate "2022.05.04"]
+[UTCTime "01:44:37"]
+[WhiteElo "2059"]
+[BlackElo "2106"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 g6 4. d4 Bg7 5. Bd3 d6 6. Be3 e6 7. Qd2 Ne7 8. O-O-O Nd7 9. Bh6 Bxh6 10. Qxh6 Nf6 11. h3 Rg8 12. g4 Qd7 13. g5 Nh5 14. Qxh7 O-O-O 15. Be2 Rdf8 16. Nh4 Rh8 17. Qxh8 Rxh8 18. d5 exd5 19. Bg4 Nf5 20. Nxf5 Kb8 21. Ng3 Qe7 22. exd5 Qxg5+ 23. Kb1 Nxg3 24. fxg3 f5 25. Be2 Qxg3 26. Rdg1 Qf2 27. Rxg6 Bxd5 28. Nxd5 Qxe2 29. Rg7 Rxh3 30. Rc1 Qe5 31. Rg8+ Kb7 32. Nc3 f4 33. a3 f3 34. Rf8 Qe3 35. Rf1 d5 36. Nxd5 Qe2 37. Rc1 f2 38. Nf4 f1=Q 39. Rxf1 Qxf1+ 40. Ka2 Qc4+ 41. b3 Qxc2+ 42. Ka1 Rh1# 0-1
+

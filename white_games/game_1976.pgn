@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d4dw0c1n"]
+[Date "2021.01.14"]
+[White "EltahirAmin"]
+[Black "robert33a"]
+[Result "0-1"]
+[UTCDate "2021.01.14"]
+[UTCTime "10:52:34"]
+[WhiteElo "1922"]
+[BlackElo "1878"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nc3 d6 4. d4 Bb4 5. dxe5 Nc6 6. exd6 Bxd6 7. Bc4 Qe7 8. Bg5 f6 9. Bh4 Bg4 10. Nd5 Qd7 11. Qe2 Nd4 12. Qe3 Nxc2+ 0-1
+

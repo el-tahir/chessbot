@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qdqDKBMj"]
+[Date "2021.02.19"]
+[White "Compay93"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.19"]
+[UTCTime "18:38:44"]
+[WhiteElo "1889"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 e6 3. d5 exd5 4. exd5 Qe7+ 5. Be2 Nd8 6. Nf3 d6 7. O-O Bg4 8. Re1 Qd7 9. Bb5+ 1-0
+

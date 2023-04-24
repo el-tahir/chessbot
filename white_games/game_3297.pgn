@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p1a6WnLH"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "Danilka28"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "11:17:53"]
+[WhiteElo "1988"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 b6 2. d4 Bb7 3. c4 e6 4. Nf3 Nf6 5. Be2 d5 6. O-O dxc4 7. Nc3 Nc6 8. Bxc4 Bd6 9. e4 Nd7 10. Bg5 f6 11. Bh4 e5 12. dxe5 Ncxe5 13. Nxe5 Nxe5 14. Bb3 Qe7 15. f4 Ng6 16. Bg3 O-O-O 17. Qc2 Rhe8 18. Rae1 Ba6 19. Rf2 Bc5 20. Kh1 Bxf2 21. Bxf2 Nxf4 22. g3 Nd3 23. Nd5 Rxd5 24. Bxd5 Nxe1 25. Bxe1 Bb7 26. Bc6 Bxc6 27. Qxc6 Qxe4+ 0-1
+

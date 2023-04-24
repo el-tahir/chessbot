@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Sqrgnj5b"]
+[Date "2021.01.23"]
+[White "EltahirAmin"]
+[Black "Bazilo"]
+[Result "1-0"]
+[UTCDate "2021.01.23"]
+[UTCTime "16:57:37"]
+[WhiteElo "1969"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Bd6 8. Ne5 Nf6 9. Nxg6 hxg6 10. Bg5 Nbd7 11. Qf3 Qb6 12. O-O-O a5 13. Qe2 a4 14. Bxg6 O-O 15. Bd3 a3 16. b3 Qxd4 17. Bh7+ Nxh7 18. Rxd4 Bc5 19. Rxd7 Nxg5 20. Qh5 Nh7 21. Qxc5 1-0
+

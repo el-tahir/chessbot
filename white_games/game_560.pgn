@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mpa822uP"]
+[Date "2022.05.09"]
+[White "EltahirAmin"]
+[Black "jvg"]
+[Result "1-0"]
+[UTCDate "2022.05.09"]
+[UTCTime "04:09:15"]
+[WhiteElo "2063"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 e5 4. Nf3 Nbd7 5. Bg5 Be7 6. Bd3 O-O 7. Qd2 c6 8. O-O-O Qc7 9. h4 b5 10. g4 a5 11. Rdg1 a4 12. Nb1 b4 13. Bxf6 Nxf6 14. g5 Nd7 15. Qe2 b3 16. a3 bxc2 17. Bxc2 c5 18. d5 Ba6 19. Qe3 Rab8 20. h5 Qb6 21. Kd1 Qxb2 22. g6 fxg6 23. hxg6 h6 24. Rxh6 Qxb1+ 25. Bxb1 Rxb1+ 26. Kc2 Rxg1 27. Nxg1 gxh6 28. Qxh6 Rxf2+ 29. Kc3 Nf6 30. g7 Nh7 31. Qe6+ Rf7 32. Nf3 Kxg7 33. Nxe5 Ng5 34. Qg6+ Kf8 35. Nxf7 Nxf7 36. Qe6 Ne5 37. Qf5+ Ke8 38. Qh5+ Kd8 39. Qd1 Nc4 40. Qxa4 Bf6+ 41. Kc2 Ne3+ 42. Kd2 Nf1+ 43. Ke1 Bd3 44. Qa8+ Ke7 45. Qc6 Bc3+ 46. Kf2 Bd4+ 47. Kg2 Ne3+ 48. Kh3 Nc4 49. Qc7+ Kf6 50. Qd8+ Ke5 51. Qe7+ Kf4 52. a4 Ke3 53. Kg4 Kd2 54. Kf5 Ne5 55. Qxd6 Ke3 56. Qxe5 Bxe5 57. Kxe5 Bxe4 58. d6 c4 59. d7 c3 60. d8=Q c2 61. Qd4+ Kf3 62. Qxe4+ Kf2 63. Qxc2+ Kf3 64. a5 Ke3 65. a6 1-0
+

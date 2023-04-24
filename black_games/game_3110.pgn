@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rWZY2tEB"]
+[Date "2020.11.17"]
+[White "glebmai"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "12:27:14"]
+[WhiteElo "1899"]
+[BlackElo "1969"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c6 2. g3 d5 3. Bg2 Nf6 4. Ne2 Bg4 5. O-O Bxe2 6. Qxe2 e5 7. b3 Bd6 8. Bb2 Nbd7 9. d4 e4 10. Nd2 h5 11. c4 h4 12. c5 Bc7 13. f4 hxg3 14. hxg3 Nh5 15. Kf2 Nxg3 16. Kxg3 Qh4# 0-1
+

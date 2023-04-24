@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/90eiJXYO"]
+[Date "2021.11.11"]
+[White "EltahirAmin"]
+[Black "Karam_Tal"]
+[Result "0-1"]
+[UTCDate "2021.11.11"]
+[UTCTime "13:18:41"]
+[WhiteElo "2037"]
+[BlackElo "2034"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 cxd4 5. Qxd4 Nf6 6. Bc4 Bg7 7. Bg5 O-O 8. Qd2 Nc6 9. Bh6 Bg4 10. Bxg7 Kxg7 11. O-O-O Qa5 12. h3 Bxf3 13. gxf3 Ne5 14. Bb3 Nxf3 15. Qf4 Qg5 16. Qxg5 Nxg5 17. h4 Ngxe4 18. Nd5 0-1
+

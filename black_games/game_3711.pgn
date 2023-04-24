@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bI7dnyik"]
+[Date "2020.11.04"]
+[White "SheridanAlisa"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "17:58:10"]
+[WhiteElo "2040"]
+[BlackElo "2050"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. c3 Nc6 8. Qg3 cxd4 9. cxd4 Bb4+ 10. Nbc3 Bf8 11. O-O Nge7 12. Bg5 Qc7 13. Rac1 Nf5 14. Qd3 Be7 15. Bxe7 Qxe7 16. g4 Nh4 17. Nb5 O-O 18. Nd6 Nb4 19. Qg3 Ng6 20. a3 Nc6 21. f4 f6 22. Qb3 fxe5 23. dxe5 Rab8 24. Qd3 Qh4 25. Qg3 Qd8 26. b4 Qb6+ 27. Kg2 Nd4 28. Nc3 Rbc8 29. h4 Rxc3 30. Rxc3 Ne2 31. Qe3 Nxc3 32. Qxc3 Nxf4+ 33. Kg3 Ne2+ 0-1
+

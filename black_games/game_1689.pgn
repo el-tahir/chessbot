@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/62SWkQ3i"]
+[Date "2021.02.11"]
+[White "trigo_gas21"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.11"]
+[UTCTime "21:08:14"]
+[WhiteElo "1962"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Bf5 4. exf5 1-0
+

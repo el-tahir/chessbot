@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uIB2kA01"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "smartbook"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "09:19:48"]
+[WhiteElo "2013"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d6 4. d4 Bd7 5. Bd3 cxd4 6. Nxd4 Nc6 7. Nb3 Nf6 8. O-O Be7 9. f4 O-O 10. Be3 d5 11. exd5 exd5 12. Nd4 Ng4 13. Nxc6 bxc6 14. Bf2 Nxf2 15. Rxf2 Bc5 16. Qf3 Bxf2+ 17. Qxf2 Qb6 18. Rf1 Qxb2 19. Kh1 Qxc3 20. Qh4 g6 21. f5 Qg7 22. f6 Qh8 23. Qg5 Rfe8 24. h4 Re6 25. h5 Rae8 26. c4 Re5 27. Qg3 Rxh5+ 28. Kg1 Rhe5 29. cxd5 cxd5 30. a3 R5e6 31. Qf4 h5 32. g3 Bc6 33. Bxg6 Rxf6 34. Qxf6 Qxf6 35. Rxf6 fxg6 36. Rxg6+ Kf7 37. Rxc6 Re5 38. Rc7+ Kf6 39. Rxa7 d4 40. Rd7 Re4 41. Kf2 Ke5 42. Kf3 Re3+ 43. Kf2 Rxa3 44. Re7+ Kd5 45. Ke2 Kc4 46. Kd2 Ra2+ 47. Kc1 Kd3 48. Kb1 Rg2 49. Re1 Rxg3 50. Rd1+ Ke4 51. Rh1 Kd5 52. Re1 Rg5 53. Rc1 h4 54. Kb2 h3 55. Ra1 Rg2+ 56. Kb1 h2 57. Ra2 Rg1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2qg1wiYe"]
+[Date "2020.12.17"]
+[White "EltahirAmin"]
+[Black "DenizGungor_Ford"]
+[Result "0-1"]
+[UTCDate "2020.12.17"]
+[UTCTime "14:38:49"]
+[WhiteElo "1942"]
+[BlackElo "1950"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qb6 11. Nb5 Kd8 12. f5 Ne5 13. Bf4 f6 14. Qd5 a6 15. Bxe5 axb5 16. Bg3 h5 17. Bxb5 h4 18. Bf4 Nh6 19. c4 Ra5 20. a4 Ng4 21. O-O-O Nf2 22. c5 Qa7 23. Qf7 Nxh1 24. Re1 Qxc5+ 25. Kb1 Bxd6 26. Bxd6 Qxd6 27. Rd1 Qxd1+ 28. Ka2 Rxb5 0-1
+

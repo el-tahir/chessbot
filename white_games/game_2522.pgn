@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f5ZRdryQ"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "Tangamo"]
+[Result "0-1"]
+[UTCDate "2020.12.18"]
+[UTCTime "10:12:56"]
+[WhiteElo "1956"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bb5 d6 5. O-O Ne7 6. d3 O-O 7. Bg5 f6 8. Bh4 Kh8 9. Qd2 a6 10. Ba4 Bg4 11. Ne1 Ng6 12. Bg3 Nd4 13. f4 Nb3+ 14. Qf2 Bxf2+ 15. Rxf2 Nd4 16. f5 Nf4 17. Bxf4 exf4 18. Rxf4 Bh5 19. Nd5 c6 20. Ne3 b5 21. Bb3 Nxb3 22. axb3 d5 23. g4 Bf7 24. Nf3 dxe4 25. dxe4 h6 26. h4 Qd6 27. Ng2 Qc5+ 28. Kh2 Qxc2 29. Rh1 Qxb2 30. Kg3 Qxb3 31. g5 fxg5 32. hxg5 h5 33. g6 Bxg6 34. fxg6 Rxf4 35. Rxh5+ Kg8 36. Nxf4 Re8 37. Kg4 Rxe4 38. Ng5 Rxf4+ 39. Kxf4 Qc4+ 40. Ke5 Qd5+ 41. Kf4 Qd6+ 42. Kg4 Qd4+ 43. Kf5 Qf6+ 44. Kg4 Qxg6 45. Rh1 Qe8 46. Rd1 Qe2+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9w4OjNRp"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "Markins88"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:35:47"]
+[WhiteElo "2056"]
+[BlackElo "2068"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Be2 Bd6 6. O-O h6 7. Bg5 hxg5 8. Nxg5 0-1
+

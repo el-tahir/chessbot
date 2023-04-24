@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3feEcT57"]
+[Date "2020.08.07"]
+[White "EltahirAmin"]
+[Black "thanxts"]
+[Result "1-0"]
+[UTCDate "2020.08.07"]
+[UTCTime "11:57:28"]
+[WhiteElo "1985"]
+[BlackElo "1904"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A56"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 d6 3. c4 Nf6 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Nbd7 8. Nc3 Re8 9. Re1 e6 10. e4 exd5 11. exd5 Nh5 12. Bg5 Qa5 13. Rxe8+ 1-0
+

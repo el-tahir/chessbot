@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yzdYuG1S"]
+[Date "2022.07.27"]
+[White "davidk7007"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.07.27"]
+[UTCTime "17:20:29"]
+[WhiteElo "2047"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 h6 9. Ne2 Bg4 10. f3 Be6 11. Bd2 Nd7 12. O-O-O Qa5 13. a3 b5 14. c4 b4 15. c5 b3 16. Bxa5 bxc2 17. Bxc2 Be7 18. Nf4 Rab8 19. Rhe1 Rb5 20. Bc3 Rfb8 21. Nxe6 fxe6 22. Rxe6 Bxc5 23. dxc5 Nxc5 24. Rxc6 a5 25. a4 1-0
+

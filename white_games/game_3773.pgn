@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CI3uT4O2"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "Mesut_Ulger"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "20:51:03"]
+[WhiteElo "2069"]
+[BlackElo "2005"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E51"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 d5 3. c4 Nf6 4. Nc3 Bb4 5. Nf3 O-O 6. Be2 c5 7. O-O cxd4 8. Nxd4 dxc4 9. Bxc4 a6 10. Bd2 b5 11. Bb3 Bb7 12. a3 Bd6 13. Qe2 Nc6 14. Nf3 Rc8 15. Rac1 Ne5 16. Nxe5 Bxe5 17. e4 Qb6 18. Rfd1 Rfd8 19. Be3 Bd4 20. Rd3 Bxe3 21. Rxe3 b4 22. e5 bxc3 23. exf6 Qxb3 24. Qg4 g6 25. bxc3 Qxa3 26. Ree1 Rxc3 27. Rcd1 Rxd1 28. Rxd1 Rc1 29. Qe2 Rxd1+ 30. Qxd1 Qf8 31. h4 h5 32. g4 hxg4 33. Qxg4 Qd6 34. h5 Qd5 35. Kf1 Qg2+ 36. Qxg2 Bxg2+ 37. Kxg2 gxh5 38. Kf1 Kh7 0-1
+

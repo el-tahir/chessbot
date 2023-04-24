@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KjlzvYUU"]
+[Date "2020.12.21"]
+[White "chessbona"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "07:44:47"]
+[WhiteElo "1998"]
+[BlackElo "1985"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c5 4. e3 e6 5. Ngf3 Be7 6. c3 Nc6 7. Bd3 O-O 8. O-O b6 9. Ne5 Bb7 10. f4 Qc7 11. Rf3 h6 12. Bxh6 gxh6 13. Rg3+ Kh8 14. Rh3 h5 15. Rxh5+ Nxh5 16. Qxh5+ Kg7 17. Qh7+ Kf6 18. Ng4# 1-0
+

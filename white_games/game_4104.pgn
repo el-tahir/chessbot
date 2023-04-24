@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cnxlXBp8"]
+[Date "2020.10.22"]
+[White "EltahirAmin"]
+[Black "Wa1tforme"]
+[Result "0-1"]
+[UTCDate "2020.10.22"]
+[UTCTime "15:18:03"]
+[WhiteElo "1881"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 h6 3. Ng5 hxg5 0-1
+

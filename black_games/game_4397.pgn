@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MYzjfqhD"]
+[Date "2020.05.13"]
+[White "Thackle"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:33:51"]
+[WhiteElo "1977"]
+[BlackElo "1977"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. c4 Qd8 5. h3 Bf5 6. Nc3 e6 7. d4 Bd6 8. Bd3 Bxd3 9. Qxd3 O-O 10. O-O Qe7 11. Bg5 Nc6 12. Ne4 Nb4 13. Qb3 a5 14. Nxf6+ gxf6 15. Bh6 Rfd8 16. a3 Nc6 17. Qxb7 Qd7 18. Qb5 Kh8 19. d5 Ne5 20. Nxe5 Bxe5 21. Qb3 Rg8 22. Qf3 Rab8 23. Rad1 Rxb2 24. Rfe1 Rg6 25. Bf8 Qa4 26. Rxe5 fxe5 27. dxe6 fxe6 28. Rd8 Rb1+ 29. Kh2 e4 30. Bh6+ Rg8 31. Qf6# 1-0
+

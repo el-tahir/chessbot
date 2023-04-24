@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JbkyN2Md"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "ARDA90"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "15:26:06"]
+[WhiteElo "1939"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D94"]
+[Termination "Normal"]
+
+1. e3 d5 2. d4 g6 3. Nf3 Bg7 4. c4 Nf6 5. Nc3 c6 6. Be2 e6 7. O-O O-O 8. b3 b6 9. Bb2 Ba6 10. Ne5 Nbd7 11. Nxc6 Qc7 12. Nb4 Bb7 13. Rc1 a5 14. Nd3 Ne4 15. Nxe4 dxe4 16. Nf4 e5 17. dxe5 Bxe5 18. Bxe5 Nxe5 19. Nd5 Bxd5 20. Qxd5 Rfd8 21. Qxe4 f5 22. Qf4 Qe7 23. Rfd1 g5 24. Qxf5 Rf8 25. Qe4 Nf3+ 26. Bxf3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nPXAUDcu"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "mukulkunwar"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "20:28:06"]
+[WhiteElo "1949"]
+[BlackElo "1918"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Bc5 3. Na4 Be7 4. Nf3 Nc6 5. Bb5 d6 6. d4 Bd7 7. O-O f5 8. exf5 exd4 9. Bxc6 Bxc6 10. Qxd4 Bf6 11. Re1+ Ne7 12. Qb4 a5 13. Qb3 Bd5 14. Qxd5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ulasd1bj"]
+[Date "2021.02.03"]
+[White "EltahirAmin"]
+[Black "johnelassona"]
+[Result "1-0"]
+[UTCDate "2021.02.03"]
+[UTCTime "10:51:27"]
+[WhiteElo "1976"]
+[BlackElo "1968"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 e6 6. c4 Qe4+ 7. Be3 cxd4 8. Nxd4 Nxd4 9. Qxd4 Qxd4 10. Bxd4 Nf6 11. Be2 Be7 12. Nc3 O-O 13. Rd1 Bd7 14. f3 Bc6 15. Kf2 Rfd8 16. Rd2 a6 17. Rhd1 h6 18. Bb6 Rxd2 19. Rxd2 Kf8 20. h4 Ke8 21. g4 Bd8 22. Bc5 Be7 23. Bd4 g6 24. Ke3 Rd8 25. Bxf6 Bxf6 26. Rxd8+ Kxd8 27. h5 Bxc3 28. bxc3 g5 29. Kd4 Kc7 30. Ke5 Kd7 31. Kf6 Ke8 32. Kg7 Ke7 33. Kxh6 f6 34. Kg7 1-0
+

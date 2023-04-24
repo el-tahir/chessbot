@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xfvveDmc"]
+[Date "2020.11.12"]
+[White "Morwa_Mokwena"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "17:15:31"]
+[WhiteElo "1929"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. g5 e6 7. Bd3 Bxd3 8. Qxd3 Nd7 9. g6 f6 10. f4 Qb6 11. Nc3 Bb4 12. exf6 Ngxf6 13. Bd2 O-O-O 14. O-O-O Ng4 15. Nh3 Rhf8 16. Rhf1 c5 17. dxc5 Nxc5 18. Qe2 Rde8 19. Nf2 Nf6 20. Nd3 Bxc3 21. Bxc3 Nce4 22. Be5 Ng4 23. Bxg7 Rg8 24. Be5 Rxg6 25. c3 Qa5 26. Kb1 Nxe5 27. fxe5 Reg8 28. Rf7 Qb5 29. a4 Nxc3+ 30. Kc2 Nxe2 31. axb5 Rg2 32. Rd2 Nd4+ 33. Kc3 Nxb5+ 34. Kc2 Rxd2+ 35. Kxd2 Rg4 36. Nc5 Rxh4 37. Nxe6 Re4 38. Nc5 Rxe5 39. Rf8+ Kc7 40. Rh8 Kb6 41. Nd3 Rg5 42. Rh6+ Ka5 43. Rh7 Rg2+ 44. Kd1 Ka4 0-1
+

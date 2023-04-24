@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e4O3yRWR"]
+[Date "2021.02.25"]
+[White "Staffblast"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "12:08:13"]
+[WhiteElo "1958"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bg5 Bg4 7. h3 Bh5 8. g4 Bg6 9. Bg2 e6 10. Ne5 Be7 11. f4 Qb6 12. f5 exf5 13. Bxf6 Bxf6 14. Nxd5 Qxd4 15. Qxd4 Nxd4 16. Nxg6 hxg6 17. Nc7+ Ke7 18. Nxa8 Nxc2+ 19. Kd2 Nxa1 20. Nc7 Rd8+ 21. Kc1 Rc8 22. Re1+ Kf8 23. Kb1 Rxc7 24. Kxa1 Rc2 25. Bxb7 Rxb2 0-1
+

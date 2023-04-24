@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iShQ1faG"]
+[Date "2020.12.30"]
+[White "EngrBorja"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "14:17:38"]
+[WhiteElo "2002"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 Nd5 3. Bg3 h5 4. e4 h4 5. Bxh4 Rxh4 6. exd5 e6 7. Nf3 Rh8 8. dxe6 fxe6 9. Bd3 Qf6 10. Nc3 Nc6 11. Ne4 Qe7 12. Qe2 d6 13. O-O-O Bd7 14. h3 O-O-O 15. Rhe1 Nb4 16. Kb1 d5 17. Nc5 Qd6 18. Nxd7 Kxd7 19. Ne5+ Kc8 20. Nf7 Qb6 21. Nxd8 Kxd8 22. Qxe6 Qa5 23. Qe8# 1-0
+

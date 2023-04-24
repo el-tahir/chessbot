@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DdOJ4Nz8"]
+[Date "2020.07.30"]
+[White "EltahirAmin"]
+[Black "Dadsprodigy"]
+[Result "0-1"]
+[UTCDate "2020.07.30"]
+[UTCTime "22:32:39"]
+[WhiteElo "2041"]
+[BlackElo "2052"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B90"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 b5 8. a3 Bb7 9. f4 Nbd7 10. Bf3 Qc7 11. Qd2 Rc8 12. g4 Nb6 13. g5 Nfd7 14. Be2 Be7 15. h4 Nc5 16. h5 Nxe4 17. Nxe4 Bxe4 18. Rg1 Nc4 19. Bxc4 Qxc4 20. g6 hxg6 21. hxg6 Bxg6 22. Rxg6 fxg6 23. b3 Qd5 24. Qd3 Rh1+ 25. Kd2 Rxa1 26. Qxg6+ Kd7 27. Qxg7 e5 28. fxe5 dxe5 29. Qg4+ Kc7 30. Ke2 exd4 31. Bxd4 Re8 32. Bxa1 Bf6+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RTFc1j04"]
+[Date "2023.03.10"]
+[White "EltahirAmin"]
+[Black "peafoe"]
+[Result "1-0"]
+[UTCDate "2023.03.10"]
+[UTCTime "05:15:37"]
+[WhiteElo "1994"]
+[BlackElo "1955"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Nc6 5. f4 f6 6. Nf3 Bg4 7. Ng3 h5 8. h3 Bxf3 9. Qxf3 Bd6 10. fxe5 Nxe5 11. Qf2 Nh6 12. Bxh6 gxh6 13. O-O-O c5 14. Kb1 Qe7 15. Nxh5 O-O-O 16. Qxf6 Qc7 17. Qe6+ Kb8 18. Be2 Rde8 19. Qb3 Qf7 20. Qxf7 Nxf7 21. Rhf1 Ng5 22. Rf6 Ref8 23. Rxd6 1-0
+

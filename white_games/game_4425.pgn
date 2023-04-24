@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6faRacUJ"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "son_kisot"]
+[Result "1/2-1/2"]
+[UTCDate "2020.05.12"]
+[UTCTime "22:06:53"]
+[WhiteElo "1971"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nf3 c6 4. e3 Nh5 5. Bg3 Nxg3 6. hxg3 Qb6 7. Qc1 Bf5 8. Nc3 e6 9. Na4 Qa5+ 10. Nc3 Bb4 11. Qd2 Nd7 12. Bd3 Bxd3 13. cxd3 c5 14. dxc5 Nxc5 15. a3 Bxc3 16. bxc3 Nb3 17. Qb2 Nxa1 18. Qxa1 h6 19. O-O O-O 20. Ne5 Rfc8 21. c4 f6 22. Ng4 dxc4 23. dxc4 Rxc4 24. Nxf6+ gxf6 25. Qxf6 Qf5 26. Qxh6 Rf8 27. Rd1 Qxf2+ 28. Kh1 Qxg3 29. Qxe6+ Rf7 30. Qxc4 Qxe3 31. Rd8+ Kg7 32. Qg4+ Kf6 33. Rd6+ Ke7 34. Qd7+ Kf8 35. Qd8+ Qe8 36. Qh4 Qe5 37. Rd8+ Kg7 38. Qg4+ Kf6 39. Qh4+ Qg5 40. Rd6+ Ke5 41. Qxg5+ Kxd6 42. Qg6+ Ke7 43. g4 Rf1+ 44. Kg2 Rf6 45. Qe4+ Re6 46. Qxb7+ Kf6 47. g5+ Kxg5 48. Qxa7 Re2+ 49. Kf3 Re5 50. Qd4 Rf5+ 51. Ke3 Rf6 52. Qxf6+ Kxf6 53. Kd4 Ke6 54. Kc5 Kd7 55. Kb6 Kc8 56. Ka7 Kc7 57. a4 Kc6 58. a5 Kc5 59. a6 Kd4 60. Kb7 Ke5 61. a7 Ke4 62. a8=Q Kf4 63. Qe8 Kf3 64. Kc6 Kf4 65. Kd5 Kf5 1/2-1/2
+

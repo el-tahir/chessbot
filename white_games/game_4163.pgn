@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CfnEPbca"]
+[Date "2020.10.16"]
+[White "EltahirAmin"]
+[Black "BipinWanchoo"]
+[Result "1-0"]
+[UTCDate "2020.10.16"]
+[UTCTime "17:37:06"]
+[WhiteElo "1932"]
+[BlackElo "1910"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C60"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qe7 4. c3 b6 5. O-O Bb7 6. Re1 O-O-O 7. d4 exd4 8. cxd4 h5 9. b3 g5 10. Bxg5 f6 11. Bc1 h4 12. Ba3 Qg7 13. e5 h3 14. g3 f5 15. Qd3 f4 16. Qf5 fxg3 17. fxg3 Nge7 18. Qf6 Qg4 19. Qf4 Qh5 20. e6 Ng6 21. exd7+ Kb8 22. Qg5 Qxf3 23. Re2 Nxd4 24. Qxd8+ Bc8 25. dxc8=Q# 1-0
+

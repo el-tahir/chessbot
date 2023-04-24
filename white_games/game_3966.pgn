@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GdmvyjAs"]
+[Date "2020.10.28"]
+[White "EltahirAmin"]
+[Black "Frenchesco"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "20:29:06"]
+[WhiteElo "2010"]
+[BlackElo "2017"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 c6 3. d4 d5 4. f4 Bb4 5. e5 Ne7 6. a3 Ba5 7. b4 Bc7 8. Be3 O-O 9. Nf3 f6 10. Bd3 Nd7 11. O-O b6 12. Nh4 fxe5 13. fxe5 Rxf1+ 14. Qxf1 c5 15. Qf3 cxd4 16. Bxd4 Bxe5 17. Qg4 Bxd4+ 18. Qxd4 e5 19. Qg4 Nf6 20. Qg3 e4 21. Be2 d4 22. Bc4+ Kh8 23. Ne2 Bb7 24. Rd1 Nc6 25. Nf5 Qd7 26. Nfxd4 Rd8 27. Be6 Qe7 28. c3 Nxd4 29. Nxd4 Rxd4 30. Rxd4 Qxe6 31. Qb8+ Ng8 32. Qxb7 e3 33. Qe4 1-0
+

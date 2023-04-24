@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FeDUL0RQ"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "Inst-Lil_Vityan"]
+[Result "1-0"]
+[UTCDate "2020.11.25"]
+[UTCTime "11:48:28"]
+[WhiteElo "1904"]
+[BlackElo "1882"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Be2 e6 7. O-O Nf6 8. d4 Bd6 9. Bg5 Qc7 10. Qd2 Nbd7 11. Rad1 O-O 12. c4 Rad8 13. c5 Be7 14. Ne5 Nxe5 15. Bxf6 Bxf6 16. Qf4 Nd7 17. Qxc7 1-0
+

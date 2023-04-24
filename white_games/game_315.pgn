@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rfJdBBEz"]
+[Date "2022.07.28"]
+[White "EltahirAmin"]
+[Black "yoelibertoduartegome"]
+[Result "1-0"]
+[UTCDate "2022.07.28"]
+[UTCTime "01:16:00"]
+[WhiteElo "2049"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bc5 4. h3 O-O 5. d3 c6 6. Bg5 Be7 7. Qd2 d5 8. exd5 cxd5 9. Nxe5 d4 10. Ne2 Qd5 11. Nf3 Nc6 12. Ng3 Bb4 13. c3 dxc3 14. bxc3 Re8+ 15. Be2 Ba5 16. O-O Nd4 17. Nxd4 Qxd4 18. cxd4 Bxd2 19. Bxd2 Nd5 20. Ne4 Bf5 21. Bf3 Bxe4 22. dxe4 Nf6 23. e5 1-0
+

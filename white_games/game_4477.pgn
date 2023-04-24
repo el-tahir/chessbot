@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3zMSXDSF"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "philipcares"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "12:49:46"]
+[WhiteElo "1989"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 d5 3. e3 f5 4. c4 c6 5. Nc3 Nf6 6. Nf3 Bd6 7. cxd5 exd5 8. Ne5 O-O 9. Bd3 Bc7 10. Qc2 g6 11. O-O-O Be6 12. h4 Bxe5 13. Bxe5 Nbd7 14. h5 Nxh5 15. Rxh5 gxh5 16. Bf4 Nf6 17. Rh1 Qe8 18. Be5 Qg6 19. g3 Rac8 20. Qe2 Bf7 21. f3 Nd7 22. Bd6 Rfe8 23. Bf4 b5 24. g4 hxg4 25. fxg4 Be6 26. gxf5 Bxf5 27. Bxf5 Qxf5 28. Rg1+ Kh8 29. Qg2 Rg8 30. Bg5 h6 31. Qh2 Rg6 32. Ne2 Rcg8 33. Bxh6 Rxg1+ 34. Nxg1 Qf1+ 35. Kc2 Rg2+ 36. Qxg2 Qxg2+ 37. Kd3 Qxg1 38. Bf4 Qg6+ 39. Kc3 Kg8 40. b4 a5 41. bxa5 Qe8 42. a6 Qa8 43. Bd6 Qxa6 44. Bc5 Qa4 45. a3 Qc4+ 46. Kb2 Qd3 47. Ka2 Nxc5 48. dxc5 Qxe3 49. Kb2 Qxc5 50. Ka2 d4 51. Kb2 d3 52. Kb3 d2 53. Kb2 d1=Q 54. Ka2 Qd2+ 55. Kb3 Qc4# 0-1
+

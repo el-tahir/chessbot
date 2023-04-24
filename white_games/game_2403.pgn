@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mZWZ6sAl"]
+[Date "2020.12.20"]
+[White "EltahirAmin"]
+[Black "Gima1"]
+[Result "1-0"]
+[UTCDate "2020.12.20"]
+[UTCTime "21:13:39"]
+[WhiteElo "1998"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 f5 4. Nxe5 Nxe5 5. d4 Nf7 6. Bc4 fxe4 7. Bxf7+ Kxf7 8. O-O d5 9. f3 e3 10. Bxe3 c6 11. f4 Bf5 12. g4 Bd7 13. f5 Bd6 14. g5 h5 15. g6+ Kf8 16. Qf3 b5 17. Ne2 Nf6 18. Nf4 Bxf4 19. Bxf4 Ne4 20. Rae1 Qf6 21. Be5 Qg5+ 22. Kh1 Qg4 23. Qa3+ Ke8 24. Bxg7 Rg8 25. Bf6 c5 26. Qxc5 Rg7 27. Bxg7 Kd8 28. Bf6+ Nxf6 29. Qe7+ Kc7 30. Qxf6 Rc8 31. Qe5+ 1-0
+

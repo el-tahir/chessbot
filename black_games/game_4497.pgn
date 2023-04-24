@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dnfmoTtZ"]
+[Date "2020.05.12"]
+[White "GenSiRi"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "11:22:35"]
+[WhiteElo "2000"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. N1e2 Nf6 7. Nf4 e6 8. h4 Be4 9. Nxe4 Nxe4 10. c3 Be7 11. Bd3 Nxf2 12. Kxf2 Bxh4+ 13. g3 Bf6 14. Rxh7 Rxh7 15. Bxh7 g6 16. Qg4 Nd7 17. Bd2 Qb6 18. Bxg6 O-O-O 19. Bxf7 Qxb2 20. Rd1 Bxd4+ 21. cxd4 Qxd4+ 22. Kg2 Ne5 23. Bxe6+ Kb8 24. Bb3 Nxg4 25. Ne6 Qe4+ 26. Kh3 Rh8+ 0-1
+

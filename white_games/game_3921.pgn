@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wzF1eldY"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "ismek"]
+[Result "0-1"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:08:25"]
+[WhiteElo "2035"]
+[BlackElo "2027"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bb5 Bb6 5. O-O Qf6 6. d3 Nge7 7. Be3 O-O 8. Qd2 Qg6 9. Nd5 Nxd5 10. exd5 Nd4 11. Nxe5 Qf6 12. Bxd4 Bxd4 13. Nf3 Bxb2 14. Rab1 Bc3 15. Qe3 c6 16. dxc6 dxc6 17. Bc4 Bg4 18. Rxb7 Bxf3 19. gxf3 Bd4 20. Qd2 c5 21. Bd5 Qh4 22. Kh1 Be5 23. f4 Bxf4 24. Bxf7+ Rxf7 0-1
+

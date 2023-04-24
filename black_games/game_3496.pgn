@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/503xRHng"]
+[Date "2020.11.08"]
+[White "satranc_spieler"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "11:20:03"]
+[WhiteElo "1983"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Nd7 9. h3 Nb6 10. c3 Nd5 11. Qc2 g6 12. Bh6 Re8 13. Rfe1 Qb6 14. Nh4 Be6 15. Bxg6 fxg6 16. Nxg6 Qc7 17. Nh4 Kh8 18. c4 Nf4 19. Nf5 Bxf5 20. Qxf5 Ne2+ 21. Kf1 Nxd4 22. Qxf6+ Kg8 23. Qxd4 c5 24. Qg4+ Kh8 25. Re6 Qf7 26. Rae1 Bf8 27. Bxf8 Qxf8 28. Qe4 Red8 29. Qe5+ Qg7 30. Re8+ Rxe8 31. Qxe8+ Rxe8 32. Rxe8+ Qg8 33. Rxg8+ Kxg8 34. Ke2 Kf7 35. Ke3 Ke6 36. Ke4 h5 37. g4 h4 38. f4 a5 39. g5 a4 40. f5+ Kf7 41. Kd5 b6 42. Kc6 Ke7 43. Kxb6 Kd6 44. Kb5 Ke5 45. f6 Kf5 46. f7 Kxg5 47. f8=Q Kh5 48. Qg8 1-0
+

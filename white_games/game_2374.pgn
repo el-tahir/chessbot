@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BTMO03yF"]
+[Date "2020.12.21"]
+[White "EltahirAmin"]
+[Black "Neomax360"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "07:35:46"]
+[WhiteElo "1980"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 d6 5. Nxc6 bxc6 6. d4 Bb6 7. Bd3 Qf6 8. Be3 Bxd4 9. O-O Bxc3 10. bxc3 Qxc3 11. f4 Nf6 12. Qf3 O-O 13. h3 Ne8 14. f5 Qf6 15. g4 Qe7 16. g5 f6 17. h4 Bb7 18. Qh5 d5 19. Rf4 c5 20. g6 h6 21. Rg4 dxe4 22. Bc4+ Rf7 23. Bxf7+ Kf8 24. Bxh6 Qe5 25. Re1 Qd4+ 26. Be3 Qc3 27. Qh8+ Ke7 28. Bxc5+ Qxc5+ 29. Kh2 Qxc2+ 30. Kh3 Qd3+ 31. Rg3 Qd2 32. Rge3 Nd6 33. Qxg7 Kd7 34. Bd5+ Kc8 35. Qf8+ Kd7 36. Qg7+ Kc8 37. Be6+ Kb8 38. Qf8+ Nc8 39. Rxe4 Qd3+ 40. R4e3 Qf1+ 41. Kg4 Qf2 42. Kh5 1-0
+

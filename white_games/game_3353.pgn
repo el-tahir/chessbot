@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LvrRagpE"]
+[Date "2020.11.12"]
+[White "EltahirAmin"]
+[Black "NEO24"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "00:54:57"]
+[WhiteElo "1910"]
+[BlackElo "1902"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 c5 4. d3 e5 5. f4 f6 6. Nf3 Bg4 7. Ng3 Bd6 8. fxe5 Bxe5 9. Be2 Nd7 10. Nxe5 Bxe2 11. Qxe2 Nxe5 12. Bf4 Ne7 13. O-O O-O 14. Rad1 N7g6 15. Bc1 Qc7 16. c3 Rae8 17. cxd4 cxd4 18. Nf5 Qb6 19. b3 Qa5 20. Bb2 Nc6 21. Nxd4 f5 22. Nxf5 Rxf5 23. Rxf5 Qxf5 24. Qd2 Qg4 25. Qc3 Nf4 26. Rd2 Ne5 27. Rf2 Nfxd3 28. Bc1 Nxf2 29. Kxf2 Rf8+ 30. Kg1 Qd1+ 0-1
+

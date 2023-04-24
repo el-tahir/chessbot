@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f7krtq0O"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "DeDingoNL"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "12:34:50"]
+[WhiteElo "1941"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e5 3. d4 Nf6 4. dxe5 Nxe5 5. Nf3 Nxf3+ 6. Qxf3 d6 7. Bc4 Be7 8. Bg5 O-O 9. O-O-O Be6 10. Bd3 Qd7 11. e5 Bg4 12. Qg3 Bxd1 13. exf6 Bxf6 14. Bxf6 g6 15. Nxd1 Rae8 16. Qh4 Re6 17. g4 c5 18. g5 Rxf6 19. gxf6 Qe6 20. Kb1 h5 21. Ne3 Re8 22. b3 d5 23. Ng2 Qf5 24. Bxf5 1-0
+

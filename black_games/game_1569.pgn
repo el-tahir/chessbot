@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ODhuyNmb"]
+[Date "2021.02.22"]
+[White "Dave_Detera"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "12:11:15"]
+[WhiteElo "1940"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bg5 Nc6 6. Bb5 e6 7. Qd3 Be7 8. O-O-O O-O 9. h4 h6 10. f3 Nb4 11. Qd2 Qa5 12. a3 Nc6 13. Bxc6 bxc6 14. Be3 Rb8 15. b4 Qxa3+ 0-1
+

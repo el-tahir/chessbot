@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/R7LidtjV"]
+[Date "2023.03.01"]
+[White "cajka"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "23:20:16"]
+[WhiteElo "2049"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 b6 2. Nc3 Bb7 3. g3 Nf6 4. Bg2 e6 5. Nge2 Be7 6. d3 O-O 7. O-O d5 8. e5 Nfd7 9. d4 c5 10. Nb1 Nc6 11. c3 Rc8 12. Be3 cxd4 13. cxd4 Re8 14. Nbc3 Nf8 15. a3 Ng6 16. Qd3 h5 17. f4 h4 18. g4 Na5 19. f5 exf5 20. gxf5 Nf8 21. f6 gxf6 22. exf6 Bxf6 23. Qf5 Rxe3 24. Rf4 Ng6 25. Rg4 Qe8 26. Qxf6 Rc6 27. Qf2 Rce6 28. Nf4 Re1+ 29. Rxe1 Rxe1+ 30. Bf1 Ba6 31. Nxg6 fxg6 32. Nxd5 Qe6 33. Nf6+ Kg7 34. Nh5+ Kh6 35. Qf4+ Kh7 36. Nf6+ Kg7 37. Nh5+ Kh8 38. Qf8+ Qg8 39. Qxg8+ 1-0
+

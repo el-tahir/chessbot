@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/slvzqV9g"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "Hadi_Nirwana"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:46:26"]
+[WhiteElo "2064"]
+[BlackElo "2054"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 d5 4. d4 Nc6 5. exd5 exd5 6. Bb5 Nf6 7. O-O Be7 8. Re1 O-O 9. Bg5 a6 10. Bxc6 bxc6 11. Re5 cxd4 12. Nxd4 Bd7 13. Qe2 Bd6 14. Re3 h6 15. Bh4 Bxh2+ 16. Kxh2 Ng4+ 17. Kg3 Qc7+ 18. f4 Nxe3 19. Qxe3 Rae8 20. Qf3 g5 21. Bxg5 hxg5 22. Nce2 Kg7 23. Kf2 g4 24. Qd3 Re4 25. Rh1 Rfe8 26. g3 c5 27. Nb3 Rxe2+ 28. Kf1 Re1+ 29. Kg2 R8e2+ 30. Qxe2 Rxe2+ 0-1
+

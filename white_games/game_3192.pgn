@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1MZzlbQ1"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "globetrotterxyz"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "10:21:38"]
+[WhiteElo "1967"]
+[BlackElo "1967"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. d4 cxd4 5. Nxd4 Nf6 6. exd5 Nxd5 7. Bb5+ Bd7 8. Bxd7+ Qxd7 9. Bd2 Nc6 10. Nf3 Be7 11. Qe2 O-O 12. O-O-O a6 13. h4 Qc7 14. g4 Nxc3 15. Bxc3 Qf4+ 16. Kb1 Bf6 17. Bd2 Qxg4 18. Rdg1 Qh5 19. Ng5 Qxe2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ykOhobWh"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Feodal81"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "14:37:21"]
+[WhiteElo "1999"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Nc3 Bg4 6. Bf3 Bf5 7. Nge2 e6 8. Ng3 Bg6 9. Bg5 Bd6 10. Qd2 Nbd7 11. O-O-O Qc7 12. Rde1 O-O-O 13. Re3 h6 14. Bxf6 Nxf6 15. Nge4 Bf4 16. Rhe1 Nxe4 17. Nxe4 Bxe3 18. Rxe3 Rd7 19. Nc5 Rd6 20. Rb3 b6 21. Na6 Qd7 22. Qf4 Rxd4 23. Qb8# 1-0
+

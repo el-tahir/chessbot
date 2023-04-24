@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ICVN1Tvj"]
+[Date "2021.02.23"]
+[White "ANGGORO1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "16:10:41"]
+[WhiteElo "1946"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. Bc4 d5 5. O-O dxc4 6. f5 Bd6 7. fxe6 Bxe6 8. d3 cxd3 9. cxd3 Nf6 10. e5 Nxe5 11. Nxe5 Bxe5 12. Bg5 Bxb2 13. Bxf6 Bxf6 14. Rxf6 Qxf6 15. Nd2 O-O 16. Ne4 Qd4+ 17. Kh1 Rad8 18. h3 Qxd3 19. Qxd3 Rxd3 20. Nxc5 Re3 21. Nxb7 Re8 22. Nd6 Re7 23. Rc1 h6 24. Kh2 Bd5 25. Nf5 Re1 26. Rc5 R7e2 27. Rxd5 Ra1 28. Rd8+ Kh7 29. Nd6 Raxa2 30. Nxf7 Rxg2+ 31. Kh1 Rgb2 32. Rd1 Rh2+ 33. Kg1 Rxh3 34. Ne5 a5 35. Nc4 Rhh2 36. Ne3 Rhd2 37. Rb1 a4 38. Nc4 Rg2+ 39. Kf1 Rh2 40. Kg1 Rhc2 41. Ne3 Re2 42. Nc4 a3 43. Kf1 Rf2+ 44. Kg1 Rfb2 45. Nxb2 axb2 46. Kf2 g5 47. Kg3 Kg6 48. Kg4 h5+ 49. Kg3 Kf5 50. Rf1+ Kg6 51. Rb1 h4+ 52. Kg4 Ra4+ 53. Kf3 Rb4 54. Kg2 Kh5 55. Kh3 g4+ 56. Kg2 h3+ 57. Kg3 Rb3+ 58. Kf4 Kh4 59. Kf5 g3 60. Kf4 g2 61. Kf5 h2 62. Re1 Rb4 63. Re4+ Rxe4 64. Kxe4 b1=Q+ 65. Kd5 Qe1 66. Kd6 Kg4 0-1
+

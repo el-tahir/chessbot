@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DQILW81u"]
+[Date "2022.04.28"]
+[White "EltahirAmin"]
+[Black "jafet0076"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:34:37"]
+[WhiteElo "2110"]
+[BlackElo "2097"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Bb4 7. Nxc6 Bxc3+ 8. bxc3 bxc6 9. Bd3 Qa5 10. Bd2 O-O 11. O-O Qc7 12. f4 d5 13. e5 Ne4 14. Qe2 Nxd2 15. Qxd2 c5 16. c4 d4 17. Qf2 Bb7 18. Qh4 g6 19. Qf6 Qc6 20. Rf2 Rab8 21. h4 Ba8 22. h5 gxh5 23. Rf3 h4 24. Bxh7+ Kxh7 25. Qxh4+ Kg6 26. Qf6+ Kh5 27. Rh3+ Kg4 28. Qh4+ Kf5 29. Qg5+ Ke4 30. Re1# 1-0
+

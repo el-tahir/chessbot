@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DinL1FKQ"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "legjobbamateur"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:02:22"]
+[WhiteElo "2062"]
+[BlackElo "2069"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Bb4 8. Qf3 Qe7 9. Bd2 Bxc3 10. Bxc3 Nh6 11. O-O-O O-O 12. d5 Nxe5 13. Qe2 Qg5+ 14. Bd2 Qf5 15. Bb3 d6 16. h3 Qg6 17. g4 f5 18. gxf5 Nxf5 19. Rdg1 Qf7 20. f4 Nd4 21. Qe4 Nxb3+ 22. axb3 Bf5 23. Qg2 Nd7 24. Bc3 Nf6 25. h4 Ng4 26. h5 Rae8 27. h6 g6 28. Qf3 Re3 29. Qd1 Rxc3 30. bxc3 Ne3 31. Qd4 Nxd5 32. Re1 Nf6 33. Re2 Qd5 34. Rd1 Qxd4 35. Rxd4 Kf7 36. Rb4 b6 37. Ra4 a5 38. Rc4 c5 39. b4 d5 40. bxc5 dxc4 41. cxb6 Rb8 42. Rd2 Rxb6 43. Rd4 Be6 44. Kd2 Nh5 45. Ke3 Kf6 46. Re4 Ng3 47. Rd4 Nf5+ 48. Ke4 Nxd4 49. Kxd4 a4 50. Kc5 Rb1 51. f5 gxf5 52. Kd4 a3 53. Ke3 a2 54. Kd4 a1=Q 55. Kc5 Qa7+ 56. Kd6 Rd1+ 57. Kc6 Qd7+ 58. Kc5 Rd5+ 59. Kb4 Qb7+ 60. Kxc4 Re5+ 61. Kd3 Qe4+ 62. Kd2 Rd5+ 63. Kc1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ShySZqet"]
+[Date "2021.03.02"]
+[White "FedieRodrigo"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.02"]
+[UTCTime "12:13:59"]
+[WhiteElo "2000"]
+[BlackElo "2041"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. f4 Nf6 4. e5 Nfd7 5. d4 e6 6. Nf3 c5 7. Bb5 Nc6 8. Bxc6 bxc6 9. O-O Be7 10. Ne2 Ba6 11. b3 O-O 12. Bb2 Rc8 13. Rc1 Qb6 14. c4 cxd4 15. Bxd4 Bc5 16. Bxc5 Nxc5 17. Kh1 Ne4 18. Ned4 Qa5 19. Qc2 Rc7 20. Ng5 Nxg5 21. fxg5 dxc4 22. bxc4 Qxe5 23. Nf3 Qc5 24. Qa4 Bc8 25. Qc2 Rd7 26. Rfe1 Rfd8 27. Ne5 Rd2 28. Qe4 Qf2 29. Rf1 Qxf1+ 30. Rxf1 Rd1 31. Kg1 c5 32. Rxd1 Rxd1+ 33. Kf2 Rd2+ 34. Ke3 Rd1 35. Qa8 Rd8 36. Qxa7 Rf8 37. Qxc5 g6 38. Ng4 Kg7 39. Nf6 h6 40. h4 Rd8 41. a4 Bb7 42. Qb6 Bxg2 43. Qxd8 1-0
+

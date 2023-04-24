@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/owpmPHFZ"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "yecandir"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "13:38:14"]
+[WhiteElo "1993"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. Be3 Nc6 5. a3 cxd4 6. Bxd4 Nxd4 7. Qxd4 Ne7 8. O-O-O Nc6 9. Bb5 Bd7 10. Bxc6 Bxc6 11. exd5 exd5 12. Nf3 Be7 13. Qxg7 Bf6 14. Rhe1+ Kd7 15. Qg4+ Kc7 16. Qf4+ Kb6 17. Qb4+ Kc7 18. Nd4 Qd6 19. Qa5+ b6 20. Qa6 Bb7 21. Ndb5+ Kc6 22. Qxb7+ Kxb7 23. Nxd6+ Kc6 24. Nxf7 Bxc3 25. bxc3 Rhf8 26. Re7 a5 27. f3 b5 28. Ne5+ Kd6 29. f4 Kxe7 30. Rxd5 Ke6 31. Rxb5 Rxf4 32. g3 Rf5 33. Kb2 Rxe5 34. Rb6+ Kf5 35. g4+ Kxg4 36. h3+ Kxh3 37. Rh6+ Kg4 38. Rxh7 Rb8+ 39. Kc1 Rc5 40. Kd2 Rbc8 41. Rg7+ Kf5 42. Rg3 Rd8+ 43. Kc1 Re8 44. Rd3 Kf4 45. Kd2 Rce5 46. Rd4+ Re4 47. Rd6 Re2+ 48. Kd3 R8e3+ 49. Kc4 Rxc2 50. Kb3 Rexc3+ 0-1
+

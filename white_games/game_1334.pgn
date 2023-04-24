@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mjhCSUfn"]
+[Date "2021.03.02"]
+[White "EltahirAmin"]
+[Black "Real-Toca"]
+[Result "0-1"]
+[UTCDate "2021.03.02"]
+[UTCTime "12:11:48"]
+[WhiteElo "2047"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. Nf3 h4 7. Ne2 h3 8. g3 Bg4 9. Neg1 e6 10. Be3 Qd5 11. Be2 Nbd7 12. Qd2 Ne4 13. Qd3 O-O-O 14. O-O-O g6 15. Kb1 Bh6 16. c4 Qa5 17. Qxe4 Bxe3 18. fxe3 Bf5 0-1
+

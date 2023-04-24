@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yXG1Geq5"]
+[Date "2023.03.13"]
+[White "EltahirAmin"]
+[Black "xxalpha69xx"]
+[Result "0-1"]
+[UTCDate "2023.03.13"]
+[UTCTime "19:05:52"]
+[WhiteElo "2021"]
+[BlackElo "2036"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 N8e7 8. Qf3 d5 9. exd6 Nf5 10. dxc7 Qxc7 11. Bb3 Ngh4 12. Qd5 Be6 13. Qb5+ Qd7 14. Bxe6 fxe6 15. Qf1 Nxd4 16. Qd3 Bb4 17. O-O O-O 18. Be3 Bxc3 19. bxc3 Nhf3+ 20. gxf3 Nxf3+ 21. Kh1 Qc7 22. Bf4 Qxf4 23. Qxf3 Qxf3+ 24. Kg1 Rf5 0-1
+

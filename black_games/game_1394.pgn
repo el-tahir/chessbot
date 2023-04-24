@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Paqd4OhG"]
+[Date "2021.02.27"]
+[White "vittorio1968"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "17:21:59"]
+[WhiteElo "2005"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. Nf3 Nf6 5. d4 Nc6 6. Nb5 Bg4 7. Be2 a6 8. Nc3 e6 9. O-O h6 10. h3 Bh5 11. Nb1 Bd6 12. c3 O-O 13. Nbd2 e5 14. Nh2 Bg6 15. dxe5 Nxe5 16. Ng4 Nfxg4 17. Bxg4 Re8 18. Bf3 Re6 19. Bxd5 Rf6 20. Bxb7 Ra7 21. Be4 Re7 22. Bxg6 Rxg6 23. Nf3 Ree6 24. Nxe5 Rxe5 25. Bf4 Ree6 26. Bxd6 Rxd6 27. Qb3 Qg5 28. g3 Qh4 29. Kg2 Qe4+ 30. f3 Qe5 31. f4 Rd2+ 32. Rf2 Qxf4 33. c4 Qxf2+ 34. Kh1 Qg2# 0-1
+

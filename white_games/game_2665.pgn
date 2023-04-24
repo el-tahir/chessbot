@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HEHjlPYw"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "svviking"]
+[Result "1-0"]
+[UTCDate "2020.12.13"]
+[UTCTime "15:21:43"]
+[WhiteElo "1907"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 e5 4. d4 exd4 5. Nxd4 Nc6 6. Be3 g6 7. Bc4 Bg7 8. Qf3 O-O 9. O-O-O Re8 10. h4 Bg4 11. Qg3 Bxd1 12. Rxd1 Nxe4 13. Nxe4 Rxe4 14. h5 Nxd4 15. hxg6 hxg6 16. Bxd4 Bxd4 17. Qxg6+ Bg7 18. Qxe4 Qg5+ 19. Kb1 Kf8 20. Qxb7 Re8 21. Qxc7 Be5 22. Qxf7# 1-0
+

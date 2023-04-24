@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n2g7bdQ0"]
+[Date "2021.10.13"]
+[White "dudosoaspecto"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.13"]
+[UTCTime "19:14:38"]
+[WhiteElo "2254"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A08"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O Nf6 5. d3 e5 6. Nbd2 Bd6 7. e4 Be6 8. c3 O-O 9. h3 Kh8 10. Re1 Ng8 11. exd5 Bxd5 12. Qc2 f5 13. Nc4 Bxc4 14. dxc4 Qf6 15. Nh2 f4 16. Bd5 fxg3 17. fxg3 Nh6 18. Bxh6 Qxh6 19. Qg2 Rf6 20. Ng4 Qg6 21. Nxf6 Qxf6 22. Rf1 Qg6 23. Rf2 h5 24. h4 Ne7 25. Be4 Qg4 26. Raf1 Ng8 27. Qf3 Qe6 28. Qxh5+ Nh6 29. Qg6 Qxg6 30. Bxg6 Ng4 31. Rf7 e4 32. Bxe4 Bxg3 33. Rf8+ 1-0
+

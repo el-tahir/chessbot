@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RUZ3ahga"]
+[Date "2021.01.13"]
+[White "alex09051979"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.13"]
+[UTCTime "05:18:52"]
+[WhiteElo "1919"]
+[BlackElo "1928"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. cxd5 cxd5 5. Bg5 Bf5 6. e3 e6 7. a3 Nc6 8. b4 a6 9. Na4 Be7 10. Bd3 Bxd3 11. Qxd3 O-O 12. Nc5 Bxc5 13. bxc5 h6 14. Bh4 g5 15. Bg3 Qa5+ 16. Qd2 Ne4 17. Qxa5 Nxa5 18. Nf3 f5 19. Ne5 f4 20. exf4 gxf4 21. Bh4 Rf5 22. Rb1 Rb8 23. Nd7 Rd8 24. Nb6 Rdf8 25. Nd7 R8f7 26. Ne5 Rg7 27. Rg1 Rh5 28. g3 Rxh4 29. Rb6 fxg3 30. fxg3 Rxh2 31. Rxe6 Nb3 32. Rf1 Nxd4 33. Re8+ Kh7 34. Rff8 Re2+ 35. Kd1 Rd2+ 36. Kc1 Ne2+ 37. Kb1 N2c3+ 38. Kc1 Ne2+ 39. Kb1 N4c3+ 40. Ka1 Ra2# 0-1
+

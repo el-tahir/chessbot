@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wJA11Hws"]
+[Date "2020.11.27"]
+[White "msami2000"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.27"]
+[UTCTime "01:26:59"]
+[WhiteElo "1915"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. f4 dxe4 4. Nf3 exf3 5. Qxf3 Nf6 6. Bc4 Bg4 7. Qg3 e6 8. O-O Bc5+ 9. Kh1 O-O 10. d3 Nbd7 11. h3 Bf5 12. Bd2 e5 13. fxe5 Nd5 14. Rxf5 Nxc3 15. Bxc3 Nb6 16. Bb3 g6 17. e6 fxe6 18. Bxe6+ 1-0
+

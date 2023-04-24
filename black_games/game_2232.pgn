@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zkx1V1Gd"]
+[Date "2020.12.26"]
+[White "jovire"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.26"]
+[UTCTime "10:12:41"]
+[WhiteElo "1952"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 Qd7 7. O-O O-O-O 8. h3 h5 0-1
+

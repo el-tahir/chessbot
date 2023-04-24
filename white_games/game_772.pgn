@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1k3QrdoG"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "MisterSinister786"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "05:11:12"]
+[WhiteElo "2058"]
+[BlackElo "2111"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Nxd1 e5 6. Nf3 Bd6 7. Ne3 Be6 8. Bd2 Nd7 9. Bc3 f6 10. O-O-O Be7 11. Bc4 Bxc4 12. Nxc4 Nh6 13. Rd2 Nf7 14. Rhd1 O-O-O 15. a4 Nc5 16. Rxd8+ Rxd8 17. Rd7 0-1
+

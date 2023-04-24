@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SpiHmw92"]
+[Date "2020.11.12"]
+[White "test1232"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "21:48:52"]
+[WhiteElo "1959"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. Re1 Bg4 7. c3 e6 8. d4 cxd4 9. cxd4 Nge7 10. Be3 O-O 11. h3 Bxf3 12. Bxf3 Rc8 13. Qb3 b6 14. d5 exd5 15. exd5 Na5 16. Qa3 Nc4 17. Qb3 Bxb2 18. Be2 Bxa1 19. Bxc4 Bg7 20. a4 Qc7 21. Nd2 Nf5 22. Bf4 Nd4 23. Qd3 Rfe8 24. Be3 Nf5 25. Bb5 Re5 26. f4 Rxe3 27. Rxe3 Bd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8P8pfkec"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "Daunpukypitb"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "18:27:43"]
+[WhiteElo "1964"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 e6 3. Nf3 d5 4. Nc3 c5 5. Rb1 Bb7 6. e5 c4 7. Be2 a6 8. O-O b5 9. Bg5 Be7 10. Bxe7 Nxe7 11. b3 Qc7 12. Ng5 h6 13. Nxf7 Kxf7 14. Bh5+ g6 15. Qf3+ Kg7 16. Qf6+ Kh7 17. Qf7# 1-0
+

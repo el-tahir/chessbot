@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bLgAQtzM"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "ayushkov"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "00:20:27"]
+[WhiteElo "2083"]
+[BlackElo "2038"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Nf3 h5 7. Be2 h4 8. Nf1 h3 9. Ne3 hxg2 10. Nxg2 Qd6 11. Ne3 Bh3 12. Qd3 Nbd7 13. Bd2 Nb6 14. O-O-O O-O-O 15. Ne5 Be6 16. a3 Nfd5 17. Bb4 Qc7 18. c4 Nxb4 19. axb4 g6 20. Bg4 f5 21. Nxg6 Rxh2 22. Rxh2 Qxh2 23. Bxf5 Bd7 24. d5 Qxf2 25. dxc6 Bxf5 26. Qxf5+ Kb8 27. Rxd8+ Kc7 28. Qxf2 Bh6 29. cxb7 Kxb7 30. Qf3+ Ka6 31. b5+ Ka5 32. Qe2 Na4 33. Qd2+ Kb6 34. Nd5+ Kc5 35. Qxh6 Kxc4 36. Qf4+ Kc5 37. Qb4# 1-0
+

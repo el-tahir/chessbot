@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9DdqAIdT"]
+[Date "2020.05.11"]
+[White "EltahirAmin"]
+[Black "krishna1221"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "10:56:29"]
+[WhiteElo "1945"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Nf6 4. Nc3 d4 5. Ne2 Bd6 6. Nc4 Nxe4 7. Nxd4 O-O 8. Be2 Re8 9. Nxd6 Qxd6 10. d3 Qxd4 11. dxe4 Qxe4 12. Be3 Bf5 13. Bf3 Qb4+ 14. c3 Qxb2 15. O-O Nc6 16. g4 Bg6 17. h4 h6 18. g5 hxg5 19. hxg5 Qxc3 20. Rc1 Qe5 21. Qb3 Nd4 22. Qd1 Nf5 23. Bd2 Rad8 24. Qc2 Nh4 25. Qd1 Qd4 26. Be3 Nxf3+ 27. Qxf3 Qh4 28. Rxc7 Re4 29. Rxb7 1-0
+

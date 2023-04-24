@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/trD6Q29N"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "solz"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:43:30"]
+[WhiteElo "2053"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Bd6 8. O-O Bxg3 9. hxg3 Ne7 10. Bg5 O-O 11. Re1 Qd7 12. Ne5 Qxd4 13. Bxe7 Rd8 14. Bxd8 1-0
+

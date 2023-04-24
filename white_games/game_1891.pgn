@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lXFCRrk4"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "Nightmhare"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "18:30:39"]
+[WhiteElo "1949"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e6 3. d4 Nf6 4. Nf3 Bb4 5. Bd3 O-O 6. O-O d5 7. e5 Nd7 8. Bxh7+ Kxh7 9. Ng5+ Kg6 10. Qg4 f5 11. exf6 Nxf6 12. Qg3 Bd6 13. f4 Nh5 14. Qd3+ Kf6 15. g4 Rh8 16. f5 Nf4 17. Bxf4 Bxf4 18. fxe6 Qd6 19. Qf5+ Ke7 20. Qf7+ Kd8 21. Rxf4 Ne7 22. Qf8+ Rxf8 23. Rxf8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zykEBqzX"]
+[Date "2021.11.20"]
+[White "EltahirAmin"]
+[Black "DarkButler"]
+[Result "1-0"]
+[UTCDate "2021.11.20"]
+[UTCTime "21:42:39"]
+[WhiteElo "2029"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. Be2 c5 7. O-O O-O 8. c3 Nbd7 9. d4 cxd4 10. Nxd4 a6 11. Bg5 Qc7 12. Qd2 b5 13. h4 Bb7 14. h5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ms2UG3Fq"]
+[Date "2020.11.04"]
+[White "IgorJauleski"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "18:52:12"]
+[WhiteElo "2052"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Be3 Bd6 8. Qd2 O-O 9. O-O Nc6 10. h3 Bh5 11. Nb5 Bb8 12. c4 a6 13. Nc3 Qd6 14. c5 Qc7 15. g4 Nxg4 16. hxg4 Bxg4 17. Ne5 Nxe5 18. dxe5 Qxe5 19. f4 Qh5 20. Bxg4 Qxg4+ 21. Qg2 Qf5 22. Ne2 e5 23. Ng3 Qd3 24. fxe5 Qxe3+ 25. Kh1 Bxe5 26. Rae1 Qxg3 27. Qxg3 Bxg3 0-1
+

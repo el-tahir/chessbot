@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KfCZA2rp"]
+[Date "2020.11.27"]
+[White "EltahirAmin"]
+[Black "Zaurenbek_Omirserik"]
+[Result "1-0"]
+[UTCDate "2020.11.27"]
+[UTCTime "17:46:12"]
+[WhiteElo "1925"]
+[BlackElo "1928"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nc6 6. Be3 Bb6 7. Be2 Nge7 8. O-O O-O 9. f4 f5 10. Nxc6 Bxe3+ 11. Kh1 Nxc6 12. Nd5 fxe4 13. Nxe3 Ne7 14. Bc4+ Kh8 15. Qh5 c6 16. Rad1 d5 17. f5 d4 18. Ng4 Bxf5 19. Ne5 Bg6 20. Nxg6+ Nxg6 21. Rf5 b6 22. Qxh7+ Kxh7 23. Rh5# 1-0
+

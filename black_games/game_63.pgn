@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/D1bd1tuW"]
+[Date "2023.03.03"]
+[White "Nonold"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.03"]
+[UTCTime "22:22:16"]
+[WhiteElo "2058"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. h4 c6 2. h5 d5 3. h6 g6 4. d3 e5 5. b3 Be6 6. Bb2 Nd7 7. Nf3 Bxh6 8. Rxh6 Nxh6 9. Qd2 f6 10. Qxh6 Qe7 11. Nbd2 O-O-O 12. c4 Kb8 13. cxd5 Bxd5 14. Ne4 Bxe4 15. dxe4 Qb4+ 16. Qd2 Qxe4 17. Qd6+ Ka8 18. Nd2 Qf5 19. e4 Qg5 20. Ba6 Nb6 21. Qc7 bxa6 22. Qxc6+ Kb8 23. Ba3 Qxd2+ 24. Kf1 Qd3+ 25. Kg1 Qb5 26. Qxf6 Qd7 27. Rc1 Rhe8 28. Bc5 Qe6 29. Qf3 Qc6 30. Qe3 Rd7 31. a4 a5 32. b4 axb4 33. Bxb4 Qxa4 34. Qc5 Rd1+ 35. Rxd1 Qxd1+ 36. Kh2 Qh5+ 37. Kg1 Qd1+ 38. Kh2 Rc8 39. Qxe5+ Ka8 40. Ba5 Qb3 41. g3 Rd8 42. Qf6 Qd3 43. Qc6+ Kb8 44. Bxb6 Qd7 45. Qxd7 Rxd7 46. Be3 a5 47. Bc5 Re7 48. f3 Rc7 49. Bb6 Rc2+ 50. Kh3 a4 51. e5 a3 52. e6 Re2 53. Bc5 a2 54. Bd4 Rxe6 55. Kg4 Ra6 56. Kg5 a1=Q 57. Bxa1 Rxa1 58. f4 Rg1 59. g4 Kc7 60. f5 gxf5 61. Kxf5 Kd7 62. Kg5 Ke7 63. Kh5 Kf6 64. g5+ Rxg5+ 65. Kh4 0-1
+

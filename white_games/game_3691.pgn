@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vkmxXlmJ"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "RENZO190582"]
+[Result "1-0"]
+[UTCDate "2020.11.05"]
+[UTCTime "11:34:32"]
+[WhiteElo "2030"]
+[BlackElo "2043"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 d5 4. exd5 Nxd5 5. d4 Nxc3 6. bxc3 Bg4 7. Be2 e6 8. h3 Bh5 9. O-O Be7 10. Bf4 O-O 11. Qd3 Bd6 12. Bg5 f6 13. Be3 Bg6 14. Qc4 Kh8 15. Qxe6 Re8 16. Qb3 Na5 17. Qa4 c6 18. Bd3 b5 19. Bxb5 cxb5 20. Qxb5 Rb8 21. Qe2 Rb2 22. Rfb1 Rxc2 23. Qf1 Rxc3 24. Nh4 Bxb1 25. Rxb1 Nc4 26. Nf5 Nxe3 27. fxe3 Qd7 28. g4 Rc2 29. Qd3 Rh2 30. e4 Bf4 31. Rf1 Bb8 32. e5 Rxe5 33. Qa3 Ree2 34. Qf8# 1-0
+

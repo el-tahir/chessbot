@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DJ8bhvgX"]
+[Date "2020.10.14"]
+[White "winielicaballero"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "14:57:50"]
+[WhiteElo "1975"]
+[BlackElo "1993"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c3 Nf6 6. d3 O-O 7. b3 d5 8. Bb2 e5 9. c4 d4 10. b4 b6 11. Nxe5 Nxe5 12. Bxa8 Bh3 13. Bg2 Bxg2 14. Kxg2 Neg4 15. b5 Qa8+ 16. Kg1 h5 17. Nd2 h4 18. Nf3 h3 19. Bc1 Nd7 20. Bf4 Be5 21. Bxe5 Ndxe5 22. a4 g5 23. a5 Qb7 24. axb6 axb6 25. Ra6 f5 26. Kh1 Nh6 27. Rxb6 Qxb6 28. Nxe5 Qb7+ 29. Nc6 Rf6 30. f3 g4 31. e4 f4 32. Qe2 fxg3 33. hxg3 Nf7 34. f4 Rxc6 35. Qxg4+ Kf8 36. bxc6 Qxc6 37. Qxh3 Qg6 38. Qf5 Qxg3 39. Rg1 Qh4+ 40. Kg2 Qh7 41. Qxh7 Ke7 42. Qxf7+ Kxf7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r0SYqCVK"]
+[Date "2020.11.17"]
+[White "Stanver"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "23:10:21"]
+[WhiteElo "1910"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. h4 c6 2. g4 d5 3. e3 Nf6 4. f3 Qc7 5. Ne2 e5 6. d3 Bd6 7. Bh3 e4 8. f4 Nxg4 9. Bxg4 Bxg4 10. Rg1 h5 11. d4 Nd7 12. Nd2 O-O-O 13. c3 f6 14. Nb3 Rhg8 15. Bd2 g5 16. hxg5 fxg5 17. Qc2 gxf4 18. Nxf4 Bxf4 19. exf4 Rde8 20. Be3 Nb6 21. Nd2 Qe7 22. Nf1 Qh4+ 23. Bf2 Qf6 24. Ne3 Qxf4 25. b3 Ref8 26. a4 Qh2 27. a5 Nd7 28. b4 Nf6 29. b5 Bf3 30. Rf1 Ng4 31. Nxg4 hxg4 32. bxc6 bxc6 33. Qa4 Qc7 34. Rg1 g3 35. Be3 g2 36. Rb1 Rh8 37. Kf2 Rh3 38. Ke1 Rh1 39. a6 Rxg1+ 40. Bxg1 Qg3+ 41. Kd2 Qf4+ 42. Be3 Qg3 43. Qxc6+ Qc7 44. Qa8+ Kd7 45. Qxf8 Qd8 46. Rb7+ Kc8 47. Qxd8+ Kxd8 0-1
+

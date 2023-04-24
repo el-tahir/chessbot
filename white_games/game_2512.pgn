@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YnoXoruY"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "mhmmad_aliyunus"]
+[Result "0-1"]
+[UTCDate "2020.12.18"]
+[UTCTime "22:54:38"]
+[WhiteElo "2004"]
+[BlackElo "1947"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. g3 c6 5. Bg2 Nf6 6. Nf3 Bf5 7. O-O e6 8. d4 Qb6 9. Rb1 h6 10. Ne5 Bd6 11. f4 Qc7 12. Be3 O-O 13. Qd2 Nbd7 14. b4 Rac8 15. Rfc1 Nd5 16. Nxd5 cxd5 17. Rb2 Bxe5 18. dxe5 Qc3 19. Bxa7 Qxd2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PHJs7jJG"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "leonsenoj"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:44:12"]
+[WhiteElo "1967"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be6 4. d4 exd4 5. Nxd4 Nf6 6. Bg5 Be7 7. f4 O-O 8. Be2 c5 9. Nxe6 fxe6 10. O-O a6 11. Bc4 b5 12. Bxe6+ Kh8 13. a3 Nc6 14. Rf3 Rb8 15. Rh3 a5 16. Bxf6 Bxf6 17. Rxh7+ Kxh7 18. Qh5# 1-0
+

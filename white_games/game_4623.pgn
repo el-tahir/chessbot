@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UElNVVh7"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "butrosdm"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "17:27:56"]
+[WhiteElo "1954"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e5 3. d4 exd4 4. Nxd4 c5 5. Nf3 a6 6. Bg5 Be7 7. Bxe7 Nxe7 8. c4 Nbc6 9. Nc3 Bg4 10. Be2 O-O 11. h3 Bxf3 12. gxf3 Rb8 13. Rg1 b5 14. cxb5 axb5 15. Bxb5 Nd4 16. a4 Ng6 17. Qd2 Nxf3+ 0-1
+

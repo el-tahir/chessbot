@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BgEnq0aT"]
+[Date "2020.10.30"]
+[White "mirdas66"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.30"]
+[UTCTime "17:50:05"]
+[WhiteElo "2002"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d3 c5 6. c3 Nc6 7. h3 h6 8. g3 Nge7 9. Bg2 Ng6 10. g4 Nh4 11. gxf5 Nxg2+ 12. Kf2 Nh4 13. fxe6 fxe6 14. Nh2 Be7 15. Qh5+ Kd7 16. Be3 d4 17. cxd4 cxd4 18. Bd2 Qb6 19. b3 Nb4 20. Bxb4 Qxb4 21. Qe2 Rac8 22. Nd2 Rc2 23. Rhc1 Rxd2 24. Rc4 Rxe2+ 25. Kxe2 Qa3 26. Rac1 Qxa2+ 27. R1c2 Qa5 28. b4 Qb6 29. Nf1 Nf5 30. Rc1 Bh4 31. R1c2 Ne7 32. Nd2 Rc8 33. Ne4 Rxc4 34. Rxc4 Qa6 35. Rxd4+ Ke8 36. Rd6 Qa2+ 37. Nd2 Nf5 38. Rxe6+ Kf7 39. Rd6 Nxd6 40. exd6 Ke6 0-1
+

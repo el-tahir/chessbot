@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BxNj6LwB"]
+[Date "2022.11.04"]
+[White "EltahirAmin"]
+[Black "luckygambit"]
+[Result "0-1"]
+[UTCDate "2022.11.04"]
+[UTCTime "12:58:24"]
+[WhiteElo "2007"]
+[BlackElo "1959"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nf3 Ba6 3. Bxa6 Nxa6 4. d4 Nb8 5. c4 Nf6 6. Nc3 e6 7. O-O Bb4 8. Qe2 c6 9. a3 Bxc3 10. bxc3 d5 11. cxd5 cxd5 12. e5 Ne4 13. Bb2 O-O 14. Rfd1 Nc6 15. c4 Na5 16. cxd5 exd5 17. Rac1 Nc4 18. Rxc4 Nxf2 19. Kxf2 dxc4 20. Qxc4 Rc8 21. Qd3 Qc7 22. Rc1 Qb7 23. Rxc8 Rxc8 24. Ng5 g6 25. Qh3 h5 26. Qd3 Qc6 27. Ne4 Qc2+ 28. Qxc2 Rxc2+ 29. Ke3 Rxb2 30. a4 Rxg2 31. d5 Rxh2 32. d6 Kf8 33. Nc3 Rh3+ 34. Kd4 Rxc3 35. Kxc3 g5 36. Kd4 Ke8 37. Ke4 Kd7 38. Kf5 g4 39. Kg5 g3 40. Kxh5 g2 41. Kh6 g1=Q 0-1
+

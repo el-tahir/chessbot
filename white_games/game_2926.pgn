@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RU2MKO7G"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "nemovetsky"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "14:21:32"]
+[WhiteElo "1920"]
+[BlackElo "1865"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Be2 Ne7 8. O-O Nd7 9. Bg5 Qc7 10. c3 h6 11. Be3 Nf5 12. Nxf5 Bxf5 13. Bd3 Bxd3 14. Qxd3 Bd6 15. Rae1 g5 16. h3 g4 17. Ne5 Nxe5 18. dxe5 Bxe5 19. h4 g3 20. f4 Bd6 21. Rd1 O-O-O 22. Qc4 a6 23. b4 Be7 24. a4 Bxh4 25. b5 cxb5 26. axb5 Qxc4 27. bxa6 bxa6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MmT9g227"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "MarySem2020"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "12:36:32"]
+[WhiteElo "1924"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B48"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Bd3 b5 8. a3 Bb7 9. O-O h5 10. f4 Nh6 11. Qxh5 O-O-O 12. Ncxb5 axb5 13. Nxb5 Qb8 14. f5 Bd6 15. Bb6 Rdg8 16. g3 Bxg3 17. hxg3 Qxg3+ 18. Kh1 Ng4 0-1
+

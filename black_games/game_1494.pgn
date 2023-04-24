@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HIzufu5r"]
+[Date "2021.02.24"]
+[White "Superfluous_Bishops"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.24"]
+[UTCTime "21:22:18"]
+[WhiteElo "2005"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Be3 g6 10. Ne2 Nd7 11. O-O-O Qa5 12. Kb1 b5 13. h4 Rb8 14. h5 b4 15. c4 Nf8 16. Bh6 Be6 17. Bxf8 Bxf8 18. hxg6 fxg6 19. Nf4 b3 20. axb3 Bf7 21. Rh2 Rb4 22. Rdh1 h5 23. Nxg6 Reb8 24. Nxf8 Rxb3 25. Bh7+ Kxf8 26. Rh3 Rxb2+ 27. Qxb2 Rxb2+ 28. Kxb2 Qb4+ 29. Rb3 Qxc4 30. Rc3 Qa2+ 31. Kc1 Qa1+ 0-1
+

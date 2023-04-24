@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cHaVLcP4"]
+[Date "2022.06.09"]
+[White "rakhimgaliyev"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.06.09"]
+[UTCTime "13:56:09"]
+[WhiteElo "2048"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. e3 e6 7. Bb5 Bd6 8. O-O O-O 9. Bxc6 bxc6 10. Re1 Rb8 11. e4 dxe4 12. Nxe4 Nxe4 13. Rxe4 c5 14. b3 cxd4 15. Nxd4 Qe7 16. Bb2 Bb7 17. Rg4 Be5 18. Nc6 Bxc6 19. Bxe5 f6 20. Bxb8 Rxb8 21. Rc4 Ba8 22. Rac1 Qb7 23. f3 h6 24. Qd6 Qb6+ 25. Qxb6 axb6 26. Rc8+ 1-0
+

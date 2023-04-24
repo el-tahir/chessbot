@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tNtCkqwr"]
+[Date "2020.10.25"]
+[White "chileno1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.25"]
+[UTCTime "13:58:50"]
+[WhiteElo "1969"]
+[BlackElo "1975"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 Bf5 6. Ne2 e6 7. O-O h6 8. c4 Bd6 9. Nbc3 O-O 10. h3 Bc7 11. a3 Qd6 12. Bf4 Qd7 13. Bg3 Bb6 14. c5 Bd8 15. b4 Nd5 16. Ne4 b6 17. Nd6 bxc5 18. bxc5 Na6 19. Rb1 Be7 20. Rb7 Qd8 21. Qa4 Nac7 22. Qxc6 Ne8 23. Bxd5 exd5 24. Nxf5 Bf6 25. Be5 Rc8 26. Qa4 Bxe5 27. dxe5 Qg5 28. Neg3 g6 29. f4 Qd8 30. Nxh6+ Kg7 31. Ng4 Rxc5 32. Qb4 Rc2 33. Qd4 Rh8 34. e6+ Kg8 35. exf7+ Kh7 36. fxe8=Q+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qlQMxOg2"]
+[Date "2021.11.01"]
+[White "BigCoomer"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.01"]
+[UTCTime "17:11:07"]
+[WhiteElo "2132"]
+[BlackElo "2055"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Bc4 e6 7. d4 Bd6 8. Bg5 Bxf3 9. Qxf3 Qa5+ 10. c3 Qxg5 11. h4 Qa5 12. b4 Qc7 13. h5 Bxg3 14. fxg3 h6 15. g4 Nbd7 16. g5 hxg5 17. O-O-O Qf4+ 18. Qxf4 gxf4 19. Rhf1 Nxh5 20. Rde1 O-O-O 21. Be2 g5 22. Bg4 Ng3 23. Rf3 Rde8 24. Kc2 f5 25. Rxg3 fxg3 26. Bf3 g4 27. Bd1 Rh2 28. Re2 Nf6 29. Kd3 Nd5 30. Kc4 Rxg2 31. Re5 Rxa2 32. Bb3 Rb2 33. Bd1 g2 34. Re1 Rh8 35. Rxe6 g1=Q 36. Be2 Rxe2 37. Rxe2 Qf1 38. Kd3 Qxe2+ 39. Kxe2 Nxc3+ 40. Kd3 g3 41. Kxc3 g2 42. Kc4 g1=Q 43. d5 cxd5+ 44. Kb5 Qb6+ 45. Ka4 Qb5+ 46. Kxb5 f4 47. Kc5 f3 48. Kxd5 f2 49. Kd6 f1=Q 50. Kc5 Qf8+ 51. Kb5 Qxb4+ 52. Kxb4 Rh6 53. Ka4 Ra6+ 54. Kb5 Kc7 55. Kb4 Kb6 56. Kc4 Ka5 57. Kc5 Ka4 58. Kc4 Ka3 59. Kc3 Rb6 60. Kc4 Ka2 61. Kc3 a5 62. Kc2 a4 63. Kc3 a3 64. Kc2 Ka1 65. Kc1 a2 66. Kc2 Rb1 67. Kc3 Rc1+ 68. Kb3 Kb1 69. Kb4 a1=Q 70. Kb5 Qb2+ 71. Ka5 Rc5+ 72. Ka4 Qb5+ 73. Ka3 Rc3# 0-1
+

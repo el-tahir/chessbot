@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4DCgVE97"]
+[Date "2020.12.28"]
+[White "jazzman802"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "07:11:35"]
+[WhiteElo "1958"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Bg4 4. f3 Bh5 5. g4 Bg6 6. e5 Nfd7 7. f4 e6 8. h4 Be7 9. h5 Bh4+ 10. Ke2 Be4 11. Nxe4 dxe4 12. Bg2 Nc6 13. Bxe4 Qe7 14. Nf3 Bg3 15. Qg1 O-O-O 16. Qxg3 Nb6 17. b3 Nxd4+ 18. Nxd4 Rxd4 19. Qe3 Rhd8 20. Bb2 Nd5 21. Bxd4 Nxe3 22. Kxe3 Kb8 23. Rhd1 Qh4 24. Bf3 f6 25. exf6 gxf6 26. Bb2 e5 27. Rxd8# 1-0
+

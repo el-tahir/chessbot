@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mPdji2Xq"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "Avieliahu"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "12:00:07"]
+[WhiteElo "1998"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Nc6 5. f4 f6 6. Nf3 exf4 7. Bxf4 Bg4 8. Ng3 Ne5 9. Be2 Nxf3+ 10. Bxf3 Bxf3 11. Qxf3 Qd7 12. O-O O-O-O 13. c3 dxc3 14. Rfd1 cxb2 15. Rab1 Ba3 16. d4 Ne7 17. Qxa3 Kb8 18. Qxb2 b6 19. Rbc1 Nc6 20. d5 Ne5 21. Bxe5 fxe5 22. Qxe5 Rhe8 23. Qd4 g6 24. Rc6 Qg4 25. Rdc1 Re7 26. e5 Rf8 27. Qxg4 1-0
+

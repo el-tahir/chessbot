@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/irESeaM1"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "surface9"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "12:47:52"]
+[WhiteElo "1946"]
+[BlackElo "1903"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 f6 4. d3 Bc5 5. Nf3 d6 6. Be2 Be6 7. a3 Nge7 8. b4 Bb6 9. Na4 O-O 10. Nxb6 axb6 11. O-O exf4 12. Bxf4 Ne5 13. Qd2 N7g6 14. Be3 f5 15. Ng5 Qe7 16. d4 Ng4 17. Bxg4 fxg4 18. d5 Bd7 19. Rf4 Nxf4 20. Bxf4 Rf6 21. Rf1 Raf8 22. g3 h6 23. Ne6 Bxe6 24. dxe6 Qxe6 25. Qe2 h5 26. h3 Re8 27. Re1 g6 28. Bg5 Rf7 29. h4 Rf3 30. a4 Rxg3+ 31. Kh2 Qe5 32. Kh1 Rh3+ 33. Kg1 Qg3+ 0-1
+

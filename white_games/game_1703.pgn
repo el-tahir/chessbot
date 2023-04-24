@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LLvUTkQ0"]
+[Date "2021.02.09"]
+[White "EltahirAmin"]
+[Black "julco"]
+[Result "0-1"]
+[UTCDate "2021.02.09"]
+[UTCTime "22:01:23"]
+[WhiteElo "1954"]
+[BlackElo "1968"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bc4 Nf6 5. d3 O-O 6. Bg5 Be7 7. Qd2 d6 8. h4 Bg4 9. O-O-O Bxf3 10. gxf3 Nh5 11. Rdg1 Nd4 12. Qe3 Bxg5 13. hxg5 Nf4 14. Rh4 c5 15. Rgh1 Qxg5 16. Rxh7 g6 17. Rh8+ Kg7 18. R1h7+ Kf6 19. Nd5+ Nxd5 20. Qxg5+ Kxg5 21. Bxd5 Nxf3 22. Rxf8 Rxf8 23. Bxb7 Nd4 24. Kd2 f5 25. Bd5 f4 26. Rxa7 Rd8 27. a4 Nf3+ 0-1
+

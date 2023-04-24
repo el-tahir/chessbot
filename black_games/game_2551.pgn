@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k27kdrMm"]
+[Date "2020.12.16"]
+[White "Allaboda"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "19:51:42"]
+[WhiteElo "2020"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Bg4 5. O-O e6 6. b3 Bd6 7. Bb2 Kf8 8. d3 Nbd7 9. Nbd2 h5 10. h4 Qc7 11. e4 Bxg3 12. fxg3 Qxg3 13. Qe1 Qd6 14. e5 Bxf3 15. Nxf3 1-0
+

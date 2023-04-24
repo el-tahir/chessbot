@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TflxPi8Q"]
+[Date "2020.12.27"]
+[White "EltahirAmin"]
+[Black "RonzaDeMamba"]
+[Result "1-0"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:52:29"]
+[WhiteElo "1947"]
+[BlackElo "1966"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Be2 a6 5. O-O d6 6. d3 h6 7. Be3 Nd4 8. Qd2 c6 9. Rae1 Qf6 10. Nd1 g5 11. c3 Ne6 12. d4 Ba7 13. d5 Ng7 14. Bxa7 Rxa7 15. dxc6 g4 16. cxb7 Bxb7 17. Nxe5 Qxe5 18. Bxg4 Nf6 19. Bh3 h5 20. Ne3 Ng4 21. f4 Qe7 22. Nd5 Qh4 23. e5 O-O 24. Bxg4 Qxg4 25. Nf6+ Kh8 26. Nxg4 hxg4 27. Qf2 f5 28. Qxa7 1-0
+

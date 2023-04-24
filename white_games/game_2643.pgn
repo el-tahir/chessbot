@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3qOqHs86"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "rachipa"]
+[Result "1/2-1/2"]
+[UTCDate "2020.12.14"]
+[UTCTime "12:32:50"]
+[WhiteElo "1899"]
+[BlackElo "1852"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 a6 6. Be3 Ba7 7. Bc4 Nd7 8. Qh5 Qf6 9. Nf5 Nb6 10. Bb3 Be6 11. O-O Bxb3 12. axb3 g6 13. Nxd6+ cxd6 14. Qg4 Qe6 15. Qe2 Ne7 16. f4 O-O 17. g4 f5 18. gxf5 gxf5 19. Kh1 fxe4 20. Rg1+ Kh8 21. Bd4+ Rf6 22. Nxe4 Ned5 23. Qg2 Qf7 24. Qg5 Nd7 25. Nxd6 Qe7 26. Bxf6+ N5xf6 27. Rge1 Qxd6 28. Rad1 Qf8 29. Re6 Qg8 30. Qf5 Qg6 31. Rxf6 Qxf5 32. Rxf5 Nb6 33. Rf7 Rb8 34. Re1 Nd5 35. c4 Nb4 36. Ree7 h6 37. Rh7+ Kg8 38. Reg7+ Kf8 39. Rf7+ Kg8 40. Rc7 Nd3 41. Rhd7 Nxb2 42. Rg7+ Kf8 43. Rh7 Kg8 44. Rcg7+ Kf8 45. Rf7+ Kg8 46. Rhg7+ Kh8 47. Rh7+ Kg8 48. Rfg7+ Kf8 49. Rc7 Kg8 50. Rhg7+ Kf8 51. Rh7 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AyTDFxgh"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "mtdonia"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "01:12:11"]
+[WhiteElo "1963"]
+[BlackElo "1957"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nf6 4. exf5 d6 5. Qh5+ Nxh5 0-1
+

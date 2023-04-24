@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ewgcrbuH"]
+[Date "2021.01.27"]
+[White "EltahirAmin"]
+[Black "taabox"]
+[Result "1-0"]
+[UTCDate "2021.01.27"]
+[UTCTime "17:44:23"]
+[WhiteElo "2032"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nf6 4. exf5 d6 5. Nf3 Bxf5 6. Bc4 d5 7. Bb3 Bd6 8. Qe2+ Kf7 9. Ng5+ Kg6 10. d4 Re8 11. Be3 h6 12. Nf3 c6 13. Nc3 Nbd7 14. O-O-O Kh7 15. Nh4 Be6 16. Qd3+ Kg8 17. g4 Bxg4 18. Rdg1 h5 19. h3 Be6 20. Rg6 Bf7 21. Rg5 Ne4 22. Nxe4 Rxe4 23. Nf5 Bf8 24. Rhg1 Nf6 25. Nh6+ Kh7 26. Nxf7 Qe7 27. Ne5 b5 28. c3 a5 29. Bc2 b4 30. Qe2 bxc3 31. bxc3 Qa3+ 32. Kd2 Kh8 33. Rxh5+ Nxh5 34. Qxh5+ Kg8 35. Qf7+ Kh8 36. Ng6+ Kh7 37. Nxf8+ Qxf8 38. Bxe4+ dxe4 39. Qh5+ Kg8 40. Rg6 Qf7 41. Bh6 Qxf2+ 42. Qe2 Qxe2+ 43. Kxe2 Kh7 44. Rxc6 gxh6 45. Ke3 Re8 46. Rc7+ Kg6 47. Ra7 Kg5 48. Rxa5+ Kh4 49. a4 Kxh3 50. Re5 h5 51. Rxe8 h4 52. Rxe4 Kg3 53. Rxh4 Kxh4 54. a5 Kg3 55. a6 Kg2 56. a7 Kf1 57. a8=Q Ke1 58. c4 Kd1 59. c5 Kc2 60. c6 Kc3 61. c7 Kc2 62. c8=Q+ 1-0
+

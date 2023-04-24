@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WE2CW2C3"]
+[Date "2023.03.12"]
+[White "EltahirAmin"]
+[Black "michas79"]
+[Result "1-0"]
+[UTCDate "2023.03.12"]
+[UTCTime "17:48:38"]
+[WhiteElo "1977"]
+[BlackElo "1871"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 e5 3. d4 c6 4. Nf3 Nd7 5. Bd3 Be7 6. O-O h6 7. Be3 b5 8. a3 a5 9. b4 a4 10. Qd2 Bb7 11. d5 c5 12. Bxb5 Qc7 13. Rfb1 Nf6 14. bxc5 dxc5 15. Bxd7+ Nxd7 16. Nb5 Qd8 17. d6 Bf6 18. Nc7+ Kf8 19. Rxb7 c4 20. Qd5 g6 21. Nxa8 Kg7 22. Nb6 Nxb6 23. Qxf7# 1-0
+

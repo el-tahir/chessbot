@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iZMOhcUE"]
+[Date "2020.12.20"]
+[White "EltahirAmin"]
+[Black "davisreti"]
+[Result "0-1"]
+[UTCDate "2020.12.20"]
+[UTCTime "21:08:12"]
+[WhiteElo "1997"]
+[BlackElo "2060"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. g3 d6 7. Bg2 Nf6 8. Rf1 O-O 9. Kg1 Bg4 10. Qe1 Qd7 11. d4 Ng6 12. Bg5 Ne8 13. Qf2 h6 14. Be3 Nf6 15. Rae1 Rae8 16. Ne2 Bh3 17. Nf4 Bxg2 18. Kxg2 Nxe4 19. Qf3 Ng5 20. Qh5 Nxf4+ 21. gxf4 Qc6+ 22. Kf2 Ne4+ 23. Kf3 Nd2+ 24. Ke2 Qxc2 0-1
+

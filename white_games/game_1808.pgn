@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JrUv1WQ4"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "Nurgali1978"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "15:21:20"]
+[WhiteElo "2054"]
+[BlackElo "2087"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A05"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Nc3 Nxc3 4. dxc3 d5 5. Bd3 Bg4 6. Bg5 Nc6 7. Qe2 Qd6 8. O-O-O e6 9. h3 Bxf3 10. gxf3 Be7 11. f4 O-O-O 12. c4 Bxg5 13. fxg5 Qf4+ 14. Kb1 Qxg5 15. Rhg1 Qf6 16. cxd5 Rxd5 17. Rg4 Rhd8 18. Rdg1 g6 19. R4g3 Ne5 20. Be4 Rd2 21. Bxb7+ Kxb7 22. Qb5+ Ka8 23. a4 Qxf2 24. Rb3 Qxg1+ 25. Ka2 Qb6 26. Qxe5 Qc6 27. Qf4 R2d4 28. Qf1 Qxa4+ 29. Ra3 Qc4+ 30. Qxc4 Rxc4 0-1
+

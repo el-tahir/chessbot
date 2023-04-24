@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3xcTRbAk"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "serg1313"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "15:09:51"]
+[WhiteElo "1970"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nc6 4. e5 Be7 5. Bd3 f5 6. g4 g6 7. Nge2 Bh4 8. Rg1 Nge7 9. Bh6 b6 10. g5 Ng8 11. Bg7 Bxg5 12. Bxh8 Nh6 13. Bg7 Ng4 14. Ng3 Kf7 15. Bf6 Bxf6 16. exf6 Qxf6 17. Nge2 Nxh2 18. Bb5 Nf3+ 19. Kf1 Nxg1 20. Kxg1 Bb7 21. Qd2 Ne7 22. Kg2 g5 23. Rh1 Rh8 24. Ng3 f4 25. Nh5 Qf5 26. Bd3 Qg4+ 27. Kf1 Nf5 28. Bxf5 Qxf5 29. Nb5 Ba6 30. a4 c6 31. Qc3 cxb5 32. Qc7+ Kg6 33. Qg7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yVd9Olf2"]
+[Date "2022.10.03"]
+[White "TheCrazyChessWorker"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.03"]
+[UTCTime "18:53:35"]
+[WhiteElo "2018"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. c4 O-O 8. Be2 Bg4 9. O-O Nd7 10. h3 Bh5 11. c5 Bc7 12. Be3 Rc8 13. Qa4 Bb8 14. Qc2 Qc7 15. g3 Rfe8 16. Kg2 Rxe3 17. fxe3 Qxg3+ 18. Kh1 Bxf3+ 19. Bxf3 Qxh3+ 20. Kg1 Re8 21. Qg2 Qe6 22. Rae1 f5 23. Kf2 Qxa2 24. Rg1 g6 25. Re2 Nf6 26. Qg5 Kg7 27. Qxf5 Qe6 28. Qxe6 Rxe6 29. e4 Bf4 30. d5 cxd5 31. exd5 Rxe2+ 32. Kxe2 Kh6 33. d6 Kg7 34. Bxb7 Nd7 35. c6 Bxd6 36. cxd7 Bc7 37. Rc1 Bb6 38. Rc8 h5 39. d8=Q Bxd8 40. Rxd8 h4 41. Ra8 g5 42. Rxa7 Kg6 43. b4 f5 44. Bh1 g4 45. b5 Kg5 46. b6 f4 47. b7 g3 48. Bg2 Kg4 49. b8=Q h3 50. Qc8+ Kh4 51. Qxh3+ Kg5 52. Rg7+ Kf6 53. Qh6+ Kf5 54. Rg5# 1-0
+

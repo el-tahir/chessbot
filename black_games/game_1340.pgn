@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1MFpBlz5"]
+[Date "2021.03.02"]
+[White "agnisachinp3"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.02"]
+[UTCTime "02:04:37"]
+[WhiteElo "2019"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd2 d5 8. exd5 cxd5 9. Bd3 Nf6 10. O-O O-O 11. a3 Bd6 12. Bg5 a5 13. Nb5 Bb8 14. Qf3 Ba6 15. c4 e5 16. Bxf6 Qxf6 17. Qxd5 Rd8 18. Qxa8 e4 19. Bxe4 Bxh2+ 20. Kxh2 Rxa8 21. Bxa8 Qh4+ 22. Kg1 Qxc4 23. Rfd1 g5 24. a4 Qc8 25. Be4 Kg7 26. Rac1 Qg4 27. Bf3 Qxa4 28. Nd6 Qb4 29. Nf5+ Kf6 30. Ne3 Bb7 31. Bxb7 Qxb7 32. Rd6+ Kg7 33. Nf5+ Kf8 34. Rcd1 f6 35. Rxf6+ Ke8 36. Re1+ Kd8 37. Rf8+ Kc7 38. Re7+ Kb6 39. Rf6+ Ka7 40. Rxb7+ Kxb7 41. Rf7+ Kb6 42. Rxh7 Kb5 43. Rh5 Kb4 44. Rxg5 a4 45. Nd6 Kb3 46. Rg3+ Kb4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J7s6yrTD"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "AlexZetroc"]
+[Result "0-1"]
+[UTCDate "2021.02.24"]
+[UTCTime "20:23:16"]
+[WhiteElo "2005"]
+[BlackElo "2066"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Bg4 4. d4 Bxf3 5. gxf3 b6 6. Bc4 Nf6 7. Bg5 g6 8. Nd2 Bg7 9. h4 h5 10. Qe2 Nbd7 11. e5 dxe5 12. dxe5 Nh7 13. e6 fxe6 14. Qxe6 Nxg5 15. Qxg6+ Kf8 16. hxg5 Ne5 17. Qf5+ Ke8 18. Be6 Rf8 19. Qh3 Nd3+ 20. Kf1 Nf4 21. Qg3 Qd3+ 22. Kg1 Ne2+ 23. Kg2 Nxg3 24. fxg3 0-1
+

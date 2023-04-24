@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fuY1feZ6"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "Madhu_Gogoi4827"]
+[Result "0-1"]
+[UTCDate "2022.07.24"]
+[UTCTime "17:04:35"]
+[WhiteElo "2008"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+19"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 f5 6. Ng3 fxe4 7. Nxe4 exf4 8. Bxf4 Nf6 9. Nxf6+ Qxf6 10. Qf3 Be7 11. O-O-O O-O 12. Ne2 Nc6 13. Qd5+ Be6 14. Qf3 Qg6 15. Qg3 Qf6 16. Bd2 Rad8 17. Nf4 Bd6 18. Be2 Bxf4 19. Bxf4 Qxf4+ 20. Qxf4 Rxf4 0-1
+

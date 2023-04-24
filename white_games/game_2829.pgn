@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YB2VHao2"]
+[Date "2020.11.28"]
+[White "EltahirAmin"]
+[Black "SiebBrouwer"]
+[Result "0-1"]
+[UTCDate "2020.11.28"]
+[UTCTime "13:07:40"]
+[WhiteElo "1909"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. Nf3 h4 7. Be2 hxg3 8. hxg3 0-1
+

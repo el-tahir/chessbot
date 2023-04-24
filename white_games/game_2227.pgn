@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HhEO3VpB"]
+[Date "2020.12.27"]
+[White "EltahirAmin"]
+[Black "CJGBALDER"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:21:43"]
+[WhiteElo "1959"]
+[BlackElo "1909"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+49"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 e6 5. O-O d6 6. Bf4 Nd7 7. c4 bxc4 8. Bxc4 Be7 9. Nc3 Ngf6 10. Qd3 O-O 11. Rad1 Rc8 12. Rfe1 c5 13. Bxa6 Bxa6 14. Qxa6 cxd4 15. Nxd4 e5 16. Nc6 Rxc6 17. Qxc6 exf4 18. Nb5 Ne5 19. Nxd6 Nxc6 20. Nxf7 Qxd1 0-1
+

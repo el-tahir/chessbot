@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rhnuTXtn"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "kien1982"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "00:22:23"]
+[WhiteElo "2012"]
+[BlackElo "1984"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 e5 4. Nxe4 Nf6 5. Nbc3 Nxe4 6. Nxe4 Nc6 7. Bc4 Bf5 8. Qe2 Bxe4 9. Qxe4 Bd6 10. d3 Qd7 11. O-O O-O-O 12. a4 f5 13. Qe1 Nd4 14. Bb3 f4 15. Qe4 g5 16. Bd5 c6 17. Bc4 g4 18. c3 Ne6 19. b4 g3 20. h3 Ng5 21. Qe2 f3 22. gxf3 Qxh3 23. fxg3 Qxg3+ 24. Qg2 Qxg2+ 25. Kxg2 h6 26. Bxg5 hxg5 27. Rh1 Rhf8 28. Be6+ Kc7 29. Rh2 c5 30. Rh7+ Kb8 31. Bd5 cxb4 32. Rxb7+ Kc8 33. Rb1 bxc3 34. Rc1 Bb4 35. Rxb4 Rxd5 36. Rxc3+ Kd7 37. Rb7+ Ke6 38. Rxa7 1-0
+

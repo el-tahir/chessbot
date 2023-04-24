@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VQz8w8F7"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "Arman8125"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "17:41:19"]
+[WhiteElo "1923"]
+[BlackElo "1899"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Be2 g6 5. O-O Nge7 6. d4 d5 7. exd5 exd5 8. dxc5 Bg7 9. Bg5 O-O 10. Bxe7 Nxe7 11. Qd3 Bf5 12. Qd2 Rc8 13. b4 a5 14. a3 axb4 15. axb4 Nc6 16. b5 Ne5 17. Nxe5 Bxe5 18. Qd3 Bxd3 19. Bxd3 0-1
+

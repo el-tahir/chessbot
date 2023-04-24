@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kLCzODGE"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "Rajdwijraj"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "11:15:38"]
+[WhiteElo "1949"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. e3 d5 2. d4 c5 3. Nf3 Nc6 4. c3 Bg4 5. Be2 Bxf3 6. Bxf3 Nf6 7. O-O e5 8. dxe5 Nxe5 9. Be2 Bd6 10. Nd2 O-O 11. Nf3 Nc6 12. Qc2 Re8 13. Bd2 Ne4 14. Rfd1 Bb8 15. Bf1 Re6 16. b4 Rh6 17. g3 Qf6 18. bxc5 Qxf3 19. Bg2 Qxf2+ 20. Kh1 Nxg3# 0-1
+

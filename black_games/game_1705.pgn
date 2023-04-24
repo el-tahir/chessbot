@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DGInc9S3"]
+[Date "2021.02.09"]
+[White "ma7yo"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.09"]
+[UTCTime "21:56:21"]
+[WhiteElo "1938"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. d3 e6 4. a3 d5 5. exd5 exd5 6. Ba2 Nf6 7. Nf3 Bg4 8. O-O Bd6 9. Bg5 O-O 10. Nbd2 h6 11. Bh4 Rc8 12. Bxf6 Qxf6 13. Bxd5 Nd4 14. c3 Nf5 15. h3 Bh5 16. g4 Qg6 17. Be4 Bxg4 18. hxg4 Qxg4+ 19. Kh1 Qh3+ 20. Kg1 Qg4+ 21. Kh1 Rce8 22. Bxf5 Qxf5 23. Nh2 Qh3 24. Qg4 Qxh2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/djZuhakB"]
+[Date "2022.05.10"]
+[White "darush51"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "03:37:50"]
+[WhiteElo "2013"]
+[BlackElo "2132"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. c4 d5 3. cxd5 Nf6 4. dxc6 Nxc6 5. Nc3 Nxd4 6. e3 Nc6 7. Bb5 Bd7 8. Nf3 e6 9. O-O Be7 10. b3 O-O 11. Bb2 Qc7 12. Ne2 Rac8 13. Rc1 Qb6 14. Bd3 Rfd8 15. Ned4 Nb4 16. Bb1 Bc5 17. Ne5 Be8 18. a3 Nc6 19. Qf3 Bxd4 20. exd4 Nxd4 21. Bxd4 Qxd4 22. Qg3 Qb2 23. Rce1 Bb5 24. Nc4 Rxc4 25. bxc4 Bxc4 26. Qc7 Qd4 27. Rc1 Bxf1 28. Kxf1 g6 29. h3 Kg7 30. Kg1 Ne4 31. Bxe4 Rd7 32. Qc2 f5 33. Bf3 Kf6 34. Qc3 Qxc3 35. Rxc3 e5 36. Be2 e4 37. Bb5 Re7 38. Kf1 Ke5 39. Ke2 Kd4 40. Rc4+ Kd5 41. Rc8 a6 42. Bc4+ Kd4 43. Bg8 b5 44. g3 a5 45. Kd2 b4 46. axb4 axb4 47. Rc4+ Ke5 48. Rxb4 Rg7 49. Bxh7 Rxh7 50. Ke3 Rxh3 51. Rb5+ Kf6 52. Kf4 g5+ 53. Ke3 Rh6 54. Rb6+ Kg7 0-1
+

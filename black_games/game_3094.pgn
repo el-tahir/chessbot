@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iMCwoZ7V"]
+[Date "2020.11.17"]
+[White "DeadRcar"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "16:12:25"]
+[WhiteElo "1941"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. Bg5 e6 7. Nc3 Be7 8. Qe2 O-O 9. h4 Nb4 10. O-O-O Qa5 11. a3 Nxd3+ 12. Rxd3 Bd7 13. Ne5 Bb5 14. Nxb5 Qxb5 15. Rb3 Qxe2 0-1
+

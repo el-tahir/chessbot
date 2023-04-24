@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/j7kPcfgj"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "zaratena"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "20:23:56"]
+[WhiteElo "1949"]
+[BlackElo "1956"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B46"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Nge7 7. Bd3 Ng6 8. O-O Nge5 9. f4 Nxd3 10. cxd3 g6 11. g4 Bg7 12. f5 Nxd4 13. fxg6 hxg6 14. Qa4 Qh4 15. Rf2 Nf3+ 16. Kf1 Nxh2+ 17. Ke2 Nxg4 18. Rf3 Nxe3 19. Rxe3 Qh2+ 20. Kd1 Qxb2 21. Rc1 Bxc3 0-1
+

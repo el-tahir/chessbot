@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L3nKEf9h"]
+[Date "2020.12.02"]
+[White "badd_sneakers"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.02"]
+[UTCTime "23:41:35"]
+[WhiteElo "1891"]
+[BlackElo "1861"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nc3 d5 3. Bf4 Nf6 4. Qd2 Bg4 5. O-O-O Nbd7 6. h4 Qa5 7. f3 Be6 8. g4 O-O-O 9. Kb1 h6 10. Nh3 g6 11. g5 hxg5 12. Nxg5 Bg7 13. Nxe6 fxe6 14. e4 dxe4 15. fxe4 e5 16. dxe5 Nxe5 17. Qh2 Neg4 18. Rxd8+ Rxd8 19. Qg3 Nxe4 20. Qxg4+ Rd7 21. Nxe4 Kd8 22. Bd3 Qb6 23. b3 Qd4 24. c3 Qxd3+ 25. Kb2 Qxe4 26. Rc1 Rd2+ 27. Ka3 e5 28. Bg5+ Kc7 29. Qxe4 Bf8+ 30. b4 a5 31. Bxd2 axb4+ 32. cxb4 b6 33. Qxc6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9KDe1dO6"]
+[Date "2020.12.07"]
+[White "maxonchela"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.07"]
+[UTCTime "15:10:01"]
+[WhiteElo "1787"]
+[BlackElo "1845"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. c3 Bg4 8. Bg5 e6 9. h3 Bh5 10. g4 Bg6 11. Ne5 Be7 12. Nxg6 hxg6 13. Qd3 Nxg4 14. Bxe7 Qxe7 15. Qa6 Rc8 16. Qxc8+ 1-0
+

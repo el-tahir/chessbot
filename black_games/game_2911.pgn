@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rn7jouMz"]
+[Date "2020.11.23"]
+[White "Karrai1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "18:16:13"]
+[WhiteElo "1893"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. Bg5 e6 7. O-O Be7 8. Nc3 O-O 9. Bxc6 bxc6 10. Ne5 Qc7 11. Bf4 Bd6 12. Bg5 Be7 13. a3 c5 14. Bxf6 Bxf6 15. Ng4 Be7 16. dxc5 Qxc5 17. Rc1 Ba6 18. Re1 h5 19. Ne5 Bh4 20. Nf3 Bxf2+ 21. Kh1 Bxe1 22. Qxe1 Rab8 23. Ne5 Rxb2 24. Nd7 Qxa3 25. Nxf8 Qxf8 26. Ra1 Qd6 27. Qc1 Rb4 28. h3 Bc4 29. Rxa7 Rb8 30. Qd2 d4 31. Nd1 Rb1 32. Qf2 Rxd1+ 33. Qg1 Rf1 34. Qxf1 Bxf1 35. Kg1 d3 36. Kxf1 dxc2 37. Ra8+ Kh7 38. Rc8 Qd1+ 39. Kf2 c1=Q 40. Rxc1 Qxc1 41. Kg3 f5 42. h4 f4+ 43. Kf3 Qe3# 0-1
+

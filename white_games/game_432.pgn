@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uiEeNTHb"]
+[Date "2022.05.29"]
+[White "EltahirAmin"]
+[Black "Mikito19"]
+[Result "0-1"]
+[UTCDate "2022.05.29"]
+[UTCTime "00:27:59"]
+[WhiteElo "2013"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 a6 4. d4 b6 5. Be3 cxd4 6. Nxd4 Bb7 7. f3 e6 8. Bd3 Nf6 9. O-O Be7 10. Qd2 Nbd7 11. Rae1 Nc5 12. Be2 O-O 13. Bg5 Nfxe4 14. Nxe4 Nxe4 15. Bxe7 Nxd2 16. Bxd8 Nxf1 17. Bxb6 Ne3 18. Nxe6 Nxc2 19. Nxf8 Nxe1 20. Nd7 Bc6 21. Kf2 Nc2 22. Bd3 Nb4 23. Bf5 g6 24. Bh3 Kg7 25. Bd4+ Kg8 26. Nf6+ Kf8 27. Nxh7+ Ke7 28. Bf6+ Ke8 29. a3 Nd3+ 30. Ke3 Nxb2 31. Bxb2 Rb8 32. Bd4 Rb3+ 33. Kf4 Rxa3 34. Nf6+ Ke7 35. Ng8+ Kd8 36. Nh6 Bd7 37. Nxf7+ Ke7 38. Bxd7 Kxd7 39. h4 Ke6 40. Bb2 Ra2 41. Ng5+ Kd5 42. Bc3 Rxg2 43. Ne4 Rc2 44. Kg5 Rh2 45. Nf6+ Kc4 46. Be1 d5 47. Kxg6 Re2 48. h5 Rxe1 49. h6 a5 50. h7 Rh1 51. Nh5 a4 52. h8=Q a3 53. Qe5 a2 54. Qe2+ Kb3 55. Qb5+ Ka3 56. Nf4 a1=Q 57. Qa6+ Kb2 58. Nd3+ Kc2 59. Qxa1 Rxa1 60. Nf4 Rf1 61. Nxd5 Rxf3 0-1
+

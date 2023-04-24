@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T2CYXnPx"]
+[Date "2022.05.06"]
+[White "EltahirAmin"]
+[Black "Mission_2801"]
+[Result "1-0"]
+[UTCDate "2022.05.06"]
+[UTCTime "03:21:28"]
+[WhiteElo "2060"]
+[BlackElo "2045"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 a6 7. Be2 Qc7 8. O-O Bb4 9. Qd3 Ne5 10. Qd1 Bxc3 11. bxc3 Nxe4 12. Bf4 Nxc3 13. Qd2 Nxe2+ 14. Qxe2 d6 15. Bg3 O-O 16. f4 Qc5 17. Bf2 Ng6 18. Nxe6 Bxe6 19. Bxc5 dxc5 20. f5 Rfe8 21. fxg6 1-0
+

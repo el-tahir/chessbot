@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CSubcHVp"]
+[Date "2021.11.06"]
+[White "Hammer64"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.06"]
+[UTCTime "02:40:51"]
+[WhiteElo "2002"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bd3 Ne7 8. a3 Ba5 9. Ne2 Nd7 10. O-O O-O 11. Ng3 Bg4 12. f3 Nf5 13. Nxf5 Bxf5 14. Bxf5 exf5 15. Bg5 f6 16. exf6 Nxf6 17. b4 Bc7 18. c5 Re8 19. Re1 Qd7 20. Qd2 Nh7 21. Kf2 Nxg5 22. Qxg5 Qf7 23. Rxe8+ Rxe8 24. Re1 Rxe1 25. Kxe1 g6 26. Kd2 Kh7 27. Ne2 Qe6 28. Nf4 Bxf4+ 29. Qxf4 b6 30. Qd6 Qe8 31. cxb6 axb6 32. Qc7+ Kg8 33. Qxb6 Qe7 34. Qb8+ Kg7 35. Qe5+ Qxe5 36. dxe5 Kf7 37. f4 Ke6 38. Kd3 Kd7 39. Kd4 Kc7 40. Kc5 Kd7 41. a4 Kc7 42. a5 Kb7 43. e6 Kc7 44. a6 1-0
+

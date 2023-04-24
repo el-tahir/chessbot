@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QstC02tB"]
+[Date "2020.10.23"]
+[White "mangudai2018"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.23"]
+[UTCTime "21:09:19"]
+[WhiteElo "1876"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. O-O e6 7. c3 Bd6 8. Qa4+ Nc6 9. Ne5 Rc8 10. Bb5 O-O 11. Nxc6 bxc6 12. Ba6 Rb8 13. h3 Bh5 14. Bd3 c5 15. Qc2 cxd4 16. cxd4 Qe7 17. Nc3 Rfc8 18. Bg5 h6 19. Bh4 g5 20. Bg3 Bxg3 21. fxg3 Qb4 22. Rxf6 Qxd4+ 23. Rf2 e5 24. Bh7+ Kg7 25. Bf5 Rc4 26. Rd1 Qc5 27. Rf1 d4 28. Qe4 dxc3 29. bxc3 Rxe4 30. Bxe4 Rb2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i2wIrjID"]
+[Date "2020.10.31"]
+[White "EltahirAmin"]
+[Black "capsi"]
+[Result "1-0"]
+[UTCDate "2020.10.31"]
+[UTCTime "10:47:45"]
+[WhiteElo "1971"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nge7 4. Nxe5 Nxe5 5. d4 N5c6 6. d5 Ne5 7. f4 N5g6 8. e5 d6 9. Qe2 dxe5 10. fxe5 Nxd5 11. Bd2 Nxc3 12. Bxc3 Qh4+ 13. g3 Qa4 14. Bg2 Be6 15. O-O c6 16. Rad1 Bc5+ 17. Kh1 O-O 18. h4 Bg4 19. Qe4 Qxe4 20. Bxe4 Bxd1 21. Rxd1 Rad8 22. Rf1 Rfe8 23. h5 Nxe5 24. Rf5 f6 25. h6 Rd1+ 26. Kg2 Ng4 27. Rxc5 Rxe4 28. Kf3 Ra4 29. Rf5 Nh2+ 30. Kg2 Ng4 31. Rf4 Ne3+ 32. Kf2 1-0
+

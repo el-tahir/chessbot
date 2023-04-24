@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/A9tZS1Ah"]
+[Date "2020.10.15"]
+[White "VeryOldHuman"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "14:33:33"]
+[WhiteElo "1962"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. cxd3 Ne7 7. Qb3 Qc7 8. d4 Nd7 9. Nc3 Nb6 10. O-O Nf5 11. g4 Nh6 12. Qc2 Nxg4 13. Kh1 Bb4 14. a3 Bxc3 15. bxc3 Nc4 16. d3 Nce3 17. Rg1 Nxc2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GXj9kI3o"]
+[Date "2021.11.18"]
+[White "Celemochum"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.18"]
+[UTCTime "23:34:12"]
+[WhiteElo "2066"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 d5 3. c4 Nf6 4. cxd5 cxd5 5. Nc3 Bg4 6. Qa4+ Nc6 7. d3 e6 8. Bg5 Bf5 9. e4 dxe4 10. dxe4 Bg6 11. e5 h6 12. Bxc6+ bxc6 13. Qxc6+ Ke7 14. exf6+ gxf6 15. Be3 Rc8 16. Qb7+ Rc7 17. Qb4+ Ke8 18. Qa4+ Qd7 19. Qxd7+ Rxd7 20. Nge2 Bb4 21. O-O h5 22. Rfd1 Rc7 23. Rac1 h4 24. a3 Ba5 25. b4 Bb6 26. Bxb6 axb6 27. Nf4 hxg3 28. hxg3 Bf5 29. Nb5 Rxc1 30. Rxc1 Kd7 31. Rc7+ Kd8 32. Rxf7 Be4 33. Nxe6+ Ke8 34. Rf8+ Rxf8 35. Nxf8 Kxf8 36. Nd6 Bf3 37. Nc4 b5 38. Nd6 Be2 39. Kg2 Ke7 40. Ne4 Ke6 41. f4 f5 42. Nc3 Bd3 43. Kf2 Kf6 44. Ke3 Bc4 45. Kd4 Kg6 46. a4 Kh5 47. axb5 Be6 48. b6 Bc8 49. Nd5 Kg4 50. Ne7 Ba6 51. Ke5 Bb7 52. Nxf5 Kf3 53. Nd6 Ba8 54. b7 Bxb7 55. Nxb7 1-0
+

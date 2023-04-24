@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IDFC7Boj"]
+[Date "2020.11.10"]
+[White "Renacentista"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "19:43:23"]
+[WhiteElo "1950"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Nf3 Nc6 6. O-O Bg4 7. c3 e6 8. h3 Bh5 9. Re1 h6 10. Bf4 Bd6 11. Qd2 Rc8 12. Be2 Qc7 13. Ne5 Bxe2 14. Qxe2 O-O 15. Nd2 Nd7 16. Qg4 f6 17. Nxd7 Qxd7 18. Bxh6 e5 19. Qxd7 g6 1-0
+

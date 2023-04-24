@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AsGdzTwi"]
+[Date "2021.01.29"]
+[White "EltahirAmin"]
+[Black "Esemplare"]
+[Result "0-1"]
+[UTCDate "2021.01.29"]
+[UTCTime "23:17:19"]
+[WhiteElo "2015"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 f5 4. Nf3 Nf6 5. Bd3 d6 6. c4 Nc6 7. b3 Nb4 8. Be2 Be7 9. a3 Nc6 10. Bb2 O-O 11. O-O Qe8 12. Nc3 h6 13. Re1 Qf7 14. Qd2 Ne4 15. Nxe4 fxe4 16. c5 exf3 17. Bc4 d5 18. Qd3 dxc4 19. bxc4 fxg2 20. Re2 Bg4 21. Rc2 Bf5 0-1
+

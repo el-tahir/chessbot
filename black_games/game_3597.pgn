@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2PxgqK7o"]
+[Date "2020.11.07"]
+[White "Pacomonoia"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "12:08:29"]
+[WhiteElo "1970"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Bc4 O-O 8. Ne2 Bg4 9. O-O Nd7 10. Qd2 Nb6 11. Bd3 Qc7 12. c3 Bxh2+ 13. Kh1 Bd6 14. Nf4 Qd8 15. g3 f5 16. Kg2 Nd5 17. Nxd5 cxd5 18. Rh1 g6 19. Bh6 Re8 20. Bg5 Qc7 21. Bf6 f4 22. Rxh7 f3+ 23. Kh2 Kxh7 24. Rh1 Bh5 25. Kg1 Bxg3 26. Rxh5+ Kg8 27. Rh8# 1-0
+

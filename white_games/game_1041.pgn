@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rjIFHcGE"]
+[Date "2021.10.20"]
+[White "EltahirAmin"]
+[Black "Lcsp"]
+[Result "1/2-1/2"]
+[UTCDate "2021.10.20"]
+[UTCTime "03:47:01"]
+[WhiteElo "2024"]
+[BlackElo "2083"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Bxd2 Bxg7 7. Bd3 Nc6 8. Nf3 Bg4 9. O-O Nd4 10. Be2 Nxe2+ 11. Qxe2 Bxf3 12. gxf3 Qd6 13. Rae1 e6 14. Qb5+ c6 15. Qxb7 O-O 16. Bb4 c5 17. Rd1 Qe5 18. Bc3 Qg5+ 19. Kh1 Kh8 20. Bxg7+ Qxg7 21. Rg1 Qf6 22. Qe4 Rg8 23. c3 Rad8 24. f4 Rxd1 25. Rxd1 Qg7 26. Qe5 f6 27. Qe4 e5 28. fxe5 fxe5 29. a4 a5 30. b4 cxb4 31. cxb4 axb4 32. a5 b3 33. a6 b2 34. a7 Qxa7 35. Qxe5+ Qg7 36. Qxg7+ Rxg7 37. Rb1 Rb7 38. Kg1 Kg7 39. Kf1 Kf6 40. Ke2 Ke5 41. Kd2 Kd4 42. Kc2 Rf7 43. Kb3 Rxf2 44. Rxb2 Rxb2+ 45. Kxb2 Ke3 46. h4 Kf3 47. h5 Kg4 48. Kc2 Kxh5 49. Kd1 Kg4 50. Ke1 Kg3 51. Kf1 Kh2 52. Kf2 h6 53. Kf3 h5 54. Kf2 h4 55. Kf3 Kg1 56. Kg4 h3 57. Kxh3 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Y7Hn1mJG"]
+[Date "2022.05.10"]
+[White "bruha"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "03:33:20"]
+[WhiteElo "2078"]
+[BlackElo "2127"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 h6 6. N5f3 Bg4 7. Bc4 Nbd7 8. c3 Nb6 9. Bd3 e6 10. h3 Bh5 11. Be3 Bd6 12. Qd2 Qc7 13. g4 Bg6 14. Bxg6 fxg6 15. O-O-O Nbd5 16. Kb1 O-O-O 17. a3 Qa5 18. c4 Qxd2 19. Bxd2 Nf4 20. Bxf4 Bxf4 21. Ne2 Bb8 22. Nc3 Rd7 23. Rhe1 Re8 24. d5 exd5 25. Rxe8+ Nxe8 26. cxd5 cxd5 27. Rxd5 Rxd5 28. Nxd5 Kd7 29. Kc2 Kd6 30. Ne3 Nf6 31. Kd3 Bc7 32. Nc4+ Kc5 33. b4+ Kd5 34. Ne3+ Ke6 35. Nd4+ Kd7 36. f3 Bb6 37. Kc4 Kd6 38. Nb5+ Ke5 39. Kd3 Kf4 40. Nc4 Kxf3 41. Nxb6 axb6 42. Nd6 Kg3 43. Nxb7 Kxh3 44. Nd6 Kxg4 45. a4 Nd5 46. Kc4 Nc7 47. Nc8 h5 48. Nxb6 h4 49. Nd5 h3 50. Ne3+ Kf3 51. Nf1 Kf2 52. Nh2 Kg2 53. Ng4 Kg3 54. Ne5 h2 55. a5 h1=Q 0-1
+

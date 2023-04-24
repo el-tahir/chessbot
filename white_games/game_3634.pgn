@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HcOf13vM"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "goyomatallanas"]
+[Result "1-0"]
+[UTCDate "2020.11.06"]
+[UTCTime "15:50:00"]
+[WhiteElo "1979"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Bg4 5. dxe5 Nfd7 6. exd6 Bxd6 7. Be2 Nc6 8. O-O Qe7 9. Bg5 f6 10. Be3 O-O-O 11. Nd5 Qf7 12. c4 Nce5 13. Nxe5 Bxe2 14. Nxf7 Bxd1 15. Nxh8 Bc2 16. Nf7 Bxe4 17. Nxd8 Kxd8 18. f3 Bxf3 19. Rxf3 Bxh2+ 20. Kxh2 Ne5 21. Rh3 Ng4+ 22. Kg3 Nxe3 23. Nxe3 b5 24. Rxh7 bxc4 25. Rxg7 f5 26. Rd1+ Ke8 27. Rdd7 c3 28. bxc3 f4+ 29. Kxf4 a5 30. Rxc7 a4 31. Nd5 a3 32. Rc8# 1-0
+

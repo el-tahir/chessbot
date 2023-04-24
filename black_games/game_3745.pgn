@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0MrxaWiU"]
+[Date "2020.11.04"]
+[White "hussam-kawwas"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "00:00:18"]
+[WhiteElo "2050"]
+[BlackElo "2053"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nc3 Bd6 5. e4 c6 6. Nge2 Bg4 7. O-O Nbd7 8. h3 Bh5 9. f4 Qc7 10. Kh2 O-O-O 11. f5 Bxe2 12. Qxe2 g6 13. a3 h5 14. Bg5 h4 15. g4 Rdf8 16. b4 Ne8 17. exd5 cxd5 18. Nxd5 Qb8 19. Kh1 f6 20. Be3 gxf5 21. Rxf5 Ng7 22. Be4 Nxf5 23. Bxf5 Rf7 24. c4 Kd8 25. c5 Bc7 26. Qf3 Re8 27. Rd1 Nf8 28. d4 e4 29. Bxe4 Ne6 30. Bg6 Rfe7 31. Qf4 Nxf4 0-1
+

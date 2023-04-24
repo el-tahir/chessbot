@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0x94s7Tg"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "dragonslayerB"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "16:42:49"]
+[WhiteElo "1972"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 e6 6. Nc3 a6 7. Bg5 Nf6 8. e5 dxe5 9. dxe5 Qxd1+ 10. Rxd1 Nd7 11. Bf4 Bb4 12. Rd3 O-O 13. Be2 Nc5 14. Re3 Na4 15. O-O Nxc3 16. bxc3 Bc5 17. Rd3 h6 18. Rfd1 f6 19. Kf1 fxe5 20. Nxe5 Rxf4 21. Rd8+ Nxd8 22. Rxd8+ Rf8 0-1
+

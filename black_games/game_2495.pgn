@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OonKSVqH"]
+[Date "2020.12.19"]
+[White "FLOYD2711"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "09:08:14"]
+[WhiteElo "1929"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B33"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nxc6 bxc6 7. Be2 Ba6 8. O-O Bxe2 9. Qxe2 e6 10. b3 Bc5 11. Bb2 Bb4 12. Na4 Qc7 13. Bxf6 gxf6 14. c3 Bd6 15. h3 Rg8 16. Rad1 Ke7 17. Qd3 Rg7 18. Nb2 Rag8 19. g4 Bc5 20. b4 Bb6 21. c4 Rxg4+ 22. hxg4 Rxg4+ 23. Kh1 Rh4+ 24. Kg2 Qh2+ 25. Kf3 Rh3+ 26. Ke2 Rxd3 27. Rxd3 Qe5 28. Na4 Qxe4+ 29. Kd2 Qxc4 30. Nxb6 Qxb4+ 31. Ke3 Qxb6+ 32. Ke2 h5 33. Rh1 Qb2+ 34. Rd2 Qe5+ 35. Kd1 Qa1+ 0-1
+

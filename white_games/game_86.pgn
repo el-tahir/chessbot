@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HxJiEuSC"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "Gaetano2001"]
+[Result "0-1"]
+[UTCDate "2023.03.01"]
+[UTCTime "22:19:06"]
+[WhiteElo "1969"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. exd5 exd5 5. d4 Nf6 6. dxc5 Bxc5 7. Bg5 Be6 8. Qd2 O-O 9. O-O-O Nc6 10. Kb1 Re8 11. Bd3 h6 12. Bxh6 gxh6 13. Qxh6 Bf8 14. Qh4 Bg7 15. Ng5 Ne5 16. Nxe6 fxe6 17. Bb5 Re7 18. f4 Ng6 19. Qf2 a6 20. Bd3 b5 21. Bxg6 Rd7 22. h4 d4 23. Ne2 Rc8 24. Rxd4 Qc7 25. c3 Nd5 26. h5 Bxd4 27. Nxd4 Qxf4 28. Qxf4 Nxf4 29. g3 Nxg6 30. hxg6 Re8 31. Re1 e5 32. Nf5 Rd5 33. Kc2 e4 34. Ne3 Rd6 35. Ng4 Rxg6 36. Ne3 Rxg3 37. Nd5 Kf7 38. Rf1+ Rf3 39. Re1 e3 40. Kd3 e2+ 41. Kc2 Rf1 42. Kd2 Rd8 43. Rxe2 Rxd5+ 44. Kc2 Rdf5 45. Kb3 a5 46. Rh2 R5f4 0-1
+

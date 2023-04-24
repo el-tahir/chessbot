@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cP4Bp8qr"]
+[Date "2020.11.12"]
+[White "EltahirAmin"]
+[Black "Nicolaqueo"]
+[Result "1-0"]
+[UTCDate "2020.11.12"]
+[UTCTime "23:08:17"]
+[WhiteElo "2011"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bb5 d6 5. O-O Nf6 6. d4 exd4 7. Nxd4 Bd7 8. Nxc6 bxc6 9. Bc4 Rb8 10. Bb3 h6 11. Be3 Bb6 12. Qe2 O-O 13. f4 Qe7 14. Bf2 Bg4 15. Qd3 Rfe8 16. Rae1 Bd7 17. e5 dxe5 18. fxe5 Bxf2+ 19. Rxf2 Nh7 20. Rxf7 1-0
+

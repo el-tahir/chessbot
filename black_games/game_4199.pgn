@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IfK3Fmz9"]
+[Date "2020.10.15"]
+[White "AzamatKozhakoff"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "11:50:21"]
+[WhiteElo "2005"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. e5 d5 3. f4 Bf5 4. d4 e6 5. c3 c5 6. Bd3 Bxd3 7. Qxd3 Nc6 8. Ne2 cxd4 9. cxd4 Bb4+ 10. Nbc3 Nge7 11. O-O Qb6 12. Be3 Nf5 13. g4 Nxe3 14. Qxe3 O-O-O 15. f5 Kb8 16. a3 Be7 17. Na4 Qa6 18. Nc5 Bxc5 19. dxc5 d4 20. Qd2 Nxe5 21. b4 Nxg4 22. Rf4 Ne3 23. Rxd4 Nxf5 24. Rxd8+ Rxd8 25. Qxd8# 1-0
+

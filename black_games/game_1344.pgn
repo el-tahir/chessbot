@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1Z0o0Awl"]
+[Date "2021.03.01"]
+[White "carpetbomber"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "22:31:28"]
+[WhiteElo "2057"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 Nf6 5. Bc4 e5 6. Ne2 Bc5 7. O-O O-O 8. c3 Nbd7 9. b4 Bd6 10. Qc2 Nb6 11. Bb3 Bg4 12. f3 Bh5 13. Ng3 Bg6 14. Rd1 Qe7 15. Ndf1 c5 16. a3 Rac8 17. Qe2 Rfd8 18. Ne3 Nfd7 19. Nef5 Bxf5 20. Nxf5 1-0
+

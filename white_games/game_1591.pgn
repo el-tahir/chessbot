@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VYOeEh9e"]
+[Date "2021.02.20"]
+[White "EltahirAmin"]
+[Black "YuriGor"]
+[Result "0-1"]
+[UTCDate "2021.02.20"]
+[UTCTime "17:02:20"]
+[WhiteElo "1949"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Bg4 4. Be2 Nd7 5. d4 exd4 6. Nxd4 Bxe2 7. Qxe2 Qf6 8. Be3 c5 9. Nb3 Ne7 10. O-O-O g6 11. f4 Bg7 12. Kb1 O-O 13. Bc1 a5 14. Nd5 Nxd5 15. Rxd5 a4 16. Nd2 Nb6 17. e5 dxe5 18. Rxe5 a3 19. Nb3 c4 20. Nc5 axb2 21. Bxb2 c3 22. Bxc3 Nd5 23. Bb2 Qb6 24. Qc4 Rfc8 25. c3 Rxc5 26. Qb3 Nxc3+ 27. Bxc3 Qxb3+ 28. axb3 Rxc3 29. Rb5 Rc6 0-1
+

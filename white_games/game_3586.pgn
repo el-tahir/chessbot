@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yQzJU10H"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Roger_mtl"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "12:54:51"]
+[WhiteElo "1987"]
+[BlackElo "1852"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 c6 3. f3 e5 4. d4 exd4 5. Qxd4 Nf6 6. e5 Nfd7 7. f4 Bc5 8. Qd1 Bxg1 9. Rxg1 Qh4+ 10. g3 Qxh2 11. Be3 Qh6 12. Qd2 Qe6 13. O-O-O Nb6 14. Rh1 N8d7 15. Bh3 Qe7 16. g4 c5 17. Nxd5 Nxd5 18. Qxd5 Nb6 19. Bxc5 Nxd5 20. Bxe7 Nxe7 21. f5 Bd7 22. Rhe1 O-O-O 23. Rd3 Bb5 24. Rc3+ Kb8 25. f6 Nd5 26. fxg7 Rhg8 27. Rd3 Bxd3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DTVQ4qhb"]
+[Date "2020.10.24"]
+[White "SHADOWSAVER"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "11:51:45"]
+[WhiteElo "1946"]
+[BlackElo "1947"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. c3 d5 3. f3 Nf6 4. Nd2 Nbd7 5. e4 e5 6. dxe5 Nxe5 7. f4 Neg4 8. e5 Qb6 9. Qe2 Ne4 10. Nxe4 dxe4 11. h3 Nh6 12. Qxe4 Bc5 13. Nf3 Bf2+ 14. Ke2 Nf5 15. Qb4 Ng3+ 16. Kd1 Qxb4 17. cxb4 Nxh1 18. Ke2 Bb6 19. Kd3 Ng3 20. Be3 Bxe3 21. Kxe3 Nxf1+ 22. Rxf1 Be6 23. a3 Rd8 24. Nd4 Ke7 25. f5 Bd5 26. g4 Rhe8 27. Kf4 f6 28. e6 Bc4 29. Rd1 Rd5 30. Rd2 Red8 31. Ke3 c5 32. bxc5 Rxc5 33. b3 Ba6 34. b4 Rc3+ 35. Kf4 Rxd4+ 36. Rxd4 Rxa3 37. Rd7+ Ke8 38. Rxg7 Rxh3 39. g5 fxg5+ 40. Kxg5 Rg3+ 41. Kf6 Rxg7 42. Kxg7 Ke7 43. f6+ Kxe6 44. f7 Kd6 45. f8=Q+ Kc6 46. Kxh7 Kb5 47. Kg7 Kb6 48. Qc5# 1-0
+

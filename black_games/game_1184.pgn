@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zq4V3XXv"]
+[Date "2021.10.11"]
+[White "bobbyfischer0488"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "20:42:22"]
+[WhiteElo "2134"]
+[BlackElo "2104"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. e3 Nf6 3. c3 d5 4. f4 Bg4 5. Nf3 e6 6. Bd3 Nc6 7. O-O Bd6 8. Nbd2 O-O 9. Qe1 Qe7 10. Ne5 Bh5 11. h3 Rac8 12. g4 Bg6 13. f5 exf5 14. gxf5 Nxe5 15. dxe5 Qxe5 16. Nf3 Qe7 17. fxg6 hxg6 18. Qh4 Rce8 19. Ng5 Qe5 20. Rf2 d4 21. exd4 Qe1+ 22. Kg2 Re3 23. Bxe3 Qxe3 24. Rxf6 Qd2+ 25. Rf2 1-0
+

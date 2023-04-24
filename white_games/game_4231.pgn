@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ii8Dhkfb"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "caporale"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "15:49:55"]
+[WhiteElo "1977"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. b4 Bd4 5. c3 Bb6 6. a4 c6 7. Nxb6 Qxb6 8. Nf3 d6 9. d3 Bg4 10. Be3 Qc7 11. h3 Bh5 12. Be2 Nd7 13. Ng5 Bxe2 14. Qxe2 Ngf6 15. O-O O-O 16. f4 h6 17. Nf3 c5 18. b5 b6 19. g4 Nh7 20. f5 Ndf6 21. g5 hxg5 22. Nxg5 Qe7 23. Rf2 Nxg5 24. Bxg5 g6 25. h4 d5 26. h5 dxe4 27. dxe4 Qd6 28. hxg6 fxg6 29. fxg6 Qe6 30. Raf1 Qg4+ 31. Qxg4 1-0
+

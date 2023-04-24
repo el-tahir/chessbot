@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kGWQOBjw"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "Excelsior34"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "17:26:35"]
+[WhiteElo "2012"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 g6 7. Bc4 Bg7 8. Qd2 O-O 9. O-O-O a6 10. Bh6 Re8 11. Bxg7 Kxg7 12. h4 h5 13. f3 Qc7 14. Rhg1 b5 15. Be2 b4 16. Nd5 Nxd5 17. exd5 Nxd4 18. Qxd4+ Kg8 19. g4 hxg4 20. h5 Qc5 21. Qxg4 Bxg4 0-1
+

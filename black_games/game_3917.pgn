@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PkX44T21"]
+[Date "2020.10.30"]
+[White "atLanTiSS23"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:27:29"]
+[WhiteElo "1963"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A08"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 c5 3. Nf3 Nc6 4. d4 Nf6 5. dxc5 e5 6. Be3 d4 7. Bg5 Bxc5 8. O-O h6 9. Bxf6 Qxf6 10. c3 Bg4 11. cxd4 exd4 12. Qd3 O-O 13. Nbd2 Bf5 14. Ne4 Qg6 15. Nfd2 Rfe8 16. f3 Bb4 17. a3 Ba5 18. b4 Bb6 19. Kh1 Rad8 20. Qc4 Ne5 21. Qb3 d3 22. exd3 Rxd3 23. Qa4 Be3 24. Qxe8+ Kh7 25. Qxe5 Bxd2 26. Nxd2 Rxd2 27. Rad1 Ra2 28. Rd5 Be6 29. Rd6 Qc2 30. Qe4+ g6 31. Qxc2 Rxc2 1-0
+

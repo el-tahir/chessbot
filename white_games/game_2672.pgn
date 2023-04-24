@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E61kV2WU"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "Dron04"]
+[Result "1-0"]
+[UTCDate "2020.12.13"]
+[UTCTime "07:09:42"]
+[WhiteElo "1909"]
+[BlackElo "2064"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A03"]
+[Termination "Normal"]
+
+1. f4 d5 2. Nf3 Bg4 3. e3 e6 4. Be2 Nf6 5. h3 Bxf3 6. Bxf3 c6 7. Nc3 Nbd7 8. d3 Nh5 9. Bxh5 Qh4+ 10. Kf1 Nf6 11. Bf3 Bb4 12. Bd2 Qg3 13. Qe1 1-0
+

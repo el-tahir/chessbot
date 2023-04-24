@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/buiY4CyB"]
+[Date "2021.03.01"]
+[White "Carlsenpov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "15:54:05"]
+[WhiteElo "1959"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Bg4 5. g3 e6 6. Bg2 Bd6 7. O-O O-O 8. Bg5 Nbd7 9. Qd2 h6 10. Bxf6 Nxf6 11. Rac1 Qa5 12. cxd5 cxd5 13. a3 Rac8 14. h3 Bh5 15. Qe3 Rc7 16. Ne5 Rfc8 17. g4 Bxe5 18. dxe5 Bxg4 19. exf6 Bf5 20. fxg7 Rc4 21. Na2 Rxc1 22. Rxc1 Rxc1+ 23. Qxc1 Kxg7 24. Qc3+ Qxc3 25. Nxc3 f6 26. e3 Kg6 27. Kf1 Kg5 28. e4 dxe4 29. Nxe4+ Kf4 30. Ng3 Bd3+ 31. Ke1 f5 32. Bxb7 e5 33. Bc8 a5 34. Nxf5 Bxf5 35. Bxf5 Kxf5 36. b4 Ke4 37. bxa5 Kd5 38. Ke2 Kc6 39. Ke3 Kb5 40. Ke4 Kxa5 41. Kxe5 Ka4 42. Kf5 Kxa3 43. Kg6 Kb3 44. f4 Kc3 45. f5 Kd4 46. f6 Kd5 47. f7 Kd6 48. f8=Q+ Kd7 49. Qxh6 Kc6 50. Qf4 Kd5 51. Qe3 Kc4 52. Qd2 1-0
+

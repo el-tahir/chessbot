@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VKfsCi2X"]
+[Date "2020.12.27"]
+[White "EltahirAmin"]
+[Black "ArtemKarasev"]
+[Result "1-0"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:33:26"]
+[WhiteElo "1953"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3 Nd7 9. O-O Ngf6 10. Bg5 Be7 11. Rad1 Qc7 12. Rfe1 O-O 13. Ne5 Rad8 14. c3 Nxe5 15. Rxe5 Qxe5 16. dxe5 Rxd3 17. Rxd3 Nd5 18. Bxe7 Nxe7 19. Rd7 Ng6 20. Rxb7 Rd8 21. Kf1 Rd2 22. f4 h6 23. Ne4 Rc2 24. Nd6 Nxf4 25. Rxf7 Nxg2 26. Rf2 Ne3+ 27. Ke1 Rxf2 28. Kxf2 Nd1+ 29. Kf3 Nxb2 30. h4 Nd1 31. c4 Nc3 32. a3 Nb1 33. a4 Nd2+ 34. Kf4 Kf8 35. h5 a6 36. Ke3 Nb1 37. Kd4 Nd2 38. Kc5 Ne4+ 39. Kxc6 Ng3 40. Kd7 Nxh5 41. c5 g5 42. c6 Ng7 43. c7 Nf5 44. c8=Q+ Kg7 45. Ne8+ Kg6 46. Kxe6 g4 47. Qxa6 Nd4+ 48. Kd5+ Kg5 49. Kxd4 g3 50. Qf1 h5 51. Qf6+ Kg4 52. Nd6 g2 53. Qf5+ Kg3 54. Ne4+ Kh4 55. Qg5+ Kh3 56. Qg3# 1-0
+

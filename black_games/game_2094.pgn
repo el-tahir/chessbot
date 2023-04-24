@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oFapNVAH"]
+[Date "2020.12.31"]
+[White "kuba2898"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.31"]
+[UTCTime "18:05:11"]
+[WhiteElo "1915"]
+[BlackElo "1976"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. Qb3 Nf6 5. exd5 Nxd5 6. Bc4 e6 7. Nf3 Nb6 8. Bb5+ Nc6 9. Ne5 Bd7 10. Qf3 Nxe5 11. Bxd7+ Qxd7 12. Qg3 Nd3+ 13. Kd1 Qa4+ 14. b3 Qd4 15. Nc3 Nxf2+ 16. Kc2 Nxh1 17. Bb2 Nxg3 18. hxg3 Qf2 19. Nb5 Rc8+ 20. Bc3 Nd5 21. Rd1 a6 22. Na7 Rxc3+ 23. Kb1 Rd3 24. Kc2 Qxg3 25. Nc8 Nb4+ 26. Kc1 Nxa2+ 27. Kb2 Rxb3+ 28. Kxa2 Ra3+ 29. Kb1 Qb3+ 30. Kc1 Ra1# 0-1
+

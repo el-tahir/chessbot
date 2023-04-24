@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CkheRXrj"]
+[Date "2020.11.20"]
+[White "EltahirAmin"]
+[Black "MonteVideoKUF"]
+[Result "0-1"]
+[UTCDate "2020.11.20"]
+[UTCTime "11:41:58"]
+[WhiteElo "1903"]
+[BlackElo "1902"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A05"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Nc3 Nxc3 4. dxc3 e6 5. Bc4 d5 6. Bb3 c5 7. Bg5 Be7 8. a3 Bxg5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QpNVgzpt"]
+[Date "2020.11.15"]
+[White "alihaleh"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:19:04"]
+[WhiteElo "1887"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A16"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 c5 5. g3 Nc6 6. Bg2 Bg4 7. O-O Qd7 8. a3 Bh3 9. Nxd5 Bxg2 10. Kxg2 Qxd5 11. d3 e5 12. e4 Qd7 13. Bd2 Bd6 14. b4 cxb4 15. axb4 Bxb4 16. Bxb4 Nxb4 17. Nxe5 Qe6 18. Qa4+ Nc6 19. Nxc6 bxc6 20. Rac1 O-O 21. Rxc6 Qd7 22. Rfc1 Qxd3 23. Rc7 Rfe8 24. Re1 Qd6 25. Rxa7 Rxa7 26. Qxa7 Qd3 27. Qb7 h6 28. Qc6 Rd8 29. e5 Qd2 30. Re4 Kf8 31. e6 fxe6 32. Qxe6 Qd5 33. Qe7+ Kg8 34. Qe5 Qb7 35. f3 Rd2+ 36. Kh3 Qc8+ 37. g4 Qf8 38. Kg3 Rd3 39. Qf4 Qxf4+ 40. Kxf4 Rd2 41. h4 Rh2 42. h5 Ra2 43. Rd4 Kf7 44. Re4 Ra6 45. Rd4 Rf6+ 46. Kg3 Ra6 47. Rf4+ Kg8 48. Re4 Ra1 49. Rf4 Rg1+ 50. Kf2 Rh1 51. Re4 Rh2+ 52. Kg3 Ra2 53. Re8+ Kf7 54. Re4 Ra6 55. Re3 Rf6 56. f4 Ra6 57. Kf3 Kf6 58. Re4 Ra3+ 59. Re3 Ra4 60. Re4 Ra1 61. Re3 Rf1+ 62. Ke2 Ra1 63. Kf3 Ra8 64. Re2 g6 65. f5 gxf5 66. gxf5 Kxf5 67. Kg3 Rg8+ 68. Kh4 Rg4+ 0-1
+

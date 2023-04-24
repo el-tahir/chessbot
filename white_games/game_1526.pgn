@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kPMrjVeN"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "nickky"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "15:18:48"]
+[WhiteElo "1956"]
+[BlackElo "1910"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Qe7 8. Qf3 c6 9. O-O f6 10. Re1 fxe5 11. Bg5 Nf6 12. d5 d6 13. dxc6 bxc6 14. Qxc6+ Qd7 15. Qxa8 Qb7 16. Qxb7 Bxb7 17. Bxf6 gxf6 18. Nd5 a6 19. Nxf6+ Ke7 20. Nd5+ Kd8 21. Re3 Bg7 22. Rb3 Bc6 23. Rb8+ Kd7 24. Rxh8 Bxh8 25. Rd1 Bxd5 26. Bxd5 Nf4 27. Bf3 Bf6 28. c4 Ne6 29. Bg4 Ke7 30. Bxe6 Kxe6 31. g4 Bg5 32. Kg2 Bf4 33. b4 h6 34. a4 Kd7 35. b5 axb5 36. cxb5 Kc7 37. h4 Kd7 38. Kf3 Kc7 39. Ke4 Kb6 40. Rxd6+ Ka5 41. b6 Ka6 42. Rg6 Kb7 43. g5 hxg5 44. hxg5 Ka6 45. Re6 Kb7 46. g6 Bh6 47. g7 Bxg7 48. Re7+ Kxb6 49. Rxg7 Ka5 50. Re7 Kxa4 51. Rxe5 Kb3 52. f4 1-0
+

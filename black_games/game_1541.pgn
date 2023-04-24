@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VwmLItAk"]
+[Date "2021.02.22"]
+[White "DonMike"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "21:28:25"]
+[WhiteElo "1948"]
+[BlackElo "1935"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. Bg5 e6 8. cxd5 exd5 9. Bb5 Be7 10. Bxc6+ bxc6 11. Qd3 O-O 12. Ne5 Be6 13. Nxc6 Qd7 14. Bxf6 Bxf6 15. Ne5 Bxe5 16. dxe5 Rab8 17. b3 Qc7 18. f4 Rfc8 19. Rc1 Qb6 20. Na4 Rxc1+ 21. Kd2 Qf2+ 22. Kxc1 Rc8+ 23. Nc3 Qxf4+ 24. Kb2 Qxe5 25. Rc1 g6 26. Kb1 Bf5 27. Ne4 Bxe4 28. Rxc8+ Kg7 0-1
+

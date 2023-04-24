@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TYjy76MJ"]
+[Date "2020.12.15"]
+[White "EltahirAmin"]
+[Black "Regens"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "10:23:27"]
+[WhiteElo "1906"]
+[BlackElo "1866"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Bc4 Bd7 8. O-O e6 9. a3 a6 10. b4 b5 11. Ba2 Nge7 12. f4 O-O 13. g4 d5 14. f5 Nc8 15. exd5 exd5 16. Nxd5 Re8 17. fxg6 hxg6 18. Qd3 Bxg4 19. Rxf7 Be6 20. Nxc6 Bxf7 21. Nxd8 Bxa1 22. Nxf7 Ra7 23. Qxg6+ Kf8 24. Bc5+ Ne7 25. Bxa7 Nxg6 26. Nf6 Bxf6 27. Bc5+ Kg7 28. h3 Re1+ 29. Kf2 Ra1 30. Bd5 Rxa3 31. Nd6 Rxh3 32. Nf5+ Kh7 33. Bg2 Rh5 34. Be4 1-0
+

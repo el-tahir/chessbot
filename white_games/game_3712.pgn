@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W1EnxRk8"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "SaladKing"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "17:55:53"]
+[WhiteElo "2056"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. d4 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8. Be3 Nxe4 9. d5 exd5 10. Re1 Be7 11. Bd4 Ndf6 12. Ne5 O-O 13. f3 Nc5 14. Bf5 Bd6 15. Ng4 Nxg4 16. Bxg4 h5 17. Bxh5 Qh4 18. Be5 Qxh5 19. Bxd6 cxd6 0-1
+

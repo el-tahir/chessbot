@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RO8xutCL"]
+[Date "2021.11.10"]
+[White "EltahirAmin"]
+[Black "macaktosa"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "04:23:37"]
+[WhiteElo "2056"]
+[BlackElo "2078"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B70"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 g6 6. Bg5 Bg7 7. Qd2 Nc6 8. O-O-O Bd7 9. Bb5 Rc8 10. f4 a6 11. Bxc6 Bxc6 12. e5 dxe5 13. fxe5 Ng4 14. Qf4 Bxe5 15. Qxg4 f5 16. Nxf5 gxf5 17. Rxd8+ 1-0
+

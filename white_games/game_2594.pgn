@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mpqaZJMa"]
+[Date "2020.12.15"]
+[White "EltahirAmin"]
+[Black "Taslica"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "21:21:18"]
+[WhiteElo "1926"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bc5 4. d4 exd4 5. Nxd4 Bxd4 6. Qxd4 Nc6 7. Qd3 d6 8. Be3 Be6 9. f4 Qd7 10. O-O-O O-O 11. Rg1 Nb4 12. Qd2 Nxa2+ 13. Nxa2 Bxa2 14. b3 Nxe4 15. Qa5 Bxb3 16. cxb3 Qc6+ 17. Kb2 b6 18. Qb4 a5 19. Qd4 Nf6 20. Rc1 Qb7 21. Be2 c5 22. Qc3 a4 23. Bf3 d5 24. Qe5 Qa6 25. b4 a3+ 26. Ka2 cxb4 27. Bd4 b3+ 28. Kxb3 Qa4+ 29. Ka2 b5 30. Bxd5 b4 31. Bb3 Qa5 32. Qxa5 Rxa5 33. g4 Ne4 34. g5 Nd2 35. Rc5 Nf3 36. Rxa5 Nxg1 37. Bxg1 Rb8 38. Bc5 h6 39. gxh6 gxh6 40. Ra4 Re8 41. Rxb4 Re2+ 42. Kxa3 Rxh2 43. Bd4 Rf2 44. Bxf2 1-0
+

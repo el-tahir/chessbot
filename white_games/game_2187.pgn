@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6TuDQM1M"]
+[Date "2020.12.28"]
+[White "EltahirAmin"]
+[Black "Karzuba"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "14:07:43"]
+[WhiteElo "1956"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bd3 Qb6 8. b3 cxd4 9. Ne2 Bb4+ 10. Kf1 O-O 11. Ng3 h6 12. h4 f6 13. Ng5 fxe5 14. Qh5 e4 15. N3xe4 dxe4 16. Bxe4 Nf6 17. Qf3 Nxe4 18. Qxe4 e5 19. Qh7# 1-0
+

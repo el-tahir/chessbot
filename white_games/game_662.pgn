@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m9PlpbOx"]
+[Date "2022.04.28"]
+[White "EltahirAmin"]
+[Black "el_fngary"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:09:42"]
+[WhiteElo "2092"]
+[BlackElo "2095"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. e3 Nf6 2. d4 g6 3. Nf3 Bg7 4. c4 O-O 5. Nc3 d6 6. Bd3 Bg4 7. h3 Bxf3 8. Qxf3 Nc6 9. b3 e5 10. d5 Nb4 11. Bb1 Re8 12. a3 Na6 13. Bc2 c6 14. Bb2 cxd5 15. Nxd5 Nxd5 16. Qxd5 Nc5 17. h4 h5 18. Bxg6 Re6 19. Bxh5 Nxb3 20. Bg4 Rg6 21. Bh5 Rf6 22. Rd1 Qa5+ 23. Kf1 Qb6 24. Rh3 Nc5 25. Ba1 Ne6 26. Rg3 Kf8 27. Qxd6+ Qxd6 28. Rxd6 Ke7 29. Bxe5 Rxf2+ 30. Kxf2 Bxe5 31. Rd2 Bxg3+ 32. Kxg3 Rg8+ 33. Kh2 Rh8 34. Rd5 Nc7 35. Rf5 Ke6 36. Rc5 Na6 37. Rb5 f5 38. g4 fxg4 39. Bxg4+ Kd6 40. Kh3 Nc7 41. Rxb7 Ne6 42. Rxa7 Rc8 43. Ra6+ Rc6 44. Rxc6+ 1-0
+

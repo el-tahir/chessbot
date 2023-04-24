@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VipaL0fi"]
+[Date "2020.10.15"]
+[White "Camaroday01"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "09:07:56"]
+[WhiteElo "1958"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 c5 6. d4 Nc6 7. Bd3 Bxd3 8. Qxd3 cxd4 9. cxd4 Bb4+ 10. Bd2 Nge7 11. O-O O-O 12. a3 Bxd2 13. Nbxd2 Qb6 14. b4 Nf5 15. Nb3 Rac8 16. Nc5 Qc7 17. Rac1 b6 18. Na6 Qb7 19. b5 Na5 20. Ng5 Nc4 21. Nb4 f6 22. Nxe6 Rfe8 23. Qxf5 Ne3 24. Qh3 Nxf1 25. Rxf1 Qf7 26. Nc6 Rxe6 27. f5 Rexc6 28. bxc6 Rxc6 29. e6 Qc7 30. Qf3 Rc2 31. Qxd5 h6 32. Re1 Qf4 33. e7+ Kh7 34. Qf3 Qxd4+ 35. Qe3 Qg4 36. g3 Qh3 37. Re2 Rc1+ 38. Re1 Rc2 39. Qe2 Rxe2 40. Rxe2 Qxf5 41. e8=Q Qc5+ 42. Kg2 Qd5+ 43. Qe4+ Qxe4+ 44. Rxe4 Kg6 45. Re7 Kf5 46. Rxa7 h5 47. Rxg7 h4 48. Rb7 Kg4 49. Rxb6 h3+ 50. Kf2 f5 51. a4 f4 52. gxf4 Kxf4 53. Rh6 Kg4 54. a5 Kg5 55. Rh8 Kf5 56. a6 Kg4 57. a7 Kf4 58. a8=Q Kg4 59. Qa4+ Kf5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e8j2NrSW"]
+[Date "2021.02.10"]
+[White "EltahirAmin"]
+[Black "Partho"]
+[Result "1-0"]
+[UTCDate "2021.02.10"]
+[UTCTime "12:55:10"]
+[WhiteElo "1961"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 e5 4. Nxe4 f5 5. Nec3 Nf6 6. Bc4 Nc6 7. d3 Bb4 8. Bg5 Bd7 9. Nd2 Qe7 10. Qe2 Nd4 11. Qd1 O-O-O 12. O-O h6 13. Be3 f4 14. Bxd4 exd4 15. Nce4 Nxe4 16. Nxe4 g5 17. c3 dxc3 18. bxc3 Ba5 19. Re1 Qg7 20. Qb3 Bb6 21. a4 a5 22. Nd6+ Kb8 23. Rab1 f3 24. Bd5 Bc6 25. Bxc6 bxc6 26. c4 Rxd6 27. c5 Rd4 28. cxb6 Rb4 29. bxc7+ Kxc7 30. Qe6 Rxb1 31. Rxb1 Rd8 32. Qb3 Qd7 33. Qb6+ Kd6 34. Qxa5 fxg2 35. Qb4+ Ke6 36. Re1+ Kf5 37. Qe4+ Kf6 38. Qe5+ Kg6 39. Qe4+ Kh5 40. Re3 Rf8 41. Kxg2 Rf4 42. Rh3+ 1-0
+

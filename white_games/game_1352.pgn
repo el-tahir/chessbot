@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f4NXIhym"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "prepal1sta"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "21:04:46"]
+[WhiteElo "2035"]
+[BlackElo "2035"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Be2 Bf5 6. O-O e6 7. a3 Nf6 8. c3 Bd6 9. Bg5 O-O 10. Nbd2 h6 11. Bh4 Rc8 12. Re1 Re8 13. Nf1 a6 14. Ne3 Bg6 15. Bd3 Be7 16. Bxg6 fxg6 17. Qd3 g5 18. Bg3 Ne4 19. Rac1 Bd6 20. c4 Nxg3 21. hxg3 Bb8 22. Qg6 Qf6 23. Qxf6 gxf6 24. Ng4 Kg7 25. c5 Rcd8 26. Rc3 Kg6 27. Rb3 Re7 28. Ne3 h5 29. Kf1 g4 30. Nh4+ Kg7 31. Rb6 Nxd4 32. Nef5+ Nxf5 33. Nxf5+ Kf7 34. Nxe7 Kxe7 35. Rxb7+ Kf8 36. Rxe6 Be5 37. c6 d4 38. c7 Rc8 39. Rb8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P85oZitz"]
+[Date "2020.11.02"]
+[White "ajajjouhara"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "15:55:01"]
+[WhiteElo "2030"]
+[BlackElo "2028"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Time forfeit"]
+
+1. b3 c6 2. Bb2 d5 3. d3 Nf6 4. e3 Bg4 5. Ne2 e6 6. h3 Bh5 7. g4 Bg6 8. Ng3 Nbd7 9. Rg1 Qb6 10. a3 Bd6 11. Nd2 h5 12. g5 Ng8 13. h4 f6 14. gxf6 gxf6 15. Bh3 Ke7 16. Qe2 Nh6 17. O-O-O Nf5 18. Nxf5+ Bxf5 19. Bxf5 exf5 20. Rg7+ Kd8 21. Qf3 f4 22. Qh3 Qc7 23. Rdg1 Rf8 24. Qe6 Nc5 25. Qf5 Qc8 26. Qxh5 b5 27. Rg8 Rb8 28. Rxf8+ Bxf8 29. Rg8 Kc7 30. Qf7+ Kb6 31. Qxf6 fxe3 32. fxe3 Nd7 33. Qc3 Qe8 34. Qd4+ Ka6 35. b4 Qf7 36. Rg1 Nb6 37. Nb3 Na4 38. Ba1 Rc8 39. Nc5+ Bxc5 40. bxc5 Rg8 41. e4 Qf4+ 42. Kb1 Rxg1+ 43. Qxg1 dxe4 44. dxe4 Qxe4 45. Qg3 Qh1+ 46. Ka2 Qd5+ 47. Qb3 Qxb3+ 48. cxb3 Nxc5 49. Bd4 Ne6 50. Bf6 Kb7 51. h5 Nf8 52. h6 Kc8 53. h7 Nxh7 54. Be5 Kd7 55. b4 a5 56. bxa5 Kc8 57. Bd4 Kb7 58. Bb6 Ka6 59. Kb3 Nf6 60. Kb4 Nd5+ 61. Kc5 Nxb6 62. axb6 Kb7 0-1
+

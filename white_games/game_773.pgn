@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZJDKdqUb"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "PlasticBabu"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "05:10:56"]
+[WhiteElo "2052"]
+[BlackElo "2081"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 g6 3. Nf3 Nc6 4. d4 Bg7 5. d5 Bf8 6. dxc6 1-0
+

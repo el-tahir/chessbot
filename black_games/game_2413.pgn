@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/h4ER0ABq"]
+[Date "2020.12.20"]
+[White "IronMaximus21121992"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.20"]
+[UTCTime "17:42:55"]
+[WhiteElo "2032"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 Nc6 5. Nf3 e6 6. d4 d6 7. c3 Be7 8. Bf4 Bd7 9. Nbd2 O-O 10. Ne4 Rc8 11. exd6 cxd6 12. Nxd6 Bxd6 13. Bxd6 Re8 14. Ne5 Qf6 15. O-O Nd5 16. Nxd7 Qg6 17. Ne5 Qg5 18. Nxc6 bxc6 19. Bxd5 cxd5 20. Be5 Rb8 21. Bxb8 1-0
+

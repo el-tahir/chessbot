@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/45T5bcwi"]
+[Date "2020.12.05"]
+[White "EltahirAmin"]
+[Black "sergeybelyaev"]
+[Result "1-0"]
+[UTCDate "2020.12.05"]
+[UTCTime "14:07:45"]
+[WhiteElo "1828"]
+[BlackElo "1846"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3 Nf6 9. O-O Be7 10. Bg5 Nbd7 11. Rad1 O-O 12. Rfe1 Qb6 13. b3 Qa5 14. a4 Nd5 15. Bxe7 Nxe7 16. Ne5 Nxe5 17. Rxe5 Nd5 18. Rh5 g6 19. Rg5 Qd8 20. Re5 Rb8 21. c4 Nb4 22. Qd2 Na6 23. Qh6 Qf6 24. Nh5 Qh8 25. Rd3 Rbd8 26. Rf3 f5 27. Rxe6 Rd7 28. Rg3 Rg7 29. Nxg7 Qxg7 30. Rgxg6 hxg6 31. Rxg6 Rf7 32. Rxg7+ Rxg7 33. h4 Nb4 34. h5 Nc2 35. Qe6+ Kh7 36. Qxf5+ Kh6 37. Qxc2 1-0
+

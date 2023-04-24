@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J1cTSFOg"]
+[Date "2020.05.12"]
+[White "yuras777"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "10:00:00"]
+[WhiteElo "1929"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E34"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Qc2 d5 5. Bg5 O-O 6. e3 c5 7. a3 Bxc3+ 8. bxc3 cxd4 9. cxd4 Nc6 10. Nf3 Bd7 11. Ne5 Nxe5 12. Bxf6 Qxf6 13. dxe5 Qxe5 14. Rd1 Rac8 15. Bd3 g6 16. O-O Bb5 17. Qb1 Bxc4 18. Bxc4 Rxc4 19. Qxb7 a5 20. Rc1 Rfc8 21. Rxc4 Rxc4 22. Qa8+ Kg7 23. Qxa5 Qb2 24. h3 d4 25. exd4 Rxd4 26. Qe5+ Kg8 27. a4 Qb4 28. Rc1 Rd8 29. a5 h5 30. Rc7 Rd1+ 31. Kh2 Qd6 32. Rc8+ Qd8 33. Rxd8+ Rxd8 34. Qc7 Rf8 35. a6 Kg7 36. a7 Ra8 37. Qb8 1-0
+

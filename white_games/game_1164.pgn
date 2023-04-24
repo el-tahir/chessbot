@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RTjAOMuE"]
+[Date "2021.10.12"]
+[White "EltahirAmin"]
+[Black "Gruzinchik"]
+[Result "1-0"]
+[UTCDate "2021.10.12"]
+[UTCTime "04:22:46"]
+[WhiteElo "2089"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Time forfeit"]
+
+1. f4 b6 2. Nf3 Bb7 3. Nc3 g6 4. e4 Bg7 5. d4 e6 6. Bd3 Ne7 7. Be3 O-O 8. Qd2 d5 9. O-O-O dxe4 10. Bxe4 Bxe4 11. Nxe4 Nf5 12. h4 Nxe3 13. Qxe3 Qd5 14. Kb1 Na6 15. h5 Nb4 16. b3 a5 17. hxg6 fxg6 18. Neg5 a4 19. Qxe6+ Qxe6 20. Nxe6 Rf7 21. Nfg5 Re7 22. Nxg7 Rxg7 23. c3 Nc6 24. Rh6 axb3 25. axb3 Rf8 26. g3 Na5 27. Ne6 Nxb3 28. Nxf8 Kxf8 29. Kc2 Na5 30. Rdh1 Nc4 31. Rxh7 Ne3+ 32. Kd3 Nf5 33. Rxg7 Kxg7 34. Re1 Nxg3 35. Re7+ Kf6 36. Rxc7 Kf5 37. Rb7 Kxf4 38. Rxb6 g5 39. c4 g4 40. c5 Nf5 41. c6 g3 42. c7 g2 43. c8=Q g1=Q 44. Qc7+ Kg5 45. Qc6 Qxd4+ 46. Kc2 Ne3+ 47. Kb3 Qd1+ 48. Kb4 Nc2+ 49. Ka5 Qa1+ 50. Kb5 Qb2+ 51. Kc5 Qd4+ 52. Kb5 Qb4+ 53. Ka6 Qa3+ 54. Kb7 Qe7+ 55. Ka8 Qd8+ 56. Rb8 Qa5+ 57. Kb7 Nb4 58. Rg8+ Kf4 59. Qf6+ Ke4 60. Re8+ Kd3 61. Qd6+ Kc3 62. Rc8+ Kb3 63. Qg3+ Kb2 64. Qc3+ Ka2 65. Qd2+ Kb3 66. Qd1+ Kb2 67. Qc1+ Kb3 68. Rc3+ Ka4 69. Qa3+ Kb5 70. Rc5+ Kxc5 71. Qxa5+ Kc4 72. Kb6 Nd3 73. Qb5+ Kd4 74. Kc6 Ke3 75. Qd5 Kd2 76. Kb5 Kc3 77. Ka4 Nc1 78. Qe5+ Kd2 79. Qf4+ Kc2 80. Qg5 Nd3 81. Qg2+ Kc3 82. Qg1 Kc4 83. Qg3 Kd5 84. Qxd3+ Ke5 85. Qc2 Ke6 86. Kb4 Ke5 87. Qc3+ Ke4 88. Qc4+ Kf3 89. Qc3+ Ke2 90. Qc2+ Kf3 91. Kc4 Ke3 92. Qc1+ Ke4 93. Qd1 1-0
+

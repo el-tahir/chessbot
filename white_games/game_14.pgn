@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ErB4qLNT"]
+[Date "2023.03.13"]
+[White "EltahirAmin"]
+[Black "soloturqo"]
+[Result "1-0"]
+[UTCDate "2023.03.13"]
+[UTCTime "19:00:08"]
+[WhiteElo "2010"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 h6 6. Be2 Bd6 7. c3 Bd7 8. d4 Bc6 9. Be3 O-O 10. Qd3 Bxg3 11. hxg3 Bxf3 12. Bxf3 c6 13. O-O-O Nbd7 14. Bxh6 gxh6 15. Rxh6 Re8 16. Rdh1 Kf8 17. Qc4 Ke7 18. Qb4+ c5 19. dxc5 a5 20. Qa3 Qc7 21. c6+ Kd8 22. cxd7 Nxd7 23. Rd1 Kc8 24. Rh4 Kb8 25. Rhd4 Nb6 26. Qb3 Ka7 27. Qb5 Red8 28. Qxa5+ Kb8 29. Rxd8+ Nc8 30. Qxc7+ Kxc7 31. R1d7+ Kb6 32. Rxf7 Rb8 33. Rff8 1-0
+

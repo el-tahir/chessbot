@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xnloKdrm"]
+[Date "2020.12.23"]
+[White "SamihDiDi"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "08:27:38"]
+[WhiteElo "1917"]
+[BlackElo "1946"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C30"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. fxe5 Nge7 5. d4 Bb6 6. Bc4 Ng6 7. c3 O-O 8. Be3 d6 9. exd6 Qxd6 10. e5 Qe7 11. O-O Bg4 12. Kh1 Nh4 13. Be2 Rad8 14. Qe1 Nf5 15. Bg5 f6 16. exf6 gxf6 17. Bh6 Rfe8 18. Qd2 Qxe2 19. Qxe2 Rxe2 20. h3 Bxf3 21. Rxf3 Nxh6 22. Rxf6 Kg7 23. Rf1 Rf8 24. Rxf8 Kxf8 25. Na3 Ne7 26. Nc4 Nef5 27. Ne5 Ne3 28. Nd7+ Ke7 29. Ne5 Nhf5 30. g4 Ng3+ 31. Kg1 Rg2# 0-1
+

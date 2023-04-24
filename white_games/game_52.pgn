@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AowbFxkT"]
+[Date "2023.03.05"]
+[White "EltahirAmin"]
+[Black "ilzav-99"]
+[Result "0-1"]
+[UTCDate "2023.03.05"]
+[UTCTime "10:00:18"]
+[WhiteElo "1981"]
+[BlackElo "1947"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 c6 5. Bd3 Nf6 6. O-O Be7 7. Bg5 O-O 8. Nbd2 Bg4 9. c3 Re8 10. h3 Bh5 11. Qc2 Nbd7 12. Rae1 Qb6 13. Ne5 Rad8 14. f4 Bg6 15. Ndf3 Bxd3 16. Nxd3 Ne4 17. Bxe7 Rxe7 18. b3 Rde8 19. Nde5 f6 20. Nxd7 Rxd7 21. Re2 Rde7 22. Rfe1 Qc7 23. Qc1 Kf7 24. Nd2 Qxf4 25. Nxe4 Qxc1 26. Ng5+ fxg5 27. Rxe7+ Rxe7 28. Rxc1 Re2 29. Ra1 Rc2 30. c4 dxc4 31. bxc4 Rxc4 32. Rb1 b6 33. Rd1 Rc2 34. d5 cxd5 35. Rxd5 Ke6 36. Rxg5 g6 37. Rg4 Rxa2 38. Rh4 h6 39. Rxh6 Kf6 40. Rh4 b5 41. Rb4 a6 42. g4 Ra4 43. Rb1 b4 44. Rb3 a5 45. Kg2 Ra2+ 46. Kf1 Ra3 47. Rb2 Rxh3 48. Ra2 Ra3 49. Rf2+ Kg5 0-1
+

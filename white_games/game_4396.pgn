@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hncqrSDs"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "ENG_MR_Demir"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:56:56"]
+[WhiteElo "1971"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 c6 5. g3 Nf6 6. d4 Bf5 7. Bf4 Qd8 8. Bg2 e6 9. O-O Bd6 10. Bg5 h6 11. Be3 O-O 12. Qd2 Ng4 13. Rae1 Nxe3 14. Rxe3 Bg6 15. Rfe1 Nd7 16. Nh4 Bh7 17. Ne4 Bc7 18. c4 Re8 19. b4 Nf6 20. Nf3 Nxe4 21. Rxe4 Bxe4 22. Rxe4 Qf6 23. Nh4 Rad8 24. Rg4 Bb6 25. c5 Bc7 26. Bf1 Re7 27. Qe3 Red7 28. Nf3 a5 29. a3 axb4 30. axb4 b6 31. Kg2 bxc5 32. bxc5 Re7 33. Bd3 e5 34. Qe4 g6 35. Nh4 exd4 36. Qxg6+ fxg6 37. Rxg6+ Qxg6 38. Nxg6 Red7 39. Nf4 Bxf4 40. gxf4 Rd5 41. Kf3 Rxc5 42. Ke4 Rcd5 43. f5 R5d7 44. h4 c5 45. h5 c4 46. Bxc4+ Kg7 47. Bd3 Kf6 48. f4 Re8+ 49. Kf3 Red8 50. Ke4 Rc8 51. Kf3 Rc3 52. Ke4 Ra7 53. Kxd4 Raa3 54. Bb5 Rg3 55. Kc4 Rgf3 56. Kc5 Rxf4 57. Kb6 Raf3 58. Kc6 Rxf5 59. Ba6 Rxh5 60. Bc8 Rg5 61. Bd7 Rg8 62. Bg4 Rh8 63. Bh3 1-0
+

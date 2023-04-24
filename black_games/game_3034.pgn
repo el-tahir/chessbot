@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GradTs8G"]
+[Date "2020.11.20"]
+[White "zarathoustran"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.20"]
+[UTCTime "11:40:14"]
+[WhiteElo "1885"]
+[BlackElo "1898"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. d3 c6 2. e4 d5 3. e5 Bf5 4. d4 e6 5. c3 c5 6. Nf3 cxd4 7. Nxd4 Bg6 8. Bb5+ Nd7 9. h4 h5 10. Bg5 Be7 11. Bxe7 Nxe7 12. Qf3 O-O 13. Qd1 Nxe5 14. Ba4 a6 15. Bc2 Bxc2 16. Qxc2 Qb6 17. O-O Rac8 18. Nd2 Qxd4 19. cxd4 Rxc2 20. dxe5 Rxd2 21. f4 Nf5 0-1
+

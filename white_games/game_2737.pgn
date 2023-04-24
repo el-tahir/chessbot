@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HBLhP3ro"]
+[Date "2020.12.07"]
+[White "EltahirAmin"]
+[Black "Evgeny_Zapolotsky"]
+[Result "1-0"]
+[UTCDate "2020.12.07"]
+[UTCTime "15:39:29"]
+[WhiteElo "1856"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d4 dxe4 4. Ng5 Nf6 5. Bc4 e6 6. Qe2 Bd6 7. O-O O-O 8. b3 Nbd7 9. Bb2 Nb6 10. Nd2 Nxc4 11. Nxc4 Bc7 12. Rad1 Re8 13. Ne5 Re7 14. Nxe4 Nxe4 15. Qxe4 Qd5 16. Qh4 c5 17. Qxe7 1-0
+

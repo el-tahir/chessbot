@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gtp89kMO"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "tojoratovoarison"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "17:56:19"]
+[WhiteElo "1950"]
+[BlackElo "1956"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bg5 Qb6 7. Na4 Qb4+ 8. c3 Qa5 9. Be2 b5 10. Nxc5 Nxc5 11. dxc5 Qc7 12. b4 Nc6 13. Bxb5 Bd7 14. a4 a6 15. Bd3 Be7 16. Bxe7 Nxe7 17. O-O O-O 18. Bxh7+ Kxh7 19. Ng5+ Kg6 20. Qg4 Rh8 21. Nxe6+ Kh7 22. Qxg7# 1-0
+

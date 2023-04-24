@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LH6Kc3uI"]
+[Date "2022.06.09"]
+[White "victoredu1982"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.09"]
+[UTCTime "16:46:02"]
+[WhiteElo "2006"]
+[BlackElo "2020"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 e6 7. h3 Bd6 8. Be3 O-O 9. Qd2 b6 10. O-O Bb7 11. Bc2 Qe7 12. Bg5 g6 13. Bh6 Rfe8 14. Re1 e5 15. dxe5 Nxe5 16. Nd4 Qd7 17. Bb3 a5 18. a4 Re7 19. Nb5 Rae8 20. N1a3 Bc5 21. Bg5 Kg7 22. Bxf6+ Kxf6 23. Qxd5 Bxd5 0-1
+

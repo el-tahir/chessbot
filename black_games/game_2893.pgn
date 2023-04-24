@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jpFFddEz"]
+[Date "2020.11.24"]
+[White "Juancarlosrojinegro"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.24"]
+[UTCTime "16:22:50"]
+[WhiteElo "1937"]
+[BlackElo "1906"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 Nc6 6. Nc3 e6 7. a3 Be7 8. Be2 O-O 9. O-O b6 10. h3 Bb7 11. Bg5 h6 12. Be3 Rc8 13. cxd5 exd5 14. Qd2 a6 15. Rac1 Qd6 16. Rfe1 Bd8 17. Bxh6 Bc7 18. Qg5 Ne8 19. Nxd5 Nxd4 20. Nxc7 Nxe2+ 21. Rxe2 Rxc7 22. Rxc7 Qxh6 23. Qxh6 gxh6 24. Rxb7 Nd6 25. Rxb6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ONjW8CwG"]
+[Date "2021.02.19"]
+[White "Petritii"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.19"]
+[UTCTime "15:10:18"]
+[WhiteElo "2041"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e6 4. d4 cxd4 5. cxd4 Nf6 6. d5 exd5 7. exd5 Ne7 8. d6 Nc6 9. Qe2+ 1-0
+

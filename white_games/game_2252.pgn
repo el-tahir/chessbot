@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/noeR3YDY"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "phil1009"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "10:55:05"]
+[WhiteElo "1954"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. d4 cxd4 5. cxd4 dxe4 6. Ne5 Nxe5 7. dxe5 Qxd1+ 8. Kxd1 Bf5 9. Nc3 a6 10. Nd5 O-O-O 11. Bc4 e6 12. Bg5 exd5 13. Bxd8 dxc4 14. Bb6 Bb4 15. Ke2 Ne7 16. Rad1 Nc6 17. Rd5 Re8 18. Rhd1 Be6 19. Rd6 Bxd6 20. exd6 Kd7 21. Ke3 f5 22. Kf4 g6 23. h4 Nd8 24. Kg5 Nf7+ 25. Kf6 Rc8 26. Kg7 Nxd6 27. Kxh7 Kc6 28. Be3 Bf7 29. Kg7 Rg8+ 30. Kf6 Rh8 31. g3 b5 32. Bf4 Ne8+ 33. Kxf7 Nc7 34. Rd6+ Kc5 35. Rd7 Nd5 36. Bg5 b4 37. Kxg6 c3 38. bxc3 bxc3 39. Kxf5 e3 40. fxe3 Rf8+ 41. Ke5 Nb4 42. Be7+ Kc4 43. Bxf8 Nd3+ 44. Ke4 c2 45. Rc7+ Nc5+ 46. Rxc5+ Kb4 47. Rxc2+ 1-0
+

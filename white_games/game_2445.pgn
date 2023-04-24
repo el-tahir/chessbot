@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BxsnfdU1"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "Kinaman"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "16:58:03"]
+[WhiteElo "1982"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nc3 d5 3. e4 dxe4 4. Nxe4 c5 5. Nf3 cxd4 6. Nxd4 Nf6 7. Nxf6+ Qxf6 8. Be3 Be7 9. Bb5+ Nd7 10. Qf3 Qxf3 11. Nxf3 a6 12. Ba4 b5 13. Bb3 Bb7 14. O-O-O Nf6 15. Bb6 O-O 16. Rhg1 Bd8 17. Bd4 Nd5 18. g4 Nf6 19. Ne5 Bc7 20. g5 Nd5 21. h4 a5 22. a4 bxa4 23. Bxa4 Nb4 24. h5 Rfd8 25. Bc3 Bd5 26. g6 hxg6 27. hxg6 f6 28. Nf7 Rf8 29. Bb3 Bxb3 30. cxb3 Rxf7 31. gxf7+ Kxf7 32. Rd7+ Kf8 33. Rxc7 Nd3+ 34. Kd2 Nxf2 35. Rgxg7 Ne4+ 36. Kd3 Nd6 37. Bxf6 Rd8 38. Bxd8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3ImQQL9L"]
+[Date "2021.11.01"]
+[White "EltahirAmin"]
+[Black "HeikoDeLaNoche"]
+[Result "0-1"]
+[UTCDate "2021.11.01"]
+[UTCTime "21:33:21"]
+[WhiteElo "2052"]
+[BlackElo "2053"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Nc6 4. d3 Bg4 5. Bf4 e5 6. Bg3 Bc5 7. Qd2 h5 8. h3 Be6 9. O-O-O Bxa2 10. b3 Ba3# 0-1
+

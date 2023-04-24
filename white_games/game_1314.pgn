@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WTCD4w8Y"]
+[Date "2021.03.03"]
+[White "EltahirAmin"]
+[Black "kartik567890"]
+[Result "0-1"]
+[UTCDate "2021.03.03"]
+[UTCTime "18:42:07"]
+[WhiteElo "2025"]
+[BlackElo "2040"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+16"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 b5 8. Nxb5 c6 9. Qf3 f6 10. O-O cxb5 11. Qxa8 bxc4 12. Re1 N8e7 13. exf6 gxf6 14. Bd2 Qc7 15. Qf3 Bg7 16. Re2 O-O 17. Rae1 Bb7 18. Qh5 Qc6 19. f3 Nd5 20. h4 Ndf4 21. Bxf4 Nxf4 22. Qf5 Nxe2+ 23. Rxe2 Kh8 24. Re7 Rg8 25. h5 h6 26. Qg6 Qd6 27. Rf7 Qxd4+ 28. Kh1 Qh4+ 29. Kg1 Qe1+ 30. Kh2 Qh4+ 31. Kg1 Bd5 32. Rxd7 Qe1+ 33. Kh2 Qe6 34. Rxa7 Qe2 0-1
+

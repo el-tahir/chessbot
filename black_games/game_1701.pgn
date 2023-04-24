@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HCZsfJz8"]
+[Date "2021.02.10"]
+[White "Thanos2049"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.10"]
+[UTCTime "12:48:11"]
+[WhiteElo "1951"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 Nc6 8. O-O Nge7 9. Na3 Ng6 10. Nc2 Be7 11. g3 h5 12. h4 Nxh4 13. Nxh4 Bxh4 14. gxh4 Qxh4 15. Qg3 Qe7 16. Bg5 f6 17. exf6 gxf6 18. Bd2 O-O-O 19. Kh2 Rdg8 20. Qf3 Qd6+ 21. Bf4 e5 22. dxe5 fxe5 23. Qh3+ Kb8 24. Bd2 e4+ 25. Kh1 Ne5 26. Qh2 Qf6 27. Bf4 Re8 28. Bxe5+ Rxe5 29. Rg1 Ka8 30. Raf1 h4 31. Qh3 Rf5 32. Rg2 Rf3 33. Qh2 h3 34. Rg3 Rf8 35. Ne3 Rxe3 36. Rxe3 d4 37. cxd4 cxd4 38. Rxh3 e3 39. fxe3 Qxf1+ 40. Qg1 Qxh3+ 41. Qh2 Rf1# 0-1
+

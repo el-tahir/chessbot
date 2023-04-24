@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zOSIUGCC"]
+[Date "2023.03.04"]
+[White "thaddeus_stevens"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.04"]
+[UTCTime "20:34:41"]
+[WhiteElo "2114"]
+[BlackElo "1985"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 Nf6 5. e5 Nd5 6. Bc4 Nb6 7. Bb3 e6 8. Nc3 Be7 9. Nge2 d6 10. exd6 Qxd6 11. O-O O-O 12. Be3 Bd7 13. Ne4 Qc7 14. Rc1 Rac8 15. N2g3 Qb8 16. Qh5 Nb4 17. Bg5 Bxg5 18. Nxg5 h6 19. N3e4 Qf4 20. g3 Qf5 21. Nd6 Qxg5 22. Qxg5 hxg5 23. Nxc8 Rd8 24. Nxb6 axb6 25. Rc3 Bc6 26. Rd1 e5 27. d5 Nxd5 28. Bxd5 Bxd5 29. Rcd3 1-0
+

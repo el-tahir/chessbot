@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Jj3e4BEP"]
+[Date "2021.10.14"]
+[White "Alvar71"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "02:36:26"]
+[WhiteElo "1996"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 Bg4 5. Be2 e6 6. h3 Bh5 7. O-O Bd6 8. Ne5 Bxe2 9. Qxe2 Nbd7 10. Nxf7 Kxf7 11. Bxd6 Nb6 12. Bh2 Rf8 13. Nd2 Kg8 14. c4 Nbd7 15. c5 Qe7 16. b4 e5 17. dxe5 Nxe5 18. Nf3 Nxf3+ 19. Qxf3 Ne4 20. Qe2 Rf7 21. f3 Ng5 22. Rad1 Re8 23. Rfe1 d4 24. Rxd4 Qf6 25. Rf4 Qc3 26. Rxf7 Kxf7 27. Bf4 Ne6 28. Bd6 Qxb4 29. Qd3 Qxe1+ 30. Kh2 Qh4 31. Qf5+ Kg8 32. g3 Qf6 33. Qe4 Ng5 34. Qxe8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O1ETnmCC"]
+[Date "2021.11.06"]
+[White "Indritriani"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.06"]
+[UTCTime "02:55:28"]
+[WhiteElo "1978"]
+[BlackElo "2022"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. f4 Bb7 3. Nf3 Bxe4 4. Bc4 e6 5. d3 Bb7 6. a3 d5 7. Ba2 Nf6 8. Nc3 c5 9. Qe2 Nc6 10. f5 Qe7 11. O-O exf5 12. Qf2 Bc8 13. Nxd5 Nxd5 14. Bxd5 Qd6 15. c4 Be7 16. Re1 O-O 17. Bg5 Bxg5 18. Nxg5 h6 19. Nxf7 Rxf7 20. Re8+ Kh7 21. Bxf7 Qd4 22. Qxd4 Nxd4 23. Rae1 Bb7 24. Rxa8 Bxa8 25. Re7 a5 26. Bd5 Nc6 27. Rc7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AoHsEOKO"]
+[Date "2021.03.03"]
+[White "turnusol38"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.03"]
+[UTCTime "22:04:57"]
+[WhiteElo "1990"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Bg5 e6 5. e4 Be7 6. Bxf6 Bxf6 7. e5 Be7 8. f4 O-O 9. Nf3 b6 10. cxd5 cxd5 11. Bb5 Bb7 12. O-O Nc6 13. a3 Rc8 14. Rc1 a6 15. Bd3 b5 16. b4 f6 17. f5 fxe5 18. Nxe5 Nxd4 19. f6 Bxf6 20. Bxh7+ Kxh7 21. Qxd4 Rc4 22. Qd3+ Kg8 23. Nxc4 dxc4 24. Qxd8 Rxd8 25. Rcd1 Re8 26. Ne2 e5 27. Ng3 e4 28. Rd7 Bc8 29. Rc7 Bb2 30. Re1 e3 31. Nf1 e2 32. Ng3 Bg4 33. h3 Bc3 34. Kf2 Bxe1+ 35. Kxe1 Bc8 36. Nxe2 Kh7 37. Kf2 Kg6 38. Nf4+ Kf5 39. Kf3 Rf8 40. g4+ Ke5 41. Rxg7 Rxf4+ 42. Kg3 c3 43. Re7+ Be6 44. Rxe6+ Kxe6 45. Kxf4 c2 46. g5 c1=Q+ 47. Kg4 Kf7 48. h4 Kg6 49. h5+ Kg7 50. h6+ Kg6 51. h7 Qxg5+ 52. Kf3 Kxh7 53. Ke4 Qc1 54. Kd5 Qxa3 55. Kc6 Qxb4 56. Kb6 a5 57. Kc6 a4 58. Kd7 a3 59. Ke6 a2 60. Kd5 a1=Q 61. Ke6 Qc1 62. Kd7 Qbd2+ 63. Ke6 Qce1+ 64. Kf5 Qdf2+ 65. Kg4 Qeg1+ 66. Kh3 Qfh2# 0-1
+

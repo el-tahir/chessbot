@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mtqrrm5M"]
+[Date "2021.11.10"]
+[White "EltahirAmin"]
+[Black "TodoMundoAvisou"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "17:33:58"]
+[WhiteElo "2058"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e6 3. d4 g6 4. Bd3 Bg7 5. O-O Ne7 6. Re1 O-O 7. c4 Nd7 8. Nc3 e5 9. Be3 h6 10. Qd2 exd4 11. Nxd4 Kh7 12. f4 Nc5 13. Bc2 a6 14. b4 Ne6 15. f5 Nxd4 16. Bxd4 Bxd4+ 17. Qxd4 Nc6 18. Qf2 Nxb4 19. fxg6+ fxg6 20. Qd2 Nxc2 21. Qxc2 Be6 22. Rad1 Bxc4 23. e5 b5 24. Ne4 d5 25. Nf6+ Kg7 26. Re3 Qe7 27. Rg3 g5 28. Qh7# 1-0
+

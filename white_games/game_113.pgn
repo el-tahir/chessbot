@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tNCkqxF6"]
+[Date "2023.02.24"]
+[White "EltahirAmin"]
+[Black "orsted"]
+[Result "0-1"]
+[UTCDate "2023.02.24"]
+[UTCTime "01:54:05"]
+[WhiteElo "1954"]
+[BlackElo "1871"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. Nc3 d6 4. d4 Nf6 5. Bd3 O-O 6. Be3 Nc6 7. Qd2 Re8 8. O-O-O e5 9. Kb1 exd4 10. Nxd4 Nxd4 11. Bxd4 a6 12. h4 b5 13. h5 Nxh5 14. Rxh5 Bxd4 15. Rh2 Qf6 16. Rdh1 h5 17. f3 Be6 18. Rh4 b4 19. Nd5 Bxd5 20. exd5 Bxb2 21. g4 Bc3 22. Qh6 Ba1 23. Kc1 Qb2+ 24. Kd1 Qb1+ 25. Qc1 Qxc1+ 26. Kxc1 hxg4 27. fxg4 Be5 28. g5 a5 29. Bb5 Reb8 30. Bc6 Ra7 31. Rf1 a4 32. Rh3 b3 33. axb3 axb3 34. Kd2 bxc2 35. Kxc2 Rb2+ 36. Kd3 Rb3+ 0-1
+

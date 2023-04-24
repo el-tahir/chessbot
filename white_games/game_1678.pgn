@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PpHmMNgL"]
+[Date "2021.02.14"]
+[White "EltahirAmin"]
+[Black "wolf-fox"]
+[Result "0-1"]
+[UTCDate "2021.02.14"]
+[UTCTime "12:26:20"]
+[WhiteElo "1959"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nf3 Bxc3 4. dxc3 d6 5. Bg5 Ne7 6. Bc4 O-O 7. Qd2 Be6 8. Bd3 f6 9. Bh4 Ng6 10. Bg3 Nd7 11. O-O-O Nc5 12. h4 Qe8 13. h5 Ne7 14. Bh4 Bxa2 15. g4 Be6 16. g5 Qa4 0-1
+

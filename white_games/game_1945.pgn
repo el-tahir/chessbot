@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8ek3fUbF"]
+[Date "2021.01.18"]
+[White "EltahirAmin"]
+[Black "Analgesico"]
+[Result "0-1"]
+[UTCDate "2021.01.18"]
+[UTCTime "17:04:20"]
+[WhiteElo "1949"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Qb6 7. b3 Nc6 8. Bd3 cxd4 9. Na4 Qa5+ 10. Bd2 Bb4 11. Bxb4 Qxb4+ 12. Kf2 b5 13. Nb2 Qc3 14. Rb1 a6 15. h4 g6 16. h5 Rg8 17. hxg6 hxg6 18. Rh7 Nf8 19. Ng5 Nxh7 20. Nxh7 Rg7 21. Nf6+ Ke7 22. Qg4 Qd2+ 23. Kf1 g5 24. f5 Qf4+ 25. Qxf4 gxf4 26. Re1 exf5 27. Nxd5+ Kd8 28. Nxf4 Be6 29. Nh5 Rh7 30. Nf6 Rh1+ 31. Kf2 Rxe1 32. Kxe1 Ke7 33. Nd1 Nb4 34. Nh5 Nxa2 35. Nf2 Nb4 36. Nf4 Rh8 37. Kd2 Rg8 38. g3 Nxd3 39. Ke2 Nxf4+ 40. gxf4 Rg2 41. c3 dxc3 42. Kd3 Rxf2 43. Kxc3 Rxf4 44. b4 Re4 45. Kc2 Rxe5 46. Kb2 Re4 47. Kc3 Rc4+ 48. Kb3 f4 49. Kb2 f3 50. Kb1 f2 51. Kb2 f1=Q 52. Kb3 Qd3+ 53. Kb2 Rc2+ 54. Ka1 Qd1# 0-1
+

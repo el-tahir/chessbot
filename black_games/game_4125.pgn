@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LCmNzGMP"]
+[Date "2020.10.20"]
+[White "Mattitanium"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.20"]
+[UTCTime "17:57:09"]
+[WhiteElo "1851"]
+[BlackElo "1851"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bg5 Bg4 6. h3 Bh5 7. g3 e6 8. g4 Bg6 9. Bd3 Be7 10. O-O Nc6 11. Bxf6 Bxf6 12. Nbd2 Qb6 13. Nb3 a5 14. c3 a4 15. Nc5 Qxb2 16. Rb1 Qxc3 17. Rxb7 O-O 18. Bxg6 hxg6 19. Qb1 Nxd4 20. Nxd4 Bxd4 21. Nd3 Rfc8 22. Rc1 Qd2 23. Rxc8+ Rxc8 24. Kg2 Rc3 25. Rb8+ Kh7 26. Rb2 Qxd3 27. Qxd3 Rxd3 28. Rb4 Bf6 29. Rxa4 Rd1 30. Ra8 Ra1 31. a3 Bd4 32. a4 Ra2 33. a5 Bxf2 34. Kf3 d4 35. a6 d3 36. a7 d2 37. Kxf2 d1=Q+ 38. Kg3 Qd3+ 39. Kh4 g5+ 40. Kxg5 Qg6+ 41. Kh4 Qh6+ 42. Kg3 Ra3+ 43. Kf2 Qd2+ 0-1
+

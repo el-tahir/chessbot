@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hMio9fv7"]
+[Date "2022.05.08"]
+[White "EltahirAmin"]
+[Black "SetiaHati"]
+[Result "1-0"]
+[UTCDate "2022.05.08"]
+[UTCTime "05:14:36"]
+[WhiteElo "2061"]
+[BlackElo "2069"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. exd5 exd5 5. d4 Bd6 6. Bd3 O-O 7. O-O Bg4 8. Bg5 c6 9. h3 Bh5 10. Be2 Nbd7 11. Nh4 Bxe2 12. Qxe2 Qc7 13. Rae1 h6 14. Be3 Bf4 15. Qd2 Nh5 16. g4 Bh2+ 17. Kh1 Bg3 18. gxh5 Bxh4 19. Bxh6 gxh6 20. Qxh6 Bg5 21. Qxg5+ Kh7 22. Qf5+ Kh6 23. Rg1 Rg8 24. Rxg8 Rxg8 25. Ne2 Qd6 26. Nf4 Nf6 27. Re6 fxe6 28. Qxf6+ Kh7 29. Qf7+ Rg7 30. Qf6 Qe7 31. Qxe6 Qxe6 32. Nxe6 Re7 33. Nc5 Re2 34. Nxb7 Rxc2 35. Nd8 Rxb2 36. Nxc6 Rxa2 37. Kg2 Rxf2+ 38. Kxf2 a6 39. Kf3 Kh6 40. Kf4 Kxh5 41. Ke5 Kh4 42. Kxd5 Kxh3 43. Kc5 Kg4 44. Kd6 Kf5 45. d5 Ke4 46. Ke6 Kd3 47. d6 Kc4 48. d7 Kb5 49. Nb8 a5 50. d8=Q a4 51. Qd7+ Kb4 52. Nc6+ 1-0
+

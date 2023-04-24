@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3jlvRosa"]
+[Date "2021.02.26"]
+[White "gbsky"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.26"]
+[UTCTime "13:28:29"]
+[WhiteElo "2049"]
+[BlackElo "2031"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. h3 e5 7. dxe5 Nxe5 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Nge2 Bc5 11. O-O O-O 12. Bf4 Ng6 13. Bg5 Rad8 14. Bxf6 gxf6 15. Nd4 Kh8 16. Qd3 Rg8 17. Kh2 Nf4 18. Qb5 Rxg2+ 0-1
+

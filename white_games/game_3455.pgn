@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aSVEetsW"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "taha1969"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "20:50:53"]
+[WhiteElo "1975"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be2 Bg4 7. O-O e6 8. Be3 cxd4 9. Nxd4 Nxd4 10. Bxd4 Bxe2 11. Qxe2 Be7 12. Nd2 O-O 13. Rad1 Qxa2 14. Nf3 Rad8 15. Ne5 a6 16. f4 Bd6 17. f5 Bxe5 18. Qxe5 Rd5 19. Qg3 Nh5 20. Qg5 g6 21. g4 Rxd4 22. cxd4 Ng7 23. f6 Ne8 24. Qh6 Qxb2 25. Rb1 Qxd4+ 26. Kh1 Nxf6 27. Rxb7 Qd5+ 28. Kg1 Qxb7 29. g5 Qb6+ 30. Kh1 Qc6+ 31. Kg1 Qc5+ 32. Kh1 Qd5+ 33. Kg1 Qd4+ 34. Kh1 Qe4+ 35. Kg1 Qe3+ 36. Kh1 Ng4 37. Qh4 Qe4+ 38. Kg1 Qd4+ 39. Kh1 Qd5+ 40. Kg1 Qd4+ 41. Kh1 Qc4 42. Kg1 Qc5+ 43. Kh1 1-0
+

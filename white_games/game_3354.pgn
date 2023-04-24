@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RRQ1HWQP"]
+[Date "2020.11.12"]
+[White "EltahirAmin"]
+[Black "PakMatTempe"]
+[Result "1-0"]
+[UTCDate "2020.11.12"]
+[UTCTime "00:46:35"]
+[WhiteElo "1906"]
+[BlackElo "1810"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 f5 3. Nc3 d6 4. Nf3 Nf6 5. Bc4 Nxe4 6. Bf4 d5 7. Bb3 Be7 8. Qd3 O-O 9. Ne5 c6 10. f3 Nf6 11. O-O-O Qa5 12. Rhg1 Bb4 13. Nb1 Nbd7 14. g4 Nb6 15. g5 Nfd7 16. h4 Nxe5 17. Bxe5 Nd7 18. f4 b6 19. h5 Ba6 20. Qh3 Bc4 21. g6 h6 22. Qh4 Bxb3 23. axb3 Qb5 24. Bxg7 Kxg7 25. Rd3 Nf6 26. Re3 Be7 27. Rxe6 Rfe8 28. Rge1 Kf8 29. Rxf6+ Bxf6 30. Qxf6+ Kg8 31. Qf7+ Kh8 32. Qh7# 1-0
+

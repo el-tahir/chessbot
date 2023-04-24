@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SmSnhtub"]
+[Date "2020.11.03"]
+[White "medulloblastoma"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "23:49:02"]
+[WhiteElo "2008"]
+[BlackElo "2060"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A51"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bc5 4. e3 O-O 5. Nc3 d6 6. Bd3 Bg4 7. f3 Bh5 8. Qc2 Bg6 9. Bd2 c6 10. e4 cxd5 11. Nxd5 Nxd5 12. exd5 Bxd3 13. Qxd3 Qf6 14. Ne2 Nd7 15. Ng3 Rae8 16. Ne4 Qh4+ 17. g3 Qh3 18. O-O-O f5 19. Ng5 Qh5 20. Rdg1 Bxg1 21. Rxg1 Nc5 22. Qc2 h6 23. g4 fxg4 24. fxg4 Qh4 25. Qh7# 1-0
+

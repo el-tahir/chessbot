@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/95voCyAX"]
+[Date "2020.10.19"]
+[White "ShekharMahadevan"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.19"]
+[UTCTime "16:29:05"]
+[WhiteElo "1881"]
+[BlackElo "1877"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Be3 Bg4 6. Be2 e6 7. O-O Be7 8. c3 Nc6 9. Nbd2 O-O 10. h3 Bh5 11. Ne5 Bg6 12. f4 1-0
+

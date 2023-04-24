@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nD74O6pF"]
+[Date "2020.12.17"]
+[White "EltahirAmin"]
+[Black "agushsurf"]
+[Result "0-1"]
+[UTCDate "2020.12.17"]
+[UTCTime "16:30:54"]
+[WhiteElo "1957"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Qe7 4. Be3 g6 5. Bd3 Bg7 6. Nc3 c6 7. Qd2 Nd7 8. O-O-O f6 9. h4 h5 10. Nh2 Nh6 11. f3 Nb6 12. Rdg1 Bd7 13. g4 hxg4 14. fxg4 O-O-O 15. g5 fxg5 16. Bxg5 Qe6 17. dxe5 dxe5 18. Bxd8 Kxd8 19. Qg5+ Bf6 20. Qxg6 Be8 21. Qf5 Nxf5 22. exf5 Qe7 23. Rd1 Kc7 24. Ne4 Bxh4 25. Ng4 Bg5+ 26. Nxg5 Rxh1 27. Ne6+ Kb8 28. Rxh1 Bd7 29. Rh8+ Nc8 30. Nxe5 Bxe6 31. fxe6 Qg5+ 32. Kd1 Qxe5 33. Bc4 Qxh8 0-1
+

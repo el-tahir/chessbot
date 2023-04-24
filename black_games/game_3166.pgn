@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vUVci8E3"]
+[Date "2020.11.15"]
+[White "SPYROOK"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "18:01:02"]
+[WhiteElo "1958"]
+[BlackElo "1956"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. c3 Nc6 7. Be3 cxd4 8. cxd4 Bb4+ 9. Nc3 Nge7 10. Rc1 O-O 11. a3 Ba5 12. Bd3 Rc8 13. O-O Qb6 14. b4 Nxb4 15. axb4 Bxb4 16. Na4 Rxc1 17. Qxc1 Qa5 18. Nb2 Rc8 19. Qb1 Rc3 20. Bxf5 Nxf5 21. Bf2 Rb3 22. Qc2 Rc3 23. Qe2 Qa2 24. Ne1 Ba3 25. Ned3 Rb3 26. Qc2 h6 27. Rb1 a5 28. g4 Ne7 29. Be3 Nc6 30. Nc1 Rxb2 31. Rxb2 Qxb2 32. Qxb2 Bxb2 33. Nb3 a4 34. Nc5 b5 35. Kg2 a3 36. Nb3 a2 0-1
+

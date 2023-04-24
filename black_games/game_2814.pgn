@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QWopoRgm"]
+[Date "2020.11.29"]
+[White "darchayate"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.29"]
+[UTCTime "07:05:51"]
+[WhiteElo "1875"]
+[BlackElo "1885"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Nf3 Nxe4 7. Bxe4 Nf6 8. Qd3 Bg4 9. h3 Bh5 10. c3 e6 11. Bg5 Be7 12. O-O-O Qa5 13. Kb1 Bxf3 14. gxf3 Qxg5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0H3ysZ3O"]
+[Date "2022.07.25"]
+[White "EltahirAmin"]
+[Black "aththemaniac"]
+[Result "1-0"]
+[UTCDate "2022.07.25"]
+[UTCTime "15:40:04"]
+[WhiteElo "2000"]
+[BlackElo "1987"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 Nd7 5. Be3 a6 6. Qd2 b5 7. O-O-O Bb7 8. h4 h5 9. Bd3 Ngf6 10. Ng5 e5 11. d5 O-O 12. f4 exf4 13. Bxf4 Qe7 14. Rdg1 Ne5 15. Nf3 Neg4 16. Rh3 Rfe8 17. Rg3 b4 18. Nd1 Nxe4 19. Bxe4 Qxe4 20. Rxg4 hxg4 21. Nh2 Qf5 22. Bh6 Bxd5 23. Bxg7 Kxg7 24. Ne3 Rxe3 25. Qxe3 Bc6 26. Qd4+ Kh7 27. Nxg4 Qe4 28. Nf6+ 1-0
+

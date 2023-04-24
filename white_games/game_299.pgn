@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I7CFqPFs"]
+[Date "2022.07.29"]
+[White "EltahirAmin"]
+[Black "Trakeagle"]
+[Result "0-1"]
+[UTCDate "2022.07.29"]
+[UTCTime "20:16:40"]
+[WhiteElo "2052"]
+[BlackElo "2064"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. d4 a6 4. Bd3 e6 5. Be3 Nf6 6. Qd2 d5 7. e5 Ne4 8. Nf3 Nxd2 0-1
+

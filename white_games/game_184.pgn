@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EFR7B4ea"]
+[Date "2022.11.14"]
+[White "EltahirAmin"]
+[Black "salaheddine62"]
+[Result "1-0"]
+[UTCDate "2022.11.14"]
+[UTCTime "01:06:12"]
+[WhiteElo "1989"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nxc6 bxc6 8. Bd3 Be6 9. O-O Nf6 10. f4 exf4 11. Rxf4 Be7 12. Qe2 d5 13. exd5 Nxd5 14. Nxd5 Bxd5 15. Raf1 O-O 16. Bd4 Bd6 17. Rg4 f6 18. Rf5 Be6 19. Qxe6+ Kh8 20. Rh5 Bxh2+ 21. Rxh2 Re8 22. Rxh7# 1-0
+

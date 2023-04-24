@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7x7RgcSy"]
+[Date "2022.05.25"]
+[White "Manolete3"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.25"]
+[UTCTime "14:39:02"]
+[WhiteElo "2038"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. d4 Nf6 8. Qd3 Bg4 9. c4 e6 10. Be2 Bb4+ 11. Bd2 Qe7 12. a3 Bxd2+ 13. Kxd2 O-O 14. Rad1 Rfd8 15. Kc1 Rac8 16. h3 Bf5 17. Qc3 b5 18. c5 Nd5 19. Qc2 Bxc2 20. Kxc2 b4 21. axb4 1-0
+

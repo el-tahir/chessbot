@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/11CQ9Vfl"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Varto49"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "19:22:44"]
+[WhiteElo "1954"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 c6 4. Be3 d6 5. Bd3 Qb6 6. Rb1 Bxd4 7. Nf3 Bxe3 8. fxe3 Qxe3+ 9. Be2 Nf6 10. Rf1 Nxe4 11. Nxe4 Qxe4 12. Nd4 Qh4+ 13. g3 Qxh2 14. Qd3 Bf5 15. Nxf5 gxf5 16. Qxf5 Qxg3+ 17. Kd2 Nd7 18. Qxf7+ Kd8 19. Rg1 Qe5 20. Rg8+ Rxg8 21. Qxg8+ Kc7 22. Qxa8 Qd4+ 23. Bd3 Qf2+ 24. Be2 Qd4+ 25. Ke1 Qg1+ 26. Bf1 Qe3+ 27. Kd1 Qf3+ 28. Kc1 Qxf1+ 29. Kd2 Qxb1 30. Qxa7 Qxb2 31. Qa5+ Nb6 32. Qg5 Qd4+ 33. Kc1 Qf6 34. Qg8 h5 0-1
+

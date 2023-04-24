@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ukFyAwOb"]
+[Date "2021.01.07"]
+[White "EltahirAmin"]
+[Black "chincha_74"]
+[Result "1-0"]
+[UTCDate "2021.01.07"]
+[UTCTime "10:05:30"]
+[WhiteElo "1926"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 e6 7. Nc3 Bb4 8. Bd2 Bxc3 9. bxc3 O-O 10. Bd3 a6 11. Bxh7+ Kxh7 12. Ng5+ Kg6 13. Qg4 f5 14. exf6 Nxf6 15. Qg3 Rh8 16. Nxe6+ Kf7 17. Nxd8+ Rxd8 18. O-O d5 19. Rfe1 Bf5 20. Bg5 g6 21. Re2 Rh8 22. Rae1 Ne4 23. Qc7+ Kg8 24. Qxb7 Re8 25. f3 Rh5 26. Bf6 Nd8 27. Bxd8 Rxd8 28. fxe4 dxe4 29. Qe7 Rf8 30. h3 Rf7 31. Qe5 Bxh3 32. gxh3 Rxe5 33. dxe5 Re7 34. Rxe4 Kf7 35. e6+ Kf6 36. Kg2 g5 37. Kg3 Kf5 38. a4 a5 39. c4 Kg6 40. c5 Kf6 41. c6 Kf5 42. c7 Rxc7 43. e7 Rc8 44. e8=Q Rc3+ 45. R4e3 1-0
+

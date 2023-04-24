@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sRGY1jKW"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "Emincang"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:06:44"]
+[WhiteElo "2033"]
+[BlackElo "2142"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. O-O e5 8. Re1 Bc5 9. c3 O-O-O 10. Nh4 h5 11. Bxg4+ hxg4 12. Qxg4+ Kb8 13. h3 e4 14. Nf5 Ne5 15. Qxe4 Qxe4 16. Rxe4 Nd3 17. b4 Nxf2 18. Rh4 Nxh3+ 19. Kh2 Rxh4 20. Nxh4 Nf4 21. bxc5 Rh8 22. Kg3 g5 23. Nf5 Ne2+ 24. Kf3 Nf4 25. d4 Nd3 26. Bxg5 Rh5 27. Kg4 Rh2 28. g3 a5 29. Kf3 Rh5 30. Kg4 Rh2 31. a4 Nb2 32. Re1 Nd3 33. Re8+ Ka7 34. Be3 Nb2 35. d5 Nxa4 36. c6+ b6 37. Rc8 Nxc3 38. Rxc7+ Ka6 39. Rxf7 Nxd5 40. c7 Rh8 41. Rd7 Nf6+ 42. Kg5 Nxd7 43. Nd6 a4 44. c8=Q+ Rxc8 45. Nxc8 a3 46. Bd4 a2 47. Nxb6 Nxb6 48. Kf6 Kb5 49. g4 Kc4 50. Ba1 Nd5+ 51. Ke5 Nb4 52. g5 Nc2 53. Bd4 Nxd4 54. g6 a1=Q 55. g7 Nc6+ 56. Ke6 Qxg7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iovz995n"]
+[Date "2020.12.30"]
+[White "LaMarmota"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "11:31:38"]
+[WhiteElo "1978"]
+[BlackElo "2003"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. d4 Nf6 8. Qh4 e6 9. Bd3 Be7 10. Bg5 Bd7 11. O-O-O Qc7 12. Qg3 Bd6 13. Bf4 Bxf4+ 0-1
+

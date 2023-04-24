@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kd6WPd7R"]
+[Date "2021.02.15"]
+[White "EltahirAmin"]
+[Black "Pipong"]
+[Result "0-1"]
+[UTCDate "2021.02.15"]
+[UTCTime "16:12:22"]
+[WhiteElo "1970"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d5 3. Qe2 Nf6 4. exd5 Bd6 5. d3 h6 6. Nc3 a6 7. g3 Bg4 8. Bg2 Bxf3 9. Qxf3 O-O 10. Be3 Nbd7 11. g4 b5 12. g5 hxg5 13. Bxg5 Qe7 14. Ne4 b4 15. h4 a5 16. h5 a4 17. h6 g6 18. h7+ Kh8 19. Nxf6 e4 20. Nxe4 f6 21. Bh6 f5 22. Bxf8 Rxf8 23. O-O-O fxe4 24. Qxe4 Qg5+ 25. Qe3 Qxg2 26. Qd4+ Ne5 27. Rhe1 Qg5+ 28. Kb1 b3 29. cxb3 axb3 30. axb3 Qf6 31. f4 Nf3 32. Qxf6+ Rxf6 33. Rh1 Rxf4 34. Rdf1 g5 35. Rh6 Nd2+ 36. Kc2 Nxf1 37. Rg6 Kxh7 38. Rxg5 Rf2+ 0-1
+

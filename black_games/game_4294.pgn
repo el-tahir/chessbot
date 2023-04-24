@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7QKgZEts"]
+[Date "2020.08.05"]
+[White "rocksoft"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.08.05"]
+[UTCTime "18:25:53"]
+[WhiteElo "2044"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. c4 Bb4+ 7. Nc3 Ne7 8. Bd3 O-O 9. Bxg6 Nxg6 10. O-O Nd7 11. cxd5 cxd5 12. a3 Ba5 13. b4 Bc7 14. Be3 Rc8 15. Rc1 Qe7 16. Nb5 Bb8 17. Qd3 a6 18. Nc3 Rc6 19. h3 Rfc8 20. Nge2 Qh4 21. Kh2 Ndxe5 22. dxe5 Nxe5 23. Qd2 Nf3+ 0-1
+

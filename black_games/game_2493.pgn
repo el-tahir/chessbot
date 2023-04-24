@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/62RAliFr"]
+[Date "2020.12.19"]
+[White "kneecares"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "09:12:47"]
+[WhiteElo "2002"]
+[BlackElo "1985"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. Be2 Nf6 5. d3 d5 6. exd5 Nxd5 7. O-O h6 8. a3 Bd6 9. b4 a6 10. Bb2 O-O 11. c4 Nf4 12. b5 axb5 13. cxb5 Nd4 14. Nxd4 exd4 15. Bf3 Bf5 16. Bxb7 Bxd3 17. Bxa8 Qxa8 18. Re1 Qxg2# 0-1
+

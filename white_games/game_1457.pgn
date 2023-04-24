@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/koCHJ5Xd"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "Kerimli_Reshad"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "15:07:25"]
+[WhiteElo "1993"]
+[BlackElo "2035"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 exd4 5. Nxd4 Be7 6. Be3 Bd7 7. Bc4 Nf6 8. O-O O-O 9. f4 a6 10. Qf3 Bg4 11. Qg3 Qc8 12. h3 Bd7 13. f5 Ne5 14. Be2 c5 15. Nf3 Nxf3+ 16. Rxf3 b5 17. Bg5 Bc6 18. Rf4 Re8 19. Bh4 b4 20. Nd1 Nxe4 21. Rxe4 Bxe4 22. f6 Bxf6 23. Bxf6 Bg6 24. Bf3 gxf6 25. Bxa8 Qxa8 26. Nf2 Kh8 27. Qxd6 Re6 28. Qxc5 a5 29. Rd1 Rc6 30. Qe7 Kg7 31. Rd8 Qa6 32. Qf8# 1-0
+

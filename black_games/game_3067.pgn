@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8fuweXLc"]
+[Date "2020.11.18"]
+[White "Jessyseko2"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.18"]
+[UTCTime "21:41:51"]
+[WhiteElo "1968"]
+[BlackElo "1968"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Normal"]
+
+1. f4 c6 2. Nf3 d5 3. c3 Nf6 4. d4 Bg4 5. e3 e6 6. Bd3 Bd6 7. O-O O-O 8. Nbd2 Nbd7 9. Qc2 Rc8 10. Ne5 c5 11. a3 cxd4 12. exd4 Qe7 13. Qa4 a6 14. Ndf3 Rc7 15. Be3 Rfc8 16. Rac1 h6 17. Qd1 Ne8 18. Bb1 f6 19. Nxd7 Qxd7 20. Qb3 Qe7 21. h3 Bxf3 22. Rxf3 e5 23. fxe5 fxe5 24. Qxd5+ Kh8 25. Rf7 Qxf7 26. Qe4 g5 27. Rf1 Qg7 28. dxe5 Bxe5 29. Rf8+ Qxf8 30. Qxe5+ Kg8 31. Bd4 Qg7 32. Ba2+ Kh7 33. Qf5+ Qg6 34. Qf8 Nf6 35. Qd6 Rf7 36. Qe5 Rcf8 37. Bxf7 Rxf7 38. Qe1 Nd5 39. c4 Nf4 40. c5 Qd3 41. Qe5 Rf5 42. Qg7# 1-0
+

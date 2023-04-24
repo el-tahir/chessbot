@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oU3hq5Y3"]
+[Date "2021.01.22"]
+[White "BROTHERS_MCD"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "08:09:54"]
+[WhiteElo "1957"]
+[BlackElo "1946"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. g3 d5 2. Bg2 Nf6 3. e3 c5 4. Ne2 Nc6 5. O-O e5 6. d3 Bd6 7. Nd2 Be6 8. f4 h5 9. f5 Bd7 10. e4 h4 11. gxh4 Rxh4 12. Nf3 Rh7 13. Bg5 Qe7 14. h3 O-O-O 15. Ng3 Rdh8 16. Kf2 c4 17. Qd2 Bc5+ 18. Ke2 dxe4 19. dxe4 Rd8 20. a3 Bxf5 21. Nxf5 Rxd2+ 22. Kxd2 Qd7+ 23. Kc1 Nxe4 24. Rd1 Qxf5 25. h4 Nxg5 26. hxg5 Be3+ 27. Kb1 e4 28. Ne1 Rh2 29. c3 Bxg5 30. Ka2 Bh4 31. Rd2 Bxe1 32. Rxe1 Rh4 33. Red1 Kc7 34. Rd5 Qe6 35. Bf1 Na5 36. Rxa5 Qb6 37. Rad5 Qb3+ 38. Ka1 Qa4 39. Rd7+ Qxd7 40. Rxd7+ Kxd7 41. Bxc4 e3 42. Bxf7 e2 43. Ka2 e1=Q 44. Bb3 Rh1 45. a4 Qa1# 0-1
+

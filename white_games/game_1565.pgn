@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lyY9nNDv"]
+[Date "2021.02.22"]
+[White "EltahirAmin"]
+[Black "Fiko43"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "12:24:35"]
+[WhiteElo "1961"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. d4 cxd4 5. cxd4 Bg7 6. Nc3 a6 7. Be3 Nf6 8. a4 Ng4 9. Bf4 Qa5 10. h3 Nf6 11. Bd3 Qb4 12. Qc2 O-O 13. Be3 b6 14. O-O Bb7 15. Ra3 Rac8 16. Rb3 Qa5 17. Bd2 Nb4 18. Rxb4 Qxb4 19. Rc1 e6 20. Qb1 Qe7 21. e5 Nd5 22. Ne4 Rxc1+ 23. Qxc1 Rc8 24. Qd1 Nb4 25. Bb1 Bxe4 26. Bxe4 Nd5 27. h4 h5 28. Ng5 f5 29. Bxd5 exd5 30. Qf3 d6 31. Qxd5+ Kf8 32. Nh7+ Ke8 33. exd6 Qf7 34. d7+ Qxd7 35. Qg8+ Ke7 36. Qxg7+ Kd6 37. Bf4+ Kc6 38. Qxg6+ Kb7 39. Nf6 Qxd4 40. Qxf5 Rc5 41. Qh7+ Kc6 42. Be3 Qd1+ 43. Kh2 Rc4 0-1
+

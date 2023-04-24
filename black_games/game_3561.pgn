@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/USZJ6DCg"]
+[Date "2020.11.07"]
+[White "WKRai"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:56:53"]
+[WhiteElo "1963"]
+[BlackElo "1956"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. e3 e6 8. Be2 Bd6 9. O-O Nc6 10. a3 O-O 11. Bd2 Qd7 12. Rc1 Rae8 13. Nb5 Bb8 14. b4 a6 15. Nc3 Qd6 16. Ng5 Qh2# 0-1
+

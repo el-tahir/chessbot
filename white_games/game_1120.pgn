@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mV1KtV3o"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "Heian2"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "05:42:10"]
+[WhiteElo "2019"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 d6 5. Bg5 Qd7 6. Be2 h6 7. Bh4 Nge7 8. O-O Ng6 9. Nd5 O-O 10. c3 Nxh4 11. Nxh4 Ne7 12. Ne3 Ng6 13. d4 exd4 14. cxd4 Bb6 15. Nxg6 fxg6 16. Bc4+ Kh7 17. e5 dxe5 18. dxe5 Qe7 19. Kh1 Qxe5 20. Ng4 Qg5 21. f4 Qxg4 22. Qxg4 Bxg4 23. Rae1 Rae8 24. Rc1 c6 25. a4 Be3 26. Rc3 Bxf4 27. h3 Be2 28. Bxe2 Rxe2 29. Rcf3 g5 30. g3 Rxb2 31. gxf4 gxf4 32. Rxf4 Rxf4 33. Rxf4 b6 34. Kg1 c5 35. a5 Rb4 36. Rxb4 cxb4 37. axb6 axb6 38. Kf2 g5 0-1
+

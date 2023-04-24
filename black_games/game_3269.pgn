@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/adWvkQOr"]
+[Date "2020.11.14"]
+[White "akil-rexha"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "12:57:54"]
+[WhiteElo "1994"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. c3 O-O 8. Be3 Bg4 9. Be2 Nd7 10. Qd2 c5 11. O-O Rc8 12. dxc5 Bxc5 13. Bxc5 Nxc5 14. Qxd8 Rfxd8 15. Rfe1 b6 16. Rad1 Kf8 17. Rxd8+ Rxd8 18. Nd4 Re8 19. f3 Bc8 20. Kf2 Na4 21. Rb1 g6 22. Bb5 1-0
+

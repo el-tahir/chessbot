@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gWmqeIMN"]
+[Date "2020.12.16"]
+[White "MAGNUSCARLSEN1515"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "08:35:43"]
+[WhiteElo "1944"]
+[BlackElo "1920"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. d3 c5 2. c4 d5 3. cxd5 Nf6 4. Nc3 Nxd5 5. Nf3 Nc6 6. Nxd5 Qxd5 7. Bf4 g6 8. Qc2 Bg7 9. g3 Nb4 10. Qb3 Qxb3 11. axb3 Nc2+ 0-1
+

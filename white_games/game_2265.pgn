@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KQwmCtg3"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "Ding_Jr"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:02:59"]
+[WhiteElo "1977"]
+[BlackElo "1961"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d5 3. e5 Nc6 4. d4 cxd4 5. cxd4 e6 6. f4 Qb6 7. Nf3 Nge7 8. b3 Nf5 9. Bb2 Bb4+ 10. Nbd2 Ncxd4 11. Bd3 Nxf3+ 12. Qxf3 Bxd2+ 13. Kxd2 Bd7 14. g4 Nd4 15. Qf2 Nxb3+ 0-1
+

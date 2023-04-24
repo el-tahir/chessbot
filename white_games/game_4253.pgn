@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/udimgPG3"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "ttch"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "10:49:22"]
+[WhiteElo "1972"]
+[BlackElo "2038"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. d4 Bxc3+ 5. bxc3 d6 6. Bc4 Bg4 7. Bg5 Nf6 8. h3 Bxf3 9. Qxf3 h6 10. Bh4 g5 11. Bg3 Qe7 12. O-O-O Na5 13. Bb3 Nxb3+ 14. cxb3 a5 15. dxe5 dxe5 16. Qf5 Nd7 17. Rd5 f6 18. Rhd1 O-O-O 19. Rxa5 Kb8 20. f3 Nb6 21. Rxd8+ Rxd8 22. Kc2 Qd6 23. Kb2 Qd2+ 24. Ka3 Qxc3 25. Rb5 Nc4+ 26. Ka4 c6 27. Rc5 b5+ 28. Rxb5+ cxb5+ 29. Kxb5 Na3+ 30. Ka4 Nc2 31. Be1 Qxe1 32. a3 Qc3 33. Qxf6 Rd7 34. Qb6+ Rb7 35. Qd8+ Ka7 36. Qa5+ Qxa5+ 37. Kxa5 Nxa3 38. b4 Nc2 39. h4 Ne3 40. hxg5 1-0
+

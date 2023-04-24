@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/19YcJBga"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "Herozion"]
+[Result "0-1"]
+[UTCDate "2023.03.08"]
+[UTCTime "01:39:59"]
+[WhiteElo "1994"]
+[BlackElo "1919"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Nf6 4. d3 c6 5. f4 Bg4 6. Nf3 Nbd7 7. Ng3 e6 8. Be2 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. h3 Bxf3 12. Bxf3 Rc8 13. O-O a6 14. f5 e5 15. Kh2 b5 16. Ne2 c5 17. g4 Nb6 18. g5 Ne8 19. Rg1 c4 20. h4 cxd3 21. cxd3 Nd6 22. Rg4 a5 23. h5 b4 24. g6 fxg6 25. hxg6 h6 26. Rg3 Nd7 27. Rh3 Qg5 28. Qxg5 hxg5 29. Rh1 Rfe8 30. Kg3 Kf8 31. Rh8+ Ke7 32. R8h7 Rg8 33. Kg4 Kf6 34. Rc1 Nf8 35. Rhh1 Nd7 36. Rxc8 Nxc8 37. Rc1 Ncb6 38. Rc6+ Ke7 39. Kxg5 Na4 40. Re6+ Kd8 41. b3 Nc3 42. Nxc3 bxc3 43. Ra6 Kc7 44. Bd1 Rh8 45. Rxa5 Rh1 46. Bc2 Rh2 47. Ra7+ Kc8 48. Bd1 c2 49. Bxc2 Rxc2 50. Ra5 Rc3 51. f6 Nxf6 52. Rxe5 Rxd3 53. Rd5 Nxe4+ 54. Kf4 Nf6 55. Rxd4 Rxd4+ 56. Kf5 Rd2 57. Ke6 Rxa2 58. Kf7 Rb2 59. Kxg7 Rxb3 0-1
+

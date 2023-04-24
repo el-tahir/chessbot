@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/EVa3NlY7"]
+[Date "2021.02.17"]
+[White "EltahirAmin"]
+[Black "Hassaanmohammed"]
+[Result "1-0"]
+[UTCDate "2021.02.17"]
+[UTCTime "00:10:23"]
+[WhiteElo "1984"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Nf6 5. Be3 Bg4 6. Be2 g6 7. Qd2 Bg7 8. h3 Bd7 9. h4 O-O 10. O-O-O Ng4 11. Bg5 f6 12. Bc4+ Kh8 13. h5 gxh5 14. Rxh5 fxg5 15. Nxg5 Bh6 16. Rdh1 Nxd4 17. f3 Nf6 18. Rxh6 Kg7 19. Nd5 Nxd5 20. Rxh7+ Kg8 21. Bxd5+ Be6 22. Nxe6 Nxe6 23. Rh8+ Kg7 24. R1h7+ Kf6 25. Qh6# 1-0
+

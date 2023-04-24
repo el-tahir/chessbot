@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/94pqbjEr"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "cesardiaz2020"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "17:02:27"]
+[WhiteElo "1985"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 b6 3. Nc3 Bb7 4. d4 e6 5. d5 a6 6. Be2 Qc7 7. O-O Bd6 8. Re1 f6 9. a4 Ne7 10. Nh4 Bxh2+ 11. Kh1 Be5 12. f4 Bxf4 13. Bxf4 Qxf4 14. Nf3 Ng6 15. d6 Nh4 16. Nd5 exd5 17. exd5 O-O 18. Nxh4 Qxh4+ 19. Kg1 Qd4+ 20. Qxd4 cxd4 21. Bf3 a5 22. Rad1 Na6 23. Rxd4 Nb4 24. c3 Nc2 25. Re7 Nxd4 26. cxd4 Rad8 27. Be4 g6 0-1
+

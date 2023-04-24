@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/05aksgzs"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "Fortis88"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "10:04:59"]
+[WhiteElo "1961"]
+[BlackElo "1837"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. Nf3 Nc6 7. Bd3 Bd7 8. c3 h6 9. Bf4 a6 10. Qd2 Nd5 11. Be3 Nxe3 12. fxe3 Bg5 13. O-O O-O 14. Qe2 f5 15. Nxg5 hxg5 16. e4 f4 17. Nh1 e5 18. d5 Ne7 19. c4 Ng6 20. Qh5 Be8 21. Qd1 Nh4 22. c5 Bb5 23. Bxb5 axb5 24. a3 Qf6 25. Qe2 f3 26. Qxb5 Nxg2 27. Ng3 Ne3 28. Rf2 Ng4 29. Rff1 f2+ 30. Kg2 Ne3+ 31. Kh3 Qh6+ 0-1
+

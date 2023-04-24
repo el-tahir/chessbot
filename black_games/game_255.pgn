@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OoWsyzk9"]
+[Date "2022.09.26"]
+[White "Molurus"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.09.26"]
+[UTCTime "20:25:44"]
+[WhiteElo "2038"]
+[BlackElo "2049"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. d4 e6 6. Be2 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 O-O 9. O-O Qe7 10. Nc3 c5 11. dxc5 Qxc5 12. Rac1 Rd8 13. Qxd8+ 1-0
+

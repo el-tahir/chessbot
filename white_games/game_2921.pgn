@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zJ2Py6XC"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "TooruHonda"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "14:54:58"]
+[WhiteElo "1900"]
+[BlackElo "1824"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 h6 6. Nxf7 Kxf7 7. Bg6+ Ke6 8. Qxd8 Nbd7 9. Qxc7 b6 10. Qg3 Ba6 11. b3 Kd5 12. c4+ Kc6 13. O-O e5 14. Nc3 Bc5 15. Be3 Bb4 16. Nd5 Bc5 17. Bxc5 Nxc5 18. Qxe5 Ncd7 19. Qe7 Rad8 20. Nxf6 Nxf6 21. Qxg7 Rdg8 22. Qxf6+ Kb7 1-0
+

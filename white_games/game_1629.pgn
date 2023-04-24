@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mLd7WsKE"]
+[Date "2021.02.17"]
+[White "EltahirAmin"]
+[Black "KoanKeeper"]
+[Result "0-1"]
+[UTCDate "2021.02.17"]
+[UTCTime "23:24:39"]
+[WhiteElo "1978"]
+[BlackElo "1899"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Nc6 7. Nc3 Bg4 8. Be2 Bxf3 9. Bxf3 e6 10. O-O Nge7 11. Bg5 Qd7 12. Qd2 h6 13. Be3 Nf5 14. Bf4 Ncxd4 15. Bd1 O-O 16. Ba4 b5 17. Bd1 g5 18. Be3 Bxe5 19. g4 Nxe3 20. fxe3 Nc6 21. Bc2 a6 22. Qd3 f5 23. Rf2 Nb4 24. Qd2 Nxc2 25. Qxc2 Rac8 26. a3 d4 27. exd4 Bxd4 28. Rf1 Qa7 29. Kh1 Bxf2 30. Rxf2 f4 31. Re2 Qg7 32. Rxe6 Rfd8 33. Qb3 Kh8 34. Nd5 Rc1+ 35. Kg2 Qb7 36. Rxh6+ Kg7 37. Rh7+ Kxh7 38. Qd3+ Kh8 39. Qd4+ Qg7 40. Qe4 Qxb2+ 41. Kh3 Qxa3+ 42. Kg2 Qb2+ 43. Kf3 Rf1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/toWU3Cwv"]
+[Date "2021.10.15"]
+[White "fuzzytug"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "07:53:08"]
+[WhiteElo "2057"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Bb4 5. Bd3 Ne7 6. Nh3 Nd7 7. Nf2 Qb6 8. Be3 Qa5 9. Bd2 Qb6 10. Be3 Nf6 11. e5 Nd7 12. O-O f6 13. f4 fxe5 14. fxe5 Nxe5 15. Qh5+ N5g6 16. Bxg6+ Nxg6 17. Ne2 O-O 18. Ng3 Qc7 19. Ng4 Bd7 20. c3 Bd6 21. Ne2 e5 22. Rf2 Bxg4 23. Qxg4 exd4 24. Bxd4 Be5 25. Raf1 Rxf2 26. Rxf2 Bxd4 27. Nxd4 Re8 28. h4 Qc8 29. Qg3 Qb8 30. Qg4 Re1+ 31. Rf1 Rxf1+ 32. Kxf1 Qf4+ 33. Qf3 Qxf3+ 34. Nxf3 Nxh4 35. Nxh4 g5 36. Nf5 Kf7 37. Nd6+ Kf6 38. Nxb7 Ke5 39. Nc5 d4 40. cxd4+ Kxd4 41. Ne6+ Kd3 42. Nxg5 h6 43. Nh7 Kc2 44. g4 Kxb2 45. Nf6 Kxa2 46. Ne4 a5 47. Nc3+ Kb2 48. Na4+ Kb3 49. Nc5+ Kc4 50. Na4 Kb4 51. Nb2 a4 52. Ke2 Kb3 53. Nd3 Ka3 54. Kd2 Ka2 55. Kc2 a3 56. Nb4+ Ka1 57. Kb3 c5 58. Na2 c4+ 59. Kxa3 Kb1 60. Nc3+ Kc2 61. Kb4 Kd3 62. Kc5 Kxc3 63. Kd5 Kb3 64. Ke5 c3 65. Kf6 c2 66. g5 hxg5 67. Kxg5 c1=Q+ 68. Kg6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NJuzE3yp"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "alekece"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "15:08:21"]
+[WhiteElo "1950"]
+[BlackElo "1925"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. Nc3 d6 4. d4 Nd7 5. Bd3 Rb8 6. Bg5 b6 7. Qd2 Bb7 8. h4 c5 9. h5 cxd4 10. Nd5 Bxd5 11. exd5 Nc5 12. O-O-O Nxd3+ 13. Qxd3 Qd7 14. h6 Bf8 15. Rde1 Qg4 16. Rh4 Qxg2 17. Qxd4 Qxf3 18. Qxh8 Qxf2 19. Rhe4 Qf5 20. Qxg8 Qxg5+ 21. Kb1 Rb7 22. Qxh7 Qxd5 23. Qg8 Rc7 24. h7 Qd2 25. Qxf8+ Kxf8 26. h8=Q# 1-0
+

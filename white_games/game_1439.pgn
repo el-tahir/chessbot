@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/svRkiycf"]
+[Date "2021.02.26"]
+[White "EltahirAmin"]
+[Black "Miminok"]
+[Result "0-1"]
+[UTCDate "2021.02.26"]
+[UTCTime "15:42:11"]
+[WhiteElo "2019"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+33"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 e5 6. dxe5 Qxd1+ 7. Kxd1 Bg4 8. Bf4 O-O-O+ 9. Kc2 Bf5+ 10. Kc1 f6 11. exf6 Nxf6 12. Be2 Ne4 13. Be3 b6 14. Nbd2 Nxd2 15. Nxd2 Ne5 16. Nf3 Nd3+ 17. Bxd3 Bxd3 18. Rd1 c4 19. b3 b5 20. Kb2 g6 21. Nd4 a6 22. Ne6 Re8 23. Nxf8 Rhxf8 24. a4 Kb7 25. axb5 axb5 26. Ra7+ Kc6 27. Rxh7 Rxe3 28. fxe3 Rf2+ 29. Ka3 Bc2 30. Rdd7 Bxb3 31. Rc7+ Kd5 32. Kb4 Rxg2 33. Rhd7+ Ke4 34. Re7+ Kd3 35. Rcd7+ Kc2 36. Rh7 Kb2 37. Kxb5 Kxc3 38. e4 Rg5+ 39. Rd5 Rg2 40. e5 Kc2 41. e6 c3 42. Re5 Kd3 43. e7 Bc4+ 44. Kb4 c2 45. e8=Q c1=Q 46. Qd7+ Kc2 47. Qa4+ Kd2 48. Qa2+ Bxa2 49. Rd5+ Ke1 50. Re7+ Re2 51. Rxe2+ Kxe2 0-1
+

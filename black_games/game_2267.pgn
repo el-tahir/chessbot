@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/niGwaUyT"]
+[Date "2020.12.25"]
+[White "Efosa"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "07:55:02"]
+[WhiteElo "2024"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+
+1. Nf3 d5 2. d4 c5 3. c3 Nf6 4. Bg5 e6 5. e3 Nc6 6. Nbd2 Bd6 7. Bb5 O-O 8. O-O a6 9. Bxc6 bxc6 10. Ne5 Bb7 11. Qa4 Rc8 12. Nb3 cxd4 13. exd4 h6 14. Bh4 g5 15. Bg3 Ne4 16. Nd3 Nxg3 17. hxg3 f5 18. Nbc5 Bxc5 19. Nxc5 Qe7 20. Rfe1 Rf6 21. Re5 Rd8 22. Rae1 Rd6 23. Qb4 Bc8 24. Qb8 Rd8 25. a4 f4 26. gxf4 gxf4 27. a5 f3 28. gxf3 Rg6+ 29. Kf1 Qf6 30. Ke2 Rf8 31. Kd2 Qxf3 32. R1e2 Qf4+ 33. Kc2 Re8 34. Qd6 Qf7 35. Qxc6 Rf6 36. Nd3 Qg6 37. f4 Rxf4 38. Qxd5 exd5 39. Rxe8+ Rf8 40. Rxf8+ Kxf8 0-1
+

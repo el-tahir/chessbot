@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/45m5zVEn"]
+[Date "2021.10.13"]
+[White "EltahirAmin"]
+[Black "Kamina14"]
+[Result "1-0"]
+[UTCDate "2021.10.13"]
+[UTCTime "03:42:52"]
+[WhiteElo "2049"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Ng3 Ngf6 6. Be2 e6 7. O-O Be7 8. c3 O-O 9. d4 c5 10. Bg5 cxd4 11. Nxd4 h6 12. Be3 a6 13. Qd2 Kh8 14. Bxh6 gxh6 15. Qxh6+ Nh7 16. Bd3 f5 17. Nxe6 Qe8 18. Qg7# 1-0
+

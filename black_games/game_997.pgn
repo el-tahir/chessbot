@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YXETilzD"]
+[Date "2021.10.28"]
+[White "Ah_sh1997"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.28"]
+[UTCTime "02:04:02"]
+[WhiteElo "2027"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A10"]
+[Termination "Normal"]
+
+1. c4 d5 2. cxd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. e3 h5 6. b3 Bg4 7. Be2 Qe5 8. Rb1 Nc6 9. Bb2 Qe6 10. Nf3 O-O-O 11. d4 Rh6 12. O-O Rg6 13. Qc2 Bh3 14. Nh4 Nb4 15. Qd2 Rd5 16. Nxg6 Qxg6 17. Bf3 Rg5 18. g3 Nd3 19. e4 h4 20. Qxd3 hxg3 21. fxg3 e6 22. Rf2 c5 23. dxc5 Bxc5 24. Rc1 Kb8 25. Bd4 Ba3 26. Rb1 Bd6 27. Bxa7+ Kxa7 28. Qxd6 Rxg3+ 29. Qxg3 Qxg3+ 30. hxg3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B6Vocbna"]
+[Date "2020.12.17"]
+[White "KERBEN32"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.17"]
+[UTCTime "15:34:38"]
+[WhiteElo "1865"]
+[BlackElo "1941"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. c5 Bg4 5. f3 Bh5 6. g4 Bg6 7. h4 h5 8. g5 Nfd7 9. Bf4 b6 10. e3 bxc5 11. Bc4 dxc4 0-1
+

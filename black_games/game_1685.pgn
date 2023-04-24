@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qU9NFHSb"]
+[Date "2021.02.12"]
+[White "Ikramov_taxur"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "16:32:44"]
+[WhiteElo "1951"]
+[BlackElo "1965"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. c3 a6 6. d4 exd4 7. cxd4 Ba7 8. e5 Ng8 9. Bg5 Nge7 10. Nc3 O-O 11. Qd3 d6 12. Rad1 Bf5 13. Qd2 Qd7 14. d5 Nxe5 15. Nxe5 dxe5 16. Rfe1 f6 17. Bxf6 Rxf6 18. d6+ Kh8 19. dxe7 Qxe7 20. Nd5 Qc5 21. Nxf6 gxf6 22. Bb3 Bb6 23. Qe3 Qe7 24. Qh6 a5 25. a4 Bg6 26. Bc4 Qc5 27. b3 Qxf2+ 28. Kh1 e4 29. Rf1 Qd4 30. h4 Qe5 31. Rd5 Qh5 32. Rxh5 Bxh5 33. Qxh5 Rf8 34. Qh6 f5 35. Qg5 e3 36. Qf4 e2 37. Re1 Re8 38. Qf3 h5 39. Rxe2 Rg8 40. Qe3 Rd8 41. Qh6# 1-0
+

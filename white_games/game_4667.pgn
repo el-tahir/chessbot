@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vQixxSB0"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "Alexis35"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "11:42:41"]
+[WhiteElo "1981"]
+[BlackElo "1990"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C01"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Bg5 Bg4 8. Nbd2 Nbd7 9. c3 c6 10. Qb3 Qc7 11. Rae1 Rfe8 12. h3 Bh5 13. Bb1 b5 14. a3 a5 15. Nh4 Be2 16. Qc2 Bxf1 17. Rxf1 h6 18. Bxf6 Nxf6 19. Nf5 Bf4 20. Nf3 Re6 21. g3 Bd6 22. Nxd6 Qxd6 23. Ne5 Rae8 24. f4 Nd7 25. Qh7+ Kf8 26. Qh8+ Ke7 27. Qxg7 Rf6 28. Re1 Kd8 29. Nxf7+ Rxf7 30. Rxe8+ Kxe8 31. Bg6 Qe7 32. Bxf7+ Qxf7 33. Qxh6 Ke7 34. Qxc6 Qg7 35. Kg2 Qf6 36. Qxd5 Qg6 37. Qxb5 Qc2+ 38. Kf3 Nf6 39. Qxa5 Qe4+ 40. Kf2 Qc2+ 41. Ke3 Qe4+ 42. Kd2 Nd5 43. Qc5+ Kf6 44. Qd6+ Kf7 45. Qe5 Qg2+ 46. Kd3 Qxg3+ 47. Kc4 Nxf4 48. a4 Ne6 49. Qxg3 Ke7 50. a5 Nc7 51. a6 Ne6 52. a7 Nd8 53. a8=Q Nc6 54. Qxc6 Kd8 55. Qa8+ Ke7 56. Qg6 Kd7 57. Qa7+ Kc8 58. Qg8# 1-0
+

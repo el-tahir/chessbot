@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fc1f7mmi"]
+[Date "2023.03.26"]
+[White "Danger1201"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.26"]
+[UTCTime "19:21:41"]
+[WhiteElo "2031"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 d6 3. e4 Nf6 4. Nd2 Bg4 5. f3 Bh5 6. c4 Nbd7 7. Bd3 e6 8. Ne2 Be7 9. Nf4 Bg6 10. dxe6 fxe6 11. Nxe6 Qb6 12. Nxg7+ Kf7 13. Nf5 Ne5 14. Bc2 Rag8 15. Nh6+ Ke8 16. Nxg8 Rxg8 17. Nf1 Nxc4 18. Ng3 Kd8 19. b3 Ne5 20. Bf4 Nfd7 21. O-O c4+ 22. Kh1 cxb3 23. Bxb3 Bf6 24. Bxg8 Ng4 25. Rb1 Nf2+ 26. Rxf2 Qxf2 27. Qxd6 Be7 28. Qc7+ Ke8 29. Be6 Qd4 30. Bxd7+ Qxd7 31. Qxd7+ Kxd7 32. Rxb7+ Ke8 33. Rxa7 1-0
+

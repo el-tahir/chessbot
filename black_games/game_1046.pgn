@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/029kaZFm"]
+[Date "2021.10.18"]
+[White "chiebuka_onu"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.18"]
+[UTCTime "22:24:05"]
+[WhiteElo "2015"]
+[BlackElo "1995"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bf4 Bg4 7. Be2 e6 8. Nb5 Rc8 9. O-O a6 10. Nc3 Bd6 11. Be3 O-O 12. h3 Bh5 13. Re1 Re8 14. Qd2 e5 15. Bg5 e4 16. Nh4 Bxe2 17. Qxe2 Nxd4 18. Qd2 Nc6 19. Nxd5 Be7 20. Nxf6+ Bxf6 21. Qxd8 Bxd8 22. Bxd8 Rcxd8 23. Nf5 Rd2 24. Rac1 g6 25. Ne3 Nd4 26. a3 Ne2+ 27. Kf1 Nxc1 28. Rxc1 Red8 29. Ke1 R2d6 30. c4 f5 31. Nd5 Kf7 32. Ke2 Rc6 33. b3 Rxd5 0-1
+

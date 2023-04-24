@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gFCPrrWQ"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "LokoP"]
+[Result "0-1"]
+[UTCDate "2020.11.10"]
+[UTCTime "22:48:57"]
+[WhiteElo "1958"]
+[BlackElo "2039"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. fxe5 Nxe5 7. Nf3 Nxf3+ 8. gxf3 Qh4+ 9. Ng3 Bd6 10. Rg1 Qxh2 11. Nf5 Bxf5 12. Rxg7 Bg3+ 0-1
+

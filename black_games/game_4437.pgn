@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UKZF7F2O"]
+[Date "2020.05.12"]
+[White "runningthoughts"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "20:03:08"]
+[WhiteElo "1983"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. Nc3 d4 4. Nce2 c5 5. Ng3 Nc6 6. Bc4 g6 7. Nf3 Bg4 8. Bxf7+ Kxf7 9. Ng5+ Ke8 10. Qxg4 Bg7 11. Ne6 Nf6 12. Qh3 Qb8 13. Nxg7+ Kf7 14. Ne6 Nb4 15. Kd1 Qd6 16. Ng5+ Kg7 17. e5 Qd5 18. exf6+ exf6 19. Nf3 d3 20. c3 Nc2 21. Rb1 Rae8 22. Rf1 Re7 23. f5 Rhe8 24. fxg6 Qxf3+ 0-1
+

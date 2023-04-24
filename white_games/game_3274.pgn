@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qjAIaGQ5"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "kingslayer85"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "22:04:58"]
+[WhiteElo "1978"]
+[BlackElo "1917"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qf6 11. Nb5 Nxf4 12. Bxf4 Qxf4 13. Nc7+ Kd8 14. Nxa8 Bxd6 15. Be2 b6 16. Bf3 Ba6 17. Qe2 Bxe2 18. Kxe2 0-1
+

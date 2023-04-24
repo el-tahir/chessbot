@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Az3qRIod"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "redigast13"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "23:15:33"]
+[WhiteElo "1992"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 c5 3. Nf3 Nc6 4. d5 exd5 5. exd5 Nce7 6. c4 d6 7. Bd3 Nf6 8. O-O g6 9. Bg5 Bg7 10. Nc3 h6 11. Be3 Nf5 12. Re1 O-O 13. Bf4 a6 14. Qd2 Kh7 15. Ne4 Nxe4 16. Bxe4 b5 17. g4 Nh4 18. Nxh4 Qxh4 19. Bf3 Bxg4 20. Bg3 Qh5 21. Bxg4 Qxg4 22. cxb5 axb5 23. Qd3 Bxb2 24. Rab1 Bd4 25. Re4 Qf5 26. Bxd6 Rfe8 27. Rxd4 cxd4 28. Qxd4 Qxb1+ 29. Kg2 Rxa2 30. Bc5 Qe4+ 31. Kf1 Qxd4 32. Bxd4 Rd2 33. Be3 Rxd5 34. h4 b4 35. h5 b3 36. hxg6+ Kxg6 37. Ke2 b2 38. Kf3 b1=Q 39. Kg2 Qd1 40. Kg3 Rxe3+ 41. fxe3 Rf5 42. Kh4 Qh5+ 43. Kg3 Qg5+ 44. Kh3 Qg1 45. e4 Rh5# 0-1
+

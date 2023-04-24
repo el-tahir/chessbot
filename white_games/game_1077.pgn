@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PVFgCLxO"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "Swagata10"]
+[Result "1-0"]
+[UTCDate "2021.10.15"]
+[UTCTime "10:11:16"]
+[WhiteElo "1993"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Nxd4 c5 6. Nb3 Be6 7. Be2 Bxb3 8. axb3 Be7 9. O-O Nc6 10. f4 Nd4 11. Qd3 Nxe2+ 12. Nxe2 O-O 13. e5 Nd7 14. exd6 Bf6 15. Nc3 Nb6 16. Rd1 Re8 17. Ne4 Rc8 18. Rxa7 Ra8 19. Rxb7 Rb8 20. Rxb8 Qxb8 21. d7 Rf8 22. Nxc5 Na8 23. Nb7 Qxb7 24. d8=Q Bxd8 25. Qxd8 Nb6 26. Be3 g6 27. Qxb6 Qe4 28. c3 Qc2 29. Rd2 Qb1+ 30. Kf2 Re8 31. Qd4 Qf5 32. Qd5 Qb1 33. Qf3 Qf5 34. g4 Qb1 35. Bd4 Qe1+ 36. Kg2 Qxd2+ 37. Kh3 Qxb2 38. f5 Qxb3 39. fxg6 fxg6 40. Qf6 Qxc3+ 41. Bxc3 Re3+ 42. Kh4 Rxc3 43. Qxc3 Kf7 44. g5 Kg8 45. Qc7 Kh8 46. Kg4 Kg8 47. Kf4 h6 48. Ke5 hxg5 49. Kf6 g4 50. Kxg6 Kf8 51. Qf7# 1-0
+

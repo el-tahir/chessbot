@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XckxUveD"]
+[Date "2020.12.27"]
+[White "EltahirAmin"]
+[Black "Abhi_chess_coach"]
+[Result "1-0"]
+[UTCDate "2020.12.27"]
+[UTCTime "19:05:11"]
+[WhiteElo "1989"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Nf3 Nxe4 7. Bxe4 Nf6 8. Bd3 c5 9. c3 cxd4 10. Nxd4 Bc5 11. Be3 O-O 12. Qc2 h6 13. O-O-O Nd5 14. g4 Nxe3 15. fxe3 e5 16. Nf5 Bxf5 17. Bxf5 Bxe3+ 18. Kb1 Qf6 19. Rhf1 Qg5 20. Qe4 Bf4 21. Rd5 Rad8 22. Rfd1 Rxd5 23. Rxd5 Bxh2 24. Rxe5 Bxe5 25. Qxe5 Rd8 26. a3 Qf6 27. Qa5 g6 28. Bc2 a6 29. Ka2 Qe6+ 30. Bb3 Qf6 31. Qc7 Rd2 32. Qxb7 Kg7 33. Qc7 Rg2 34. Bd1 Qf1 35. Qe5+ Qf6 36. Qe4 Qe6+ 37. Qxe6 fxe6 38. Kb3 Kf6 39. c4 Ke5 40. Kb4 Rxb2+ 41. Ka5 Kd4 42. a4 Kxc4 43. Kxa6 Kc5 44. a5 Rd2 45. Bf3 Rd7 46. Be4 g5 47. Bb7 e5 48. Bc8 Rc7 49. Bf5 Kb4 50. Kb6 Rf7 51. a6 Rf6+ 52. Kb7 Ka5 53. a7 Rb6+ 54. Ka8 Ka6 55. Bc8+ Ka5 56. Bb7 Re6 57. Kb8 1-0
+

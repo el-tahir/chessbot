@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/exqdo55S"]
+[Date "2022.05.10"]
+[White "Coperio"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "02:19:22"]
+[WhiteElo "2075"]
+[BlackElo "2098"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 e5 4. d3 Nf6 5. f4 exf4 6. Bxf4 Be7 7. Be2 O-O 8. Nf3 Qb6 9. Rb1 d6 10. O-O Bg4 11. Nd2 Bxe2 12. Qxe2 Nd4 13. Qd1 Nd7 14. Nd5 Qd8 15. Nxe7+ Qxe7 16. Nf3 Ne5 17. Nxd4 cxd4 18. b4 f5 19. c5 dxc5 20. bxc5 Qxc5 21. exf5 Rxf5 22. Qb3+ Kh8 23. Rbe1 Ng6 24. Qxb7 Raf8 25. Bd6 Rxf1+ 26. Rxf1 Qxd6 27. Qc8 Rxc8 0-1
+

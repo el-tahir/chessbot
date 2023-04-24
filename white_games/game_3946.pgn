@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eUpZbqtp"]
+[Date "2020.10.29"]
+[White "EltahirAmin"]
+[Black "LAGA1979"]
+[Result "1-0"]
+[UTCDate "2020.10.29"]
+[UTCTime "17:36:39"]
+[WhiteElo "2011"]
+[BlackElo "1950"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. d3 Nc6 6. c3 e5 7. Ng3 Nf6 8. Be2 Be7 9. O-O O-O 10. Bg5 h6 11. Bd2 a6 12. Rc1 Bg4 13. Nh4 Be6 14. Ngf5 Bd6 15. f4 Bxf5 16. Nxf5 Ne7 17. fxe5 Bxe5 18. Qe1 Nxf5 19. Rxf5 Qd6 20. Qh4 dxc3 21. bxc3 Nh7 22. Rcf1 Bf6 23. Qg4 Kh8 24. Bf4 Qb6 25. e5 Bg5 26. Bxg5 Nxg5 27. d4 cxd4 28. cxd4 Rad8 29. R5f4 Rd5 30. Bd3 Qd8 31. h4 Ne6 32. Rf6 Rxd4 33. Rxh6+ Kg8 34. Bh7+ Kh8 35. Bg6+ gxh6 36. Qh5 Kg7 37. Bxf7 Nf4 38. Qg4+ Kh8 39. Rxf4 Rxf4 40. Qxf4 Qd1+ 41. Kh2 Kg7 42. Qf6+ Kh7 43. Qg6+ Kh8 44. Qxh6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1vKMdGsK"]
+[Date "2022.07.26"]
+[White "EltahirAmin"]
+[Black "Rower84"]
+[Result "0-1"]
+[UTCDate "2022.07.26"]
+[UTCTime "21:11:33"]
+[WhiteElo "2019"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B80"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 a6 7. Qd2 b5 8. Be2 Bb7 9. f3 Be7 10. O-O O-O 11. Bg5 Nbd7 12. Rf2 Rc8 13. Raf1 Ne5 14. f4 Nc4 15. Bxc4 Rxc4 16. f5 b4 17. Nce2 Nxe4 18. Bxe7 Qxe7 19. Qd3 d5 20. fxe6 Nxf2 21. exf7+ Rxf7 22. Rxf2 Rxf2 23. Kxf2 Qf6+ 24. Nf5 Re4 25. Ng3 Re8 26. Kg1 Qxb2 27. h3 Qc1+ 28. Kh2 Qf4 29. Qd4 Qxd4 30. Nxd4 a5 31. Ngf5 Ba6 32. Nd6 Rd8 33. N6f5 Bc4 34. Nxg7 Kxg7 35. Ne6+ Kf6 36. Nxd8 Bxa2 37. Nb7 a4 38. Nc5 b3 39. cxb3 Bxb3 40. Nd3 a3 41. Nc1 Bc4 42. Kg3 a2 43. Nxa2 Bxa2 44. Kf3 Bb1 45. Ke3 Be4 46. g3 Kg5 47. Kd4 h5 48. Ke3 Bg2 49. Kd4 Bxh3 50. Kxd5 Kg4 51. Ke4 Kxg3 52. Ke3 Bg2 53. Ke2 h4 54. Ke1 h3 55. Ke2 h2 56. Ke3 h1=Q 57. Kd4 Qf1 58. Ke3 Kg4 59. Kd2 Qf3 60. Ke1 Bh3 61. Kd2 Kf4 62. Kc2 Ke4 63. Kd2 Kd4 64. Ke1 Qg2 65. Kd1 Kd3 66. Kc1 Qc2# 0-1
+

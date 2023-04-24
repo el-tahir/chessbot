@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aL7As85l"]
+[Date "2023.02.01"]
+[White "EltahirAmin"]
+[Black "ismailajlani"]
+[Result "0-1"]
+[UTCDate "2023.02.01"]
+[UTCTime "17:28:06"]
+[WhiteElo "1941"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 e5 3. Nc3 f5 4. Nf3 e4 5. Nd4 Nf6 6. d3 Bd6 7. dxe4 fxe4 8. Bc4 O-O 9. O-O Bxh2+ 10. Kxh2 Ng4+ 11. Kg3 Qd6+ 12. f4 exf3+ 13. Kh3 Qh2# 0-1
+

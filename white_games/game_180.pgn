@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B5ruuApy"]
+[Date "2022.11.18"]
+[White "EltahirAmin"]
+[Black "arg_pychae-06"]
+[Result "0-1"]
+[UTCDate "2022.11.18"]
+[UTCTime "14:09:32"]
+[WhiteElo "1989"]
+[BlackElo "2029"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B90"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Qf3 Nxe3 8. Qxe3 g6 9. Bd3 Bg7 10. O-O O-O 11. Kh1 Nc6 12. Nxc6 bxc6 13. f4 Qa5 14. f5 Rb8 15. fxg6 hxg6 16. Rfb1 Bxc3 17. bxc3 Rxb1+ 18. Rxb1 Qxa2 19. Rf1 Be6 20. e5 Bc4 21. exd6 exd6 22. Be4 Bxf1 23. h4 Qe6 24. h5 d5 25. Qh6 dxe4 0-1
+

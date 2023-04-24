@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n3PaRM6f"]
+[Date "2020.10.28"]
+[White "EltahirAmin"]
+[Black "dedenksportkampioen"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "12:37:19"]
+[WhiteElo "1987"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nf3 Nxc3 5. bxc3 Bg4 6. Be2 Bxf3 7. Bxf3 c6 8. Rb1 Nd7 9. Rxb7 Rc8 10. Rxa7 e5 11. Qe2 Bc5 12. O-O Bxa7 13. Re1 O-O 14. d3 Re8 15. Be4 Nf6 16. Bf5 g6 17. Bxc8 Qxc8 18. Bg5 Qf5 19. Bh4 g5 20. Bg3 e4 21. d4 c5 22. Be5 cxd4 23. cxd4 Rxe5 24. dxe5 Qxe5 25. Qa6 Bd4 26. a4 e3 27. fxe3 Bxe3+ 28. Kh1 Ng4 29. Qc8+ Kg7 30. Qxg4 Qf4 31. Qxf4 Bxf4 32. a5 Bd2 33. Re5 f6 34. Rb5 h5 35. a6 Be3 36. Rb7+ Kg6 37. a7 Bxa7 38. Rxa7 f5 39. Rd7 f4 40. c4 g4 41. c5 h4 42. c6 f3 43. gxf3 gxf3 44. c7 f2 45. Kg2 f1=B+ 46. Kxf1 h3 47. c8=Q 1-0
+

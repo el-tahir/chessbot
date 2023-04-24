@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cVYRVp2X"]
+[Date "2022.09.18"]
+[White "JhonatanFJ"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.09.18"]
+[UTCTime "23:09:18"]
+[WhiteElo "1990"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. Nf3 e6 8. O-O Bd6 9. Ne5 Qc7 10. f4 O-O 11. g3 c5 12. Be3 Rb8 13. b3 cxd4 14. Bxd4 Ba6 15. Rf3 Bb4 16. Na4 Ne4 17. Rc1 Rfc8 18. c3 Ba3 19. Rc2 f6 20. Ng4 Kf7 21. Nf2 Nxf2 22. Kxf2 Bb5 23. Nb2 a5 24. Nd3 Bxd3 25. Qxd3 Bc5 26. Bxc5 Qxc5+ 27. Kg2 a4 28. b4 Qc4 29. Qxc4 Rxc4 30. a3 Rbc8 31. Rd3 d4 32. Kf3 dxc3 33. h4 Ke7 34. g4 R8c6 35. Ke3 h6 36. g5 hxg5 37. hxg5 fxg5 38. fxg5 Kf7 39. Kf3 Kg6 40. Kg3 e5 41. Re3 e4 42. Kf4 Kf7 43. Rxe4 Rxe4+ 44. Kxe4 Kg6 45. Kd4 Kxg5 46. Rxc3 Rd6+ 47. Ke5 Rd2 48. Rg3+ Kh6 49. Kf5 Rd5+ 50. Ke6 Rg5 51. Rxg5 Kxg5 52. b5 Kf4 53. b6 g5 54. b7 g4 55. b8=Q+ 1-0
+

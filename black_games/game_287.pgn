@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YfrjWaI2"]
+[Date "2022.07.30"]
+[White "Storky"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.30"]
+[UTCTime "15:38:35"]
+[WhiteElo "2018"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Ne2 Bg4 6. f3 Bh5 7. O-O e6 8. c3 Bd6 9. Bf4 Qc7 10. Bxd6 Qxd6 11. Ng3 Bg6 12. Na3 Nc6 13. Nb5 Qd7 14. b4 a6 15. Na3 O-O 16. Rc1 Rac8 17. Qd2 Ne7 18. Rc2 Rc7 19. Rfc1 Rfc8 20. Ne2 b5 21. Nf4 Nf5 22. Nxg6 hxg6 23. Bxf5 gxf5 24. Nb1 Rc4 25. a3 Qd6 26. g3 e5 27. dxe5 Qxe5 28. Re1 Qd6 29. Qd3 g6 30. Nd2 R4c7 31. Nb3 Re7 32. Ree2 Rce8 33. Rxe7 Qxe7 34. Kf2 Qe1+ 35. Kg2 Nd7 36. Qd2 Qe5 37. Nd4 Nb6 38. Qf2 Nc4 39. Re2 Ne3+ 40. Kg1 g5 41. Nc6 Qxc3 42. Qe1 Qxc6 43. Rxe3 Qb6 44. Kf2 f4 45. gxf4 gxf4 46. Qg1+ Kf8 47. Qc1 Qxe3+ 48. Qxe3 fxe3+ 49. Ke2 d4 50. Kd3 e2 0-1
+

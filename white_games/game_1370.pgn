@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/D61Zv01j"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "PUTRU"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "11:13:07"]
+[WhiteElo "2047"]
+[BlackElo "2053"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nf3 Bxc3 4. dxc3 f6 5. Nxe5 fxe5 6. Qh5+ Ke7 7. Bc4 d5 8. Bxd5 Be6 9. Bxb7 Nd7 10. Bxa8 Qxa8 11. Qe2 Ngf6 12. f3 Rf8 13. Bg5 Kf7 14. O-O-O Kg8 15. Qa6 Bf7 16. Bxf6 Nxf6 17. Kb1 Rb8 18. Rd3 Rb6 19. Qa3 Qb8 20. Rhd1 Ne8 21. Rd8 Qb7 22. b3 h6 23. Qe7 Qc6 24. Kb2 a5 25. Qd7 Qxd7 26. R1xd7 Kf8 27. Rxc7 a4 28. Rcc8 Ke7 29. Rb8 axb3 30. Rxb6 Kxd8 31. cxb3 Kc7 32. Rb5 Kd6 33. a4 Nc7 34. Rb4 Be8 35. a5 Bc6 36. Rb6 Nb5 37. a6 Kc7 38. Rxc6+ Kxc6 39. c4 Nd4 40. Kc3 Kb6 41. b4 Kxa6 42. b5+ Kb7 43. Kb4 Kb6 44. c5+ Kb7 45. Kc4 Nc2 46. b6 Na3+ 47. Kd5 Nb1 48. Kxe5 Kc6 49. Ke6 Nc3 50. e5 Nb5 51. b7 Kxb7 52. Ke7 Kc7 53. e6 Nd4 54. Kf7 Kd8 55. e7+ Kc7 56. e8=Q Nc6 57. Qg8 Nd8+ 58. Qxd8+ Kxd8 59. Kxg7 Kc7 60. Kxh6 Kc6 61. Kg6 Kxc5 62. h4 Kd6 63. h5 Ke7 64. Kg7 Ke6 65. h6 Ke5 66. h7 Kd4 67. h8=Q Ke3 68. Qh6+ Kf2 69. g4 Kg2 70. g5 Kg1 71. Kf7 Kf1 72. g6 Kf2 73. g7 Kxf3 74. g8=Q Ke2 75. Qf6 Ke1 76. Qgg5 Kd1 77. Qge5 1-0
+

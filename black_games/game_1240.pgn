@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qhLKcYjj"]
+[Date "2021.03.07"]
+[White "chessfan1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.07"]
+[UTCTime "15:48:32"]
+[WhiteElo "2097"]
+[BlackElo "2064"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 0-1
+

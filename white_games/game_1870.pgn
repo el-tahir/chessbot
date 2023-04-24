@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dHobD2DC"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "pubg99"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "23:09:33"]
+[WhiteElo "1985"]
+[BlackElo "1989"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 c5 4. e5 Nc6 5. Nf3 Qb6 6. a3 cxd4 7. Ne2 Be7 8. Ng3 Bd7 9. Bd3 Qc7 10. Bf4 h6 11. h4 g5 12. hxg5 O-O-O 13. gxh6 f6 14. Qe2 fxe5 15. Nxe5 Bf6 16. Ng6 e5 17. Nxh8 exf4 18. Nf5 Re8 19. Nxd4 Nxd4 20. Qxe8+ Bxe8 21. h7 Nxc2+ 22. Kd2 Ne7 23. Ng6 Bxg6 24. Bxc2 Qxc2+ 25. Ke1 Bh8 26. Rd1 Qxb2 27. Rh3 Qc2 28. Rd2 Bc3 29. h8=Q+ Bxh8 30. Rxh8+ Kd7 31. Rxc2 Bxc2 32. Kd2 Bf5 33. a4 a6 34. a5 Nc6 35. Rh5 Be6 36. Rh7+ Kc8 37. Rh6 Bd7 38. Rh8+ Kc7 39. Ke2 Nxa5 40. Kf3 Nc4 41. Kxf4 a5 42. Rh5 Bc6 43. Rh7+ Kb6 44. g4 a4 45. g5 Nd6 46. g6 d4 47. g7 Bd5 48. Rh5 Bg8 49. Rh8 Bc4 50. g8=Q Bxg8 51. Rxg8 a3 52. Rg1 Kb5 53. Ra1 Kb4 54. Ke5 Nc4+ 55. Kxd4 Kb3 56. f4 Kb2 57. Kxc4 Kxa1 58. f5 Kb1 59. f6 a2 60. f7 a1=Q 61. f8=Q 1-0
+

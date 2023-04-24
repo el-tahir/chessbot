@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nvJ4oJJA"]
+[Date "2020.11.23"]
+[White "kambarov222"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "10:44:45"]
+[WhiteElo "1929"]
+[BlackElo "1917"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Be2 Bxe2 7. N1xe2 e6 8. O-O Bd6 9. Bg5 O-O 10. Ne4 Be7 11. Bxf6 Bxf6 12. c3 Na6 13. Qd3 Rc8 14. Rad1 Qe7 15. N2g3 Rfd8 16. Nh5 Bh4 17. g3 Bf6 18. Nhxf6+ gxf6 19. Qf3 f5 20. Nd2 c5 21. Qf4 cxd4 22. cxd4 Nc7 23. Nf3 Nd5 24. Qh6 Qf6 25. Qxf6 Nxf6 26. Rc1 Kf8 27. Rc3 Ke7 28. Rfc1 Kd7 29. Ne5+ Ke7 30. Rxc8 Rxd4 31. R8c7+ Kd6 32. Nxf7+ Kd5 33. R7c5+ Ke4 34. Ng5+ Kd3 35. R5c3+ Kd2 36. R3c2+ Kd3 37. Rc3+ Ke2 38. Re3+ Kd2 39. Rcc3 Ne4 40. Nf3+ Kd1 41. Re1# 1-0
+

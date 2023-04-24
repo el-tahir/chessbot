@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wyhAoI6p"]
+[Date "2022.07.29"]
+[White "Yura94"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.07.29"]
+[UTCTime "18:52:42"]
+[WhiteElo "2068"]
+[BlackElo "2064"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 e6 6. c3 Nc6 7. Nf3 Bd6 8. O-O O-O 9. Re1 b6 10. Nbd2 Bb7 11. Nf1 Rc8 12. N1h2 Qc7 13. Ng4 Nxg4 14. hxg4 Rce8 15. g5 e5 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Be3 Re6 19. Bf5 Re7 20. Qc2 g6 21. Bd3 Rfe8 22. Bd2 Qc6 23. f3 Bg3 24. Rxe7 Rxe7 25. c4 dxc4 26. Qxc4 Qd6 27. Bb4 Qf4 28. Bxe7 Qe3+ 29. Kh1 Qxe7 30. Qg4 Bb8 31. Be4 Qc7 32. g3 Ba6 33. Rd1 Qxg3 34. Qxg3 Bxg3 35. Rd8+ Kg7 36. Rd7 h6 37. gxh6+ Kxh6 38. Rxf7 Bc4 39. Rxa7 b5 40. a3 Be5 41. Ra6 Bxb2 42. Rxg6+ Kh5 43. Ra6 Bb3 44. Rb6 Ba4 45. Bc6 Bxa3 46. Bxb5 Bxb5 47. Rxb5+ Kh4 48. Ra5 Kg3 49. Rxa3 1-0
+

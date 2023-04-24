@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oFi06ENV"]
+[Date "2022.06.03"]
+[White "Bazer_Romeo118"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.06.03"]
+[UTCTime "03:15:28"]
+[WhiteElo "2051"]
+[BlackElo "2037"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C26"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. d4 exd4 4. Qxd4 Nc6 5. Qa4 Be7 6. Bg5 O-O 7. Nf3 h6 8. Bf4 Re8 9. O-O-O d6 10. Bb5 Bd7 11. Nd5 Nxd5 12. exd5 Nb8 13. Rhe1 Bxb5 14. Qxb5 Nd7 15. Qxb7 Bf6 16. Rxe8+ Qxe8 17. Qxc7 Rb8 18. b3 Ne5 19. Nxe5 dxe5 20. Bg3 Rc8 21. Qa5 Bg5+ 22. Kb1 Qd7 23. d6 Bf6 24. Bxe5 Qc6 25. c3 Bxe5 26. Qxe5 Qd7 27. Qe7 Rd8 28. Qxd7 Rxd7 29. c4 f5 30. c5 Kf7 31. c6 Rd8 32. d7 Ke7 33. c7 Rxd7 34. Re1+ Kd6 35. c8=Q 1-0
+

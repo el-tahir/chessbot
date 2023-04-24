@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7ZfSBBtd"]
+[Date "2020.12.15"]
+[White "EltahirAmin"]
+[Black "Juancarlosrojinegro"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "16:57:26"]
+[WhiteElo "1910"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nf6 6. Be3 Bb6 7. Bc4 Nc6 8. O-O h6 9. Bb5 Bd7 10. Nxc6 Bxc6 11. Bxc6+ bxc6 12. Bf4 O-O 13. Qd2 Kh7 14. Rad1 Re8 15. Rfe1 Ng4 16. Re2 Nf6 17. Qd3 Kg8 18. Rde1 d5 19. e5 Nd7 20. Qg3 Kh7 21. e6 fxe6 22. Rxe6 Rxe6 23. Rxe6 Nf6 24. Rxc6 Qd7 25. Qd3+ Kg8 26. Qb5 a6 27. Qa4 d4 28. Ne2 d3 29. cxd3 Qxd3 30. Ng3 Qb1+ 31. Nf1 Qxb2 32. Qb3+ Qxb3 33. axb3 Ne4 34. h3 Nxf2 35. Kh2 Nd3 36. Kg3 Nxf4 37. Kxf4 a5 38. Rc3 a4 39. Nd2 a3 40. Rc1 a2 41. Ra1 Bd4 42. Rxa2 Rxa2 43. Nc4 Rxg2 44. Kf3 Ra2 45. Ke4 Bf6 46. Kd5 Ra5+ 47. Kc6 Rh5 48. Kxc7 Rxh3 49. b4 Rb3 50. b5 Rxb5 51. Kc6 Rg5 52. Nd6 Be5 53. Nc8 Bf6 54. Kd7 h5 55. Nd6 h4 56. Ne8 h3 57. Nd6 1-0
+

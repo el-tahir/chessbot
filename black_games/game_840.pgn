@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nwXwPqxC"]
+[Date "2021.11.15"]
+[White "Leonardo201o"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.15"]
+[UTCTime "15:11:51"]
+[WhiteElo "2017"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. dxc5 Nxd5 5. e4 Nf6 6. Qxd8+ Kxd8 7. f3 e5 8. Be3 Nc6 9. a3 Be6 10. Nc3 Nd4 11. Rd1 Bxc5 12. b4 Bb6 13. Bd3 Ke7 14. Nge2 Rhd8 15. Na4 Bc7 16. Nxd4 exd4 17. Bg5 h6 18. Bxf6+ Kxf6 19. Nc5 b6 20. Nxe6 Kxe6 21. O-O Bf4 22. g3 Be3+ 23. Kg2 Rac8 24. f4 Rc3 25. Kf3 Rxa3 26. Bc4+ Ke7 27. e5 Rc8 28. Bd3 Rcc3 29. Ke4 Rab3 30. Ra1 Rc7 31. Ra4 Rcc3 32. Rd1 Rc7 33. b5 g6 34. g4 f6 35. h4 Rb2 36. Rda1 Rf2 37. f5 Rf4+ 38. Kd5 Rc5# 0-1
+

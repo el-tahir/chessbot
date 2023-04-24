@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oms5dn9o"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "deepmind07"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "23:21:36"]
+[WhiteElo "1985"]
+[BlackElo "1985"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 Ne7 7. h4 h6 8. Nc3 Nd7 9. Bf4 c5 10. O-O-O Qa5 11. g4 Nc6 12. a3 Be7 13. g5 h5 14. g6 f6 15. Qe3 f5 16. Ng5 Bxg5 17. Bxg5 Rc8 18. Nxd5 exd5 19. e6 cxd4 20. exd7+ Kxd7 21. Rxd4 Nxd4 22. Qxd4 Rhg8 23. Rd1 1-0
+

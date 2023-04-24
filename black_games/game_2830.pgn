@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KaPoZvhk"]
+[Date "2020.11.28"]
+[White "eMeNe"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.28"]
+[UTCTime "13:01:23"]
+[WhiteElo "1874"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. h3 Bh5 6. c3 c5 7. Be2 Nc6 8. O-O cxd4 9. Nxd4 Bxe2 10. Qxe2 Bc5 11. Qb5 Bxd4 12. cxd4 Ne7 13. Bg5 O-O 14. Nc3 Nxd4 15. Qxb7 f6 16. exf6 gxf6 17. Be3 Nc2 18. Rac1 d4 19. Rxc2 dxe3 20. fxe3 Kh8 21. Ne4 Nf5 22. Re2 Qd5 23. Qxd5 exd5 24. Rxf5 dxe4 25. Rf4 f5 26. Rc2 a5 27. Rc7 Rab8 28. b3 a4 29. Rc3 axb3 30. axb3 Kg7 31. g4 fxg4 32. Rxf8 Rxf8 33. hxg4 Rf3 34. Kg2 Kg6 35. b4 Rf6 36. Rc4 Re6 37. Kg3 Kg5 38. Rc5+ Kg6 39. Kf4 Rb6 40. Rc4 Re6 41. Rxe4 Rb6 42. Rc4 h5 43. gxh5+ Kxh5 44. e4 Rf6+ 45. Ke5 Rf8 46. b5 Re8+ 47. Kd4 Rb8 48. Rc5+ Kg6 49. e5 Kf7 50. Kd5 Ke7 51. Kc6 Rc8+ 52. Kb6 Rb8+ 53. Kc7 Ra8 54. b6 Rd8 55. b7 Rd7+ 56. Kb8 Rd8+ 57. Ka7 Rd1 58. b8=Q Ra1+ 59. Kb7 Rb1+ 60. Kc7 Rd1 61. Qb4 Rd7+ 62. Kb6 Ke6 63. Rc6+ Kxe5 64. Qe1+ Kf5 65. Qf1+ Kg5 66. Qg2+ Kh5 67. Qh3+ Kg5 68. Qxd7 Kf4 69. Qd5 Ke3 70. Qf7 Kd4 71. Qd7+ Ke5 72. Re6+ Kf5 73. Qf7+ Kg5 74. Rg6+ Kh5 75. Qh7# 1-0
+

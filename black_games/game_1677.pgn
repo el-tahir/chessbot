@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vEjwiDiO"]
+[Date "2021.02.14"]
+[White "vlacov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.14"]
+[UTCTime "22:13:31"]
+[WhiteElo "1983"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 d5 5. Bd3 Bb4 6. O-O Bxc3 7. bxc3 dxe4 8. Bb5+ c6 9. Ba4 exf3 10. Qxf3 Nf6 11. Ba3 Qc7 12. Rfe1 Nbd7 13. d5 e5 14. dxc6 O-O-O 15. cxb7+ Kb8 16. Rad1 e4 17. Qg3 Qxg3 18. hxg3 Kxb7 19. Be7 Rde8 20. Bd6 Re6 21. Bf4 Nc5 22. Bb5 Rhe8 23. Bc4 R6e7 24. Bd6 Rd7 25. Bf4 Rxd1 26. Rxd1 Kc6 27. Bxf7 Re7 28. Bc4 Rd7 29. Rxd7 Kxd7 30. Be5 a5 31. Bxf6 gxf6 32. Kf1 Kd6 33. Bb5 Ke5 34. Ke2 h6 35. Ke3 f5 36. f4+ exf3 37. gxf3 a4 38. f4+ Kd5 39. c4+ Kd6 40. Kd4 Ne4 41. g4 fxg4 42. Kxe4 h5 43. f5 Ke7 44. Kf4 Kf6 45. Bd7 a3 46. Bc6 h4 47. Bd5 h3 48. Kxg4 h2 49. Kf4 Ke7 50. Kg5 Kf8 51. f6 Ke8 52. Kg6 Kf8 53. f7 h1=Q 54. Bxh1 Ke7 55. Kg7 Kd6 56. f8=Q+ Kc7 57. Qxa3 Kb8 58. Qb4 Ka7 59. Qb5 Kb8 60. Qxb6+ Kc8 61. c5 Kd7 62. c6+ Kc8 63. Qb7+ Kd8 64. Qd7# 1-0
+

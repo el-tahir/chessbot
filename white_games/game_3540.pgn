@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YwlpCMa1"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Iemile"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "18:17:15"]
+[WhiteElo "1971"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Ng3 Ngf6 6. Nf3 e6 7. Be2 Bd6 8. O-O h6 9. Be3 O-O 10. Qd3 b5 11. c4 bxc4 12. Qxc4 Bb7 13. Rab1 Nb6 14. Qd3 Nbd5 15. Bd1 Qb6 16. Bc2 Ba6 17. Qd2 Bxf1 18. Rxf1 Bb4 19. Qd3 Bd6 20. Ne5 Qb5 21. Qd2 Bb4 22. Qc1 Rab8 23. b3 Nxe3 24. Qxe3 Bd6 25. Ne4 Nd5 26. Qg3 Bxe5 27. Qxe5 Ne7 28. Nd6 Qxe5 29. dxe5 Rfd8 30. Be4 Nd5 31. Rc1 Rb6 32. h3 Nb4 33. a3 Nd5 34. b4 a5 35. bxa5 Ra6 36. Rc5 Rda8 37. a4 Rxa5 38. Rxa5 Rxa5 39. Bc2 Nb4 40. Bb3 c5 41. Nc4 Ra6 42. Nd6 Ra8 43. g4 1-0
+

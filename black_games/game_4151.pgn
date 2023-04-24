@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UFPXTiTc"]
+[Date "2020.10.17"]
+[White "jostenman"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.17"]
+[UTCTime "14:10:42"]
+[WhiteElo "1949"]
+[BlackElo "1918"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Be3 Bb4 8. Qd2 Nc6 9. O-O O-O 10. a3 Ne4 11. Qe1 Bxc3 12. bxc3 Rc8 13. Bd3 Bxf3 14. gxf3 Nd6 15. Kh1 Qh4 16. Rg1 f5 17. Bg5 Qh5 18. Rg3 Rce8 19. Qg1 e5 20. dxe5 Nxe5 21. Bf4 Nxf3 22. Rxg7+ Kh8 23. Qg2 Ne4 24. Bxe4 fxe4 25. Rxb7 Rxf4 26. Qg7# 1-0
+

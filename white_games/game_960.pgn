@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o3mXxqn7"]
+[Date "2021.11.01"]
+[White "EltahirAmin"]
+[Black "Jose_Arcario"]
+[Result "1-0"]
+[UTCDate "2021.11.01"]
+[UTCTime "20:38:26"]
+[WhiteElo "2056"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 e5 7. Nb3 Be6 8. Bb5 Be7 9. O-O O-O 10. f4 a6 11. Bd3 exf4 12. Bxf4 Ne5 13. Be2 b5 14. Qe1 Qb6+ 15. Kh1 b4 16. Nd5 Bxd5 17. exd5 Nxd5 18. Qg3 Nxf4 19. Rxf4 Ng6 20. Rg4 Bf6 21. h4 Be5 22. Qh3 Nf4 23. Qf3 Nxe2 24. Qxe2 Rae8 25. Qd3 Qf2 26. Rf1 Qb6 27. Nd4 h5 28. Re4 f5 29. Rxe5 dxe5 30. Nxf5 e4 31. Qg3 Qb7 32. Qg6 Kh8 33. Qxh5+ Kg8 34. Qg6 Rxf5 35. Qxe8+ Kh7 36. Rxf5 e3 37. Rh5# 1-0
+

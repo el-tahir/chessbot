@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MtrtEhJW"]
+[Date "2020.11.11"]
+[White "ehabyousif"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.11"]
+[UTCTime "05:32:34"]
+[WhiteElo "1910"]
+[BlackElo "1923"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. d4 Nc6 5. Nf3 e6 6. Bb5 a6 7. Be2 Bd6 8. h3 Bd7 9. c4 Ne4 10. Nbd2 cxd4 11. exd4 Nxd2 12. Qxd2 dxc4 13. Bxc4 Qf6 14. d5 Bb4 15. Bxf6 Bxd2+ 16. Nxd2 gxf6 17. dxe6 fxe6 18. O-O O-O-O 19. Rac1 e5 20. b4 Kb8 21. a3 Nd4 22. Nb3 Nxb3 23. Bxb3 Bc6 24. f3 Rd2 25. Rc2 Rhd8 26. Rfc1 h5 27. a4 h4 28. Rxd2 Rxd2 29. Rc2 Rd1+ 30. Kf2 e4 31. Ke3 exf3 32. gxf3 Rd3+ 33. Kxd3 1-0
+

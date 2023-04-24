@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I7Kr80Id"]
+[Date "2020.11.02"]
+[White "argonautow"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "12:05:01"]
+[WhiteElo "1994"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Bf4 d5 3. Nf3 Nf6 4. e3 Bg4 5. Bd3 Nh5 6. c3 Nxf4 7. exf4 e6 8. Nbd2 Bd6 9. g3 c5 10. h3 Bh5 11. g4 Bg6 12. f5 exf5 13. Ne5 Bxe5 14. dxe5 fxg4 15. Bxg6 hxg6 16. Qxg4 Rh4 17. Qg3 Nc6 18. O-O-O Ra4 19. a3 Qc7 20. Qg5 Qxe5 21. Rde1 Re4 22. Nxe4 dxe4 23. Qxe5+ Nxe5 24. Rxe4 f6 25. f4 Kf7 26. fxe5 Re8 27. Rhe1 1-0
+

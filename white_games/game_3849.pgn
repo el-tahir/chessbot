@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4eYRb0uC"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "florianopossamai"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "09:55:56"]
+[WhiteElo "1970"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Qd5 4. d3 exd3 5. Nc3 Qe5+ 6. Be3 dxc2 7. Qxc2 c6 8. O-O-O Bf5 9. Bd3 Bxd3 10. Rxd3 e6 11. Rhd1 Be7 12. f4 Qa5 13. f5 e5 14. Kb1 Nf6 15. Ne6 fxe6 16. fxe6 O-O 17. h3 Na6 18. g4 Nb4 19. Qg2 Nxd3 20. Rxd3 Rad8 21. Rxd8 Rxd8 22. g5 Nd5 23. Ne4 Nxe3 0-1
+

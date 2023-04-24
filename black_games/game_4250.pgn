@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qpjV1Oyh"]
+[Date "2020.10.14"]
+[White "gildel1968"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "11:09:04"]
+[WhiteElo "1998"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. e3 Bc5 6. Be2 O-O 7. O-O Ncxe5 8. Nc3 a5 9. Nd5 Ra6 10. a3 Rh6 11. h3 Nxf3+ 12. Bxf3 Ne5 13. Be2 d6 14. e4 Rg6 15. Kh1 Qh4 16. f4 c6 17. Ne7+ Qxe7 18. fxe5 Qxe5 19. Bf4 Qxe4 20. Bd3 Qxg2# 0-1
+

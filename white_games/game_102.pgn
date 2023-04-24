@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AKej3OOi"]
+[Date "2023.02.26"]
+[White "EltahirAmin"]
+[Black "Maniels1"]
+[Result "0-1"]
+[UTCDate "2023.02.26"]
+[UTCTime "22:50:34"]
+[WhiteElo "1940"]
+[BlackElo "2041"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C17"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. e5 c5 5. Nf3 Nc6 6. dxc5 Nge7 7. Be3 Nf5 8. Bd3 d4 9. Bxf5 dxe3 10. fxe3 exf5 11. Qe2 Qa5 12. O-O Be6 13. Nd4 O-O 14. Nxf5 Bxf5 15. Rxf5 Bxc3 16. bxc3 Qxc3 17. Raf1 Nd8 18. g4 Rc8 19. g5 Rxc5 20. h4 Rxe5 21. R5f4 Rc5 22. Qg4 Qxe3+ 23. Kh1 Rxc2 0-1
+

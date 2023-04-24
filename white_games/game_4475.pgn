@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6ynLThxv"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "philipcares"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "12:59:31"]
+[WhiteElo "1990"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d5 3. Bg5 f6 4. Bh4 c6 5. c4 a6 6. e3 Ne7 7. Nc3 Ng6 8. Bg3 Bd6 9. Bxd6 Qxd6 10. cxd5 exd5 11. Bd3 f5 12. Qc2 O-O 13. Nxd5 cxd5 14. Rc1 Nc6 15. O-O Nb4 16. Qb1 Nxd3 17. Qxd3 Bd7 18. Rc5 Bb5 0-1
+

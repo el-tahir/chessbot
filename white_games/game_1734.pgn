@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K3QaDBi2"]
+[Date "2021.02.06"]
+[White "EltahirAmin"]
+[Black "VsegdaGotov"]
+[Result "0-1"]
+[UTCDate "2021.02.06"]
+[UTCTime "22:15:19"]
+[WhiteElo "1950"]
+[BlackElo "2008"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. Nf3 Nf6 4. Bd3 e5 5. Bc2 d6 6. d3 Bg4 7. Be3 Be7 8. O-O Qd7 9. Nbd2 h6 10. Nb3 g5 11. d4 Nh5 12. h3 Bxf3 13. Qxf3 Nf4 14. Rad1 cxd4 15. cxd4 exd4 16. Nxd4 Ne5 17. Qe2 Nxe2+ 0-1
+

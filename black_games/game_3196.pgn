@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Deyidnc8"]
+[Date "2020.11.15"]
+[White "ARIEFZEIN"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "09:00:54"]
+[WhiteElo "1932"]
+[BlackElo "1968"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D01"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 Bg4 4. e3 Bxd1 5. Rxd1 c5 6. Nb5 Na6 7. dxc5 Rc8 8. Nxa7 Rxc5 9. Nb5 Qa5+ 10. Nc3 Rxc3 11. bxc3 Qxc3+ 12. Rd2 e5 13. Bg3 Bb4 14. Nf3 Qa1+ 15. Ke2 Bxd2 16. Nxd2 Qxa2 17. Bxe5 Ne4 18. Nxe4 dxe4 19. Kd2 Nb4 20. Bb5+ Ke7 21. Rc1 Rd8+ 22. Bd4 Qd5 23. c3 Qxb5 24. cxb4 Qxb4+ 25. Ke2 Rd7 26. Bc5+ Qxc5 27. Rxc5 Kd6 28. Rc4 f5 29. h3 b5 30. Rd4+ Ke6 31. Rb4 Rb7 32. f3 exf3+ 33. Kxf3 Kd6 34. Kf4 Kc5 35. Rb1 g6 36. g4 fxg4 37. hxg4 b4 38. e4 b3 39. e5 Rb4+ 40. Kg5 Kd5 41. Kf6 Rf4+ 42. Kg7 Rxg4 43. Kxh7 Rg3 44. Kg7 Kxe5 45. Re1+ Kd4 46. Kf6 b2 47. Rb1 Kc3 48. Rxb2 Kxb2 0-1
+

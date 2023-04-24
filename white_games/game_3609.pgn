@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UcYqtL4u"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "BogaNet"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "09:50:29"]
+[WhiteElo "1960"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. d4 c6 3. c4 d6 4. Nc3 Nbd7 5. Nf3 h6 6. Be2 g5 7. Bd2 Bg7 8. Qc2 Nf8 9. e4 Ne6 10. O-O-O g4 11. e5 gxf3 12. exf6 Bxf6 13. Bxf3 Nxd4 14. Qe4 Nxf3 15. Qxf3 h5 16. Rhe1 Kf8 17. Ne4 Bg4 18. Qf4 Bxd1 19. Kxd1 Be5 20. Qh4 Qd7 21. Kc1 Qg4 22. Bg5 Qxh4 23. Bxh4 Rg8 24. g3 Rg4 25. f4 Bg7 26. Ng5 Re8 27. h3 Rxh4 28. gxh4 e5 29. f5 Bf6 30. Ne4 Ke7 31. c5 d5 32. Ng3 Bxh4 33. Nxh5 Bxe1 34. f6+ Ke6 35. Kd1 Bh4 36. Ke2 Bxf6 37. Ng3 Rh8 38. Nf1 Rxh3 39. Ne3 Rh2+ 40. Kd3 Rxb2 41. Nc2 Rxa2 42. Nb4 Ra5 43. Kc3 Rxc5+ 44. Kb3 e4 45. Nd3 exd3 46. Kb4 Rc4+ 47. Kb3 Bd4 48. Ka2 f5 49. Kb1 f4 50. Ka2 f3 51. Kb3 f2 52. Ka3 f1=Q 53. Ka2 Qf2+ 54. Kb3 Qc2+ 55. Ka3 Ra4# 0-1
+

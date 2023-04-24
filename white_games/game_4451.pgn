@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q90YdeR8"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "NRDmylove"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "17:29:00"]
+[WhiteElo "1969"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. g3 c6 6. Bf4 Qd8 7. Bg2 Bg4 8. Nf3 e6 9. h3 Bh5 10. Qd3 Bd6 11. Ne5 Nd5 12. Nxd5 cxd5 13. Qb5+ 1-0
+

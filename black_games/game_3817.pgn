@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2tXS5sm6"]
+[Date "2020.11.02"]
+[White "toddletales"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "17:03:09"]
+[WhiteElo "2001"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Bg4 6. Nf3 e6 7. Bf4 Bd6 8. Bg3 Nc6 9. Nbd2 O-O 10. O-O Qc7 11. Re1 Rae8 12. Qb1 h6 13. Ne5 Bh5 14. f4 Nd7 15. a3 f6 16. Bh7+ Kh8 17. Ng6+ Bxg6 18. Bxg6 Re7 19. Rf1 Qb8 20. Nf3 e5 21. fxe5 fxe5 22. dxe5 Ndxe5 23. Bxe5 Nxe5 24. Nxe5 Rxf1+ 25. Qxf1 Bxe5 26. g3 d4 27. cxd4 Bxd4+ 28. Kg2 Qe8 29. Bxe8 Rxe8 30. Rb1 Rc8 31. Qd3 Bf6 32. Kh3 Rc5 33. g4 Rc8 34. Re1 Bxb2 35. Qd7 Rg8 36. Re8 Bf6 37. Rxg8+ Kxg8 38. Qxb7 Bd4 39. Qd5+ Kh7 40. Qxd4 a5 41. Qa7 Kg6 42. Qxa5 Kh7 43. Kh4 g6 44. g5 hxg5+ 45. Kxg5 Kg7 46. Qb6 Kf7 47. Qxg6+ Ke7 48. Qc6 Kf7 49. Qd6 Ke8 50. Qc7 Kf8 51. Kf6 1-0
+

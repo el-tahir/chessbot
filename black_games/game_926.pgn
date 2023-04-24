@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/shdoTm9x"]
+[Date "2021.11.08"]
+[White "xarchel"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "00:52:19"]
+[WhiteElo "2008"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. h3 Bh5 6. c3 Ne7 7. Bd3 Nc8 8. O-O Be7 9. Bf4 O-O 10. Nbd2 Nd7 11. Qc2 Bg6 12. Rad1 c5 13. b3 Ncb6 14. c4 Rc8 15. Rc1 cxd4 16. Nxd4 dxc4 17. Nxc4 Bxd3 18. Qxd3 Nc5 19. Qg3 Ne4 20. Qg4 Qxd4 21. Rfd1 Qxf2+ 22. Kh1 Kh8 23. Rf1 Qh4 24. Qf3 Ng5 25. Qd3 Rfd8 26. Nd6 Rxc1 27. Bxc1 Bxd6 28. exd6 Qe4 29. Qg3 Qd5 30. Bxg5 Rxd6 31. Be7 Rd7 32. Qb8+ 1-0
+

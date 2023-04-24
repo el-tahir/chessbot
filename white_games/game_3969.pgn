@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t9ngx1j6"]
+[Date "2020.10.28"]
+[White "EltahirAmin"]
+[Black "Mazoooon"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "12:47:46"]
+[WhiteElo "1993"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d6 3. d4 d5 4. f4 Qh4+ 5. g3 Qd8 6. Nf3 Nf6 7. e5 Nfd7 8. Bg2 c5 9. Be3 Nc6 10. O-O Qb6 11. dxc5 Bxc5 12. Bxc5 Nxc5 13. Kh1 h5 14. Rb1 Bd7 15. Ng5 h4 16. g4 f6 17. exf6 gxf6 18. Nh3 O-O-O 19. a3 Rdg8 20. b4 Ne4 21. Nxe4 dxe4 22. Bxe4 f5 23. Bf3 fxg4 24. Bxg4 Ne7 25. Ng5 Bc6+ 26. Bf3 Nf5 27. Nxe6 h3 28. Qd3 Rg2 29. Qxf5 Rhg8 30. Nd4+ Kb8 31. Qe5+ Ka8 32. Nxc6 bxc6 33. Qe6 Rxc2 34. Qxg8+ Kb7 35. Qh7+ Ka6 36. Qxc2 1-0
+

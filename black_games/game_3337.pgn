@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BrlTUqWw"]
+[Date "2020.11.12"]
+[White "Nikoletina"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.12"]
+[UTCTime "18:52:55"]
+[WhiteElo "1923"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Normal"]
+
+1. f4 e5 2. fxe5 Bc5 3. d4 Bb6 4. Nf3 Ne7 5. c4 d6 6. exd6 Qxd6 7. c5 Ba5+ 8. Nc3 Bxc3+ 9. bxc3 Qg6 10. e3 Nd5 11. Bd2 O-O 12. Ne5 Qe4 13. Qh5 Nxe3 14. Bd3 Nxg2+ 15. Kd1 1-0
+

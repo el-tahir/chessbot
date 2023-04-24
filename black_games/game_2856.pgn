@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eL24EAfb"]
+[Date "2020.11.26"]
+[White "Mohamedabdelazem"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "18:48:36"]
+[WhiteElo "1910"]
+[BlackElo "1903"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. Bg5 e6 8. cxd5 Be7 9. dxe6 Bxe6 10. Bxf6 Bxf6 11. Bb5 O-O 12. O-O Bg4 13. Ne4 Be7 14. h3 Bh5 15. d5 Ne5 16. Nxe5 Bxd1 17. Raxd1 Qb6 18. Bc4 Bd6 19. Nd7 Qc7 20. Nxd6 Qxd6 21. Nxf8 Rxf8 22. Rfe1 f5 23. Re6 Qc5 24. Bb3 Rd8 25. d6 Qc6 26. Re8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jfCgmZWk"]
+[Date "2022.04.27"]
+[White "VuadorXL2"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.27"]
+[UTCTime "22:38:46"]
+[WhiteElo "2081"]
+[BlackElo "2138"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Qd3 Nbd7 7. h3 Bh5 8. Nxh5 Nxh5 9. Bg5 Nhf6 10. c3 Qc7 11. Nf3 O-O-O 12. O-O-O e6 13. Qc4 Be7 14. Ne5 Nxe5 15. dxe5 Nd5 16. Bxe7 Qxe7 17. Be2 Qg5+ 18. Kb1 Qxe5 19. Bf3 Kb8 20. Rhe1 Qc7 21. Qg4 g6 22. a3 Qb6 23. Bxd5 cxd5 24. Qf4+ Qc7 25. Qd4 Qc4 26. Qf6 Rhf8 27. Rd4 Qc7 28. Rf4 h5 29. g3 Rd6 30. Rxe6 Rxe6 31. Qxe6 fxe6 32. Rxf8+ Qc8 33. Rxc8+ Kxc8 34. Kc2 Kc7 35. f4 Kd6 36. Kd3 a5 37. b4 a4 38. Kd4 b5 39. h4 Ke7 40. Kc5 Kf6 41. Kxb5 e5 42. fxe5+ Kxe5 43. Kc5 Ke4 44. b5 Kd3 45. Kxd5 Kxc3 46. b6 Kb3 47. b7 Kxa3 48. b8=Q Ka2 49. Qh8 a3 50. Qf6 Kb1 51. Qxg6+ Kc1 52. Qxh5 a2 53. Qe5 Kb1 54. h5 a1=Q 55. Qxa1+ Kxa1 56. h6 1-0
+

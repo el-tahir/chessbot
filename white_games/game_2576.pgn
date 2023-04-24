@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ds9WsDMJ"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "acaste86"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "09:14:08"]
+[WhiteElo "1938"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Nf6 4. d4 dxe4 5. Ng5 Bf5 6. Bc4 e6 7. O-O Be7 8. Re1 O-O 9. Ngxe4 Nxe4 10. Nxe4 Bxe4 11. Rxe4 b5 12. Bd3 Nd7 13. Qh5 Nf6 14. Qxh7+ Nxh7 0-1
+

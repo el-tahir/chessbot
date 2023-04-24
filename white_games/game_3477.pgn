@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FAT9iiVH"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "jobemans"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "14:39:12"]
+[WhiteElo "1998"]
+[BlackElo "2069"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. c3 a6 6. Be2 b5 7. O-O Qb6 8. Be3 Be7 9. Nbd2 Nh6 10. Qc2 Nf5 11. Rac1 Nxe3 12. fxe3 Bd7 13. Bd3 h6 14. b4 cxb4 15. cxb4 Nxb4 16. Qb3 Nxd3 17. Qxd3 O-O 18. Rc2 Rac8 19. Rfc1 Rxc2 20. Rxc2 Rc8 21. e4 Bc6 22. exd5 Bd7 23. d6 Bd8 24. Ne4 Rxc2 25. Qxc2 Qc6 26. Qxc6 Bxc6 27. Kf2 Bxe4 28. Ke3 Bc6 29. Kd3 0-1
+

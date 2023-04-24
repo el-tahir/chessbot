@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9xBGzyhL"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "Carlos-Enrique-123"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "17:39:41"]
+[WhiteElo "1954"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 d5 3. c4 Nf6 4. Nc3 c5 5. Nf3 cxd4 6. Nxd4 Nc6 7. cxd5 exd5 8. Be2 Be6 9. O-O Bd6 10. b3 Nxd4 11. Qxd4 O-O 12. Bb2 Qc7 13. h3 Rac8 14. e4 Be5 15. Qd3 dxe4 16. Nxe4 Bxb2 17. Rab1 Be5 18. f4 Nxe4 19. fxe5 f5 20. exf6 Nxf6 21. Rbc1 Qxc1 22. Rxc1 Rxc1+ 23. Kh2 Rfc8 24. Qe3 Bf7 25. h4 Rf1 26. Kg3 Rfc1 27. Bc4 Rc3 28. Bd3 Rxd3 29. Qxd3 Rc3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NMJyF2KV"]
+[Date "2022.11.14"]
+[White "pallawarukka"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.11.14"]
+[UTCTime "02:06:07"]
+[WhiteElo "1963"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. f4 Nc6 4. Nf3 f6 5. Bb5 Qc7 6. O-O fxe5 7. fxe5 Nh6 8. Ng5 Bd7 9. e6 Bc8 10. Qf3 Qb6 11. Bd3 c4+ 12. Kh1 cxd3 13. Nc3 Nb4 14. Nf7 Nxf7 15. Qxf7+ Kd8 16. a3 Bxe6 17. Qf4 g5 18. Qe5 Rg8 19. axb4 Bg7 20. Qe3 Qxe3 21. dxe3 dxc2 22. Nb5 a6 23. Nd4 Bxd4 24. exd4 Kd7 25. Rf2 Rac8 26. Ra5 Rgf8 27. Kg1 Rxf2 28. Kxf2 Rc4 29. Rc5 Rxd4 30. Rxc2 Rxb4 31. Bxg5 d4 32. g3 Bf5 33. Rd2 e5 34. Bf6 Ke6 35. Bh8 Kd5 36. Re2 e4 37. Kg2 d3 38. Rd2 e3 39. Rd1 Rxb2+ 40. Kf3 e2 41. Re1 d2 42. Kxe2 Bg4+ 43. Kf1 dxe1=Q+ 44. Kxe1 Rxh2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NskMbFv3"]
+[Date "2020.10.17"]
+[White "yousef_ashmeh"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.17"]
+[UTCTime "07:39:12"]
+[WhiteElo "1914"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c3 Bg4 6. Be2 e6 7. O-O Bd6 8. Nbd2 h6 9. Re1 O-O 10. Nf1 Nc6 11. h3 Bh5 12. Ng3 Rc8 13. Nxh5 Nxh5 14. Ne5 Nf6 15. Bd3 Qe7 16. Ng4 Nxg4 17. Qxg4 Qf6 18. Re3 Rfe8 19. Rf3 Qg5 20. Bxg5 hxg5 21. Qxg5 1-0
+

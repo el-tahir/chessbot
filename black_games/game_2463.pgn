@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KLF6582Z"]
+[Date "2020.12.19"]
+[White "Nevermind046"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "14:50:50"]
+[WhiteElo "2042"]
+[BlackElo "2010"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 c5 5. Ng3 Bg6 6. h4 h5 7. c3 e6 8. Bb5+ Nc6 9. O-O a6 10. Ba4 b5 11. Bc2 Bxc2 12. Qxc2 cxd4 13. cxd4 Nxd4 14. Qc3 Qb6 15. Be3 Bc5 16. b4 Rc8 17. bxc5 Rxc5 18. Qxd4 1-0
+

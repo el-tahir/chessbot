@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/STzCJItj"]
+[Date "2020.11.23"]
+[White "Sjohnfritz"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "14:56:40"]
+[WhiteElo "1854"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 Nf6 4. Nc3 cxd5 5. e3 Nc6 6. Bd3 Bg4 7. Nf3 e6 8. h3 Bh5 9. O-O Bd6 10. g4 Bg6 11. Bxg6 hxg6 12. Qd3 Nb4 13. Qd1 Rc8 14. Qa4+ Nc6 15. Bd2 Rxh3 16. Ng5 Rh4 17. f3 Ke7 18. e4 Qh8 19. Kf2 Rh2+ 20. Ke1 Qh4+ 21. Kd1 Rxd2+ 22. Kxd2 Qxg5+ 23. Ke2 dxe4 24. fxe4 Qxg4+ 25. Rf3 b5 26. Qa6 Nxd4+ 27. Kd3 Qxf3+ 28. Kxd4 e5# 0-1
+

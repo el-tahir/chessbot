@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KvlhWr2c"]
+[Date "2023.03.14"]
+[White "elvisalfredo102015"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.14"]
+[UTCTime "06:02:34"]
+[WhiteElo "1957"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. d5 Nf6 3. Nf3 d6 4. Bg5 e6 5. dxe6 Bxe6 6. e4 Be7 7. Nc3 O-O 8. Bd3 Nc6 9. O-O Qc7 10. Bxf6 Bxf6 11. Nd5 Bxd5 12. exd5 Ne5 13. Nxe5 Bxe5 14. Rb1 f5 15. f4 Bd4+ 16. Kh1 Rf6 17. c3 c4 18. Bxf5 Bb6 19. Be6+ Kh8 20. f5 Rh6 21. Qg4 Rf8 22. Rbe1 Qd8 23. Qxc4 Rh4 24. Qd3 Rf6 25. h3 Rfh6 26. Re4 Qf6 27. Rfe1 g6 28. fxg6 hxg6 29. Rxh4 Rxh4 30. Bg4 Kg7 31. Qe2 Rh8 32. Qe7+ Qxe7 33. Rxe7+ Kf6 34. Rxb7 Re8 35. Be6 Ke5 36. Rf7 Rc8 37. Kh2 Rc4 38. Kg3 Re4 39. Re7 Re3+ 40. Kg4 Re4+ 41. Kg5 Re3 42. Kh6 Rg3 43. Kh7 Rxg2 44. Kg7 Rh2 45. Bg4+ Kxd5 46. Re6 Kc5 47. Rxg6 Kc6 48. Rxd6+ Kxd6 49. c4 Kc5 0-1
+

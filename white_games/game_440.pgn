@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Tf9v7EBV"]
+[Date "2022.05.25"]
+[White "EltahirAmin"]
+[Black "Yourdhan123"]
+[Result "1-0"]
+[UTCDate "2022.05.25"]
+[UTCTime "14:42:47"]
+[WhiteElo "2040"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 c6 8. f4 d5 9. exd6 Bxd6 10. O-O Nf6 11. f5 Ne7 12. Qe2 O-O 13. Bg5 Nfd5 14. Bxd5 cxd5 15. Kh1 f6 16. Bh4 Bxf5 17. Rxf5 Nxf5 18. Qe6+ Kh8 19. Qxf5 Rc8 20. Rd1 g5 21. Bf2 Qe8 22. Rd3 Rd8 23. Rh3 Qf7 24. Nxd5 Bb4 25. Nxf6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jCAxPWKn"]
+[Date "2020.05.12"]
+[White "deadcat960"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "18:24:08"]
+[WhiteElo "1978"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 c5 3. Nf3 Nc6 4. e3 Bg4 5. Be2 e6 6. d4 Nf6 7. O-O Bd6 8. Nbd2 O-O 9. dxc5 Bxc5 10. a3 a5 11. b4 axb4 12. axb4 Rxa1 13. Bxa1 Nxb4 14. Nb3 Bd6 15. Qd4 Bxf3 16. Bxf3 e5 17. Qd2 Qc7 18. c3 Nc6 19. Bxd5 Rd8 20. Rd1 e4 21. c4 Bxh2+ 22. Kf1 Bd6 23. Nd4 Ne5 24. Nb5 Qd7 25. Nxd6 Qxd6 26. Bxe5 Qxe5 27. Bxf7+ Kxf7 28. Qxd8 Ng4 29. Qd7+ Kg6 30. Qxg4+ Kf7 31. Rd7+ 1-0
+

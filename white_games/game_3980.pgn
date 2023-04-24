@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XNGT3oZ4"]
+[Date "2020.10.28"]
+[White "EltahirAmin"]
+[Black "Ferrari_Chess11"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "09:26:44"]
+[WhiteElo "1990"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A48"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 d6 5. c3 O-O 6. Bd3 Nc6 7. Nbd2 Re8 8. Qc2 Nh5 9. Bg3 e5 10. dxe5 dxe5 11. Ne4 f5 12. Neg5 Kh8 1-0
+

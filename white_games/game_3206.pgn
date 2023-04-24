@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DWEGInIF"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "rbender"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "06:11:03"]
+[WhiteElo "1956"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. c4 Bb4+ 6. Nc3 Ne4 7. Bd2 Nxd2 8. Qxd2 O-O 9. a3 Be7 10. Nf3 a5 11. Bd3 Re8 12. O-O d6 13. Rae1 Bg4 14. Nd4 Bg5 15. Ne4 Nxd4 16. Nxg5 Qxg5 17. f3 Bf5 18. f4 Qg6 19. exd4 Bxd3 20. Rf3 Bxc4 21. Ref1 0-1
+

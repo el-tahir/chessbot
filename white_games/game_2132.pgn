@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rig0NSNu"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "entoni77"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "12:10:37"]
+[WhiteElo "1998"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. Nc3 e6 2. e4 b6 3. d4 Bb7 4. Bd3 Nf6 5. Nf3 c5 6. Be3 cxd4 7. Nxd4 Nc6 8. Qd2 Bb4 9. f3 Bxc3 10. Qxc3 Nxd4 11. Bxd4 O-O 12. O-O d5 13. e5 Nd7 14. f4 Rc8 15. Qd2 Nc5 16. Bxc5 bxc5 17. f5 c4 18. f6 cxd3 19. Qg5 Qb6+ 20. Kh1 Qe3 21. Qxg7# 1-0
+

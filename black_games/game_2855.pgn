@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tZbcFk6D"]
+[Date "2020.11.26"]
+[White "Tayforro"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.26"]
+[UTCTime "18:51:28"]
+[WhiteElo "1884"]
+[BlackElo "1897"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. c3 Bg4 7. h3 Bh5 8. Bg5 e6 9. g4 Bg6 10. Qa4 Rc8 11. Qxa7 Be7 12. Qxb7 O-O 13. Bxc6 Rb8 14. Qa6 Rxb2 15. Bxf6 Bxb1 16. Bxe7 Qxe7 17. O-O Qf6 18. Raxb1 Rxb1 19. Rxb1 Qxf3 20. Qa3 Qxh3 21. Qb3 Qxg4+ 22. Kf1 h5 23. Qd1 Qf5 24. Kg2 h4 25. Rb3 g5 26. c4 g4 27. a4 Qf4 28. a5 h3+ 29. Kg1 Rc8 30. a6 Rxc6 31. a7 Ra6 32. Rb8+ Kg7 33. a8=Q Rxa8 34. Rxa8 h2+ 0-1
+

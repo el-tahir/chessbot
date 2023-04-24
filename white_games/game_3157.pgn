@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iEl6mXNa"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "VG_Nagi"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "09:12:31"]
+[WhiteElo "1966"]
+[BlackElo "1939"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bb5 d6 5. Bxc6+ bxc6 6. d4 cxd4 7. cxd4 exd4 8. Nxd4 Bb7 9. Nc3 Nf6 10. O-O Be7 11. Bg5 O-O 12. Rc1 h6 13. Bh4 Qb6 14. Rc2 Rfe8 15. Nf5 Qd8 16. Rd2 Bc8 17. Nxd6 Bxd6 18. Rxd6 Qe7 19. f3 Be6 20. e5 Nd5 21. Bxe7 1-0
+

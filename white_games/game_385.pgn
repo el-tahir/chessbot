@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EdETqdPa"]
+[Date "2022.06.11"]
+[White "EltahirAmin"]
+[Black "Borneot"]
+[Result "1-0"]
+[UTCDate "2022.06.11"]
+[UTCTime "22:01:37"]
+[WhiteElo "2019"]
+[BlackElo "1996"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. d3 d6 5. Bd2 h6 6. a3 Bxc3 7. Bxc3 Nc6 8. Be2 O-O 9. O-O Be6 10. Qc1 Bg4 11. Bd2 Kh7 12. Re1 Qd7 13. Nh4 Be6 14. f4 exf4 15. Rf1 g5 16. Nf3 Ne5 17. Bc3 Kg6 18. h4 g4 19. Qxf4 gxf3 20. Bxf3 Qe7 21. Rf2 Kh7 22. Raf1 Nfg4 23. Bxg4 Nxg4 24. Rf3 Qxh4 25. Rh3 Qe7 26. Rg3 Rg8 27. e5 d5 28. Bd2 Rg6 29. d4 Qg5 30. Rxg4 Qxf4 31. Rgxf4 Rf8 32. Rf6 Rxf6 33. Rxf6 Rg8 34. Rxh6+ Kg7 35. Rf6 Kf8 36. b3 Ke7 37. Bb4+ Kd7 38. Kf2 Rg4 39. Bc3 b6 40. Kf3 Re4 41. Rf4 c5 42. Rxe4 dxe4+ 43. Kxe4 cxd4 44. Bxd4 1-0
+

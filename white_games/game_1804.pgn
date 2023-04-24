@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xcPZFRUs"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "Pickelhaube"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "15:57:46"]
+[WhiteElo "2046"]
+[BlackElo "2087"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Nf3 Nxe4 7. Bxe4 Nf6 8. Bd3 Be7 9. Bg5 O-O 10. Qd2 b6 11. O-O-O Bb7 12. h4 h6 13. Bxh6 gxh6 14. Qxh6 Be4 15. g4 Bxd3 16. Rxd3 Ne4 17. Ng5 Nxg5 18. hxg5 Bxg5+ 19. Qxg5+ Qxg5+ 20. Kb1 Kg7 21. f4 Qxf4 22. g5 Rh8 0-1
+

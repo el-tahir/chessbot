@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2TasObEY"]
+[Date "2021.03.07"]
+[White "rekedha"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "15:20:11"]
+[WhiteElo "2138"]
+[BlackElo "2086"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Be2 e6 7. O-O Bd6 8. d4 O-O 9. c3 Nbd7 10. Re1 c5 11. Qd3 cxd4 12. Nxd4 Bxe2 13. Qxe2 Ne5 14. Bg5 Ng6 15. Nh5 Be7 16. Rad1 Nxh5 17. Bxe7 Qxe7 18. Qxh5 Rad8 19. g3 Qf6 20. f4 Rfe8 21. Re4 e5 22. fxe5 Nxe5 23. Rf1 Qg6 24. Rxe5 1-0
+

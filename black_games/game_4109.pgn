@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MPW6aJGV"]
+[Date "2020.10.22"]
+[White "Mattitanium"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.22"]
+[UTCTime "14:56:46"]
+[WhiteElo "1869"]
+[BlackElo "1864"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bg5 Bg4 6. Bd3 e6 7. h3 Bh5 8. g4 Bg6 9. Bxg6 hxg6 10. Qd2 Nc6 11. c3 Qb6 12. Na3 Ne4 13. Qc1 Be7 14. Bxe7 Kxe7 15. Nd2 Ng5 16. h4 e5 17. Ke2 exd4 18. hxg5 Qa6+ 19. c4 dxc4 20. Ndxc4 b5 21. Nd2 b4+ 22. Nac4 Rhe8 23. Kd1 Ne5 24. Nxe5 Kd8 25. f4 f6 26. gxf6 gxf6 27. Nec4 d3 28. Re1 Rxe1+ 29. Kxe1 Qe6+ 30. Kf1 Qe2+ 31. Kg1 Qxg4+ 32. Kf2 Qxf4+ 33. Nf3 Qf5 34. Ne3 Qd7 35. Qd2 Rc8 36. Rd1 g5 37. Qxd3 Qxd3 38. Rxd3+ Ke7 39. Rb3 a5 40. a3 bxa3 41. Rxa3 Rc5 42. Rc3 Rb5 43. Rc7+ Kd6 44. Ra7 Rxb2+ 45. Kg3 Ra2 46. Nc4+ Kc5 47. Rxa5+ Rxa5 48. Nxa5 Kd6 49. Nc4+ Ke7 50. Ne3 Kf7 51. Kg4 Kg6 52. Nf5 Kf7 53. Nxg5+ Kg6 54. Ne6 Kf7 55. Ne7 Kxe6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Num1ZM4W"]
+[Date "2022.04.30"]
+[White "catrzo06"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.30"]
+[UTCTime "05:42:52"]
+[WhiteElo "2083"]
+[BlackElo "2079"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5 Bg4 7. Bxf6 exf6 8. Be2 Bb4 9. O-O O-O 10. a3 Bd6 11. Qd2 Bc7 12. h3 Bh5 13. Nh4 Bg6 14. Nxg6 hxg6 15. Bf3 Qd6 16. Nxd5 Qh2# 0-1
+

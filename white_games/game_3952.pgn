@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GXQHMQDC"]
+[Date "2020.10.29"]
+[White "EltahirAmin"]
+[Black "piong4"]
+[Result "0-1"]
+[UTCDate "2020.10.29"]
+[UTCTime "15:57:22"]
+[WhiteElo "2012"]
+[BlackElo "1957"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Be7 6. Bg5 c6 7. Qd2 O-O 8. O-O-O b5 9. h4 a5 10. h5 h6 11. Bxh6 gxh6 12. Qxh6 Ne8 13. Ne5 Bg5+ 14. f4 Bxh6 15. g3 Nd7 16. Bd3 Nxe5 17. dxe5 f6 18. Rde1 Qc7 19. e6 Ng7 20. e7 Re8 21. g4 Bxf4+ 22. Kb1 Rxe7 23. Ref1 Bg5 24. h6 Ne6 25. h7+ Rxh7 26. Bxh7+ Kf8 27. Rh5 Ng7 28. Rxg5 f5 29. gxf5 Bd7 30. f6 Ne6 31. Rg8+ Kf7 32. Rxa8 Qe5 33. Bg8+ Kg6 34. f7 b4 35. Nd1 Qe2 36. Rg1+ Kf6 37. f8=Q+ Nxf8 38. Rxf8+ Ke7 39. Rf7+ Kd6 40. Rff1 Kc5 41. c3 Qd3+ 42. Ka1 Bf5 43. cxb4+ axb4 44. Re1 Qb1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FUje3K6l"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "Raja-Gauhar"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:14:21"]
+[WhiteElo "1941"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8 Be6 8. d3 Qe7 9. dxe4 d4 10. Nd5 Bxd5 11. Bd3 Nc6 12. O-O Bf7 13. f4 O-O-O 14. f5 gxf5 15. Rxf5 Be6 16. Bg5 Qg7 17. Qxg7 Bxg7 18. Bxd8 Bxf5 19. Bxc7 Bxe4 20. Bxe4 Kxc7 21. Rd1 Nb4 22. c3 dxc3 23. bxc3 Nxa2 24. Rb1 b6 25. Rb2 Nxc3 26. Rc2 b5 27. Bd5 Ne7 28. Bf3 b4 29. Rb2 Ned5 30. Rb3 a5 31. h4 a4 32. Rb1 a3 33. Bxd5 Nxd5 34. Rb3 a2 0-1
+

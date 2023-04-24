@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uRG9dEh4"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "GoncaloG"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "09:23:57"]
+[WhiteElo "2016"]
+[BlackElo "2028"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. d4 dxe4 4. Ne5 Nf6 5. Nc3 c5 6. Bg5 Qxd4 7. Qxd4 cxd4 8. Nb5 Na6 9. O-O-O Bc5 10. Bc4 O-O 11. h4 h6 12. Bf4 Rd8 13. g4 Bd7 14. g5 Bxb5 15. Bxb5 Nd5 16. Bd2 h5 17. Rhe1 e3 18. fxe3 dxe3 19. Bc3 Nxc3 20. bxc3 Nc7 21. Bd3 Nd5 22. Rf1 Nxc3 23. Rde1 Ba3# 0-1
+

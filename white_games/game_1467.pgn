@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MGQQif80"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "Radames69"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:33:28"]
+[WhiteElo "1999"]
+[BlackElo "2002"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. b3 Nc6 7. Bb2 Qb6 8. Na4 Qa5+ 9. Bc3 Qc7 10. Bd3 cxd4 11. Nxd4 Ncxe5 12. O-O Nxd3 13. Qxd3 e5 14. Nf5 Nc5 15. Nxc5 Bxc5 16. Nxg7+ Kf8 17. Nh5 Be6 18. Bd2 e4 19. Bh6+ 1-0
+

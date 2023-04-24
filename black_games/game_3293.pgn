@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IQwD9cPT"]
+[Date "2020.11.13"]
+[White "ChloroQueen"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "12:40:41"]
+[WhiteElo "1965"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Bg4 6. Ne2 e6 7. O-O Bd6 8. h3 Bh5 9. Bg5 O-O 10. Nd2 Nbd7 11. Re1 Qb6 12. Qc2 Rac8 13. Ng3 Bg6 14. Bxg6 hxg6 15. Qd3 Qxb2 16. Rab1 Qxc3 17. Qxc3 Rxc3 18. Rxb7 a5 19. Ra7 Ra3 20. Nb3 Rxa2 21. Rxa5 Ra8 22. Rxa8+ Rxa8 23. Nd2 Ra4 24. Be3 Nb6 25. Ne2 Nc4 26. Nxc4 Rxc4 27. g4 Bb4 28. Rb1 Bc3 29. Rc1 Ne4 30. Nxc3 Rxc3 31. Rxc3 Nxc3 32. Kf1 Kf8 33. Bd2 Ne4 34. Be3 Ke7 35. Ke2 Kd6 36. Kd3 Kc6 37. f3 Nf6 38. h4 Kb5 39. Kc3 Nd7 40. Kb3 Nb6 41. Kc3 Nc4 42. Bf2 Ka4 43. Kc2 Ka3 44. Kc3 Ka2 45. Bg1 Kb1 46. Bf2 Kc1 47. Kd3 Kd1 48. Bg3 Nb2+ 49. Ke3 Kc2 50. Ke2 Nc4 51. Bf2 Kc3 52. Bg1 Nd6 53. Be3 f5 54. Bf2 Nb5 55. Bg1 Nxd4+ 56. Bxd4+ Kxd4 57. g5 Kc3 58. Ke3 d4+ 59. Ke2 Kc2 60. f4 d3+ 61. Ke1 d2+ 0-1
+

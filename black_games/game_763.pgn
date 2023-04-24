@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mvTVrcpt"]
+[Date "2021.11.19"]
+[White "arya77"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "16:29:43"]
+[WhiteElo "2093"]
+[BlackElo "2065"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Nbd7 5. c4 h6 6. cxd5 Nxd5 7. O-O g5 8. Nc3 Nxc3 9. bxc3 Qc7 10. a4 e5 11. a5 exd4 12. Nxd4 Ne5 13. a6 bxa6 14. Qb3 Rb8 15. Qc2 Bd6 16. f4 Nc4 17. Nxc6 Bb7 18. Nxb8 Bxg2 19. Kxg2 Qxb8 20. Qe4+ Kf8 21. Qxc4 gxf4 22. Bxf4 Bxf4 23. Qxf4 1-0
+

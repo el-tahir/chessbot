@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SJoljUxJ"]
+[Date "2020.12.30"]
+[White "Hawk2511"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "06:42:27"]
+[WhiteElo "1971"]
+[BlackElo "1949"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bb5 Bg4 7. O-O e6 8. h3 Bh5 9. Bg5 Be7 10. Ne5 Bxd1 0-1
+

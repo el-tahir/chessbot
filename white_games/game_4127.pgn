@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t3eUkYer"]
+[Date "2020.10.20"]
+[White "EltahirAmin"]
+[Black "Vbookumar"]
+[Result "0-1"]
+[UTCDate "2020.10.20"]
+[UTCTime "11:10:59"]
+[WhiteElo "1863"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Na4 Bd4 7. Nxd4 exd4 8. Bc4 Nge7 9. d3 O-O 10. O-O d6 11. f4 Be6 12. Nb2 d5 13. exd5 Nxd5 14. f5 Ne3 15. Bxe3 dxe3 16. fxe6 Qe7 17. exf7+ Kh8 18. Qe2 Nd4 19. Qh5 e2 20. Rf4 e1=Q+ 21. Rf1 Q1e3+ 22. Kh1 Nxc2 23. Nd1 Q3e5 24. Qh3 Qxa1 0-1
+

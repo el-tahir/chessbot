@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WEfkN8nJ"]
+[Date "2021.11.08"]
+[White "Black_Clover13"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "00:46:15"]
+[WhiteElo "2056"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. Qb3 Nf6 5. e5 Ne4 6. d3 Nc5 7. Qb5+ Nbd7 8. Nc3 e6 9. Be3 Be7 10. Nf3 O-O 11. Bxc5 Nxc5 12. d4 Bd7 13. Qe2 Na4 14. Rc1 Rc8 15. Qd3 Nxb2 16. Qd1 Nxd1 0-1
+

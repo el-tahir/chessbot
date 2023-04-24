@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kp6Yozok"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "WASFOX"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "10:49:58"]
+[WhiteElo "1911"]
+[BlackElo "1927"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 c6 3. Nc3 Bg7 4. d4 d5 5. Be2 dxe4 6. Nxe4 Bf5 7. Ng3 Be6 8. Bg5 Bd5 9. Qd2 Bxf3 10. Bxf3 Qxd4 11. O-O-O Qxd2+ 12. Rxd2 f6 13. Be3 g5 14. Rhd1 Na6 15. Bh5+ Kf8 16. Rd8+ Rxd8 17. Rxd8# 1-0
+

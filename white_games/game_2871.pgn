@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GqyVgp48"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "Norratt"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "22:11:45"]
+[WhiteElo "1896"]
+[BlackElo "1851"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 h6 4. d4 exd4 5. Nxd4 a6 6. Bc4 Ne5 7. Bb3 Bc5 8. O-O Nf6 9. Kh1 O-O 10. f4 Bxd4 11. Qxd4 Nc6 12. Qf2 d6 13. Be3 Re8 14. Qf3 Qe7 15. e5 dxe5 16. fxe5 Nxe5 17. Qg3 Ng6 18. Rae1 Qd6 19. Qf2 Be6 20. Bxe6 Rxe6 21. Rd1 Qe7 22. Rde1 Re8 23. Nd1 Ng4 24. Qf3 N6e5 25. Qf4 Nxe3 26. Nxe3 Ng6 27. Qf3 Ne5 28. Qf4 b5 29. Rd1 Ng6 30. Qg4 Rxe3 31. Rd7 Qe6 32. Qd1 Re1 33. Qf3 0-1
+

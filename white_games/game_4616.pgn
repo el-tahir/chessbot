@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HmFOBS6F"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "xefo3"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "19:07:56"]
+[WhiteElo "1942"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 d5 6. e5 Nge7 7. Bd3 Qb6 8. O-O Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 13. g3 a6 14. Bf4 axb5 15. Bxb8 Rxb8 16. Rc1 Nc6 17. Qb3 Bd6 18. Qxb5 O-O 19. Qb3 Be7 20. Bb1 Bf6 21. Qd3 g6 22. Qf3 Bg7 23. b3 Nd4 24. Qe3 Bc6 25. h4 Nf5 26. Qd2 Nd4 27. Re3 Rbd8 28. h5 Rfe8 29. hxg6 hxg6 30. Kg2 e5 31. Rce1 Bh6 32. f4 Nf5 33. Rxe5 d4+ 34. Kg1 Rxe5 35. Rxe5 Ne3 36. Rxe3 dxe3 37. Qxd8+ Kg7 38. Qd4+ Kh7 39. Qxe3 Bf8 40. Be4 b6 41. Bxc6 Bc5 42. Qxc5 bxc5 43. Kg2 Kg7 44. a4 Kf6 45. a5 Ke6 46. a6 Kd6 47. a7 Kxc6 48. a8=Q+ Kb5 49. Qf8 Kb4 50. Qxf7 g5 51. Qg6 Kxb3 52. f5 c4 53. f6 c3 54. f7 c2 55. Qxc2+ Kxc2 56. f8=Q g4 57. Qf4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IErHTgkr"]
+[Date "2020.10.23"]
+[White "EltahirAmin"]
+[Black "joewright31"]
+[Result "1-0"]
+[UTCDate "2020.10.23"]
+[UTCTime "21:14:15"]
+[WhiteElo "1911"]
+[BlackElo "1907"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d5 5. d4 dxe4 6. Nxe4 Bg4 7. Bxf4 Bxf3 8. Qxf3 Qxd4 9. Bd3 O-O-O 10. O-O-O Nb4 11. Nd6+ Bxd6 12. Bf5+ Kb8 13. Rxd4 Nxa2+ 14. Kb1 1-0
+

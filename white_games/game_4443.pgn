@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GjB9qikq"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "amigodias"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "18:40:28"]
+[WhiteElo "1969"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. c3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 e6 7. O-O Bd6 8. Bg5 Nbd7 9. Nbd2 b5 10. Nb3 Qc7 11. Bd3 Bb7 12. Qd2 O-O 13. Rae1 a6 14. h3 c5 15. Ne5 c4 16. Nxd7 Nxd7 17. Bxh7+ Kxh7 18. Nc1 Qc6 19. f4 g6 20. Qf2 Kg7 21. Ne2 Rh8 22. Ng3 Nf6 23. Re2 Rxh3 24. gxh3 Qh1+ 25. Nxh1 1-0
+

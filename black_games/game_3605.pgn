@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fNilCCap"]
+[Date "2020.11.07"]
+[White "abderrazek19"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "11:04:27"]
+[WhiteElo "2011"]
+[BlackElo "1960"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 Na6 4. Bxa6 bxa6 5. e5 Rb8 6. c3 Bf5 7. f4 e6 8. Nf3 c5 9. Nbd2 cxd4 10. Nxd4 Ne7 11. h4 Bd3 12. N2f3 Be4 13. Qe2 Bxf3 14. Qxf3 Qb6 15. g4 Nc6 16. Qf2 Nxd4 17. Qxd4 Bc5 18. Qd3 Bf2+ 19. Kf1 Bg3 20. Be3 Qxb2 21. Rd1 Qxa2 22. Rd2 Rb2 23. Kg2 Rxd2+ 24. Bxd2 Bxf4 25. Rd1 O-O 26. Qxh7+ Kxh7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tq6cJBC5"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "Harut77"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "18:44:22"]
+[WhiteElo "1954"]
+[BlackElo "1914"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C17"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. e5 c5 5. Nf3 Nc6 6. h4 Nge7 7. Be3 cxd4 8. Bxd4 Nf5 9. Be3 Nxe3 10. fxe3 O-O 11. Bd3 Qa5 12. Kf1 Bxc3 13. bxc3 Qxc3 14. Rb1 Nxe5 15. Bxh7+ Kxh7 16. Ng5+ Kg6 17. Qe2 Qc4 18. Qxc4 Nxc4 19. Ke2 f6 20. Nf3 e5 21. h5+ Kh6 22. Rb5 Bg4 23. Rxd5 e4 24. Rd4 exf3+ 25. gxf3 Bxf3+ 26. Kxf3 Ne5+ 27. Ke2 Rad8 28. Rb4 b6 29. Ra4 Rd7 30. Rf4 Rfd8 31. Rd4 Rxd4 32. exd4 Rxd4 33. Ke3 Ra4 0-1
+

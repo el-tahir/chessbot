@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bYXs7xEZ"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "Muhammad_Rizziq"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "09:23:10"]
+[WhiteElo "1950"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 Nd7 7. O-O Ne7 8. c4 dxc4 9. Qxc4 Ng6 10. Be3 Nb6 11. Qd3 Be7 12. Nc3 O-O 13. Rad1 Nd5 14. Bd2 Nxc3 15. Bxc3 Qd5 16. Nd2 Qxa2 17. Ne4 Rad8 18. f4 Qd5 19. f5 exf5 20. Rxf5 c5 21. Rf4 cxd4 22. Bxd4 Nxe5 23. Qg3 Ng6 24. Rg4 f5 25. Rxg6 hxg6 26. Qxg6 Qf7 27. Qg3 fxe4 28. h3 Bc5 29. Bxc5 Rxd1+ 30. Kh2 Qf1 0-1
+

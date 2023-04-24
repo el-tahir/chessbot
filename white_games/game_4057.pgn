@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VOGMqVWH"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "Makohdez"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "14:55:13"]
+[WhiteElo "1945"]
+[BlackElo "1977"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 dxe4 5. Nxe4 Nc6 6. Bb5 Be7 7. O-O Nf6 8. Kh1 Nxe4 9. f5 exf5 10. Re1 O-O 11. d3 Nf2+ 0-1
+

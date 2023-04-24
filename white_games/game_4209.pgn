@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r1xafNqD"]
+[Date "2020.10.15"]
+[White "EltahirAmin"]
+[Black "Ferrofluid"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "08:55:44"]
+[WhiteElo "1971"]
+[BlackElo "1984"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 f5 3. exf5 d5 4. d4 Bxf5 5. Be2 Nf6 6. Bh5+ Nxh5 7. Qxh5+ Bg6 8. Qxd5 Qxd5 9. Nxd5 O-O-O 10. c4 e6 11. Nf4 Nxd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rHN47kRT"]
+[Date "2021.01.06"]
+[White "EltahirAmin"]
+[Black "dsamknot"]
+[Result "0-1"]
+[UTCDate "2021.01.06"]
+[UTCTime "11:53:37"]
+[WhiteElo "1923"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Bg4 7. Be2 Nxd4 8. Bxd4 Bxe2 9. Qxe2 e5 10. Be3 Be7 11. O-O O-O 12. f4 exf4 13. Bxf4 Qb6+ 14. Kh1 Qxb2 15. Nd5 Nxd5 16. exd5 Bf6 17. Rab1 Qxa2 18. Be3 Rfe8 19. Rxf6 gxf6 20. Qg4+ Kh8 21. Re1 Qxd5 22. h3 Rg8 23. Qh4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N5b3yuUW"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "Serg03"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "15:39:39"]
+[WhiteElo "1948"]
+[BlackElo "1934"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Nf6 5. f4 Bg4 6. h3 Bxe2 7. Bxe2 exf4 8. Bxf4 Nc6 9. Nf3 Bd6 10. O-O Bxf4 11. Nxd4 Be3+ 0-1
+

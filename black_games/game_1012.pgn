@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qB3sv2Tx"]
+[Date "2021.10.23"]
+[White "BangGiveAlok"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.23"]
+[UTCTime "23:29:28"]
+[WhiteElo "2079"]
+[BlackElo "2076"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. d4 Nf6 6. Ne5 Bd7 7. Nxd7 Qxd7 8. O-O e6 9. Bf4 Bd6 10. Bg3 a6 11. Bxc6 bxc6 12. Nd2 O-O 13. c3 c5 14. Nf3 Rab8 15. b3 cxd4 16. cxd4 Ne4 17. Ne5 Nxg3 18. Nxd7 Nxf1 19. Nxb8 Nxh2 20. g3 Bxb8 21. Kxh2 1-0
+

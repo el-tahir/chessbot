@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Boaqhh86"]
+[Date "2020.12.14"]
+[White "Kisha7"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "11:07:51"]
+[WhiteElo "1896"]
+[BlackElo "1905"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bf4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. Nf3 e6 8. Nbd2 Bd6 9. O-O Kf8 10. Bxd6+ Qxd6 11. Qc2 h5 12. Rae1 h4 13. Ne5 Rc8 14. a3 Nxd4 15. Qb1 Nf5 16. Nxg4 Nxg4 17. Nf3 e5 18. Bxf5 e4 19. Bxg4 exf3 20. Bxc8 fxg2 21. Kxg2 h3+ 22. Kg1 Qf4 23. Qf5 Qd6 24. Qe5 Qg6+ 25. Qg3 Qc6 26. Bg4 Rh6 27. Re5 Rg6 28. Rfe1 f6 29. Re8+ Kf7 30. R8e7+ Kf8 31. Qb8+ Qe8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nrvMYm39"]
+[Date "2020.12.16"]
+[White "ho_zon1987"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "10:19:45"]
+[WhiteElo "1839"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. g4 Bg6 6. exd5 cxd5 7. d4 Nf6 8. Bf4 Nc6 9. Qd2 Qb6 10. O-O-O e6 11. Be3 Bb4 12. Ne5 Nxe5 13. dxe5 Ne4 14. Qe1 Qa5 15. Kb1 Nxc3+ 16. bxc3 Bxc3 17. Qe2 Qb4+ 0-1
+

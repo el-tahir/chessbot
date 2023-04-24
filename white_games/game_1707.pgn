@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OXM5Uac3"]
+[Date "2021.02.09"]
+[White "EltahirAmin"]
+[Black "nestor77vir"]
+[Result "1-0"]
+[UTCDate "2021.02.09"]
+[UTCTime "21:50:56"]
+[WhiteElo "1942"]
+[BlackElo "1916"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. d4 exd4 5. Nxd4 c5 6. Nb3 a6 7. a4 Nc6 8. Bc4 Be7 9. O-O Ne5 10. Be2 Be6 11. f4 Nc6 12. Qe1 Qb6 13. Nd2 Nd4 14. Qg3 c4 15. Kh1 Nxc2 16. e5 dxe5 17. fxe5 Nxa1 18. exf6 Bxf6 19. Nxc4 Qd4 20. Be3 Qc5 21. Bxc5 1-0
+

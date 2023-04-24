@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n8FvQHWF"]
+[Date "2021.11.01"]
+[White "EltahirAmin"]
+[Black "panoskoni"]
+[Result "1-0"]
+[UTCDate "2021.11.01"]
+[UTCTime "17:27:11"]
+[WhiteElo "2057"]
+[BlackElo "2044"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Bc4 Bd6 6. d4 Bd7 7. Bg5 Qc8 8. O-O h6 9. Bh4 g5 10. Bg3 Nc6 11. Re1 Bxg3 12. hxg3 Nge7 13. d5 exd5 14. Nxd5 Be6 15. Nf6+ Kf8 16. Bxe6 fxe6 17. Qd3 Kf7 18. Ne4 Qd7 19. Qc3 Nd5 20. Qb3 Na5 21. Qa3 Nc4 22. Qd3 Nxb2 23. Ne5+ Ke7 24. Qa3+ Qd6 25. Nxd6 cxd6 26. Qxb2 dxe5 27. Qxe5 Nc7 28. Qxc7+ Kf6 29. Qe5+ Kg6 30. Qxe6+ Kh5 31. g4+ Kh4 32. g3+ Kh3 33. Kf1 h5 34. gxh5+ Kh2 35. h6 Rae8 36. Qxe8 Rxe8 37. Rxe8 g4 38. h7 b6 39. h8=Q# 1-0
+

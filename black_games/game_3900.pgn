@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o3FWYXZY"]
+[Date "2020.10.30"]
+[White "NicotianaRustica"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "19:41:50"]
+[WhiteElo "1983"]
+[BlackElo "1987"]
+[WhiteRatingDiff "+43"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B14"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8. Bd2 Nxc3 9. bxc3 Bd6 10. Bd3 Nc6 11. O-O b6 12. Re1 Bb7 13. Bg5 Qc7 14. d5 Nd8 15. Bb5+ Kf8 16. c4 a6 17. Ba4 Qxc4 18. Bb3 Qc8 19. Rc1 Qd7 20. dxe6 Nxe6 21. Ne5 Qd8 22. Nxf7 Qb8 23. Nxd6 Nxg5 24. Rc8+ Bxc8 25. Nxc8 Qxc8 26. Qd6# 1-0
+

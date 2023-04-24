@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/H4cVdvFc"]
+[Date "2022.05.04"]
+[White "BonnardJimenez"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.04"]
+[UTCTime "02:39:23"]
+[WhiteElo "2039"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Bg5 Nc6 6. e3 e6 7. Nf3 Be7 8. Bb5 a6 9. Bxc6+ bxc6 10. Rc1 O-O 11. O-O Rb8 12. b3 c5 13. dxc5 Bxc5 14. Na4 Ba7 15. Ne5 Bb7 16. Nc6 Bxc6 17. Rxc6 h6 18. Bh4 g5 19. Bg3 Rc8 20. Rxa6 Bb8 21. Qd4 Ne4 22. Bxb8 Rxb8 23. Rc1 Qf6 24. Qxf6 Nxf6 25. Rac6 Kg7 26. Nc5 Ra8 27. a4 Rfb8 28. h3 Ra5 29. f3 Rb4 30. Rc3 Ne8 31. Nd3 Rb8 32. Ne5 Rd8 33. Rc8 Ra8 34. Rxa8 Rxa8 35. Kf2 Kf6 36. Nd7+ Ke7 37. Nb6 Rb8 38. a5 Nd6 39. Ke2 Nb5 40. Rc5 Nd6 41. Kd3 Nb7 42. Rc7+ Kd6 43. Rd7+ Kc6 0-1
+

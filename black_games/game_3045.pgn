@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Splqom5w"]
+[Date "2020.11.19"]
+[White "DaPunisher"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.19"]
+[UTCTime "21:04:05"]
+[WhiteElo "1976"]
+[BlackElo "1934"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. Qb5+ Qd7 8. Qxd7+ Kxd7 9. dxc5 Bxc5 10. O-O Nc6 11. Bf4 Nge7 12. Bg3 Ng6 13. Nbc3 Ncxe5 14. Kh1 Nc4 15. b3 Nd2 16. Rfd1 Nxb3 17. cxb3 h5 18. Bf4 Bxf2 19. Bd2 Rac8 20. Be1 Bb6 21. Rac1 h4 22. h3 Rh5 23. Ne4 Re5 24. N2c3 Nf4 25. Nf2 Rxe1+ 26. Rxe1 Bxf2 27. Rf1 Be3 28. Rc2 d4 29. Rd1 Ke7 30. Nd5+ Nxd5 31. Rxc8 Nc3 32. Rf1 Nd5 33. Kh2 Kd7 34. Rc2 d3 35. Rc4 d2 36. Rd1 b5 37. Re4 Nc3 38. Rxe3 Nxd1 39. Rd3+ Ke7 40. Rxd2 Nc3 41. g3 hxg3+ 42. Kxg3 Nd5 43. Kg2 a5 44. a3 a4 45. bxa4 bxa4 46. Rd4 Nb6 47. Rb4 Nd5 48. Rxa4 e5 49. Kf2 Ke6 50. Ra6+ Kf5 51. Ra4 g5 52. Rg4 Nf4 53. a4 Nd3+ 54. Ke2 Nc5 55. a5 e4 56. Rg1 Na6 57. Rb1 Ke5 58. Rb6 Nc5 59. Rb5 Kd4 60. a6 Ne6 61. a7 Nc7 62. Rb7 Na8 63. Rb8 Nb6 64. Rxb6 e3 65. a8=Q g4 66. Qd8+ Ke4 67. Rf6 Ke5 68. Rxf7 1-0
+

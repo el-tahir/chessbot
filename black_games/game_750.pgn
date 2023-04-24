@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9BAeydga"]
+[Date "2021.11.20"]
+[White "st-thomas"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.20"]
+[UTCTime "21:46:07"]
+[WhiteElo "2049"]
+[BlackElo "2035"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bg4 5. O-O Nbd7 6. c4 Bxf3 7. Bxf3 e5 8. dxe5 Nxe5 9. cxd5 Nxd5 10. Bg2 Bc5 11. Nd2 O-O 12. Ne4 Bb6 13. e3 f5 14. Nd2 Qf6 15. Qb3 Rad8 16. Nc4 Nxc4 17. Qxc4 Kh8 18. Rb1 a5 19. b3 Qc3 20. Qh4 Nb4 21. Bb2 Qd3 22. Qg5 Qd7 23. Rbd1 Qf7 24. h4 Rxd1 25. Rxd1 h6 26. Qxh6+ Kg8 27. Qg5 Bd8 28. Qf4 Bf6 29. Bxf6 Qxf6 30. a3 Nc2 31. Bh3 Nxa3 32. Rd6 Qf7 33. e4 fxe4 34. Qxf7+ Rxf7 35. Be6 Kf8 36. Bxf7 Kxf7 37. Rd7+ Ke6 38. Rxb7 g6 39. g4 Nb5 40. Rb6 Kd5 41. Ra6 Nd4 42. Rxa5+ Kd6 43. h5 Nxb3 44. Rg5 gxh5 45. gxh5 Ke6 46. h6 Nc5 47. h7 Nd7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wn9uJ9rw"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "Youlate55"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "12:34:23"]
+[WhiteElo "1885"]
+[BlackElo "1866"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 Bg4 3. Ng5 0-1
+

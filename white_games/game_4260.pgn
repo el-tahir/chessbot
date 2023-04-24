@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MvY2EQ2n"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Suloo"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "10:17:43"]
+[WhiteElo "1992"]
+[BlackElo "1983"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A46"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 c5 3. Bg5 cxd4 4. Nxd4 Nc6 5. e3 e5 6. Nf5 h6 7. Bh4 d5 8. g4 Bxf5 9. gxf5 Be7 10. Bb5 Rc8 11. Nc3 d4 12. exd4 exd4 13. Ne2 Qa5+ 14. c3 Qxb5 15. O-O Qxf5 16. b4 O-O 17. b5 Ne5 18. Nxd4 Qd7 19. Qb3 Bc5 20. Rad1 Bxd4 21. Rxd4 Nf3+ 22. Kh1 Nxd4 23. cxd4 Qxd4 24. Bg3 Qd5+ 25. Qxd5 Nxd5 26. Rg1 Rfe8 0-1
+

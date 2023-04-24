@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/edWQHfp1"]
+[Date "2020.05.11"]
+[White "EltahirAmin"]
+[Black "Gollaway"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "18:14:07"]
+[WhiteElo "1964"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nf6 8. Bg5 Be7 9. Qd3 O-O 10. Rad1 Nd5 11. Nxd5 exd5 12. Bxe7 Qxe7 13. Rfe1 Qf6 14. Ne5 Bxe2 15. Rxe2 Rfe8 16. Rde1 g6 17. Re3 Re6 18. Rf3 Rxe5 19. dxe5 Qe6 20. Qe3 Re8 21. Rh3 Qxe5 22. Qxe5 Rxe5 23. Rhe3 Rxe3 24. Rxe3 Kf8 25. Kf1 f6 26. Ke2 Kf7 27. Rd3 Ke6 28. a3 b5 29. f4 a5 30. g4 f5 31. g5 b4 32. a4 d4 33. Kf3 Kd5 34. h4 Ne7 35. c3 c5 36. cxd4 cxd4 37. b3 Nc8 38. Rd1 Nd6 39. Rc1 Ne4 40. Rc7 Nd2+ 41. Ke2 Nxb3 42. Rxh7 Ke4 43. Rg7 Kxf4 44. Rxg6 Ke4 45. h5 d3+ 46. Kd1 f4 47. h6 f3 48. h7 f2 49. Rf6 Ke3 50. h8=Q 1-0
+

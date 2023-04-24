@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fVin6Xar"]
+[Date "2020.05.13"]
+[White "Radojica79"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "10:43:27"]
+[WhiteElo "1959"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. f4 dxe4 4. Nxe4 Bf5 5. Ng3 Bd7 6. Bc4 Nf6 7. d3 Bg4 8. Nf3 e6 9. h3 Bxf3 10. Qxf3 Bc5 11. Be3 Qb6 12. Bxc5 Qxc5 13. O-O-O Nbd7 14. Bb3 O-O-O 15. Ne4 Nxe4 16. dxe4 e5 17. Rd2 Nb6 18. Rhd1 exf4 19. Qg4+ Kc7 20. Qxg7 Rxd2 21. Rxd2 Rf8 22. Qf6 Qg1+ 23. Rd1 Qxg2 24. Qe7+ Nd7 25. Rxd7+ Kb6 26. Qb4+ Ka6 27. Qxb7+ Ka5 28. Qxa7+ Kb5 29. Qa4+ Kc5 30. Qd4+ Kb5 31. a4+ Ka6 32. Qa7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z1tKVusw"]
+[Date "2020.11.22"]
+[White "fardin1222"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "06:22:28"]
+[WhiteElo "1901"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Qh5 d5 3. exd5 cxd5 4. Nh3 Nf6 5. Qf3 Nc6 6. c3 e5 7. d3 Bd6 8. g3 O-O 9. Ng1 Bg4 10. Qe3 Re8 11. f3 d4 12. Qe2 Bh5 13. c4 b5 14. b3 bxc4 15. bxc4 Rb8 16. h4 h6 17. g4 Bg6 18. h5 Bh7 19. Bg2 Nb4 20. Bd2 Nxd3+ 21. Kf1 e4 22. fxe4 Rb2 23. Nf3 Nxe4 24. Kg1 Ng3 25. Qd1 Nxh1 26. Kxh1 Be4 27. Nxd4 Qh4+ 28. Kg1 Qh2+ 29. Kf1 Qxg2# 0-1
+

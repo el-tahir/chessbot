@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O5k0MZvk"]
+[Date "2021.03.03"]
+[White "julianfon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.03"]
+[UTCTime "17:58:33"]
+[WhiteElo "1973"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Bd3 Bxd3 6. Qxd3 Ne7 7. g3 Ng6 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Be7 12. a3 O-O 13. f4 Qb6 14. b4 a6 15. Nbc3 Rac8 16. Na4 Qa7 17. Nc5 Bxc5 18. bxc5 Rb8 19. f5 exf5 20. Qxf5 b6 21. e6 fxe6 22. Qxe6+ Kh8 23. Qxc6 bxc5 24. Qxc5 Qe7 25. Rxf8+ Qxf8 26. Qxf8+ Rxf8 27. Rf1 Re8 28. Rf3 Nf8 29. Nf4 Ne6 30. Nxe6 1-0
+

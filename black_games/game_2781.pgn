@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C1okRtDb"]
+[Date "2020.12.03"]
+[White "Woejack"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.03"]
+[UTCTime "13:07:08"]
+[WhiteElo "1787"]
+[BlackElo "1850"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Nf6 4. cxd5 cxd5 5. d4 Bg4 6. Nf3 Nc6 7. O-O Qb6 8. a3 Bxf3 9. Bxf3 Nxd4 10. Bg2 e6 11. Be3 Bc5 12. b4 Nxe2+ 13. Qxe2 Bxe3 14. Qxe3 Qd6 15. Nc3 O-O 16. Nb5 Qe7 17. Nxa7 e5 18. Nb5 d4 19. Nxd4 1-0
+

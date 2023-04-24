@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HJsCR2ez"]
+[Date "2021.01.24"]
+[White "Uwe_Siwutu"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.24"]
+[UTCTime "16:41:28"]
+[WhiteElo "1997"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. d4 d5 3. c4 Nf6 4. Nc3 Bg4 5. h3 Bh5 6. Qb3 Qc8 7. Bg5 e6 8. Ne5 Be7 9. O-O-O Nbd7 10. g4 Bg6 11. f4 Nxe5 12. dxe5 Ne4 13. Nxe4 Bxe4 14. Rg1 Bxg5 15. fxg5 a5 16. c5 a4 17. Qb4 O-O 18. e3 Qc7 19. Qa3 Qxe5 20. Rd4 Ra5 21. h4 Qh2 0-1
+

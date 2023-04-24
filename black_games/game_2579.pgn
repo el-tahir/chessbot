@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8hYX7zBT"]
+[Date "2020.12.16"]
+[White "The1Lotus"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "09:00:24"]
+[WhiteElo "1943"]
+[BlackElo "1921"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. c3 c6 2. d3 d5 3. Nd2 Nf6 4. h3 Bf5 5. g4 Bg6 6. Bg2 e5 7. Nf1 Bc5 8. Ng3 Nbd7 9. g5 Nh5 10. Nxh5 Bxh5 11. Nf3 Qb6 12. d4 exd4 13. cxd4 Bd6 14. Be3 O-O-O 15. a4 Qxb2 16. a5 Bb4+ 17. Kf1 Nb8 18. Ne5 Rhe8 19. Nd3 Qc3 20. Nxb4 Qxb4 21. h4 Re6 22. Bh3 Re8 23. Bf4 Kd8 24. Bxe6 Rxe6 25. Be5 f6 26. gxf6 gxf6 27. Bxf6+ Rxf6 28. Qd3 Qf8 29. Rh2 Re6 30. f3 Qf4 31. Rg2 Bg6 32. Qa3 Qxh4 33. Qf8+ Re8 34. Qd6+ Nd7 35. Rb1 Bxb1 36. Rg7 Bf5 37. Rxd7+ Bxd7 38. Qb8+ Ke7 39. Qe5+ Kf8 40. Qh8+ Kf7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DsyukRd2"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "BISTONNNNNN"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "01:28:02"]
+[WhiteElo "1916"]
+[BlackElo "1894"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. d4 Nf6 4. Be3 Nxe4 5. Bd3 Nxc3 6. bxc3 Bxg2 7. Be4 Bxe4 8. f3 Bb7 9. Nh3 e6 10. Nf4 Be7 11. Rg1 h6 12. Qd3 d5 13. Nh5 g6 14. Ng7+ Kf8 15. Rxg6 fxg6 16. Qxg6 Bf6 17. Nxe6+ Ke7 18. Nxd8 Rxd8 19. O-O-O Nd7 20. Re1 Kd6 21. Bxh6 Rg8 22. Qf7 Kc6 23. Qe6+ Kb5 24. Qxd7+ Bc6 25. c4+ dxc4 26. Qf5+ Ka6 27. Qxf6 Kb7 28. Re7 Rac8 29. Bf4 Bd5 30. Qe5 Bxf3 31. Rxc7+ Rxc7 32. Qxc7+ Ka6 33. Qxc4+ Kb7 34. Qxg8 1-0
+

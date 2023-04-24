@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PXaH2E3h"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "ELGRANCASTILLO"]
+[Result "1-0"]
+[UTCDate "2020.12.18"]
+[UTCTime "22:26:36"]
+[WhiteElo "1987"]
+[BlackElo "2024"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. g3 c6 5. Bg2 Nf6 6. d4 h5 7. Bf4 h4 8. Nf3 h3 9. Bf1 Bg4 10. Qd3 e6 11. Ng5 Bb4 12. Be2 Rh5 13. Bxg4 Nxg4 14. Ne4 g5 15. Nd6+ Bxd6 16. Bxd6 Kd7 17. Ba3 Qf5 18. Qxf5 exf5 19. O-O f4 20. Rae1 fxg3 21. Re7+ Kd8 22. fxg3 f6 23. Rfe1 Rh8 24. Ne4 Nd7 25. Nf2 Nxf2 26. Kxf2 Kc7 27. Rf7 Rae8 28. Ree7 Rxe7 29. Rxe7 g4 30. Ke3 Rh5 31. Kf4 f5 32. Rf7 b6 33. Rxf5 Rxf5+ 34. Kxf5 c5 35. dxc5 bxc5 36. Kxg4 Kc6 37. Kxh3 Ne5 38. g4 a5 39. g5 a4 40. Kh4 Kd7 41. Kh5 c4 42. g6 Ke8 43. Kh6 Nxg6 44. Kxg6 Kd7 45. h4 Kc6 46. h5 Kd5 47. h6 Ke4 48. h7 Ke3 49. h8=Q Kd2 50. Qc3+ Kc1 51. Qxc4 Kb1 52. b3 Kxa2 53. Qxa4 Kb1 54. Bc5 Kxc2 55. Qc4+ Kb2 56. b4 Ka3 57. b5+ Kb2 58. b6 Ka1 59. b7 Kb2 60. b8=Q+ Ka1 61. Qa6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yFVKGXEs"]
+[Date "2021.02.20"]
+[White "DEADiSH"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.20"]
+[UTCTime "15:59:53"]
+[WhiteElo "1969"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Nf3 Bg4 8. Be2 e6 9. h3 Bh5 10. O-O Be7 11. Be3 O-O 12. Nh2 Bg6 13. Ng4 h5 14. Nh2 h4 15. Nf3 Rc8 16. Nxd5 Qxd5 17. Rc1 Qxa2 18. Ne5 Nxe5 19. dxe5 Qxb2 20. Bh5 Bxh5 21. Qxh5 a5 22. Rb1 Qc3 23. Rfc1 Qa3 24. Rxc8 Rxc8 25. Rxb7 a4 26. Bg5 Qa1+ 27. Kh2 Qxe5+ 28. g3 Qxg5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zxMYHTRQ"]
+[Date "2020.12.25"]
+[White "Prela007"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "11:17:16"]
+[WhiteElo "1989"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A85"]
+[Termination "Time forfeit"]
+
+1. c4 f5 2. Nc3 Nf6 3. d4 g6 4. Bg5 Bg7 5. e3 O-O 6. Bd3 d6 7. f4 b6 8. Nf3 Bb7 9. d5 c6 10. Be2 Nbd7 11. Nd4 cxd5 12. Ne6 Qe8 13. Nxf8 Qxf8 14. cxd5 Rc8 15. O-O Rxc3 16. bxc3 Ne4 17. Rc1 Nxc3 18. Rxc3 Bxc3 19. Qa4 Nc5 20. Qxa7 Bxd5 21. Qxe7 Qxe7 22. Bxe7 Bd2 23. Rd1 Bxe3+ 24. Kf1 Bxa2 25. Bxd6 Kf7 26. Bf3 Bc4+ 27. Be2 Bb3 28. Rb1 Bd5 29. Rxb6 Ne4 30. Ra6 Nc3 31. Be5 Nxe2 32. Rf6+ Ke7 33. Kxe2 Bxf4 34. Bd4 Bxh2 35. Kf2 Bf4 36. Ra6 Bg5 37. Ra7+ Kd6 38. Rxh7 Be4 39. Rg7 f4 40. Rg8 Bd5 41. Rxg6+ Be6 42. Rxg5 Ke7 43. Kf3 Kd6 44. Kxf4 Ke7 45. Ke5 Bf7 46. Bc5+ Ke8 47. Kd6 Kf8 48. Ke5+ Ke8 49. Rf5 Bg8 50. g4 Bh7 51. Rh5 1-0
+

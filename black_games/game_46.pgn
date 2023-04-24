@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RKZaNjmb"]
+[Date "2023.03.08"]
+[White "HasbiAlghifari"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.08"]
+[UTCTime "01:33:19"]
+[WhiteElo "2041"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. Nc3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Ne5 Rc8 10. Nxc6 bxc6 11. Ba6 Rc7 12. Bf4 Rd7 13. Qe2 e6 14. O-O-O Bd6 15. Bg5 O-O 16. h4 h6 17. h5 Bh7 18. Bh4 Be7 19. g5 Ne4 20. Nxe4 Bxe4 21. f3 Bxg5+ 22. Kb1 Bxc2+ 23. Qxc2 Bxh4 24. Bd3 Bg5 25. Rdf1 Bf6 26. Rhg1 Rb7 27. Rg2 Bxd4 28. b3 a5 29. Bh7+ Kh8 30. Qd3 Qb6 31. Rg4 c5 32. f4 a4 33. Rf3 axb3 34. axb3 Qb4 35. Rfg3 Qe1+ 36. Kc2 Rfb8 37. Qd2 Qa1 38. f5 Qb2+ 39. Kd1 Rxb3 40. Qxb2 Bxb2 41. fxe6 Rxg3 42. Rxg3 fxe6 43. Bg6 c4 44. Bf7 Rb6 45. Re3 e5 46. Kc2 Bd4 47. Ra3 Rb2+ 48. Kd1 Rb8 49. Ra5 c3 50. Rxd5 Rc8 51. Kc2 Rb8 52. Be6 g6 53. hxg6 Kg7 54. Bf7 Rb2+ 55. Kc1 c2 56. Rc5 Ra2 57. Rxc2 Rxc2+ 58. Kxc2 h5 59. Kd2 h4 60. Ke2 h3 61. Kf1 e4 62. Bd5 e3 63. Bf3 Be5 64. Bh1 Kxg6 65. Ke2 Kf5 66. Kxe3 Bf4+ 67. Ke2 Kg4 68. Kf1 Kg3 69. Ke1 h2 70. Kd1 Be3 71. Kc2 Bf2 0-1
+

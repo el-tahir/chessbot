@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uI4ZfK1A"]
+[Date "2021.01.10"]
+[White "Gheybi51"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.10"]
+[UTCTime "04:40:27"]
+[WhiteElo "1879"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Nf6 4. Ne2 e5 5. h3 Bc5 6. g3 Qe7 7. Bg2 Nbd7 8. O-O O-O 9. Kh2 Ne8 10. f4 f5 11. a3 g5 12. Nb3 Bd6 13. fxe5 Nxe5 14. exf5 Bxf5 15. Ned4 Bd7 16. Qh5 Ng6 17. Rxf8+ Qxf8 18. Bxg5 Qf2 19. Bh4 Nxh4 20. Qxh4 Ng7 21. Rf1 Qd2 22. Nxd2 1-0
+

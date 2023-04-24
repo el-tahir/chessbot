@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Egxp4hym"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "Appukken"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "21:40:28"]
+[WhiteElo "1948"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bc5 4. Nxe5 d6 5. Nd3 Bd4 6. Ne2 Bb6 7. Ng3 Ng4 8. Be2 h5 9. b3 Qf6 10. f3 Qxa1 11. fxg4 hxg4 12. Bxg4 Bxg4 13. Qxg4 Qf6 14. Nh5 Qg6 15. Nxg7+ Kf8 16. Qxg6 fxg6 17. Ne6+ Ke7 18. Nef4 c6 19. Nxg6+ Kf6 20. Nxh8 Kg7 21. Bb2+ Kg8 22. Rf1 Nd7 23. Nf4 Re8 24. Nh5 Rxe4+ 25. Kd1 Rh4 26. Nf6+ Nxf6 27. Rxf6 Rxh2 28. Rg6+ Kf8 29. Rxd6 Rxg2 30. Rd7 Ba5 31. c3 Rg8 32. c4 Rg2 33. Bc3 Bxc3 34. dxc3 Rxa2 35. Rxb7 Rb2 36. Ng6+ Ke8 37. Ne5 c5 38. Nd3 Ra2 39. Nxc5 a6 40. Ra7 a5 41. b4 Ra3 42. Kd2 Ra2+ 43. Kd3 Rg2 44. bxa5 Rg3+ 45. Kd4 Rg4+ 46. Kd5 Rg3 47. Ne4 Rd3+ 48. Kc6 Rd8 49. Nc5 Rc8+ 50. Kd5 Rd8+ 51. Ke4 Rd6 52. Ra8+ Ke7 53. Nd3 Kd7 54. c5 Re6+ 55. Kd4 Rc6 56. Kc4 Kc7 57. Ra7+ Kb8 58. Rh7 Ra6 59. Kb5 Ra7 60. a6 Rxh7 61. Kb6 Rh6+ 62. Kb5 Rh7 63. c4 Rh6 64. Nb4 Rh7 65. Nc6+ Ka8 66. a7 Rb7+ 67. Ka6 Rc7 68. Kb6 Rb7+ 69. Ka5 Rc7 70. Nb4 1-0
+

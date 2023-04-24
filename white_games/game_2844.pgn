@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HKgnvNKq"]
+[Date "2020.11.27"]
+[White "EltahirAmin"]
+[Black "mk7fan"]
+[Result "1-0"]
+[UTCDate "2020.11.27"]
+[UTCTime "01:28:38"]
+[WhiteElo "1913"]
+[BlackElo "1917"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 e5 4. Nxe4 Nc6 5. Nbc3 Bf5 6. Bb5 Nf6 7. d3 Bb4 8. Bd2 O-O 9. O-O Nd4 10. Bc4 Bxc3 11. bxc3 Ne6 12. f4 exf4 13. Bxf4 Nxf4 14. Rxf4 Bxe4 15. dxe4 Re8 16. Qf3 Qe7 17. Re1 Qc5+ 18. Kh1 Qxc4 19. e5 Qe6 20. h3 Nd5 21. Rg4 f6 22. Qg3 Re7 23. c4 Nb6 24. Rge4 Nxc4 25. exf6 Ne5 26. fxe7 1-0
+

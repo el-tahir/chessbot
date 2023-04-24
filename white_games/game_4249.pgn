@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GrtjHipA"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "JCDM"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "11:12:33"]
+[WhiteElo "1998"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B70"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 O-O 8. O-O-O Nc6 9. Nb3 a5 10. a4 Be6 11. Nd5 Rc8 12. Nxf6+ Bxf6 13. Bxf6 exf6 14. c4 Ne5 15. Nxa5 Qb6 16. b4 Nxc4 17. Bxc4 Bxc4 18. Nxc4 Rxc4+ 19. Kb1 Rxb4+ 20. Kc2 Rb2+ 0-1
+

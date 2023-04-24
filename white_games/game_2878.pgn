@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cesRaJzV"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "omselimsi12"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "12:35:03"]
+[WhiteElo "1879"]
+[BlackElo "1901"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E61"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O Re8 8. Bd2 e5 9. dxe5 Nxe5 10. e4 Be6 11. Qc2 Nxc4 12. Bxc4 Bxc4 13. Rad1 Bxf1 14. Kxf1 c6 15. Ne2 Qc7 16. Nc3 Rad8 17. h4 d5 18. e5 Ng4 19. Bf4 Bxe5 20. Bxe5 Nxe5 21. Nxe5 Rxe5 22. Re1 Rde8 23. Rxe5 Rxe5 24. Qd3 Qe7 25. g3 Qe6 26. Ne2 Qh3+ 27. Kg1 Qg4 28. Kf1 Qe4 29. Qa3 0-1
+

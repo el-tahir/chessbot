@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/88t6iNQk"]
+[Date "2021.02.20"]
+[White "Pablo_sanchagarre"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.20"]
+[UTCTime "13:37:35"]
+[WhiteElo "1899"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Bg4 5. Ne5 Bh5 6. Bg5 e6 7. Bxf6 Qxf6 8. g4 Bg6 9. Nxg6 hxg6 10. Bg2 Bd6 11. h3 Nd7 12. cxd5 exd5 13. e4 Qh4 14. O-O Nf6 15. e5 Ne4 16. Nxe4 dxe4 17. exd6 O-O-O 18. d5 Rxd6 19. Qa4 Kb8 20. dxc6 Rxc6 21. b4 Rc3 22. Qd7 Rxh3 23. Bxh3 Qxh3 24. Qd6+ Ka8 25. Rfd1 Qh1# 0-1
+

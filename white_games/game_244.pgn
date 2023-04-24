@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1ZN4pinW"]
+[Date "2022.10.04"]
+[White "EltahirAmin"]
+[Black "AnaximandroC"]
+[Result "0-1"]
+[UTCDate "2022.10.04"]
+[UTCTime "02:41:51"]
+[WhiteElo "2028"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 a6 7. a4 e5 8. Bd3 exd4 0-1
+

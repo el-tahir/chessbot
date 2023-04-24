@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YHRgwBUj"]
+[Date "2020.11.03"]
+[White "Ugly_Rat"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:29:41"]
+[WhiteElo "2039"]
+[BlackElo "2050"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. f3 Bh5 7. Nge2 Bg6 8. O-O Nc6 9. Nf4 e6 10. Nxg6 hxg6 11. Ne2 Be7 12. Bf4 Bd6 13. c3 Qc7 14. Bxd6 Qxd6 15. Ng3 Nh5 16. Qe1 Nf4 17. Bc2 O-O-O 18. b4 e5 19. b5 Na5 20. Qxe5 Qxe5 21. dxe5 Nc4 22. Bb3 Nxe5 23. Rfe1 Nfd3 24. Re3 f6 25. f4 Nxf4 26. a4 d4 27. cxd4 Rxd4 28. a5 Rhd8 29. Ne2 Nxe2+ 30. Rxe2 Rd2 31. Rc1+ Kb8 32. Re3 R2d3 33. Rce1 Ng4 34. Re8 Kc7 35. Rxd8 Kxd8 36. Bc2 Ra3 37. a6 bxa6 38. bxa6 Rxa6 39. Bxg6 Kd7 40. Bf5+ Kd6 41. Bxg4 Ra4 42. Bf3 a5 43. Rb1 Ra2 44. h4 a4 45. Rb6+ Ke7 46. Ra6 a3 47. Kh2 Ra1 48. Bd5 f5 49. Kg3 Rb1 50. Rxa3 Rb5 51. Re3+ Kf6 52. Bc4 Rc5 53. Bd3 Re5 54. Rf3 Rd5 55. Rxf5+ Rxf5 56. Bxf5 Kxf5 57. Kf3 Kg6 58. g4 Kh7 0-1
+

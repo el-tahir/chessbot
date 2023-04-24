@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Im5xKWFy"]
+[Date "2021.10.17"]
+[White "EltahirAmin"]
+[Black "RadimC"]
+[Result "1-0"]
+[UTCDate "2021.10.17"]
+[UTCTime "16:09:33"]
+[WhiteElo "2016"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Bc4 Nf6 8. Qf3 O-O 9. O-O-O Bg4 10. Qg3 Bxd1 11. Kxd1 Ne5 12. Bb3 a6 13. h4 h5 14. f4 Neg4 15. Bd2 b5 16. f5 gxf5 17. Nxf5 b4 18. Ne2 Nxe4 19. Qf4 d5 20. Nxg7 Kxg7 21. Kc1 e5 22. Qf1 f5 23. Bxb4 Rf6 24. Rh3 a5 25. Be1 a4 26. Rf3 axb3 27. cxb3 Qc7+ 28. Kb1 Qa7 29. a3 Qd7 30. Ng3 Nxg3 31. Bxg3 f4 32. Be1 Rb8 33. g3 Qd6 34. b4 d4 35. gxf4 Rxf4 36. Rxf4 exf4 37. Qd3 Qe5 38. Ka1 Qxe1+ 39. Ka2 Qe6+ 40. b3 Qe5 41. Qa6 Re8 42. a4 Qe2+ 43. Ka3 Qxa6 44. b5 Qxb5 45. axb5 Rb8 46. b6 Rxb6 47. Kb2 Rxb3+ 48. Kxb3 1-0
+

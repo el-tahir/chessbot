@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Djh93kpQ"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "bigfootjohn"]
+[Result "1-0"]
+[UTCDate "2021.02.24"]
+[UTCTime "00:49:05"]
+[WhiteElo "1996"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nc6 4. d4 Bg4 5. dxe5 Bxf3 6. Qxf3 dxe5 7. Be3 Nf6 8. Bd3 Bb4 9. Bd2 Nd4 10. Qg3 Nh5 11. Qxe5+ Kf8 12. Qxh5 g6 13. Bh6+ Ke8 14. Qe5+ Be7 15. Qxh8+ 1-0
+

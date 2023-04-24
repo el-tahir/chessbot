@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bUALIbu9"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "Ejasiel"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "01:14:11"]
+[WhiteElo "1922"]
+[BlackElo "1928"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nc3 Bg7 3. d3 c6 4. Be3 d5 5. f4 Nf6 6. e5 Ng4 7. Bc5 b6 8. Ba3 d4 9. Ne4 O-O 10. Nf3 Ne3 11. Qe2 b5 12. h4 Qa5+ 13. Kf2 b4 14. h5 bxa3 15. bxa3 c5 16. hxg6 fxg6 17. Neg5 h6 18. e6 Rxf4 19. Nf7 Bxe6 20. Nxh6+ Bxh6 21. Rxh6 Ng4+ 22. Kg3 Qc7 23. Qxe6+ Rf7+ 24. Kxg4 Qf4+ 25. Kh3 Qxh6+ 26. Kg3 Qf4+ 27. Kf2 Kg7 28. Be2 Qf6 29. Qc8 Qf4 30. Rh1 Qe3+ 31. Ke1 Qc1+ 32. Bd1 Qe3+ 33. Be2 Rf8 34. Nh2 Rxc8 35. Nf3 Rf8 36. Rf1 Nc6 37. Rh1 Ne5 38. Rh3 Nxf3+ 39. gxf3 Qg1+ 40. Kd2 Qg2 41. Rh4 Rxf3 42. Re4 Rf2 43. Rxe7+ Kh6 44. Re4 Raf8 45. Rh4+ Kg7 46. Re4 Rxe2+ 47. Rxe2 Rf2 48. Rxf2 Qxf2+ 49. Kc1 g5 50. Kb2 1-0
+

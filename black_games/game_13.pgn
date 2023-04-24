@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8v4q7VFC"]
+[Date "2023.03.13"]
+[White "veelteveel"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.13"]
+[UTCTime "19:03:13"]
+[WhiteElo "1987"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nc6 4. cxd4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 O-O 8. O-O d5 9. Bg5 dxe4 10. Nxe4 Be7 11. Re1 Nxe4 12. Bxe7 Qxe7 13. Rxe4 b6 14. Rh4 g6 15. Qd2 h5 16. Qh6 Qf6 17. Rxh5 Qg7 18. Qxg7+ Kxg7 19. Rh4 Bb7 20. Rc1 Rac8 21. Rc2 Nb4 22. Rxc8 Rxc8 23. Bf1 Rc2 24. a3 Nd5 25. b4 Rc1 26. Rf4 Nxf4 0-1
+

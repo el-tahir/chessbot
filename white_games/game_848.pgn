@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x9ItWhxq"]
+[Date "2021.11.13"]
+[White "EltahirAmin"]
+[Black "mobulu"]
+[Result "0-1"]
+[UTCDate "2021.11.13"]
+[UTCTime "05:04:27"]
+[WhiteElo "2032"]
+[BlackElo "2066"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bb5 d6 5. d3 f5 6. Bg5 Ne7 7. Qd2 O-O 8. O-O-O Qe8 9. h4 fxe4 10. Nxe4 Bb6 11. Rdg1 Qf7 12. Nh2 Nd4 13. Ba4 Be6 14. a3 d5 15. Ng3 Rac8 16. Qb4 c5 17. Qd2 c4 18. f4 cxd3 19. Qxd3 Nef5 20. fxe5 Nxg3 21. Qxg3 Ne2+ 0-1
+

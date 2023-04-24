@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/B5cFHLjx"]
+[Date "2021.10.18"]
+[White "EltahirAmin"]
+[Black "dirleycardozo"]
+[Result "0-1"]
+[UTCDate "2021.10.18"]
+[UTCTime "03:50:48"]
+[WhiteElo "2000"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Bc4 a6 8. Qf3 Nf6 9. Nxc6 bxc6 10. O-O-O Be6 11. Bxe6 fxe6 12. e5 Nd5 13. Nxd5 exd5 14. e6 Rf8 15. Qh3 Qa5 16. Kb1 Rb8 17. b3 Qc3 18. Bd4 Bxd4 19. Qxc3 Bxc3 20. a4 Rxf2 21. Rhg1 Rb4 22. g4 Re4 23. g5 Rxe6 0-1
+

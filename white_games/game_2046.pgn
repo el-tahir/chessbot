@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PskdmGSe"]
+[Date "2021.01.07"]
+[White "EltahirAmin"]
+[Black "mathmatical"]
+[Result "1-0"]
+[UTCDate "2021.01.07"]
+[UTCTime "05:26:55"]
+[WhiteElo "1915"]
+[BlackElo "1905"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 c5 4. d3 e5 5. f4 Nc6 6. Nf3 Bg4 7. Ng3 Qc7 8. Be2 exf4 9. Nf5 g6 10. N5h4 Be7 11. O-O Nh6 12. h3 Bh5 13. Nh2 Bxe2 14. Qxe2 Bxh4 15. Bxf4 Ne5 16. Nf3 Bf6 17. Bxh6 Nxf3+ 18. Qxf3 Be5 19. c3 dxc3 20. bxc3 Bxc3 21. Rab1 Be5 22. Bg5 h6 23. Bf6 Bxf6 24. Qxf6 Rf8 25. e5 Kd7 26. d4 cxd4 27. Rfc1 Qa5 28. Rxb7+ Ke8 29. Qe7# 1-0
+

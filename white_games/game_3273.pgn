@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fkr9wxW2"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "billabong47"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "22:22:53"]
+[WhiteElo "1971"]
+[BlackElo "1887"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e6 4. d4 Nf6 5. Bc4 cxd4 6. cxd4 d5 7. exd5 exd5 8. Bb3 Bb4+ 9. Bd2 O-O 10. Nc3 Re8+ 11. Be3 Ng4 12. Qd2 Nxe3 13. fxe3 Bg4 14. O-O Re7 15. Rae1 Qc7 16. Bc2 Qd6 17. Qd3 g6 18. h3 Bf5 19. Qd2 Bxc2 20. Qxc2 Rae8 21. Ng5 Nxd4 22. exd4 Rxe1 23. Rxe1 Rxe1+ 24. Kf2 Re7 25. Nb5 Qf4+ 26. Nf3 Qe3+ 27. Kg3 Be1+ 28. Kh2 Qf4+ 29. Kg1 Bg3 30. Qc8+ Kg7 31. Nc3 Qc1+ 0-1
+

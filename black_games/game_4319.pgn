@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O0zScDxw"]
+[Date "2020.05.30"]
+[White "Mehr_Ali"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.30"]
+[UTCTime "11:52:59"]
+[WhiteElo "2077"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. dxc5 e6 3. e4 Bxc5 4. Nf3 Nf6 5. e5 Ng4 6. Be3 Nxe3 7. fxe3 Bxe3 8. Bd3 Nc6 9. Qe2 Bb6 10. Nc3 d6 11. exd6 Qxd6 12. O-O-O Qe7 13. Kb1 Bd7 14. Ne4 O-O-O 15. Bb5 Kb8 16. Rhf1 Qb4 17. a3 Qa5 18. Nd6 a6 19. Bc4 Rhf8 20. Ng5 Ne5 21. Bb3 f6 22. Nge4 Bc6 23. Bxe6 Bc5 24. Nxc5 Qxc5 25. Nc4 Bb5 26. Qe4 Rde8 27. Rd5 Qxc4 28. Rd8+ Rxd8 29. Bxc4 Nxc4 30. Qf4+ Ka8 31. Re1 Ne5 32. h3 Rd7 33. Rxe5 Rd1+ 34. Ka2 Rc8 35. Re7 Rxc2 36. Qf3 Bc4+ 37. Qb3 Bxb3+ 38. Kxb3 Rxg2 39. Re8+ Ka7 40. Re7 Rdd2 41. Rxg7 Rxb2+ 42. Kc4 Rxg7 43. Kd5 Ra2 44. Ke6 Rxa3 45. Kxf6 Rxh3 0-1
+

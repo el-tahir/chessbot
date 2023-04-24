@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2lycBR6V"]
+[Date "2020.10.15"]
+[White "jomsmadera"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "08:42:32"]
+[WhiteElo "1987"]
+[BlackElo "1989"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Be2 Bg4 6. O-O e6 7. h3 Bh5 8. Nh2 Bg6 9. f4 Bd6 10. Nc3 Nc6 11. Nb5 Bb8 12. Ng4 a6 13. Nc3 Nd4 14. Be3 Nxe2+ 15. Qxe2 O-O 16. Bd4 Nh5 17. Bf2 Nxf4 18. Qf3 Bd6 19. Ne2 Nxe2+ 20. Qxe2 Rc8 21. Rac1 Bc5 22. Bxc5 Rxc5 23. Ne5 Qb6 24. Kh1 Rfc8 25. Qf2 Rb5 26. Nxg6 hxg6 27. Qxf7+ Kh8 28. Rf4 Qd8 29. Qxg6 e5 30. Rf5 Kg8 31. Qf7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uAqAX1mO"]
+[Date "2022.06.01"]
+[White "safwanshawi"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.01"]
+[UTCTime "00:04:36"]
+[WhiteElo "2022"]
+[BlackElo "2020"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e3 d5 3. Bd3 Nf6 4. Nd2 Bg4 5. Ne2 Nbd7 6. f4 Ng8 7. O-O f6 8. h3 Bxe2 9. Qxe2 e5 10. fxe5 fxe5 11. Qf3 Ngf6 12. Bf5 Bd6 13. Be6 Qe7 14. Bxd7+ Qxd7 15. Qe2 O-O 16. Nf3 Rae8 17. Qd1 exd4 18. exd4 Re4 19. Bg5 Rfe8 20. c3 Nh5 21. Qd2 Bf4 22. Bxf4 Nxf4 23. Ne5 Qf5 24. Rf3 Qg5 25. Raf1 Nxh3+ 26. Rxh3 Qxd2 27. Rg3 Re2 28. Rf7 Re1+ 29. Kh2 Qh6+ 30. Rh3 Qxh3+ 31. Kxh3 R8xe5 32. Rxb7 Re7 33. Rb8+ Kf7 34. Rc8 Rb1 35. b3 Rb2 36. Rxc6 Rxa2 37. c4 dxc4 38. bxc4 a5 39. d5 Rd7 40. d6 a4 41. c5 a3 42. Ra6 Ke6 43. Ra4 Kd5 44. Ra5 Ra1 45. Ra6 a2 46. c6 Rxd6 47. c7 Rc1 48. Rxa2 Rxc7 49. Rd2+ Ke6 50. Re2+ Kf7 51. Rf2+ Rf6 52. Re2 Rc5 53. g3 Rg6 54. Kg2 Rgc6 55. Re3 Rc2+ 56. Kh3 Rh6+ 57. Kg4 Rc4+ 58. Kf3 Rf6+ 0-1
+

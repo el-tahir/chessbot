@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YKOPP44R"]
+[Date "2021.02.15"]
+[White "EltahirAmin"]
+[Black "giannuzzo"]
+[Result "1-0"]
+[UTCDate "2021.02.15"]
+[UTCTime "12:49:12"]
+[WhiteElo "1958"]
+[BlackElo "1956"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 exd4 5. Nxd4 g6 6. h4 Bg7 7. Be3 Nf6 8. Bc4 O-O 9. Qf3 a6 10. a4 Nxd4 11. Bxd4 c5 12. Be3 Be6 13. Bxe6 fxe6 14. O-O-O Qd7 15. Rd2 d5 16. exd5 Nxd5 17. Nxd5 Rxf3 18. Nf6+ Bxf6 19. Rxd7 Rf5 20. Rhd1 b5 21. a5 b4 22. Rc7 Bd8 23. Rb7 Bxa5 24. Rdd7 c4 25. Rg7+ Kf8 26. Bc5+ Ke8 27. Rg8+ 1-0
+

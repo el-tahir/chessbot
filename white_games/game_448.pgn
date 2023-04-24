@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QNsrvIfk"]
+[Date "2022.05.20"]
+[White "EltahirAmin"]
+[Black "ZubinPhone"]
+[Result "1-0"]
+[UTCDate "2022.05.20"]
+[UTCTime "05:49:53"]
+[WhiteElo "2045"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-20"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 d6 5. Bg5 f6 6. Bh4 Bg4 7. Be2 Qd7 8. Qd2 O-O-O 9. O-O-O g5 10. Bg3 h5 11. h4 gxh4 12. Nxh4 Nge7 13. Bxg4 Qxg4 14. Qe2 Qg5+ 15. Kb1 Nd4 16. Qd2 Qxd2 17. Rxd2 Bb4 18. a3 Bxc3 19. bxc3 Nb5 20. f4 Nxa3+ 21. Kb2 Nb5 22. Rf1 a6 23. Rdf2 b6 24. fxe5 fxe5 25. Rf7 Nc6 26. Rg7 Rd7 27. Rff7 Rxf7 28. Rxf7 Kb7 29. Nf5 Nd8 30. Rg7 Kc6 31. Bh4 Ne6 32. Rg6 Nf4 33. Rg7 Na7 34. g3 Ng2 35. Ne7+ Kb5 36. Bf6 Rd8 37. Nd5 c6 38. Bxd8 cxd5 39. exd5 Ne3 40. c4+ Kc5 41. Rxa7 Nf5 42. c3 Nxg3 43. Rc7# 1-0
+

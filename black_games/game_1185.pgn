@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5zUS4gEo"]
+[Date "2021.10.11"]
+[White "FakeMagnus_CarLsen"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "20:38:46"]
+[WhiteElo "2126"]
+[BlackElo "2112"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A56"]
+[Termination "Normal"]
+
+1. d4 c5 2. c4 Nf6 3. g3 e6 4. Bg2 Nc6 5. Nc3 Nxd4 6. Nf3 Nxf3+ 7. Bxf3 Be7 8. O-O O-O 9. Re1 Rb8 10. e4 b6 11. Bf4 d6 12. e5 dxe5 13. Bxe5 Bb7 14. Bxb8 Qxb8 15. a4 Qa8 16. Bxb7 Qxb7 17. a5 Rd8 18. Qe2 Bd6 19. axb6 axb6 20. Nb5 Bb8 21. Red1 Re8 22. b3 Ne4 23. Ra2 Qc6 24. Rad2 Qd5 25. cxd5 exd5 26. Rxd5 1-0
+

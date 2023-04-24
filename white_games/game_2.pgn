@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VY4lGupc"]
+[Date "2023.03.31"]
+[White "EltahirAmin"]
+[Black "Roden"]
+[Result "1-0"]
+[UTCDate "2023.03.31"]
+[UTCTime "20:44:35"]
+[WhiteElo "2000"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. Bc4 Nf6 6. d4 h6 7. O-O c6 8. Be3 Bb4 9. Qd2 Ba5 10. a3 Nd5 11. b4 Nxc3 12. Qxc3 Bc7 13. Rad1 Nd7 14. Rfe1 Nf6 15. Ne5 O-O 16. Qd2 Ne4 17. Qe2 Nc3 18. Qg4 Nxd1 19. Bxh6 Nxf2 20. Qxg7# 1-0
+

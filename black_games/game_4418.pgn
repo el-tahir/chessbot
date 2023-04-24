@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q1AO02qM"]
+[Date "2020.05.12"]
+[White "teeogarcia"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "22:44:10"]
+[WhiteElo "1983"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nf3 Bf5 4. e3 e6 5. c4 Bb4+ 6. Nc3 O-O 7. Qb3 Bxc3+ 8. bxc3 Qc8 9. Be5 a5 10. Bxf6 gxf6 11. cxd5 a4 12. Qc4 exd5 13. Qxd5 Be6 14. Qh5 b6 15. Bd3 f5 16. Ng5 h6 17. Qxh6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PSRBKnDj"]
+[Date "2020.12.04"]
+[White "andikaviola"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.04"]
+[UTCTime "22:05:54"]
+[WhiteElo "1843"]
+[BlackElo "1851"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. Bd2 Bg4 9. h3 Bh5 10. g4 Bg6 11. Bxg6 hxg6 12. Be3 Na6 13. Qd3 Nb4 14. Qb3 Re8 15. a3 Nd5 16. O-O-O Nxe3 17. fxe3 g5 18. h4 Rxe3 19. Qxb7 Rxf3 20. hxg5 Bf4+ 21. Kb1 Bxg5 22. Qxc6 Rf4 23. d5 Rc8 24. Qa4 Rxa4 0-1
+

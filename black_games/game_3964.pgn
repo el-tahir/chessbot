@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/st9hqaoW"]
+[Date "2020.10.29"]
+[White "marcosrezasalgado04"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.29"]
+[UTCTime "13:36:49"]
+[WhiteElo "2060"]
+[BlackElo "2022"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 g6 9. Bh6 Re8+ 10. Ne2 Bg4 11. f3 f5 12. fxg4 Qh4+ 13. g3 Bxg3+ 14. Kd1 Bxh2 15. Bf4 Qxg4 16. Bxh2 Nd7 17. Qd2 Nf6 18. Be5 Nd5 19. Qh6 1-0
+

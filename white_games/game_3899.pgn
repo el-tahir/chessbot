@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P2JX65SW"]
+[Date "2020.10.31"]
+[White "EltahirAmin"]
+[Black "heryas2509"]
+[Result "0-1"]
+[UTCDate "2020.10.31"]
+[UTCTime "09:22:38"]
+[WhiteElo "1982"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 f5 3. exf5 d5 4. d4 Bxf5 5. Nc3 e6 6. Bg5 Nf6 7. Qd2 Bb4 8. a3 Bxc3 9. Qxc3 O-O 10. Bd3 Qd6 11. O-O-O Ne4 12. Bxe4 Bxe4 13. h4 a5 14. h5 h6 15. Qe3 hxg5 16. Nxg5 Qf4 17. Qxf4 Rxf4 18. h6 Rxf2 19. h7+ Bxh7 20. Nxe6 Rxc2+ 0-1
+

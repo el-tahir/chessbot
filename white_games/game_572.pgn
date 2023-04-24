@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wwxqkWjY"]
+[Date "2022.05.07"]
+[White "EltahirAmin"]
+[Black "mobulu"]
+[Result "1-0"]
+[UTCDate "2022.05.07"]
+[UTCTime "05:52:59"]
+[WhiteElo "2062"]
+[BlackElo "2063"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Ne7 4. Nxe5 O-O 5. d4 Bb6 6. Be3 d6 7. Nf3 Bg4 8. Be2 Ng6 9. O-O Nd7 10. Qd2 Bxf3 11. Bxf3 Re8 12. Rae1 c6 13. Ne2 Nf6 14. Ng3 Qd7 15. Ne2 Nxe4 16. Bxe4 Rxe4 17. Ng3 Rh4 18. Bg5 Rg4 19. h3 Rxg5 20. Qxg5 Bxd4 21. h4 Bf6 22. Qd2 Bxh4 23. Ne4 d5 24. Nc5 Qc7 25. g3 Be7 26. Nd3 Bd6 27. Re2 Qd7 28. Rfe1 Qh3 29. Re8+ Rxe8 30. Rxe8+ Nf8 31. Nf4 Qd7 32. Re1 h6 33. Qd4 Qh3 34. Nxh3 1-0
+

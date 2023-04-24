@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YQnRilb8"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "AadityaSalunkhe"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "07:04:34"]
+[WhiteElo "2013"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. Qxd4 d5 4. Nf3 Nc6 5. Qd1 Nf6 6. Nc3 Bb4 7. Bd2 O-O 8. Ne2 Bc5 9. Bc3 Re8 10. Ned4 Bg4 11. Be2 Bxf3 12. Nxf3 Qe7 13. O-O Rad8 14. Nd4 Nxd4 15. Bxd4 Bxd4 16. Qxd4 c5 17. Qh4 d4 18. Bd3 dxe3 19. fxe3 Qxe3+ 20. Kh1 Rd4 21. Qf2 Qxf2 22. Rxf2 Ng4 23. Rff1 c4 24. Bf5 Ne3 0-1
+

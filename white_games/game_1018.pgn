@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZO46QMab"]
+[Date "2021.10.23"]
+[White "EltahirAmin"]
+[Black "Classicking147"]
+[Result "1-0"]
+[UTCDate "2021.10.23"]
+[UTCTime "21:20:24"]
+[WhiteElo "2070"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 d4 4. Ne2 Nc6 5. d3 Bd7 6. Bg5 f6 7. Bd2 a6 8. c3 dxc3 9. Nxc3 Bc5 10. Be2 Nge7 11. O-O O-O 12. Rc1 Ba7 13. Be3 Bxe3 14. fxe3 Ng6 15. Qd2 Qe7 16. d4 Rad8 17. Bc4 Na5 18. Bd3 Nc6 19. Qf2 Kh8 20. Nh4 Nb8 21. Qg3 Qe8 22. e5 f5 23. e4 f4 24. Qg4 Nxh4 25. Qxh4 Nc6 26. Ne2 Qe7 27. Qh3 Nb4 28. Bb1 Nc6 29. Rxf4 Rxf4 30. Nxf4 Nxd4 31. Ng6+ 1-0
+

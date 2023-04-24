@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Rlsqze5h"]
+[Date "2022.04.28"]
+[White "EltahirAmin"]
+[Black "Amir_Okha"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:38:58"]
+[WhiteElo "2117"]
+[BlackElo "2101"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 e5 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bc4 O-O 8. O-O d6 9. Kh1 Be6 10. Bxe6 fxe6 11. Bg5 h6 12. Bh4 g5 13. Bg3 Kg7 14. f4 d5 15. Na4 Bd6 16. e5 Ne4 17. exd6 Nxg3+ 18. hxg3 Qxd6 19. Qg4 Rh8 20. Rae1 Raf8 21. Rxe6 Qd8 22. f5 h5 23. Rg6+ Kf7 24. Qxg5 Qxg5 25. Rxg5 Kf6 26. Rg6+ Ke5 27. Rxc6 h4 28. g4 h3 29. g3 Rhg8 30. Rf4 h2 31. Kxh2 Rh8+ 32. Kg2 Rh7 33. Nc5 d4 34. Nd3+ Kd5 35. Ra6 Rfh8 36. Ra5+ Kc4 37. b3+ Kc3 38. Nf2 Rh2+ 39. Kf3 Re8 40. Re4 Rxf2+ 41. Kxf2 Rxe4 42. Rc5+ Kd2 43. Kf3 Re3+ 44. Kf4 Re2 45. Rxc7 d3 46. cxd3 Kxd3 47. Rxa7 Kc3 48. Rd7 Kb2 49. f6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BFA4MbbM"]
+[Date "2020.11.06"]
+[White "Keegan_Campher"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "15:23:20"]
+[WhiteElo "1976"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bf4 Bd6 7. Bxd6 Qxd6 8. c4 O-O 9. Be2 Bf5 10. Nf3 Nd7 11. O-O Rfe8 12. Nh4 Bg6 13. Nxg6 hxg6 14. c5 Qf4 0-1
+

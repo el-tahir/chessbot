@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4A4EZ5Fx"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "fado79"]
+[Result "0-1"]
+[UTCDate "2022.07.24"]
+[UTCTime "19:55:24"]
+[WhiteElo "2002"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bg5 O-O 7. Qd2 Nc6 8. O-O-O Ne5 9. Kb1 c5 10. Nde2 Bg4 11. f3 Bh5 12. g4 Bg6 13. Bg2 Nc4 14. Qd3 Ne5 15. Qe3 a6 16. h4 h6 17. Bxh6 gxh6 18. Qxh6 Re8 19. h5 Bf8 20. Qg5 Nh7 21. Qxd8 Raxd8 22. hxg6 fxg6 23. Nd5 Re6 24. Nef4 Ree8 25. Nxg6 Ng5 26. Nxf8 Rxf8 27. f4 Nc4 28. fxg5 Rf2 29. Rhg1 b5 30. Rdf1 Nd2+ 31. Kc1 Nxf1 32. Bxf1 Rdf8 33. Nf6+ Kg7 34. b3 Kg6 35. Kb2 Kxg5 36. Bd3 R8xf6 37. a4 c4 38. bxc4 bxc4 39. Bxc4 a5 40. Bd5 Rf8 41. Rd1 Rb8+ 42. Bb3 Rb6 43. Rd5+ Kxg4 44. Rxa5 Kf4 45. Ra8 Kxe4 46. Re8+ Kf3 47. Re6 Re2 48. Rf6+ Kg3 49. Kc3 Re3+ 50. Kd4 Re1 51. Rg6+ Kf2 52. Rf6+ Ke2 53. Re6+ Kd2 54. Rxe1 Kxe1 55. Kd5 Kd2 56. Bc4 Kxc2 57. Bb5 Kb3 58. Ke6 Kb4 59. Kd7 Kc5 60. Ke6 d5+ 61. Ke5 d4 62. Ke4 Rb8 63. Bd3 Re8+ 64. Kf3 Re3+ 65. Kf2 Rxd3 66. a5 Ra3 67. a6 Rxa6 68. Ke2 Kc4 69. Kd2 Ra2+ 70. Kc1 Kc3 71. Kb1 Rf2 72. Kc1 Rf1# 0-1
+

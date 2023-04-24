@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xE3fIryI"]
+[Date "2021.03.03"]
+[White "Deep_Steve"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.03"]
+[UTCTime "19:53:03"]
+[WhiteElo "2062"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. h3 Nc6 6. Bd3 e6 7. O-O Be7 8. Bg5 O-O 9. c3 b6 10. Nbd2 Bb7 11. Qe2 Rc8 12. Rfe1 Qd6 13. Ne5 Rc7 14. Ndf3 Rfc8 15. Nxc6 Rxc6 16. Ne5 R6c7 17. Rad1 a6 18. Bb1 b5 19. Qd3 g6 20. Qf3 Nd7 21. Qxf7+ Kh8 22. Bxg6 hxg6 23. Nxg6# 1-0
+

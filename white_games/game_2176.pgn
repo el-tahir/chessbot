@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/02tY4Kat"]
+[Date "2020.12.29"]
+[White "EltahirAmin"]
+[Black "Shashi_Kant111"]
+[Result "0-1"]
+[UTCDate "2020.12.29"]
+[UTCTime "09:11:28"]
+[WhiteElo "1953"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. Nxe5 O-O 5. d3 d5 6. exd5 Re8 7. Bf4 Qxd5 8. Qe2 Nc6 9. d4 Nxd4 10. Qe3 Nxc2+ 0-1
+

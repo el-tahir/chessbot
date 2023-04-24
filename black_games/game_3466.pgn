@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jks8bWfY"]
+[Date "2020.11.08"]
+[White "Tuaitea"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "16:53:50"]
+[WhiteElo "1968"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Nf3 O-O 8. O-O Nd7 9. h3 Nb6 10. Be2 Bf5 11. c3 Re8 12. Re1 Qc7 13. Be3 Re7 14. Qd2 Rae8 15. Rad1 Nd5 16. Bd3 Nxe3 17. fxe3 Be4 18. Bxe4 Rxe4 19. Qd3 Qe7 20. Kf2 f5 21. Re2 f4 22. Rde1 fxe3+ 23. Rxe3 f5 24. Ne5 Bxe5 25. dxe5 Qxe5 26. Rxe4 fxe4 27. Qd4 Rf8+ 28. Kg1 Qxd4+ 29. cxd4 Re8 30. Kf2 Kf7 31. Ke3 Kf6 32. Rf1+ Ke6 33. g4 Kd5 34. b3 Re7 35. Rf5+ Kd6 36. Rf8 c5 37. dxc5+ Kxc5 38. Rf4 Kd5 39. Rf5+ Kd6 40. Rf8 Kd5 41. Rd8+ Kc6 42. Rd4 a5 43. Rxe4 Rc7 44. Rc4+ Kd6 45. Rxc7 Kxc7 0-1
+

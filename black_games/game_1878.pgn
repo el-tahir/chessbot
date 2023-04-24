@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0ElQMtyM"]
+[Date "2021.01.22"]
+[White "Roden"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "22:37:29"]
+[WhiteElo "1923"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5 Bg4 7. Bxf6 exf6 8. Qd3 Nb4 9. Qb5+ Nc6 10. Qxb7 Rc8 11. Be2 Bd6 12. O-O h5 13. h3 Kf8 14. Nxd5 Rh6 15. Ne3 Bxf3 16. Bxf3 Nxd4 17. c3 Rb8 18. Qa6 Nxf3+ 19. gxf3 Qd7 20. Rfd1 Rb6 21. Qd3 Qxh3 22. Ng2 Rg6 23. Kf1 Qxg2+ 24. Ke2 f5 25. c4 Re6+ 26. Kd2 Qxf2+ 27. Kc3 Qxb2# 0-1
+

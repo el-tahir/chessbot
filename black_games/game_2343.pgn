@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1Z8PCxhL"]
+[Date "2020.12.22"]
+[White "vlad145"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.22"]
+[UTCTime "07:13:58"]
+[WhiteElo "1989"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Qd4 Nc6 5. Qxg4 d5 6. Qf4 Bb4+ 7. Bd2 Be6 8. cxd5 Bxd2+ 9. Nxd2 Bxd5 10. e4 Be6 11. Ngf3 Qe7 12. Bb5 Qc5 13. Ba4 O-O-O 14. O-O h5 15. Bb3 Rdf8 16. Rac1 Qe7 17. Bd5 Nd8 18. Qe3 Kb8 19. Qb3 Bxd5 20. exd5 f6 21. e6 g5 22. Nd4 f5 23. Nc6+ Nxc6 24. dxc6 b6 25. Rfe1 f4 26. Qd5 Rd8 27. Qe5 Rhe8 28. Nc4 f3 29. g3 h4 30. a4 hxg3 31. hxg3 Qh7 32. g4 Qh3 33. Qg3 Qh6 34. e7 Rc8 35. Ne5 Rh8 36. Qxf3 Qh2+ 37. Kf1 Qh1+ 38. Ke2 Qxf3+ 39. Kxf3 Rhe8 40. Nd7+ Ka8 41. b4 a5 42. b5 Ka7 43. Rcd1 Ra8 44. Rd5 Rac8 45. Rxg5 Ra8 46. Rf5 Rac8 47. Rf8 Ra8 48. Rxe8 Rxe8 49. Re6 Ka8 50. g5 Ka7 51. g6 Ka8 52. g7 Ka7 53. Rh6 Rxe7 54. Rh8 Rxg7 55. Rb8 Rf7+ 56. Ke3 Re7+ 0-1
+

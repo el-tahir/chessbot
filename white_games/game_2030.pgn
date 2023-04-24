@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HVGXlqRW"]
+[Date "2021.01.10"]
+[White "EltahirAmin"]
+[Black "Temuujin_A"]
+[Result "0-1"]
+[UTCDate "2021.01.10"]
+[UTCTime "09:38:49"]
+[WhiteElo "1917"]
+[BlackElo "1929"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 f5 4. d4 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. dxe5 dxe5 8. Bg5 Qd6 9. Qe2 Nc6 10. Rd1 Qe6 11. Qxe5 Nxe5 12. Rd8+ Kf7 13. Be2 Nxf3+ 14. gxf3 Bb4+ 15. c3 Rxd8 16. Bxd8 Ba5 17. b3 Kf8 18. Kd2 Qe5 19. b4 Bxb4 20. cxb4 Qd6+ 21. Kc3 Qxd8 22. Rd1 Qf6+ 23. Kb3 Be6+ 24. Ka3 a5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BTUgyipK"]
+[Date "2021.01.06"]
+[White "EltahirAmin"]
+[Black "sany96"]
+[Result "0-1"]
+[UTCDate "2021.01.06"]
+[UTCTime "17:43:31"]
+[WhiteElo "1916"]
+[BlackElo "1944"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 f5 5. d4 cxd4 6. cxd4 Ne7 7. Nc3 Ng6 8. Bg5 Be7 9. Bxe7 Qxe7 10. Qb3 Nc6 11. Bb5 O-O 12. O-O Rb8 13. a4 Bd7 14. Rac1 a6 15. Bd3 Na5 16. Qc2 Nc4 17. Bxc4 dxc4 18. d5 exd5 19. Nxd5 Qc5 20. b4 Qxd5 21. Rfd1 Qe6 22. Ng5 Qe7 23. Qxc4+ Kh8 24. Rd6 Qxg5 25. Rxd7 Nxe5 0-1
+

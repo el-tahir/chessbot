@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/j9lL3FjV"]
+[Date "2021.10.12"]
+[White "JoaoTejo"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.12"]
+[UTCTime "03:34:10"]
+[WhiteElo "2086"]
+[BlackElo "2095"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. e6 Nf6 7. exf7+ Bxf7 8. g5 Ne4 9. f3 Ng3 10. Rh3 Nxf1 11. Kxf1 Nd7 12. f4 Qb6 13. Nf3 O-O-O 14. Ne5 Nxe5 15. fxe5 Be6 16. Rf3 g6 17. Nc3 Bg4 18. Na4 Qa6+ 19. Kf2 Bxf3 20. Qxf3 Qxa4 21. Be3 Bg7 22. Kg2 Rhf8 23. Qh3+ Kb8 24. Qe6 Qxc2+ 25. Kg3 Qe4 26. Re1 Rf3+ 27. Kh2 Qxh4+ 28. Kg2 0-1
+

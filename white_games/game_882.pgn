@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zb7V8Nnt"]
+[Date "2021.11.10"]
+[White "EltahirAmin"]
+[Black "bareta"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "04:07:49"]
+[WhiteElo "2056"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Bg4 5. f4 Bxe2 6. Bxe2 f6 7. Nf3 Nd7 8. O-O Qe7 9. Qe1 Nh6 10. fxe5 Nxe5 11. Nxd4 O-O-O 12. Nb5 Qc5+ 13. d4 Rxd4 14. Nxd4 Qxd4+ 15. Kh1 Kb8 16. Qf2 Bc5 17. Qxd4 Bxd4 18. c3 Bb6 19. Bxh6 gxh6 20. Rxf6 Rg8 21. Raf1 Ng4 22. Rf8+ Rxf8 23. Rxf8# 1-0
+

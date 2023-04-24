@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wR7amIdY"]
+[Date "2020.11.23"]
+[White "Abohamza17-b"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "12:17:05"]
+[WhiteElo "1924"]
+[BlackElo "1923"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. c3 Nf6 6. d4 Bg4 7. Bg5 h6 8. Bxf6 exf6 9. Qa4 Qc7 10. Bxc6+ bxc6 11. Nfd2 Bd6 12. f3 Bg3+ 13. hxg3 Qxg3+ 14. Kd1 Qxg2 15. fxg4 Qxh1+ 16. Kc2 O-O 17. Qxc6 Rab8 18. Qc5 a6 19. a3 Rfc8 20. Qa5 Qh3 21. Qxa6 Qh4 22. Qd6 Qxg4 23. Qxd5 h5 24. a4 h4 25. Na3 h3 26. Nac4 h2 27. a5 f5 28. a6 Ra8 29. a7 Qg6 30. Nd6 f4+ 31. Qe4 Qxd6 32. Qe5 Qxe5 33. dxe5 Rc7 34. Nf3 Raxa7 35. Rxa7 Rxa7 36. Nxh2 Re7 37. Nf3 Kh7 38. Kd3 Kg6 39. Ke4 Rb7 40. b4 Rc7 41. Kd4 Kf5 42. c4 g5 43. c5 g4 44. Nh4+ Ke6 45. Ke4 Rb7 46. Kxf4 Rxb4+ 47. Kg3 Kxe5 48. Ng2 f5 49. Ne3 Rb5 50. Nc4+ Kf6 51. Kf4 Rxc5 52. Ne3 Re5 53. Nc4 Re4+ 54. Kg3 Rxc4 0-1
+

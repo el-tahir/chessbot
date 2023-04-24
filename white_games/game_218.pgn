@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vm33Nntd"]
+[Date "2022.10.20"]
+[White "EltahirAmin"]
+[Black "betisehester"]
+[Result "1-0"]
+[UTCDate "2022.10.20"]
+[UTCTime "23:01:08"]
+[WhiteElo "2012"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 Nxc6 5. Nf3 e5 6. Bb5 Bg4 7. O-O Bd6 8. d3 O-O 9. Bg5 h6 10. Bh4 a6 11. Ba4 b5 12. Bb3 Nd4 13. h3 Bxf3 14. gxf3 g5 15. Bg3 Qd7 16. Ne4 Bc7 17. Nxf6+ 1-0
+

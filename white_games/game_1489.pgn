@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ACHpmnbh"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "AlanRSO"]
+[Result "0-1"]
+[UTCDate "2021.02.24"]
+[UTCTime "22:17:28"]
+[WhiteElo "2005"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. cxd4 Nf6 7. Nc3 Qd8 8. Bb5+ Bd7 9. Bxd7+ Nbxd7 10. O-O Nb6 11. Re1 Be7 12. Be3 O-O 13. h3 Nbd5 14. Nxd5 Nxd5 15. Rc1 Rc8 16. Qd3 Qb6 17. b3 Rc6 18. Ng5 Bxg5 19. Bxg5 Rfc8 20. Be3 Nxe3 21. Rxc6 Qxc6 22. fxe3 Qc2 23. Qe2 Kf8 24. Kf2 Ke7 25. Kf3 f5 26. Qxc2 Rxc2 27. Re2 Rxe2 28. Kxe2 Kd6 29. Kd3 Kd5 30. h4 h5 31. a4 a5 32. g3 b6 33. Kc3 Ke4 34. Kd2 Kf3 35. Kd3 Kxg3 36. e4 fxe4+ 37. Kxe4 Kxh4 38. Ke5 Kg3 39. Kxe6 h4 40. d5 h3 41. d6 h2 42. d7 h1=Q 43. d8=Q Qe4+ 44. Kf7 Qf3+ 45. Kg8 Qxb3+ 46. Kxg7 Qc3+ 47. Kf7 Qc4+ 48. Kf6 Qh4+ 0-1
+

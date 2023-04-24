@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BIHwS7Gm"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Dhuso"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "11:38:57"]
+[WhiteElo "1993"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bd6 6. Qb3 Qe7 7. O-O Nf6 8. d4 O-O 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nxe4 12. dxe5 Bxe5 13. Bxe5 Nxe5 14. Nxe5 Qxe5 15. Re1 Qf4 16. f3 Nc5 17. Qb4 d6 18. Na3 a5 19. Qb2 c6 20. Rad1 d5 21. Bb3 b5 22. Rd4 Qf6 23. Bc2 Bf5 24. Qc1 Rfe8 25. Bxf5 Qxf5 26. Rdd1 Kf8 27. Nc2 Nd3 28. Rxe8+ Rxe8 29. Qa3+ Kg7 30. Nd4 Qe5 31. h3 Qg3 32. Rf1 c5 33. Qxc5 Nxc5 34. Nxb5 Re2 35. Nd4 0-1
+

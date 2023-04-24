@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VDgWMqct"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "late1964"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "11:38:18"]
+[WhiteElo "1983"]
+[BlackElo "1880"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 e6 5. Bd3 Be7 6. Be3 O-O 7. Qd2 Bd7 8. O-O-O Ng4 9. Bf4 Rb8 10. e5 dxe5 11. dxe5 Nb4 12. h3 Nxd3+ 13. cxd3 g5 14. Nxg5 Bxg5 15. Bxg5 f6 16. exf6 Nxf6 17. Ne4 Bc6 18. Nxf6+ Rxf6 19. Qc3 Kf7 20. Rhe1 Qe7 21. Bxf6 Qxf6 22. Qxf6+ Kxf6 23. Re2 Bxg2 24. Rde1 Bxh3 25. Rh1 Bg4 26. Re3 Rh8 27. Kd2 Bf5 28. Rc1 c6 29. Rc3 a6 30. Rb3 Rb8 31. Rb6 h5 32. f4 h4 33. Re1 h3 34. Rh1 e5 35. Ke3 exf4+ 36. Kxf4 Be6 37. a4 c5 38. Re1 h2 39. Rexe6+ Kf7 40. Rh6 h1=Q 41. Rxh1 Ke7 42. Rh7+ Kd8 43. Rbxb7 Rxb7 44. Rxb7 Kc8 45. Rh7 a5 46. Ke5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RDvUglEn"]
+[Date "2020.10.30"]
+[White "vemilas"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:42:58"]
+[WhiteElo "1981"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be3 O-O 8. d4 Bg4 9. Be2 Nd7 10. O-O Nb6 11. h3 Bh5 12. c3 Nd5 13. Bd2 Re8 14. Bd3 c5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CGADeupb"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "chessmanagnet"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "20:37:52"]
+[WhiteElo "1905"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bc5 6. Be3 Qb6 7. Nxc6 Bxe3 8. fxe3 Qxe3+ 9. Be2 dxc6 10. Qd3 Qxd3 11. Bxd3 e5 12. O-O Nf6 13. Bc4 Ke7 14. Rad1 Be6 15. Bxe6 Kxe6 16. h3 Rad8 17. g4 Rd7 18. g5 Nh5 19. Rxd7 Kxd7 20. Rxf7+ Ke6 21. Rxb7 Ra8 22. Kg2 a5 23. a4 Rd8 24. Nb1 Rd1 25. Na3 Re1 26. Kf3 Rf1+ 27. Kg2 Rf4 28. Rb6 Kd6 29. b3 Rxe4 30. Nc4+ Kc5 31. Ra6 Re2+ 32. Kf3 Rxc2 33. Rxa5+ Kb4 34. Rxe5 Kxb3 35. Ne3 Ra2 36. a5 Kb4 37. g6 hxg6 38. Re6 Nf6 39. Rxc6 Rxa5 40. Nc2+ Ka4 41. h4 Rd5 42. Ne3 Rd3 43. Re6 Nd5 44. Re4+ Kb5 45. Ke2 Ra3 46. Nxd5 Kc5 47. Ne7 Rh3 48. Nxg6 Kd5 49. Rg4 Ke6 50. Kf2 Kf5 51. Rg5+ Kf6 52. Rg4 Rb3 53. h5 Rb2+ 54. Kf3 Rb3+ 55. Ke4 Rb4+ 56. Kf3 Rb7 57. Kg3 Rb3+ 58. Kh4 Rb1 59. Nf4 Rh1+ 60. Kg3 g5 61. Nd5+ 1-0
+

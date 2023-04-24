@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CizPQiRL"]
+[Date "2020.11.22"]
+[White "Fvity"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "08:02:51"]
+[WhiteElo "1946"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. c5 Bg4 7. Nf3 e5 8. Be2 Bxf3 9. Bxf3 Nxd4 10. O-O Bxc5 11. Re1 e4 12. Be2 O-O 13. Bf1 Qc7 0-1
+

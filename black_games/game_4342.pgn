@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L3rLAen5"]
+[Date "2020.05.17"]
+[White "farimg"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.17"]
+[UTCTime "10:58:47"]
+[WhiteElo "2007"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. e3 e5 3. Ne2 d5 4. cxd5 Nxd5 5. Ng3 c5 6. Be2 Be7 7. O-O O-O 8. d3 Nc6 9. e4 Nb6 10. f4 Nd4 11. f5 Bd7 12. Be3 Bc6 13. Nc3 Rc8 14. Nh5 Bg5 15. Qd2 Bxe3+ 16. Qxe3 Nc2 17. Qg3 g6 18. Rac1 Qd4+ 19. Kh1 Ne3 20. Qg5 f6 21. Qh6 gxh5 22. Rf3 Ng4 23. Qxh5 Nf2+ 24. Rxf2 Qxf2 25. Rf1 Qe3 26. Rf3 Qc1+ 27. Bd1 Rf7 28. Qh6 Rg7 29. Qxf6 Qd2 30. Qxe5 Qxg2# 0-1
+

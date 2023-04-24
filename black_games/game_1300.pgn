@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1dTpprZt"]
+[Date "2021.03.04"]
+[White "bromoment"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.04"]
+[UTCTime "20:50:13"]
+[WhiteElo "2045"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A58"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 e6 8. Bg2 Be7 9. dxe6 fxe6 10. Bxa8 O-O 11. Bg2 Qb6 12. Nf3 Nc6 13. O-O d5 14. Bf4 Nh5 15. Bg5 Bd6 16. Nxd5 exd5 17. Qxd5+ Kh8 18. Qxd6 h6 19. Qxf8+ 1-0
+

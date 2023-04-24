@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KSNsDGnb"]
+[Date "2022.09.10"]
+[White "Mikhail20220501"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.09.10"]
+[UTCTime "17:14:06"]
+[WhiteElo "2059"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f3 e6 5. g4 Bg6 6. h4 h5 7. g5 c5 8. c3 Nc6 9. Be3 cxd4 10. cxd4 Nge7 11. Nc3 Nf5 12. Bf2 Qb6 13. Bb5 a6 14. Bxc6+ bxc6 15. b3 Bb4 16. Rc1 Qa5 17. Ne2 c5 18. dxc5 Bxc5 19. O-O Ne3 20. b4 Nxd1 21. bxa5 Nxc3 22. Nxc3 Bb4 23. Bb6 O-O 24. Na4 Bd3 25. Rfd1 Bb5 26. Nc5 Rac8 27. Kg2 g6 28. a4 Bc6 29. Nxa6 Bxa4 30. Nxb4 Rb8 31. Rd3 Bb5 32. Rdc3 Kg7 33. Rc7 Rfe8 34. Nc6 Rbc8 35. Nd4 Bc4 36. Nxe6+ Kh8 37. Nd4 Rxc7 38. Bxc7 Re7 39. Bd6 Ra7 40. Ra1 Kg7 41. Kg3 f5 42. gxf6+ Kf7 43. Kf4 Bd3 44. e6+ Kxf6 45. e7 Kf7 46. Nc6 Rd7 47. Ne5+ Ke8 48. Nxd7 Kxd7 49. a6 Bxa6 50. Rxa6 Ke8 51. Ra8+ Kd7 0-1
+

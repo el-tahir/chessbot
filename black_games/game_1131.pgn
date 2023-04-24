@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ovZZDcKR"]
+[Date "2021.10.14"]
+[White "robotarobota"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "01:36:53"]
+[WhiteElo "2038"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nf6 5. e5 Nd5 6. Nc3 e6 7. Bd3 c5 8. Nf3 Nc6 9. dxc5 Bxc5 10. O-O h6 11. a3 O-O 12. Qe2 Nd4 13. Nxd4 Bxd4 14. Qe4 f5 15. Qxd4 Bd7 16. Nxd5 exd5 17. Qxd5+ Kh8 18. Rd1 Qe7 19. Bf4 Bc6 20. Qb3 Qh4 21. Bg3 Qg5 22. f4 Qe7 23. Bb5 Be4 24. Bd3 Bc6 25. Re1 Rad8 26. Rad1 h5 27. h3 h4 28. Bh2 Qc5+ 29. Kh1 Bd5 30. Qc2 Qb6 31. Bxf5 Rc8 32. Qb1 Qf2 33. Rxd5 Rc2 34. Be4 Rxb2 35. Qd1 g6 36. Rd8 Kg7 37. Rxf8 Kxf8 38. e6 Rd2 39. Qa1 Ke7 40. Bf3 Ra2 41. Qb1 Qb2 42. Qxb2 Rxb2 43. Bg1 Rb3 44. Bd4 Rxa3 45. Bg7 b5 46. Bh6 b4 47. Bg5+ Ke8 48. e7 b3 49. Bc6+ Kf7 50. e8=Q+ Kg7 51. Re7# 1-0
+

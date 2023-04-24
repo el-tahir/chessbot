@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TfGxkUuG"]
+[Date "2021.02.09"]
+[White "EltahirAmin"]
+[Black "juanposu"]
+[Result "0-1"]
+[UTCDate "2021.02.09"]
+[UTCTime "15:04:32"]
+[WhiteElo "1947"]
+[BlackElo "1944"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 e6 4. Nf3 Ne7 5. Bd3 Ng6 6. e5 c5 7. b3 Nc6 8. h4 Be7 9. Bb2 Nxh4 10. Qe2 Nxg2+ 11. Kf1 Nf4 12. Qe3 Nxd3 13. cxd3 cxd4 14. Nxd4 Nxd4 15. Qxd4 Bd7 16. Qg4 g6 17. Rc1 Rc8 18. Ke2 Bg5 19. f4 Be7 20. Nd1 h5 21. Qg1 Rxc1 22. Bxc1 Qa5 23. a4 Bc5 24. Qe1 Qxe1+ 25. Rxe1 O-O 26. Bb2 b5 27. d4 Bb4 28. Bc3 Bxc3 29. Nxc3 bxa4 30. bxa4 Rc8 31. Kd2 Rc4 32. Kd3 Bxa4 33. Ra1 Bd7 34. Rxa7 Be8 35. Nb5 Bxb5 0-1
+

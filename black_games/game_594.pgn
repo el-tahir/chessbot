@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jGK2AyGk"]
+[Date "2022.05.04"]
+[White "Jumawan88-BC"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.04"]
+[UTCTime "02:01:47"]
+[WhiteElo "2045"]
+[BlackElo "2049"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. cxd5 Nxd5 7. Be2 Bg4 8. O-O e6 9. Nc3 Nxc3 10. bxc3 Bd6 11. c4 Bxf3 12. Bxf3 Nxd4 13. Bxb7 Rb8 14. Qa4+ Ke7 15. Be4 Qc7 16. Be3 Bxh2+ 17. Kh1 Nf5 18. c5 Nxe3 19. fxe3 Be5 20. c6 Bf6 21. Rad1 Qg3 22. Rd7+ Ke8 23. Bf3 Bg5 24. c7 Qh4+ 25. Qxh4 1-0
+

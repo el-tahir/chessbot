@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sRQGnJZi"]
+[Date "2020.11.10"]
+[White "Sayed1412"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.10"]
+[UTCTime "18:52:22"]
+[WhiteElo "1957"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. h3 Bh5 9. Bg5 h6 10. Bh4 Be7 11. Nbd2 O-O 12. Qc2 Rc8 13. b4 Nxb4 14. Qb1 Rxc3 15. Be2 Qd7 16. Bxf6 gxf6 17. a3 Bg6 18. Qd1 Bc2 19. Qc1 Na6 20. Qb2 Rfc8 21. Qa2 Bg6 22. Rab1 Rc2 23. Qb3 R8c7 24. Bb5 Qc8 25. Bxa6 bxa6 26. Qe3 R2c3 27. Qxh6 Bxb1 28. Nxb1 Rc1 29. Rxc1 Rxc1+ 30. Kh2 Rxb1 31. Qh5 Qf8 32. Qg4+ Qg7 33. Qf4 Qg5 34. Nxg5 fxg5 35. Qc7 Bxa3 36. Qd8+ Bf8 37. Qxg5+ Kh8 38. Qf6+ Kg8 39. h4 a5 40. h5 Bg7 41. Qd8+ Kh7 42. Qxa5 Rd1 43. Qxa7 Rxd4 44. Qc5 Rh4+ 45. Kg3 Rxh5 46. Qc2+ Kg8 47. Kg4 Rh6 0-1
+

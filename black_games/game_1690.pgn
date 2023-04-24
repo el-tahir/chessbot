@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ExYETfpN"]
+[Date "2021.02.11"]
+[White "Elaguila614"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.11"]
+[UTCTime "21:06:43"]
+[WhiteElo "1941"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Qb3 Nb6 9. d5 Nb8 10. Bb5+ N8d7 11. Be3 e6 12. Bxb6 axb6 13. Ne5 1-0
+

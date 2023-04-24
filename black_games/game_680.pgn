@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/PEJJ1p8v"]
+[Date "2022.02.23"]
+[White "ZaBapers"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.02.23"]
+[UTCTime "00:38:24"]
+[WhiteElo "1500"]
+[BlackElo "2114"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 Ne7 7. O-O Ng6 8. Be3 Be7 9. Nbd2 O-O 10. c4 Nd7 11. c5 b6 12. b4 a5 13. a3 Qc7 14. Rfc1 Ra7 15. Rab1 Rfa8 16. Nb3 axb4 17. axb4 Ra3 18. Ra1 bxc5 19. bxc5 Qb7 20. Rxa3 Rxa3 21. Nfd2 f6 22. f4 Nb8 23. Ra1 Rxa1+ 24. Nxa1 Na6 25. Nc2 Nc7 26. Nf3 Qb1+ 27. Kf2 Nb5 28. f5 exf5 29. Qxf5 Nc3 30. Qe6+ Kh8 31. Qc8+ Bf8 32. Ng5 Qxc2+ 33. Kf3 fxg5 34. e6 Nh4+ 35. Kg4 Qxg2+ 36. Kh5 g6# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TX2s7731"]
+[Date "2020.10.23"]
+[White "JeanWy"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2020.10.23"]
+[UTCTime "16:41:45"]
+[WhiteElo "1880"]
+[BlackElo "1888"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. c3 d5 3. Nf3 Nf6 4. Bf4 Bg4 5. e3 e6 6. Be2 Bd6 7. Bxd6 Qxd6 8. Nbd2 O-O 9. h3 Bh5 10. g4 Bg6 11. Rg1 c5 12. h4 h5 13. gxh5 Nxh5 14. Ne5 Bh7 15. Bxh5 cxd4 16. cxd4 Nc6 17. Ndf3 Qb4+ 18. Qd2 Qe7 19. Nxc6 bxc6 20. Rc1 Rac8 21. Ng5 c5 22. dxc5 Bf5 23. c6 Rc7 24. b4 g6 25. Be2 Rfc8 26. b5 Qa3 27. h5 a6 28. hxg6 Bxg6 29. Nxe6 Re7 30. Nf4 axb5 31. Nxg6 fxg6 32. Rxg6+ Kf8 33. Bxb5 Rh7 34. Rf6+ Ke7 35. Rf4 Rh1+ 36. Bf1 Rch8 37. c7 Rxf1+ 38. Kxf1 Rh1+ 39. Ke2 Rxc1 40. Qxc1 Qxc1 41. Rd4 Qxc7 42. Rxd5 Qc4+ 43. Rd3 Qxa2+ 44. Kf3 Qc4 45. Rd4 Qf7+ 46. Ke2 Qh5+ 47. Kd3 Qd1+ 48. Ke4 Qg4+ 49. Kd3 Qd1+ 50. Ke4 Qh5 51. Kd3 Qg6+ 52. Re4+ Kf8 53. Kd4 Qb6+ 54. Ke5 Qc5+ 55. Kf4 Qe7 56. Kf3 Qf7+ 57. Rf4 Kg7 58. Rxf7+ Kxf7 59. Ke4 Kf6 60. Kd5 Kf5 61. e4+ Kf6 62. f3 Ke7 63. f4 Ke8 64. f5 Kd8 65. e5 Ke8 66. Kd6 Kd8 67. Ke6 Ke8 68. Kf6 Kf8 69. Kg6 Ke7 70. f6+ Kf8 71. e6 Kg8 72. f7+ Kf8 73. Kf6 1/2-1/2
+

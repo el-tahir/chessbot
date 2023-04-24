@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nurong2N"]
+[Date "2020.12.21"]
+[White "Honzyk"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "10:54:48"]
+[WhiteElo "1904"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C26"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 Bc5 4. Qf3 O-O 5. Nge2 Nc6 6. d3 Nd4 7. Nxd4 Bxd4 8. Ne2 c5 9. O-O b6 10. c3 Bb7 11. cxd4 exd4 12. Qg3 Re8 13. Bg5 h6 14. Bxh6 g6 15. Bg5 Kg7 16. Qh4 Rh8 17. Qg3 Rh5 18. e5 Rxg5 19. Qxg5 Nd5 20. Qxd8 Rxd8 21. Bxd5 Bxd5 22. b3 g5 23. Ng3 Rh8 24. Rae1 Rh4 25. f3 1-0
+

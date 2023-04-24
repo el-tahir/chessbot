@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ypix074Q"]
+[Date "2020.05.13"]
+[White "Picnegre"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.13"]
+[UTCTime "14:19:53"]
+[WhiteElo "1977"]
+[BlackElo "1997"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Nf3 c5 7. c3 Nc6 8. Be3 cxd4 9. cxd4 Bb4+ 10. Nc3 Nge7 11. a3 Bxc3+ 12. bxc3 O-O 13. O-O Rc8 14. Rfc1 Nf5 15. Bg5 Qa5 16. Bd2 Qb6 17. Ng5 h6 18. Nh3 f6 19. g4 Nh4 20. exf6 Rxf6 21. Qg3 Nf3+ 22. Kh1 Nxd2 23. g5 hxg5 24. Nxg5 Qc7 25. Qh4 Rh6 26. Qf4 Qxf4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Uqdf2Ykl"]
+[Date "2022.05.08"]
+[White "Kappy"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.08"]
+[UTCTime "05:27:32"]
+[WhiteElo "2138"]
+[BlackElo "2068"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Bg4 6. e3 Bxd1 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/r2cdv7vR"]
+[Date "2020.11.14"]
+[White "Psyman2"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "23:58:33"]
+[WhiteElo "1844"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Be2 e6 6. Bxh5 c5 7. dxc5 Bxc5 8. g4 Bh7 9. g5 Nc6 10. Be3 d4 11. Bf4 Qb6 12. b3 d3 13. Qxd3 Bxd3 0-1
+

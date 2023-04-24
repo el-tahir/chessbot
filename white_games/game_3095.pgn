@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sKSxbFe0"]
+[Date "2020.11.17"]
+[White "EltahirAmin"]
+[Black "DeadRcar"]
+[Result "1-0"]
+[UTCDate "2020.11.17"]
+[UTCTime "16:08:49"]
+[WhiteElo "1974"]
+[BlackElo "1947"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. Be2 Qf6+ 7. Bf3 Ng4+ 8. Kg1 Ne5 9. Kf2 Qh4+ 10. g3 Qh3 11. Bg2 Qh6 12. Rf1 d6 13. d4 Ng4+ 14. Qxg4 Bxg4 15. Bxh6 Nxh6 16. Nd5 O-O-O 17. Kg1 c6 18. Ne7+ Kd7 19. Nf5 Nxf5 20. exf5 Kc7 21. h3 Be2 22. Rf2 Bc4 23. b3 Bb5 24. c4 Ba6 25. f6 gxf6 26. Rxf6 Rhf8 27. Raf1 Rd7 28. g4 Re7 29. d5 cxd5 30. Bxd5 b6 31. Rxf7 Rfxf7 32. Rxf7 Rxf7 33. Bxf7 Kc6 34. Bd5+ Kc5 35. Kf2 Kb4 36. Be4 Ka3 37. Bxh7 Kxa2 38. g5 Kxb3 39. g6 Bxc4 40. g7 a5 41. g8=Q Bxg8 42. Bxg8+ Kb2 43. h4 a4 44. h5 b5 45. h6 b4 46. h7 b3 47. h8=Q+ Kc2 1-0
+

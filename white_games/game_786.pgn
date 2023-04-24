@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T6ye3r5N"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "amiralimoumivand"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:25:57"]
+[WhiteElo "2050"]
+[BlackElo "2010"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Be3 Nxd4 7. Bxd4 Nf6 8. g4 d6 9. g5 e5 10. gxf6 exd4 11. fxg7 Rg8 12. Qxd4 Be6 13. Bb5+ Bd7 14. Bxd7+ Qxd7 15. Nd5 O-O-O 16. Nf6 Qb5 17. Nxg8 Rxg8 18. O-O-O Qg5+ 19. Kb1 Qh6 20. Rd3 Rxg7 21. Rc3+ Kd7 22. Qxa7 f5 23. Qxb7+ Ke6 24. Qc8+ Ke5 25. exf5 gxf5 26. Re1+ Kf4 27. Qc4+ Kg5 28. Rg3+ Kf6 29. Re6+ 1-0
+

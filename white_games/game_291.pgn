@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xA3wS2JY"]
+[Date "2022.07.30"]
+[White "EltahirAmin"]
+[Black "id_for_studies"]
+[Result "0-1"]
+[UTCDate "2022.07.30"]
+[UTCTime "14:53:57"]
+[WhiteElo "2019"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 d4 4. Ne2 c5 5. d3 Nc6 6. Bg5 Nf6 7. Qd2 e5 8. O-O-O b5 9. c3 h6 10. Bh4 a5 11. Bg3 Be6 12. Nxe5 Nxe5 13. Bxe5 Bxa2 14. cxd4 cxd4 15. Bxd4 Rc8+ 16. Bc3 b4 17. b3 Bxb3 18. Kb2 bxc3+ 19. Nxc3 a4 20. Rc1 Qe7 21. Be2 Qa3+ 22. Kb1 0-1
+

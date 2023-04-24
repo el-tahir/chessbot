@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E8MziRC4"]
+[Date "2020.11.22"]
+[White "sedatk42"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "07:23:56"]
+[WhiteElo "1926"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Be2 c5 6. Be3 cxd4 7. Qxd4 Nc6 8. Qxg4 1-0
+

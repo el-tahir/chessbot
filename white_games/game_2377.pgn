@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M9vX1uRv"]
+[Date "2020.12.21"]
+[White "EltahirAmin"]
+[Black "alpatebul"]
+[Result "0-1"]
+[UTCDate "2020.12.21"]
+[UTCTime "07:26:33"]
+[WhiteElo "1986"]
+[BlackElo "1970"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 e4 3. c4 f5 4. Nc3 c6 5. f3 d5 6. cxd5 cxd5 7. Nh3 Nc6 8. Nf4 Nf6 9. Qb3 exf3 10. Nfxd5 Nxd5 11. Nxd5 fxg2 12. Bxg2 Qh4+ 13. Ke2 Bd6 14. Rf1 f4 15. exf4 Nxd4+ 16. Kd3 Nxb3 17. axb3 Bf5+ 18. Kc4 Rc8+ 19. Kb5 a6+ 20. Ka4 Bd7+ 21. Ka5 Qd8+ 22. Nb6 Bc5 0-1
+

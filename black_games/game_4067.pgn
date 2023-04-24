@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Cx3GI9VD"]
+[Date "2020.10.24"]
+[White "Loriscontrario"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "09:30:23"]
+[WhiteElo "1933"]
+[BlackElo "1947"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. d3 c6 2. g3 d5 3. Bg2 Nf6 4. Nd2 Bg4 5. h3 Bh5 6. g4 Bg6 7. e4 e5 8. Ne2 Bc5 9. O-O Nbd7 10. Kh2 h5 11. g5 Nh7 12. h4 Nxg5 13. hxg5 Qxg5 14. Nf3 Qe7 15. exd5 cxd5 16. Bg5 f6 17. Bh4 O-O-O 18. Nc3 Nb6 19. d4 Bd6 20. dxe5 Bxe5+ 21. Kg1 Bc7 22. Re1 Be4 23. Nd4 g5 24. Nxe4 dxe4 25. Rxe4 Rxd4 26. Qxd4 Qh7 27. Bg3 Rd8 28. Qe3 Nd5 29. Qe2 Bxg3 30. fxg3 h4 31. Bh3+ Kb8 32. g4 Nf4 33. Rxf4 gxf4 34. Qf2 Qe4 35. Rf1 Rd4 36. c3 Ra4 37. b3 Ra6 38. Qxf4+ Qxf4 39. Rxf4 Rxa2 40. Rxf6 Ra3 41. g5 Rxb3 42. g6 Rxc3 43. g7 Rg3+ 44. Kh2 Rxg7 45. Rh6 a6 46. Rxh4 Rc7 47. Rh8+ Ka7 48. Rh6 a5 0-1
+

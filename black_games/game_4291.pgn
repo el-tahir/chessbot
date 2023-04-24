@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dFqoF4Wn"]
+[Date "2020.08.06"]
+[White "dopamineaddict"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.08.06"]
+[UTCTime "09:49:23"]
+[WhiteElo "2000"]
+[BlackElo "2000"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. Bb3 dxe4 4. Qh5 e6 5. Nc3 Nf6 6. Qh4 Be7 7. Nxe4 Nd5 8. Qg3 Kf8 9. d4 Bd6 10. Qxd6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1x0fsiLY"]
+[Date "2020.11.22"]
+[White "tridibesh"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "08:45:23"]
+[WhiteElo "1968"]
+[BlackElo "1944"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. h3 Bh5 10. c3 Nd7 11. Be3 Nb6 12. Be2 Nd5 13. Bd2 Re8 14. Qb3 Rxe2 15. Nh4 Rxd2 16. Nf5 Bf8 17. c4 Nf4 18. Qe3 Ne2+ 19. Kh1 Rxb2 20. Rfe1 Qd7 21. g4 Re8 22. Qa3 Bxa3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rDMVNBz3"]
+[Date "2021.11.16"]
+[White "EltahirAmin"]
+[Black "Bergsteiger1232"]
+[Result "1-0"]
+[UTCDate "2021.11.16"]
+[UTCTime "18:11:32"]
+[WhiteElo "2044"]
+[BlackElo "2054"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B46"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Bb4 7. a3 Bxc3+ 8. bxc3 Nge7 9. Bd3 O-O 10. O-O b5 11. f4 Bb7 12. f5 e5 13. f6 Ng6 14. fxg7 Kxg7 15. Nf5+ Kh8 16. Qh5 Rg8 17. Nh6 Rg7 18. Bg5 Qe8 19. Bf6 d6 20. Rf2 Qe6 21. Raf1 Rf8 22. Be2 Nce7 23. Bg4 Qc4 24. Bxg7+ Kxg7 25. Nf5+ Nxf5 26. exf5 Nf4 27. Qg5+ Kh8 28. Qh6 Rg8 29. Bf3 Bxf3 30. Rxf3 Rxg2+ 31. Kh1 Qc6 32. Qf8+ Rg8 33. Qxf7 d5 34. f6 Ng6 35. Rg1 a5 36. h4 d4 37. Rg3 Qxf3+ 38. Rxf3 Nxh4 39. Rh3 Ng6 40. Rxh7# 1-0
+

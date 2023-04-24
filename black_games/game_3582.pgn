@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZXL3TySY"]
+[Date "2020.11.07"]
+[White "momo2018"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "13:13:03"]
+[WhiteElo "1963"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. e3 d5 3. c4 Nf6 4. c5 Bg4 5. Nf3 e6 6. Be2 Be7 7. Nc3 O-O 8. Bd2 b6 9. b4 bxc5 10. bxc5 a5 11. O-O Na6 12. a4 Nb4 13. Ne5 Bf5 14. Na2 Nxa2 15. Rxa2 Ne4 16. Nxc6 Qd7 17. Ne5 Qc7 18. Bf3 f6 19. Bxe4 Bxe4 20. Nf3 Rab8 21. Qe1 Rb1 22. Qe2 Rb3 23. Qe1 Rb1 24. Qe2 Rb3 25. Rd1 Bd3 26. Qe1 e5 27. dxe5 fxe5 28. Bxa5 Qxc5 29. Bd2 e4 30. Nd4 Rbb8 31. Ne6 Qd6 32. Nxf8 Rxf8 33. a5 Ra8 34. Rda1 Bd8 35. a6 d4 36. exd4 Qxd4 37. Be3 Qf6 38. g3 Bc4 39. Ra4 Bb5 40. Rxe4 Bxa6 41. Re8+ Kf7 42. Bc5 Ra7 43. Bxa7 Bc7 44. Re3 Bb7 45. Rd1 Qc6 46. Re7+ Kg6 47. Qe6+ Kh5 48. Qxc6 Bxc6 49. Rxc7 1-0
+

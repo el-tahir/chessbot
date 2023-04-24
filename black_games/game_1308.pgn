@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nnDHbP1A"]
+[Date "2021.03.03"]
+[White "MUYISEN"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.03"]
+[UTCTime "22:12:10"]
+[WhiteElo "2010"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. O-O O-O 8. d4 Bg4 9. h3 Bh5 10. Be3 Bc7 11. c3 Qd6 12. g4 Bg6 13. Be2 Be4 14. Kg2 Qh2# 0-1
+

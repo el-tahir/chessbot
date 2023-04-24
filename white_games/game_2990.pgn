@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/scZ0IiQk"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "witokom"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "07:36:13"]
+[WhiteElo "1926"]
+[BlackElo "1906"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nf6 5. Nxc6 dxc6 6. d3 O-O 7. Be2 Qd4 8. O-O Be6 9. Be3 Qb4 10. d4 Bb6 11. Rb1 Rad8 12. a3 Qd6 13. Nd5 cxd5 14. e5 Qe7 15. exf6 Qxf6 16. c3 c6 17. f4 Bc7 18. Bd3 h6 19. f5 Bc8 20. Qg4 g6 21. Bxh6 Rfe8 22. fxg6 Qxf1+ 23. Rxf1 Bxg4 24. gxf7+ Kh8 25. fxe8=Q+ Rxe8 26. Rf7 Bb6 27. Rh7+ Kg8 28. Rg7+ Kh8 29. Rxg4 c5 30. Bg7+ Kg8 31. Be5+ Kf7 32. Rg7+ Kf8 33. Rxb7 cxd4 34. cxd4 Rxe5 35. Rxb6 Re3 36. Rb8+ Ke7 37. Bf1 Re1 38. Rb7+ Kd6 39. Kf2 Rb1 40. Rxa7 Rxb2+ 41. Kg3 Rb3+ 42. Kf4 Ke6 43. Ra6+ 1-0
+

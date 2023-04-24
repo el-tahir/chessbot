@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y8OtyX3T"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "Tito69"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "21:28:19"]
+[WhiteElo "1968"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 g6 4. Ng3 Bg7 5. Nf3 Nf6 6. Bc4 O-O 7. d4 c5 8. Bg5 cxd4 9. Nxd4 Qa5+ 10. Bd2 Qb6 11. Nb3 Rd8 12. O-O Bh6 13. Qe2 Bg4 14. Qe1 Bxd2 15. Nxd2 Qxb2 16. Bb3 Qc3 17. Nde4 Nc6 18. Nxc3 1-0
+

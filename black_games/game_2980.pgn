@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u5NGNNhy"]
+[Date "2020.11.22"]
+[White "Joseph_Koba"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "08:21:52"]
+[WhiteElo "1940"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Nc3 Nf6 5. d4 Nc6 6. Be3 Bg4 7. Bb5 e6 8. Bxc6+ bxc6 9. h3 Bh5 10. Qd2 Rb8 11. b3 Bb4 12. Qd3 Qa5 13. Bd2 Ne4 14. Nxe4 dxe4 15. Bxb4 Qxb4+ 16. Qd2 Qd6 17. Ne5 Rd8 18. g4 Bg6 19. Nxg6 hxg6 20. O-O-O Ke7 21. Qc3 Rc8 22. d5 cxd5 23. Qxg7 Qc5 24. Rd2 a5 25. g5 a4 26. Qf6+ Kf8 27. Qxh8+ Ke7 28. Qf6+ Kd6 29. Rhd1 axb3 30. Rxd5+ 1-0
+

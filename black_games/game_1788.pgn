@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vFMF73Eq"]
+[Date "2021.01.29"]
+[White "MiguelRaz"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.29"]
+[UTCTime "21:14:12"]
+[WhiteElo "2004"]
+[BlackElo "2038"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bg5 Be7 6. h4 h6 7. Be3 Nd7 8. c4 Rc8 9. c5 b6 10. b4 Rb8 11. Nc3 bxc5 12. bxc5 Qa5 13. Qd2 Bd8 14. Bd3 Ne7 15. O-O O-O 16. Bxf5 Nxf5 17. Ne2 Qxd2 18. Bxd2 Rb2 19. g3 Bc7 20. Rfb1 Rfb8 21. Rxb2 Rxb2 22. Nc3 Nxd4 23. Nxd4 Rxd2 24. Nxc6 Nxe5 25. Rb1 Nxc6 26. Rb7 Be5 27. Nb5 Rxa2 28. Nd6 f6 29. Rc7 Nd4 30. Rc8+ Kh7 31. h5 Bxd6 32. cxd6 Nf3+ 33. Kg2 Ne5 34. Kf1 Ra6 35. Rd8 Rc6 36. f4 Nf7 37. Ra8 Nxd6 38. Rxa7 Nf5 39. Kf2 Rc2+ 40. Kf3 Rc3+ 41. Ke2 Nxg3+ 42. Kd2 Rf3 43. Ra6 e5 44. fxe5 fxe5 45. Re6 e4 46. Re5 d4 47. Ke1 e3 48. Rd5 d3 49. Rxd3 Rf1# 0-1
+

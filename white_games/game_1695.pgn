@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TIHkLTPT"]
+[Date "2021.02.11"]
+[White "EltahirAmin"]
+[Black "lobyno"]
+[Result "1-0"]
+[UTCDate "2021.02.11"]
+[UTCTime "02:41:04"]
+[WhiteElo "1988"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Bf5 4. g4 Bg6 5. h4 h6 6. Nh3 e5 7. Bg2 Nc6 8. Nc3 Qd4 9. Ng1 O-O-O 10. Nge2 Qd7 11. Nxe4 Qxg4 12. Bh3 Qxh3 13. Rxh3 Bxe4 14. d3 Bf5 15. Rh1 Nf6 16. Be3 g6 17. Qd2 Bg7 18. O-O-O e4 19. d4 Nd5 20. c4 Ndb4 21. Kb1 Nd3 22. d5 Ncb4 23. Bd4 Bxd4 24. Nxd4 1-0
+

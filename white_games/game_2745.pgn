@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1sTO86y2"]
+[Date "2020.12.07"]
+[White "EltahirAmin"]
+[Black "Sumkin"]
+[Result "0-1"]
+[UTCDate "2020.12.07"]
+[UTCTime "15:13:17"]
+[WhiteElo "1843"]
+[BlackElo "1809"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. Bd3 Nc6 5. Be3 a6 6. O-O h6 7. Nbd2 e5 8. d5 Nce7 9. c4 f5 10. Nb3 f4 11. Bd2 g5 12. c5 Ng6 13. c6 b6 14. Ne1 h5 15. f3 g4 16. fxg4 hxg4 17. Be2 Qh4 18. h3 gxh3 19. gxh3 Qxh3 20. Ng2 Nh4 21. Nxh4 Rxh4 22. Kf2 Qg3# 0-1
+

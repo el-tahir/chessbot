@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/kFxgOWPw"]
+[Date "2020.11.20"]
+[White "EltahirAmin"]
+[Black "Asim59"]
+[Result "1-0"]
+[UTCDate "2020.11.20"]
+[UTCTime "18:14:40"]
+[WhiteElo "1886"]
+[BlackElo "990"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Qe7 3. d4 Qb4+ 4. c3 Qb6 5. Bd3 e5 6. Nxe5 d6 7. Nf3 d5 8. exd5 c6 9. dxc6 Qxc6 10. O-O b5 11. Re1+ Be6 12. a4 bxa4 13. Na3 Kd7 14. Bb5 Qxb5 15. Nxb5 a6 16. d5 Bxd5 17. Qxd5+ Bd6 18. Qxd6+ Kc8 19. Qc7# 1-0
+

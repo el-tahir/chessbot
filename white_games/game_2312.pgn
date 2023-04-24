@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p3w9imTk"]
+[Date "2020.12.23"]
+[White "EltahirAmin"]
+[Black "IronFists"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "18:49:30"]
+[WhiteElo "1997"]
+[BlackElo "1969"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 Nf6 4. e5 Ng8 5. f4 Bf5 6. Nf3 e6 7. h3 Nd7 8. g4 Bg6 9. h4 h5 10. Bd3 Bxd3 11. Qxd3 Ne7 12. g5 Ng6 13. Be3 Be7 14. O-O-O Qa5 15. f5 exf5 16. Qxf5 c5 17. e6 fxe6 18. Qxg6+ Kd8 19. Qxe6 Nb6 20. Ne5 Re8 21. Nxd5 Qxa2 22. Nxb6 Qxe6 23. Nxa8 Kc8 24. Bf4 cxd4 25. Rxd4 Bd6 26. Re1 Qf5 27. Rxd6 Qxf4+ 28. Kb1 Rxe5 29. Red1 Re8 30. Rd7 Qxh4 31. Nc7 Re1 32. Nb5 Rxd1+ 33. Rxd1 Qxg5 34. c4 a6 35. Nd6+ Kc7 36. Ne8+ Kc8 37. Nd6+ Kc7 38. Ne8+ Kb6 39. b4 Qg6+ 40. Kb2 Qxe8 41. Rd5 Qe2+ 42. Kb3 h4 43. c5+ Kc6 44. Rd6+ Kc7 45. Rg6 Qe3+ 46. Kc2 Qe4+ 0-1
+

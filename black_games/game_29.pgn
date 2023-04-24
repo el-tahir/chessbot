@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oKX07xph"]
+[Date "2023.03.10"]
+[White "Ngonya"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.10"]
+[UTCTime "05:27:36"]
+[WhiteElo "1978"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. fxe5 Nxe5 7. Nf3 Bd6 8. Nxe5 Bxe5 9. Bf4 Qc7 10. Bxe5 Qxe5 11. Qd2 Nf6 12. O-O-O Be6 13. Kb1 a5 14. g3 a4 15. a3 b5 16. Nf4 O-O 17. Bh3 Bxh3 18. Nxh3 Rfb8 19. c3 b4 20. cxb4 cxb4 21. axb4 a3 22. b3 Qe7 23. Ka2 Rxb4 24. Rb1 Nd7 25. Nf4 Nc5 26. Nd5 Qe6 27. Qxb4 Nxd3 28. Qxd4 Nf2 29. Rhf1 Nxe4 30. Rfe1 f5 31. g4 g6 32. gxf5 gxf5 33. Rg1+ Kf7 34. Qg7+ Ke8 35. Nc7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dFJ4McQH"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "Kada1234"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "17:59:01"]
+[WhiteElo "1987"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 a6 6. Nf3 Nc6 7. Bd3 e6 8. Bg5 Be7 9. O-O O-O 10. Qd2 b5 11. a3 Bb7 12. Rad1 Rc8 13. e5 dxe5 14. dxe5 Nd5 15. Bxe7 Ndxe7 16. Qg5 Ng6 17. Bxg6 Qxg5 18. Bxh7+ Kxh7 19. Nxg5+ Kg8 20. Rd7 Nxe5 21. Rxb7 f6 22. Nxe6 Rfe8 23. Nxg7 1-0
+

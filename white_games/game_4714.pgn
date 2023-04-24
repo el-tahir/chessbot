@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cZeELj11"]
+[Date "2020.05.09"]
+[White "EltahirAmin"]
+[Black "Sarcastrophe"]
+[Result "0-1"]
+[UTCDate "2020.05.09"]
+[UTCTime "22:44:58"]
+[WhiteElo "1980"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C01"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c6 5. Bd3 Nf6 6. O-O Bd6 7. Bg5 O-O 8. Nbd2 Bg4 9. c3 Nbd7 10. Qc2 Qc7 11. Rae1 Rfe8 12. h3 Bh5 13. a3 Bg6 14. Bxg6 fxg6 15. b4 a5 16. Qd3 axb4 17. axb4 Ra2 18. Ra1 Rxa1 19. Rxa1 Ne4 20. Be3 Nb6 21. Ng5 Qe7 22. Ngf3 Nxd2 23. Nxd2 Nd7 24. Ra7 Nf6 25. Nb3 Bb8 26. Ra1 Qc7 27. g3 Ne4 28. Kg2 Nxg3 29. fxg3 Qxg3+ 30. Kf1 Rxe3 31. Qd1 Qxh3+ 32. Kf2 Qg3+ 33. Kf1 Rf3+ 34. Ke2 Rf2+ 35. Ke1 Qe3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WxH0x4sQ"]
+[Date "2022.06.02"]
+[White "hyrizal"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.06.02"]
+[UTCTime "18:44:53"]
+[WhiteElo "2046"]
+[BlackElo "2028"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. b4 Nf6 3. e5 Nd5 4. bxc5 e6 5. d4 Nc6 6. c3 Be7 7. h3 O-O 8. Nf3 f6 9. exf6 Bxf6 10. Bd3 e5 11. Bc4 e4 12. Ng1 Ne7 13. Qb3 d6 14. Bxd5+ Nxd5 15. Qxd5+ Kh8 16. Qxd6 Qxd6 17. cxd6 Bf5 18. Ne2 Rfd8 19. Ba3 Rd7 20. c4 a5 21. Nbc3 Rc8 22. c5 b6 23. Nd5 Bd8 24. Rc1 bxc5 25. dxc5 Be6 26. Nef4 Bg8 27. c6 Rf7 28. O-O Rf5 29. Rfd1 a4 30. d7 Rb8 31. c7 1-0
+

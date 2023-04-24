@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/U0ccLYP9"]
+[Date "2021.02.15"]
+[White "nike777"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.15"]
+[UTCTime "12:32:18"]
+[WhiteElo "1896"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. c3 Nc6 5. Nf3 Bg4 6. Nbd2 e6 7. O-O Bd6 8. Re1 h5 9. h3 Qc7 10. hxg4 hxg4 11. Ne5 Bxe5 12. dxe5 Qxe5 13. f4 gxf3 14. Nxf3 Qh5 15. Kf1 Ng4 16. Ke2 O-O-O 17. Kd2 d4 18. Kc2 dxc3 19. bxc3 Nf2 20. Qe2 Nxd3 21. Qxd3 Rxd3 22. Kxd3 Rd8+ 23. Kc2 Qg6+ 24. Kb3 Qxg2 25. Nh4 Qd5+ 26. c4 Qd3+ 27. Ka4 Qxc4+ 28. Ka3 0-1
+

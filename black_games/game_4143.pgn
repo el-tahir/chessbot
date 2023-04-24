@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/938TK680"]
+[Date "2020.10.18"]
+[White "SanAntHoNioEagle"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.18"]
+[UTCTime "14:14:32"]
+[WhiteElo "1899"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bf4 Bg4 7. Qb3 e6 8. cxd5 Nxd4 9. Qa4+ Nc6 10. dxc6 bxc6 11. Qxc6+ Ke7 12. Qc5+ Ke8 13. Qb5+ Ke7 14. Qb7+ Ke8 15. Bb5+ Nd7 16. Bxd7+ 1-0
+

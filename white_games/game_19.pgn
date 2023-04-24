@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/roThN4jg"]
+[Date "2023.03.13"]
+[White "EltahirAmin"]
+[Black "GuillermoFV"]
+[Result "1-0"]
+[UTCDate "2023.03.13"]
+[UTCTime "02:46:19"]
+[WhiteElo "1993"]
+[BlackElo "2044"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Be7 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Nf6 7. Bc4 d6 8. Bg5 h6 9. Bh4 Ng4 10. Qxg7 Rf8 11. Bxe7 Qxe7 12. O-O-O Bd7 13. Kb1 Nxf2 14. Nd5 Qd8 15. Nf6+ Ke7 16. Nxd7 Qxd7 17. e5 Nxh1 18. Qf6+ Ke8 19. exd6 Qc6 20. d7+ Qxd7 21. Rxd7 Kxd7 22. Qd4+ Ke7 23. Qc5+ Kd7 24. Qg1 Ng3 25. hxg3 Rae8 26. Qd4+ Kc8 27. a4 Re1+ 28. Ka2 Rd8 29. Qxa7 Re4 30. Bb5 c6 31. Qa8+ Kc7 32. Qa5+ Kc8 33. Bd3 Red4 34. Bf5+ Kb8 35. g4 R8d5 36. Qe1 Rxa4+ 37. Kb1 Rda5 38. Qe8+ Ka7 39. c3 f6 40. Kc2 Rf4 41. Qd8 Rf2+ 42. Kb3 Rb5+ 43. Kc4 Rfxb2 44. Qxf6 Rxg2 45. Qxh6 Rf2 46. Qc1 Rf4+ 47. Kd3 Rd5+ 48. Ke3 Rc4 49. Qa3+ Kb8 50. Be6 Rxg4 51. Bxg4 Re5+ 52. Kd4 Rd5+ 53. Kc4 Rg5 54. Qf8+ Ka7 55. Qf2+ Kb8 56. Be2 Rf5 57. Qxf5 1-0
+

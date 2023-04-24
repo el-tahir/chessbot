@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dXDF60tp"]
+[Date "2020.05.10"]
+[White "letboy69"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "00:55:17"]
+[WhiteElo "1905"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. Nxc6 bxc6 7. Bg5 Be7 8. Bd3 O-O 9. O-O Rb8 10. b3 Qa5 11. Ne2 Qxg5 12. f4 Qc5+ 13. Kh1 d5 14. e5 Ne4 15. Ng3 Nf2+ 16. Rxf2 Qxf2 17. Qh5 g6 18. Qh6 Re8 19. Nh5 Bf8 20. Nf6+ Kh8 21. Qxh7# 1-0
+

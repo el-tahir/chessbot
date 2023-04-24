@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4h3M837V"]
+[Date "2022.05.10"]
+[White "deltz"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "06:15:49"]
+[WhiteElo "2157"]
+[BlackElo "2147"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Nc6 6. d5 Nb4 7. Bc4 Bg4 8. a3 Na6 9. h3 Bh5 10. g4 Bg6 11. Bg5 Qd7 12. Qe2 O-O-O 13. Bxa6 bxa6 14. Qxa6+ Kb8 15. Nd4 Nxd5 16. Nc6+ Qxc6 17. Qxc6 Nxc3 18. bxc3 Rd6 19. Qe8+ Kb7 20. Rb1+ Rb6 21. Rxb6+ axb6 22. O-O e6 23. Rd1 Bd6 24. Qxh8 Bxc2 25. Rd2 Bg6 26. Rxd6 cxd6 27. Qxg7 d5 28. Bd8 Kc6 29. Qf8 Kb5 30. h4 Be4 31. h5 Kc4 32. Be7 Kxc3 33. Qxf7 d4 34. Qxe6 d3 35. Bb4+ Kc2 36. Kf1 d2 37. Bxd2 Kxd2 38. Qxe4 Kc3 39. Qxh7 Kb3 40. h6 Kxa3 41. Qg7 b5 42. h7 b4 43. h8=Q b3 44. Qb2+ Kb4 45. Qb8+ Kc4 46. Q2xb3+ Kd4 47. Qd6+ Ke4 48. Qe3# 1-0
+

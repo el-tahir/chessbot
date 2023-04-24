@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/88raKRD1"]
+[Date "2023.02.23"]
+[White "siadat"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.02.23"]
+[UTCTime "04:10:11"]
+[WhiteElo "1954"]
+[BlackElo "1950"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. c3 d5 3. e3 Nf6 4. f3 Bf5 5. Bd3 Bxd3 6. Qxd3 Nbd7 7. Ne2 e5 8. dxe5 Nxe5 9. Qc2 Bd6 10. O-O O-O 11. Nd2 Qc7 12. Nd4 Rae8 13. g3 Ng6 14. Kg2 Rxe3 15. Nc4 Re7 16. Nxd6 Qxd6 17. Nf5 Qc5 18. Nxe7+ Qxe7 19. Bg5 Re8 20. Kf2 Qc5+ 21. Kg2 Ne5 22. Bxf6 gxf6 23. Qf5 Nc4 24. Qxf6 Ne3+ 25. Kh3 Nxf1 26. Rxf1 Qe7 27. Qxe7 Rxe7 28. Kg4 Re2 29. Kf4 Rxh2 30. Rb1 Rc2 31. Ke5 Rf2 32. f4 Rg2 33. Kd6 Rxg3 34. Kc7 h5 35. Kxb7 h4 36. Kxc6 h3 37. Kxd5 Rg2 38. Rh1 h2 39. c4 Rxb2 40. c5 Kf8 41. Kd6 Rd2+ 42. Kc7 Ke7 43. Kb7 Rxa2 44. c6 Rb2+ 45. Kxa7 Kd6 46. Rc1 Kc7 47. Ka6 Rg2 48. Rh1 Kxc6 49. Ka5 Rb2 50. Ka4 Kd6 51. Ka3 Rg2 52. Kb3 Ke6 53. Kc3 Kf5 54. Kd3 Kxf4 55. Kd4 f5 56. Kd5 Kg3 57. Ke5 f4 58. Ke4 f3 59. Ke3 f2 60. Ke2 Rg1 0-1
+

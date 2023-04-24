@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3oJztA9R"]
+[Date "2020.11.10"]
+[White "MessyChessie"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "21:38:10"]
+[WhiteElo "1872"]
+[BlackElo "1955"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 Bg4 5. Be2 Bxe2 6. Qxe2 e6 7. Nf3 Bd6 8. O-O O-O 9. cxd5 cxd5 10. a3 Nc6 11. b4 a6 12. Bb2 Rc8 13. Rac1 Re8 14. Qd3 e5 15. dxe5 Nxe5 16. Nxe5 Bxe5 17. f4 Bb8 18. e4 dxe4 19. Qxd8 Rcxd8 20. Rfe1 Rd2 21. Nxe4 Nxe4 22. Rxe4 Kf8 23. Rxe8+ Kxe8 24. Rc8+ Kd7 25. Rxb8 Rxb2 26. Rxb7+ Ke6 27. Rb6+ Kf5 28. Rxa6 Kxf4 29. Ra7 Ke3 30. h3 Rf2 31. Re7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DgXo3tq5"]
+[Date "2020.12.28"]
+[White "EltahirAmin"]
+[Black "Gonzaelchino"]
+[Result "0-1"]
+[UTCDate "2020.12.28"]
+[UTCTime "21:12:03"]
+[WhiteElo "1963"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 g6 7. Bg5 Bg7 8. Qd2 h6 9. Be3 Ng4 10. Bf4 Qa5 11. h3 Nf6 12. Bd3 Bd7 13. O-O Nh5 14. Be3 Nb4 15. Rfd1 Nxd3 16. Qxd3 a6 17. Rac1 O-O 18. Nd5 Bb5 19. Nxe7+ Kh7 20. Qd2 Qxa2 21. Nh4 Rae8 22. Nd5 Rxe4 23. Nf3 Qxd5 0-1
+

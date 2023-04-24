@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1ZSGZnzS"]
+[Date "2020.08.07"]
+[White "cerebros"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.08.07"]
+[UTCTime "11:55:43"]
+[WhiteElo "1985"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nf6 6. Bd3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Nbd2 Nbd7 10. b4 O-O-O 11. Ke2 e6 12. a3 Bd6 13. Bb2 Nb6 14. e5 Bxe5 15. Bxe5 Bxd3+ 16. cxd3 Nfd5 17. Ne4 Nf6 18. Nxf6 gxf6 19. Bxf6 1-0
+

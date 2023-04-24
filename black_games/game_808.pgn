@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UQqRkQQp"]
+[Date "2021.11.18"]
+[White "granLULO"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.18"]
+[UTCTime "18:03:32"]
+[WhiteElo "2067"]
+[BlackElo "2051"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. g3 c6 2. Bg2 d5 3. b3 Nf6 4. Bb2 Bg4 5. Bxf6 exf6 6. Nf3 Bc5 7. O-O O-O 8. d4 Bd6 9. c4 Nd7 10. Nc3 dxc4 11. bxc4 Qe7 12. a3 Rfe8 13. e3 Rad8 14. c5 Bb8 15. Qa4 a6 16. d5 cxd5 17. Qxg4 Qxc5 18. Rfc1 Be5 19. Nxe5 Nxe5 20. Qf5 Qa5 21. Ne2 Qd2 22. Nf4 d4 23. Rd1 Qa5 24. exd4 Nf3+ 25. Bxf3 Qxf5 26. Kg2 g5 27. Nh5 g4 28. Bxg4 Qd5+ 29. f3 Re2+ 30. Kh3 Qc4 0-1
+

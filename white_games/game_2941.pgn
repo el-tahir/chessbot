@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1TJjCwa2"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "asriq"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "11:09:53"]
+[WhiteElo "1929"]
+[BlackElo "1938"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Qe7 7. Bc4 d6 8. O-O dxe5 9. Re1 e4 10. Bg5 Be6 11. d5 h6 12. Bxf6 Qxf6 13. dxe6 fxe6 14. Nxe4 Qxb2 15. Bxe6 Bd6 16. Nxd6+ cxd6 17. Qxd6 Rd8 18. Bd7+ Kf7 19. Qe6+ Kf8 20. Qf5+ Qf6 21. Qc5+ Kg8 22. Be6+ Kh7 23. Bf5 Rde8 24. Bxg6+ Kxg6 25. Qxa7 Rhf8 26. f3 b6 27. Qb7 Kh7 28. Qd5 Rd8 29. Qe4+ Kh8 30. c4 Rd4 31. Qe6 Qd8 32. Rac1 Rd2 33. c5 Qd4+ 34. Kh1 Qf2 35. Qh3 bxc5 36. Rf1 Qe2 37. Rce1 Qa6 38. Ra1 Rxa2 39. Rxa2 Qxf1# 0-1
+

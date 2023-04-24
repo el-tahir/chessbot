@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KDcxK9Rd"]
+[Date "2023.02.21"]
+[White "IVReimer"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.02.21"]
+[UTCTime "04:58:58"]
+[WhiteElo "1939"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 Nf6 7. e5 Nd5 8. c4 Qb6 9. Qxb6 Nxb6 10. b3 Bc5 11. Nc3 d6 12. Ne4 Ke7 13. exd6+ Bxd6 14. Nxd6 Kxd6 15. Bb2 f6 16. Rd1+ Ke7 17. Ba3+ Kf7 18. g3 Bd7 19. Bg2 Bc6 20. Bxc6 bxc6 21. Ke2 Rhd8 22. Rd6 Rxd6 23. Bxd6 Rd8 24. c5 Nd5 25. Kd3 Rd7 26. Kc4 Ne3+ 27. Kd3 Nf5 28. Kc4 Nxd6+ 29. cxd6 Rxd6 30. Kc5 Rd2 31. Kxc6 Rxa2 32. h4 Rb2 33. Ra1 Rxb3 34. Rxa7+ Kg6 35. g4 Rb4 36. f5+ exf5 37. gxf5+ Kxf5 38. Rxg7 Rxh4 39. Kd6 h5 40. Rg2 Rg4 41. Rf2+ Rf4 42. Rh2 h4 43. Rh3 Kg4 44. Rh2 Kg3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pvspKV3D"]
+[Date "2022.05.10"]
+[White "Jakob_F2"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:07:14"]
+[WhiteElo "2087"]
+[BlackElo "2129"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B07"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Bc4 f6 6. Nc3 Ne7 7. Be3 Nbc6 8. O-O-O+ Bd7 9. Nge2 Ng6 10. g3 Bb4 11. Rd2 Ke7 12. Rhd1 Rhd8 13. Nd5+ Ke8 14. Nxb4 Nxb4 15. Bc5 Nc6 16. f4 Bg4 17. Rxd8+ Rxd8 18. Rxd8+ Kxd8 19. f5 Nge7 20. Kd2 Bxe2 21. Kxe2 b6 22. Bg1 Nc8 23. c3 Nd6 24. Bd3 Kd7 25. Ke3 Na5 26. Bc2 Nac4+ 27. Kd3 Nxb2+ 28. Kd2 Ndc4+ 29. Ke2 Na3 30. Bb3 Kc6 31. Be3 Nbc4 32. Kd3 Nxe3 33. Kxe3 Kc5 34. h4 a5 35. g4 b5 36. g5 fxg5 37. hxg5 b4 38. f6 gxf6 39. gxf6 Kd6 40. Kf3 bxc3 41. Ke2 h5 42. Kd3 h4 43. Kxc3 h3 44. f7 Ke7 45. f8=Q+ Kxf8 46. Be6 h2 0-1
+

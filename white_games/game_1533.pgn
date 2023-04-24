@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v8LEKElv"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "tut4art"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "14:21:32"]
+[WhiteElo "1938"]
+[BlackElo "1884"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 d6 5. Nxc6 bxc6 6. d4 Be7 7. Bd3 O-O 8. O-O Bd7 9. f4 d5 10. e5 Ne4 11. Nxe4 dxe4 12. Bxe4 Be6 13. f5 Bd5 14. Qf3 f6 15. Bf4 fxe5 16. dxe5 Bc5+ 17. Kh1 Rxf5 18. Rad1 Rxf4 19. Qxf4 Qe7 20. Bxd5+ cxd5 21. Rxd5 Rf8 22. Qxf8+ Qxf8 23. Rxf8+ Bxf8 24. Rd7 Bc5 25. Rxc7 Bb6 26. Rb7 Kf8 27. Rxb6 axb6 28. Kg1 Ke7 29. Kf2 Ke6 30. Ke3 Kxe5 31. h4 h5 32. a4 Kd5 33. Kf4 Kc4 34. Kg5 Kb4 35. Kxh5 Kxa4 36. Kg6 b5 37. Kxg7 b4 38. h5 b3 39. cxb3+ Kxb3 40. h6 Kxb2 41. h7 1-0
+

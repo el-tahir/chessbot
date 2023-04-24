@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XMYh75ZI"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "Phare"]
+[Result "1-0"]
+[UTCDate "2020.12.13"]
+[UTCTime "10:59:14"]
+[WhiteElo "1913"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nb3 Be6 7. Bd3 Nf6 8. Bg5 Be7 9. h4 O-O 10. Qd2 Kh8 11. O-O-O d5 12. exd5 Nxd5 13. Bxe7 Ndxe7 14. f3 Bxb3 15. axb3 Qa5 16. Kb1 Rac8 17. g4 Nb4 18. h5 Rxc3 19. Qxc3 Ned5 20. Qc4 Rc8 21. Qxc8+ 1-0
+

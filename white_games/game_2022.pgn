@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3P5eUAQq"]
+[Date "2021.01.10"]
+[White "EltahirAmin"]
+[Black "AlonePyke_420"]
+[Result "1-0"]
+[UTCDate "2021.01.10"]
+[UTCTime "10:48:14"]
+[WhiteElo "1908"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 g6 5. Be3 cxd4 6. Nxd4 Bg7 7. Bc4 Nf6 8. O-O Bd7 9. f4 O-O 10. f5 Qb6 11. Bb3 Nxe4 12. Nxe4 Bxd4 13. Bxd4 Nxd4 14. fxg6 Nxb3+ 15. Kh1 fxg6 16. axb3 Bf5 17. Qd5+ Kg7 18. Ng5 Rac8 19. c3 Qc7 20. Rxa7 Rb8 21. Rxf5 Rxf5 22. Qxf5 gxf5 23. Ne6+ Kf6 24. Nxc7 e5 25. Nd5+ Ke6 26. c4 e4 27. Kg1 b5 28. Re7# 1-0
+

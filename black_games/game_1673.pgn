@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EIPn73Qd"]
+[Date "2021.02.15"]
+[White "MessersSchneideDude"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.15"]
+[UTCTime "12:45:40"]
+[WhiteElo "1980"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Nc3 e6 6. Bf3 Bb4 7. Ne2 O-O 8. Bd2 c5 9. dxc5 Bxc5 10. O-O Nc6 11. Ne4 Nxe4 12. Bxe4 Bd7 13. Bc3 Qe7 14. Qd3 f5 15. Bf3 Rad8 16. Qc4 Kh8 17. Rfe1 e5 18. Bd5 e4 19. Nf4 e3 20. Kh1 Rde8 21. Nh5 Be6 22. Bxg7+ Kg8 23. Bxf8 Bxd5 24. Bxe7 Bxc4 25. Bxc5 e2 26. Nf6+ 1-0
+

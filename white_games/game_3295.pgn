@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JHJlG4vN"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "stonedreligion"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "11:36:38"]
+[WhiteElo "1976"]
+[BlackElo "1983"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Qh4+ 6. Ng3 exf4 7. Nf3 Qf6 8. Nh5 Qh6 9. Nxf4 Bd6 10. Nd5 Qe6 11. Bg5 Nf6 12. Qd2 Nxd5 13. O-O-O Ne7 14. e5 Bc7 15. g3 O-O 16. h4 Ng6 17. Bh3 Qa6 18. Kb1 Bxh3 19. Rxh3 Qe6 20. Rdh1 Nxe5 21. Nxe5 Qxe5 22. h5 f6 23. h6 Qxg5 24. hxg7 0-1
+

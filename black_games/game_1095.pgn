@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XZaOINSw"]
+[Date "2021.10.15"]
+[White "Nikita_Abramov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.15"]
+[UTCTime "08:49:31"]
+[WhiteElo "1956"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Qxd5 5. Nc3 Nf6 6. Nf3 Qd8 7. Bc4 Bg4 8. Qb3 e6 9. Qxb7 Nbd7 10. Bb5 Be7 11. Bxd7+ Nxd7 12. Nd4 O-O 13. Nc6 Qe8 14. Nxe7+ Qxe7 15. O-O Rfb8 16. Qe4 Bf5 17. Qf3 Ne5 18. Qf4 Ng6 19. Qg3 Rb4 20. a3 Rg4 21. Qf3 Nh4 22. Qxa8+ Qf8 23. Qxf8+ Kxf8 24. g3 a5 25. f3 Rg6 26. d4 h5 27. Bf4 Bd3 28. Rf2 f6 29. Rd1 Ba6 30. d5 e5 31. d6 Ke8 32. d7+ Kd8 33. Be3 Nf5 34. Bb6+ Ke7 35. d8=Q+ Ke6 36. Qe8+ Ne7 37. Ne4 1-0
+

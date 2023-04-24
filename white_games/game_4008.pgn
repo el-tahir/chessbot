@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2yaWFFt7"]
+[Date "2020.10.26"]
+[White "EltahirAmin"]
+[Black "chilenocharnock1991"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "16:37:04"]
+[WhiteElo "1971"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 e6 8. O-O Nf6 9. f4 O-O 10. a3 a6 11. b4 Qc7 12. Bb3 b5 13. Nce2 Bb7 14. Rc1 Nxd4 15. Nxd4 Nxe4 16. c4 bxc4 17. Bxc4 Qd7 18. Qg4 Rac8 19. Nxe6 fxe6 20. Bxe6+ Qxe6 21. Qxe6+ Kh8 22. Rxc8 Bxc8 23. Qxe4 Bf5 24. Qd5 Rd8 25. Bd4 Bxd4+ 26. Qxd4+ Kg8 27. Rc1 d5 28. Rc7 Be4 29. Qg7# 1-0
+

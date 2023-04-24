@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rxGb5hLO"]
+[Date "2020.12.18"]
+[White "Elia-Ayman"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.18"]
+[UTCTime "10:23:19"]
+[WhiteElo "1979"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 c6 2. Bb2 d5 3. e3 Nf6 4. Nf3 Bg4 5. Be2 e5 6. O-O Bd6 7. Nxe5 Bxe2 8. Qxe2 O-O 9. f4 Nbd7 10. Na3 Qe7 11. d4 Bxa3 12. Nxd7 Bxb2 13. Nxf6+ Qxf6 14. Rab1 Bc3 15. Qd3 Ba5 16. c4 Rae8 17. b4 dxc4 18. Qxc4 Bc7 19. b5 Rxe3 20. bxc6 b6 21. d5 Rfe8 22. Rbd1 Qh4 23. d6 Re2 24. dxc7 Qg4 25. Rf2 Rxf2 26. Kxf2 Qxd1 0-1
+

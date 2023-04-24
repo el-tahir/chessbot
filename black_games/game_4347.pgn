@@ -1,0 +1,19 @@
+[Event "Koltanowski"]
+[Site "https://lichess.org/KsSVCTGI"]
+[Date "2020.05.15"]
+[White "luxtorpeda76"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.15"]
+[UTCTime "23:47:56"]
+[WhiteElo "2172"]
+[BlackElo "2038"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "60+10"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 Nf6 5. Nf3 a6 6. Bxc6+ bxc6 7. Ne5 Qc7 8. O-O e6 9. f4 Be7 10. Nc3 O-O 11. Na4 Rd8 12. d3 a5 13. Ba3 Qa7 14. Nxc6 Qc7 15. Nxd8 Bxd8 16. Bxc5 Bb7 17. Bd4 Rc8 18. Rc1 Bc6 19. Nc3 Be7 20. Ne2 Bd6 21. c4 e5 22. fxe5 Bxe5 23. cxd5 Bxh2+ 24. Kh1 Nxd5 25. Rxc6 Qxc6 26. Kxh2 Qh6+ 27. Kg1 Re8 28. e4 Ne3 29. Bxe3 Qxe3+ 30. Rf2 Re6 31. Kf1 Rh6 32. Ng1 f6 33. Qd2 Qc5 34. Nf3 g5 35. d4 Qb5+ 36. Qe2 Qb8 37. e5 g4 38. Ng1 g3 39. Rf4 Qc7 40. Qc4+ Qxc4+ 41. bxc4 fxe5 42. dxe5 Re6 43. Rf5 Kg7 44. Nf3 Kg6 45. Rg5+ Kh6 46. Rxg3 1-0
+

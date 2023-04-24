@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L1v368dx"]
+[Date "2020.12.21"]
+[White "Temuujin_A"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.21"]
+[UTCTime "11:02:58"]
+[WhiteElo "1912"]
+[BlackElo "1969"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C34"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nc6 4. d4 Nf6 5. Bd3 Be7 6. Bxf4 O-O 7. c3 d5 8. e5 Ne4 9. O-O Bg4 10. Nbd2 f6 11. Nxe4 dxe4 12. Bxe4 fxe5 13. Bxe5 Nxe5 14. Qb3+ Nf7 15. Ne5 Bh5 16. Bd5 Qe8 17. Nxf7 Bxf7 18. Bxf7+ Rxf7 19. Rf3 Bf6 20. Raf1 Kh8 21. Qxb7 Rb8 22. Qxa7 Rxb2 23. g4 h6 24. Qa3 Qe2 25. R3f2 Bxd4 26. Qxb2 Qxb2 27. Kh1 Rxf2 28. cxd4 Rxf1# 0-1
+

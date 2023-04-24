@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BYFk9DAW"]
+[Date "2021.02.23"]
+[White "yugui"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "19:15:36"]
+[WhiteElo "2030"]
+[BlackElo "1985"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bg4 7. Ne5 Bf5 8. e3 e6 9. Qb3 Qb6 10. Qxb6 axb6 11. Bb5 Rc8 12. O-O Be7 13. Rfc1 O-O 14. Na4 Nxe5 15. dxe5 Ne4 16. Nxb6 Rc5 17. Rxc5 Bxc5 18. Na4 Ba7 19. Rc1 h6 20. Rc7 Bb8 21. Rc1 g5 22. Bg3 Nxg3 23. hxg3 Bxe5 24. Nb6 Kg7 25. b3 Bb2 26. Rc7 Bb1 27. a4 Ba2 28. b4 d4 29. Rxb7 dxe3 30. fxe3 Rd8 31. Kf2 Rd2+ 32. Kf3 Bd5+ 33. Nxd5 exd5 34. Be8 d4 35. Bxf7 d3 36. Bc4+ Kf6 37. Rd7 h5 38. Rxd3 Rc2 39. Bb3 g4+ 40. Kf4 Be5+ 41. Ke4 Rxg2 42. a5 Rg1 43. a6 Ra1 44. Bc4 Bxg3 45. b5 Bb8 46. b6 g3 47. Rd2 h4 48. Kf3 h3 49. a7 Bxa7 50. bxa7 g2 51. Rxg2 hxg2 52. Kxg2 Rxa7 53. Kf3 Rg7 54. Bd3 Re7 55. Be4 Ke6 56. Bc6 Kd6 57. Ba8 Re6 58. e4 Rf6+ 0-1
+

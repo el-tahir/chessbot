@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dj0Ics7J"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "mahan_eghtesadi_2010"]
+[Result "1-0"]
+[UTCDate "2021.01.20"]
+[UTCTime "18:08:53"]
+[WhiteElo "1960"]
+[BlackElo "1933"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. d4 d5 4. e5 e6 5. f4 Be7 6. Bd3 Nh6 7. Nf3 Bb4 8. Bd2 Nf5 9. a3 Bxc3 10. Bxc3 Ne7 11. Bb4 O-O 12. Bxh7+ Kxh7 13. Ng5+ Kg6 14. Qg4 Rh8 15. Nxe6+ Kh7 1-0
+

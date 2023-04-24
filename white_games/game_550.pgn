@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZZo1NniK"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "ahmad87mustafa"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "00:09:00"]
+[WhiteElo "2079"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. Ng3 Nc6 6. f4 f6 7. Nf3 Bd6 8. fxe5 fxe5 9. Be2 Nf6 10. O-O O-O 11. Bg5 Bg4 12. Qd2 Qd7 13. Rf2 Nb4 14. a3 Nc6 15. Raf1 b5 16. h3 Bxf3 17. Bxf3 a5 18. Bxf6 Rxf6 19. Bg4 Rxf2 20. Qxf2 Qe7 21. Nf5 Qf6 22. Nxd6 Qxd6 23. Qf7+ Kh8 24. Be6 Nd8 25. Qe8+ 1-0
+

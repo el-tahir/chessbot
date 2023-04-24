@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vn2DfvvF"]
+[Date "2020.05.13"]
+[White "Diamantesco"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "14:02:55"]
+[WhiteElo "2047"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nf6 7. Bc4 e6 8. O-O Be7 9. Re1 O-O 10. Bb3 Nbd7 11. c4 Nb6 12. Bg5 Qc7 13. Qe2 Rfd8 14. Rad1 Rd7 15. Rd2 Rad8 16. Rc1 a5 17. d5 exd5 18. cxd5 Nfxd5 19. Bxe7 Rxe7 20. Qf1 Qb8 21. a3 Red7 22. Nh4 a4 23. Ba2 Nf6 24. Re2 Bd3 25. Qe1 Bxe2 26. Qxe2 Rd2 27. Qf3 Nbd5 28. Ngf5 Qa7 29. Qg3 Ne8 30. Rf1 Ndf6 31. Nxg7 Nxg7 32. Nf5 Ne8 33. Nh6+ Kh8 34. Nxf7+ Kg8 35. Nxd8+ Kf8 36. Qf4+ Ke7 37. Qxd2 Nf5 38. Nf7 Nd4 39. Qe3+ Ne6 1-0
+

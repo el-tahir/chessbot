@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NRWfnpFg"]
+[Date "2022.07.29"]
+[White "enamorao"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.07.29"]
+[UTCTime "18:58:51"]
+[WhiteElo "2036"]
+[BlackElo "2058"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Nf6 4. b3 Bg4 5. Bb2 e6 6. d3 Bb4+ 7. Nd2 O-O 8. Nf3 Qe7 9. O-O Nbd7 10. a3 Bd6 11. Ra2 Rfb8 12. Qa1 b5 13. cxd5 cxd5 14. e4 dxe4 15. Nxe4 Nxe4 16. dxe4 Bxf3 17. Bxf3 f6 18. b4 e5 19. Rd1 a5 20. Bc1 axb4 21. axb4 Rxa2 22. Qxa2+ Kh8 23. Qd5 Rb6 24. Be3 Ra6 25. Qxb5 Rb6 1-0
+

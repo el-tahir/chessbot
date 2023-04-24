@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sXhJhTNx"]
+[Date "2023.03.04"]
+[White "CharlieChess75"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.04"]
+[UTCTime "05:23:33"]
+[WhiteElo "1987"]
+[BlackElo "1996"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d3 Nf6 5. Bd2 Nc6 6. Nf3 e5 7. Bg5 Be7 8. Be2 O-O 9. O-O h6 10. Bh4 Qc7 11. h3 Be6 12. Bg3 Bd6 13. Ne1 Rae8 14. f3 e4 15. Bxd6 Qxd6 16. dxe4 dxe4 17. Qxd6 Rd8 18. Qc5 exf3 19. Bxf3 Nd4 20. Ne4 Ne8 21. c3 Nf5 22. Qxa7 Nc7 23. Qxb7 Nd5 24. Nc5 Rb8 25. Qa7 Nde3 26. Rf2 Nd6 27. Nxe6 fxe6 28. Qxe3 Nc4 29. Qxe6+ Kh8 30. Qxc4 1-0
+

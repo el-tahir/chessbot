@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sziawsKU"]
+[Date "2020.05.11"]
+[White "hebbar7"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.11"]
+[UTCTime "12:50:10"]
+[WhiteElo "1988"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E87"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 g6 3. c4 Bg7 4. Nc3 Nf6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5 9. cxd5 Nbd7 10. g4 b6 11. h4 Nc5 12. Bc2 Ba6 13. Qd2 Rc8 14. h5 Ne8 15. hxg6 fxg6 16. Bh6 Qf6 17. Qg5 Nd7 18. Qh4 Rc4 19. g5 Qf7 20. O-O-O Nc5 21. Kb1 Qf4 22. Bxg7 Qxh4 23. Rxh4 Nxg7 24. Nge2 Rxf3 25. Rdh1 Nh5 26. b3 Rcxc3 27. Nxc3 Rxc3 28. Bd1 Bd3+ 29. Kb2 Nxe4 30. Rxe4 Bxe4 31. Rxh5 gxh5 32. Kxc3 Bxd5 33. Bxh5 Kg7 34. Kd3 h6 35. gxh6+ Kxh6 36. Be8 Kg5 37. Bd7 Kf4 38. Ke2 e4 39. Bh3 e3 40. Bd7 Be4 41. Be6 Bc6 42. Bc4 a5 43. a3 d5 44. Bd3 d4 45. b4 axb4 46. axb4 Be4 47. Bc4 d3+ 48. Bxd3 Bxd3+ 49. Kxd3 Kf3 50. b5 Kf2 51. Kd4 e2 52. Kd5 e1=Q 53. Kc6 Qa5 54. Kb7 Qxb5 55. Ka7 Qc5 56. Kb7 b5 57. Kb8 b4 58. Ka8 b3 59. Kb8 b2 60. Ka8 Qb5 61. Ka7 Ke3 62. Ka8 Kd4 63. Ka7 Kd5 64. Ka8 Kc6 65. Ka7 Qb7# 0-1
+

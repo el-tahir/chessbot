@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nZAD8Z1A"]
+[Date "2021.11.11"]
+[White "Morphy1234"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.11"]
+[UTCTime "13:04:37"]
+[WhiteElo "2041"]
+[BlackElo "2054"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. a3 d5 3. d3 Nf6 4. e5 Ng8 5. f4 Bf5 6. Nf3 e6 7. Be2 Nd7 8. O-O Ne7 9. Kh1 Ng6 10. c3 Be7 11. Be3 f6 12. b4 Qc7 13. d4 fxe5 14. fxe5 O-O 15. Nbd2 Rf7 16. Nb3 Raf8 17. Bd3 Be4 18. Qd2 Nh4 19. Bxe4 dxe4 20. Nxh4 Rxf1+ 21. Rxf1 Rxf1+ 22. Bg1 Bxh4 23. Qe2 Rf8 24. Qxe4 Bd8 25. h3 Nb6 26. Nc5 Nd5 27. Nxe6 Qf7 28. Nxf8 Qxf8 29. c4 Ne7 30. d5 cxd5 31. cxd5 Ng6 32. Bc5 Qf1+ 33. Kh2 Qf4+ 34. Qxf4 Nxf4 35. e6 Nxd5 36. Kg3 Be7 37. Bxe7 Nxe7 38. Kf4 Kf8 39. Ke5 Ke8 40. Kd6 h5 41. g4 hxg4 42. hxg4 Nc6 43. Kc7 Nd8 44. g5 Ke7 45. b5 g6 46. a4 a6 47. bxa6 bxa6 48. Kb6 Kxe6 49. Kxa6 Kf5 50. Kb6 Kxg5 51. a5 Kf6 52. a6 g5 53. a7 Nf7 54. a8=Q Nd6 55. Qf3+ Ke7 56. Qe3+ Kf6 57. Qd4+ Ke6 58. Qe3+ Kf6 59. Qg3 Nc4+ 60. Kb5 Ne5 61. Ka5 Kf5 62. Ka4 g4 63. Kb3 Nf3 64. Kc3 Kg5 65. Kd3 Nh4 66. Ke2 Nf5 67. Qb8 g3 68. Kf3 Kf6 69. Kg2 Kg5 70. Qg8+ Kf6 71. Qf8+ Kg5 72. Kf3 Kg6 73. Kf4 g2 74. Qxf5+ Kh6 75. Qg5+ Kh7 76. Qxg2 Kh8 77. Kf5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hn5QKfar"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "Economist"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "14:51:14"]
+[WhiteElo "1936"]
+[BlackElo "1898"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. Nc3 g6 2. e4 Bg7 3. d4 Nf6 4. Nf3 O-O 5. Bc4 e6 6. h4 c6 7. h5 Nxh5 8. Rxh5 gxh5 9. Bf4 d5 10. Bd3 f5 11. e5 Qe8 12. Qd2 b5 13. O-O-O a5 14. Rh1 b4 15. Ne2 Na6 16. Ng3 a4 17. Nxh5 b3 18. a3 bxc2 19. Nxg7 Kxg7 20. Bh6+ Kh8 21. Bxf8 Qxf8 22. Ng5 h6 23. Qf4 Ra7 24. g4 Rg7 25. Bxa6 Bxa6 26. Nxe6 Rxg4 27. Rxh6+ Kg8 28. Qh2 Rg7 29. Nxf8 1-0
+

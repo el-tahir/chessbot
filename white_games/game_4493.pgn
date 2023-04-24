@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/87SDbU4Y"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "kennyfischer"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "11:46:04"]
+[WhiteElo "1991"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nc6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 e6 7. Bg5 Be7 8. Bd3 O-O 9. O-O a6 10. Rc1 Qb6 11. Qd2 Nxd4 12. Nxd4 Qxd4 13. a3 Qb6 14. Be3 Qd8 15. f4 Ng4 16. e5 Nxe3 17. Qxe3 d5 18. Qh3 g6 19. g4 Bd7 20. f5 Bc6 21. f6 Bc5+ 22. Rf2 Re8 23. Qh6 Bf8 24. Qg5 Qb6 25. h4 Qd4 26. Bxg6 hxg6 27. h5 Kh7 28. hxg6+ fxg6 29. Kf1 Bh6 30. Rh2 Qd3+ 31. Ne2 Qf3+ 32. Ke1 Kg8 33. Qxh6 Re7 34. Qh8+ Kf7 35. Qg7+ Ke8 36. Rh8+ Kd7 37. Qxe7# 1-0
+

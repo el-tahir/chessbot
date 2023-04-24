@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qlux3gWi"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "sage_mode_boruto"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "13:24:05"]
+[WhiteElo "1955"]
+[BlackElo "1979"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-28"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 f5 4. d4 fxe4 5. Nxe4 d5 6. Ng3 e4 7. Ne5 c5 8. Qh5+ g6 9. Nxg6 hxg6 10. Qxh8 Ne7 11. Bh6 Kd7 12. Qxf8 Qa5+ 13. Bd2 Qb6 14. b3 cxd4 15. a4 Nbc6 16. Bb5 a6 17. Bxc6+ bxc6 18. Bg5 Qc5 19. Bxe7 Qxe7 20. Qxe7+ Kxe7 21. O-O-O c5 22. h4 Kf6 23. h5 g5 24. h6 Bf5 25. Nxf5 Kxf5 26. h7 Kg6 27. h8=Q Rxh8 28. Rxh8 Kf5 29. Ra8 e3 30. fxe3 dxe3 31. Re1 d4 32. Rxa6 Kg4 33. Ra5 Kg3 34. Rxc5 Kf2 35. Kd1 Kxg2 36. Rd5 g4 37. Rxd4 g3 38. Rxe3 Kf2 39. Rxg3 Kf1 40. a5 Kf2 41. Rd2+ Kf1 42. Re3 Kg1 43. Re1# 1-0
+

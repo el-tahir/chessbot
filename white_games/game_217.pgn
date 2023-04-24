@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L9d73igj"]
+[Date "2022.10.20"]
+[White "EltahirAmin"]
+[Black "Nage1988"]
+[Result "0-1"]
+[UTCDate "2022.10.20"]
+[UTCTime "23:02:24"]
+[WhiteElo "2018"]
+[BlackElo "2080"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c5 4. Nc3 cxd4 5. Nxd4 dxc4 6. e3 e5 7. Nf3 Qxd1+ 8. Kxd1 e4 9. Ng5 Bg4+ 10. f3 exf3 11. gxf3 Bh5 12. Bxc4 h6 13. h4 hxg5 14. hxg5 Bxf3+ 15. Kc2 Rxh1 16. gxf6 gxf6 17. a4 Nc6 18. a5 Nb4+ 19. Kb3 O-O-O 20. Nb5 Bd1+ 21. Kc3 a6 22. Nd4 Bc5 23. Bd2 f5 24. Bxf7 f4 25. Be6+ Kb8 26. Nf5 fxe3 27. Nxe3 Rd3+ 28. Kc4 Bxe3 29. Bxb4 Rd4+ 30. Kc3 Bf3 31. Rxh1 Bxh1 32. Bc5 Re4 33. Bd5 Bxc5 34. Bxe4 Bxe4 0-1
+

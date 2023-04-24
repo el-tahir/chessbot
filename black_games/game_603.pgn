@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/be9rohl3"]
+[Date "2022.05.03"]
+[White "Danielo1977"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.03"]
+[UTCTime "01:07:18"]
+[WhiteElo "2041"]
+[BlackElo "2054"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 h6 6. Nxf7 Kxf7 7. Nf3 Nbd7 8. Bc4+ e6 9. O-O Bd6 10. Re1 Re8 11. c3 Nb6 12. Bb3 Kg8 13. h3 Qc7 14. Nh4 Nbd5 15. Qf3 Bd7 16. c4 Ne7 17. Bxh6 gxh6 18. Qxf6 Nf5 19. Nxf5 exf5 20. c5+ Be6 21. Bxe6+ Rxe6 22. Qxe6+ Kh7 23. cxd6 Qg7 24. Qxf5+ Kh8 25. Re7 Qg5 1-0
+

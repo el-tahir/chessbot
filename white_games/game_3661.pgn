@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xeTXdafj"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "Tautivajr"]
+[Result "1-0"]
+[UTCDate "2020.11.05"]
+[UTCTime "19:06:48"]
+[WhiteElo "1960"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Ng3 Ndf6 6. Nf3 e6 7. Be2 Bd6 8. O-O Ne7 9. Bg5 Ned5 10. c4 Nc7 11. Qc2 O-O 12. Rad1 Be7 13. Rfe1 a6 14. Bd3 Qd6 15. Bxf6 Bxf6 16. Bxh7+ Kh8 17. Be4 g6 18. Qd2 Kg7 19. h4 Rh8 20. h5 g5 21. Nxg5 Qe7 22. d5 Bxg5 23. Qe2 cxd5 24. cxd5 Ne8 25. Bb1 Nd6 26. Qe5+ Bf6 27. Qf4 e5 28. Qf3 Bd7 29. Ne4 Nxe4 30. Rxe4 Raf8 31. d6 Qe6 32. Bc2 Qg4 33. Rxg4+ Bxg4 34. Qxg4+ Kh6 35. d7 Bg5 36. Qf5 Rhg8 37. Qg4 f5 38. Rd6+ Bf6 39. Qxf5 Rg7 40. Rxf6+ Rxf6 41. Qxf6+ Rg6 42. Qxg6# 1-0
+

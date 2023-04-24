@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bDTrkMhL"]
+[Date "2021.01.20"]
+[White "Azegzahassan"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "11:54:49"]
+[WhiteElo "1951"]
+[BlackElo "1957"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. e3 Nf6 5. Qc2 Nc6 6. a3 Bd7 7. Bd3 Rc8 8. Nf3 e5 9. b4 e4 10. Be2 exf3 11. Bxf3 Be6 12. Bb2 Ne5 13. Ke2 Nc4 14. Bc1 Bd6 15. g3 Ne5 16. Bg2 O-O 17. f4 Bg4+ 18. Kf2 Nc4 19. Rf1 Qb6 20. Kg1 Rfd8 21. Nxd5 Nxd5 22. Bxd5 Nxe3 23. Qb3 Nxf1+ 24. Kxf1 Bh3+ 25. Ke1 Re8+ 26. Kd1 Qg1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Io97bnGA"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "vende77ah"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "15:23:02"]
+[WhiteElo "1970"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 e6 4. d4 Bb4 5. Bd3 Ne7 6. O-O c5 7. a3 Bxc3 8. bxc3 O-O 9. a4 a5 10. Bg5 h6 11. Bh4 Qe8 12. Qe2 Ng6 13. Bg3 Nc6 14. Bd6 Nce7 15. dxc5 bxc5 16. Bxc5 Nf4 17. Qe3 Neg6 18. Bxf8 Qxf8 19. Rab1 Bc6 20. Nd4 Bxa4 21. Rb7 Qe7 22. Rfb1 Qg5 23. g3 Nh3+ 24. Kf1 Qc5 25. e5 Nxe5 26. Rb8+ Rxb8 27. Rxb8+ Qf8 28. Rxf8+ Kxf8 29. Qxe5 1-0
+

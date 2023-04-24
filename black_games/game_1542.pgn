@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1HoON0ni"]
+[Date "2021.02.22"]
+[White "xaweleon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.22"]
+[UTCTime "21:24:16"]
+[WhiteElo "1823"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. Bf4 e6 3. Nf3 Nc6 4. e3 d5 5. dxc5 Bxc5 6. Bb5 Nf6 7. O-O O-O 8. Ne5 Nxe5 9. Bxe5 Qb6 10. Bxf6 Qxb5 11. Bd4 Bxd4 12. Qxd4 Bd7 13. b3 Rac8 14. a4 Qc5 15. Qxc5 Rxc5 16. Ra2 Rfc8 17. Rc1 a6 18. Nd2 Rc3 19. Nf3 b5 20. Nd4 bxa4 21. bxa4 R8c4 22. a5 Kf8 23. g3 Ke7 24. h4 f6 25. Kg2 e5 26. Ne2 Bc6 27. Nxc3 Rxc3 28. Rb1 d4+ 29. Kh2 dxe3 30. fxe3 Rxe3 31. c4 e4 32. Rb6 Bd7 33. Rxa6 Rc3 34. Rb6 Rxc4 35. a6 e3 36. a7 Rc8 37. Rb8 1-0
+

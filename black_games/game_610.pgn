@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rUFAK657"]
+[Date "2022.05.01"]
+[White "a5031"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.01"]
+[UTCTime "20:22:15"]
+[WhiteElo "2051"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 c5 6. Bd3 Bxd3 7. Qxd3 Nc6 8. O-O Nge7 9. h3 Ng6 10. a3 Be7 11. b4 c4 12. Qd1 a6 13. a4 O-O 14. Re1 f6 15. exf6 Rxf6 16. Bg5 Rf5 17. Bxe7 Qxe7 18. Nbd2 e5 19. dxe5 Ngxe5 20. Nxe5 Nxe5 21. Nf1 Qf6 22. Qxd5+ Kh8 23. Qd4 Rd8 24. Qe3 h6 25. Ng3 Rg5 26. h4 Rxg3 27. Qxg3 Nd3 28. Re3 Qxc3 29. Rd1 Qxb4 30. Qg6 Qf8 31. Rd2 Nf4 32. Rxd8 Qxd8 33. Re8+ 1-0
+

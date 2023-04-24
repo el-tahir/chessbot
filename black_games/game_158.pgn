@@ -1,0 +1,19 @@
+[Event "≤2000 Blitz Arena"]
+[Site "https://lichess.org/ekxPPaAS"]
+[Date "2023.02.01"]
+[White "pixepel"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.01"]
+[UTCTime "01:13:03"]
+[WhiteElo "1896"]
+[BlackElo "1928"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. Bxc6 bxc6 6. d3 Nf6 7. Be3 O-O 8. Bxc5 Rb8 9. Ba3 d5 10. e5 Nd7 11. d4 Re8 12. O-O e6 13. Bd6 Rxb2 14. Qc1 Rb6 15. Na4 Rb7 16. Nc5 Nxc5 17. Bxc5 f6 18. exf6 Qxf6 19. c3 Rf7 20. Ne5 Rc7 21. Bd6 Rb7 22. Nxc6 Bd7 23. Be5 Qf7 24. Bxg7 Qxg7 25. Ne5 Bb5 26. Re1 Rf8 27. f3 h5 28. Qg5 Rf5 29. Qxg6 Qxg6 30. Nxg6 Kf7 31. Ne5+ Kf6 32. Re3 a5 33. Rae1 Ba6 34. Nc6 Kf7 35. Nd8+ Ke8 36. Nxb7 Bxb7 37. Rxe6+ Kf7 38. Re7+ Kf6 39. Rxb7 a4 40. Ree7 h4 41. Rf7+ Ke6 42. Rxf5 Kxf5 43. Rh7 Kg5 44. Kf2 a3 45. Ke3 h3 46. Rxh3 Kf5 47. Rh5+ Ke6 48. Re5+ Kd6 49. g4 Kc6 50. g5 Kb5 51. g6 Kc4 52. g7 Kxc3 53. g8=Q Kb2 54. Rxd5 Kxa2 55. Rb5+ Ka1 56. Qb8 a2 57. Rb1+ axb1=Q 58. Qxb1+ Kxb1 59. d5 Kc2 60. d6 Kc3 61. d7 Kc4 62. d8=Q Kc3 63. f4 Kc2 64. f5 Kc1 65. f6 Kc2 66. f7 Kc3 67. f8=Q Kc2 68. Qc5+ Kb3 69. Qb8+ Ka4 70. Qca7# 1-0
+

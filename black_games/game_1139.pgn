@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nrAylW4G"]
+[Date "2021.10.13"]
+[White "Whatever_PD"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.13"]
+[UTCTime "17:02:10"]
+[WhiteElo "2088"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. Bg5 Nf6 3. Bxf6 exf6 4. dxc5 Bxc5 5. Qd6 Bxd6 0-1
+

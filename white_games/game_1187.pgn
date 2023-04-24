@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TJbrwYaJ"]
+[Date "2021.10.11"]
+[White "EltahirAmin"]
+[Black "dolpogwapo123"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "19:14:13"]
+[WhiteElo "2104"]
+[BlackElo "2041"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Bc5 6. Be3 Qb6 7. Na4 Qb4+ 8. c3 Qa5 9. b4 Nxb4 10. cxb4 Bxb4+ 11. Bd2 Bxd2+ 12. Qxd2 Qxa4 13. Be2 Ne7 14. O-O O-O 15. f4 d5 16. e5 b6 17. Rf3 Qd7 18. Rh3 Bb7 19. Qd3 Nf5 20. g4 Nh6 21. Bd1 a5 22. Bc2 f5 23. gxf5 Nxf5 24. Qf3 Nxd4 25. Bxh7+ Kf7 26. Qh5+ Ke7 27. Qg5+ Ke8 28. Bg6+ Qf7 29. Bxf7+ Kxf7 30. Rh7 Rg8 31. Kf2 Nf5 32. Rc1 Rac8 33. Rxc8 Bxc8 34. h4 Bd7 35. h5 Kf8 36. h6 Nxh6 37. Rxh6 gxh6 38. Qxh6+ Ke7 39. Qh7+ Kf8 40. Qxd7 Rg7 41. Qxe6 Re7 42. Qxd5 Kg7 43. e6 Kf6 44. f5 b5 45. Qxb5 a4 46. Kf3 a3 47. Kf4 Rg7 48. Qe5+ Ke7 49. f6+ Kf8 50. fxg7+ Kg8 51. Qb8+ Kxg7 52. e7 Kf7 53. e8=Q+ Kf6 54. Qd6+ Kg7 55. Qeg6+ Kh8 56. Qf8# 1-0
+

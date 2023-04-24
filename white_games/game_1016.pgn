@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yi3MvEuJ"]
+[Date "2021.10.23"]
+[White "EltahirAmin"]
+[Black "Classicking147"]
+[Result "1-0"]
+[UTCDate "2021.10.23"]
+[UTCTime "21:29:54"]
+[WhiteElo "2080"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. Bd3 c5 6. b3 cxd4 7. Nce2 Bb4+ 8. Bd2 Bc5 9. b4 Bb6 10. f4 O-O 11. Nf3 f6 12. h4 fxe5 13. fxe5 Nc6 14. Ng3 Ndxe5 15. Bxh7+ Kxh7 16. Ng5+ Kg6 17. Qh5+ Kf6 18. Rf1+ Ke7 19. Rxf8 Qxf8 20. Nh7 Qg8 21. Bg5+ Kd6 22. O-O-O a6 23. a3 Bd7 24. Bf4 g6 25. Qh6 Qf7 26. Ng5 Qg8 27. Rf1 Rf8 28. Ne2 Rf5 29. Ng3 Rxf4 30. Rxf4 Ne7 31. Nf1 d3 32. Nh2 dxc2 33. Ng4 Nd3+ 34. Kxc2 Nxf4 35. Nf6 Qc8+ 36. Kd2 Nf5 37. Nf7+ Ke7 38. Qxf4 Kxf6 39. Ne5 Qh8 40. Ng4+ Ke7 41. Qg5+ Ke8 42. Qxg6+ Kd8 43. Qf6+ Kc7 44. Qxh8 1-0
+

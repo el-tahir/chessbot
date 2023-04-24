@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GZm702kJ"]
+[Date "2021.10.12"]
+[White "EltahirAmin"]
+[Black "KingKidnaper"]
+[Result "0-1"]
+[UTCDate "2021.10.12"]
+[UTCTime "03:58:08"]
+[WhiteElo "2097"]
+[BlackElo "2101"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Bb4 7. Bc4 Bxc3+ 8. bxc3 O-O 9. exf6 Qxf6 10. O-O c6 11. Ba3 Re8 12. Re1 Rxe1+ 13. Qxe1 h6 14. Qe8+ Kh7 15. Re1 d5 16. Bd3 Bf5 17. Qxa8 Bxd3 18. cxd3 Nf4 19. Bc1 Nxd3 20. Rf1 Qe7 21. Qxa7 h5 22. Re1 Nxe1 23. Qa4 Nd3 24. Qc2 Qe1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S58beCpk"]
+[Date "2021.02.22"]
+[White "aram2002"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.22"]
+[UTCTime "16:45:28"]
+[WhiteElo "1900"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+47"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 d5 3. Nf3 Nf6 4. O-O Bg4 5. d4 e6 6. Ne5 Bf5 7. f3 Nbd7 8. e4 Bg6 9. Nxg6 hxg6 10. e5 Nh5 11. f4 Qb6 12. g4 c5 13. c3 O-O-O 14. gxh5 Rxh5 15. Na3 cxd4 16. cxd4 Be7 17. Be3 Rdh8 18. h3 Qxb2 19. Qc2+ Qxc2 20. Nxc2 Nb6 21. Rfc1 Nc4 22. Ne1 Kd7 23. Bf2 g5 24. Rab1 b6 25. f5 g4 26. hxg4 Rg5 27. Bf3 Rh3 28. Kg2 Rh8 29. Rd1 f6 30. fxe6+ Kxe6 31. Rb5 Rd8 32. Nd3 fxe5 33. dxe5 d4 34. Bh4 Ne3+ 35. Kg3 Nxd1 36. Bxg5 Bxg5 37. Bxd1 Rc8 38. Bb3+ Ke7 39. Kf3 Rc3 40. Ke4 g6 41. Kxd4 Rc8 42. Ke4 Rd8 43. Nf4 Rf8 44. Nxg6+ Ke8 45. Nxf8 Kxf8 46. e6 Be7 47. Rf5+ Ke8 48. Rf7 Kd8 49. Kf5 a5 50. g5 b5 51. g6 a4 52. Bd5 b4 53. g7 b3 54. g8=Q+ Kc7 55. Rxe7+ Kb6 56. Qb8+ Kc5 57. Ke5 bxa2 58. Bxa2 a3 59. Qd6+ Kb5 60. Qd5+ Kb6 61. Qb3+ Ka5 62. Ra7# 1-0
+

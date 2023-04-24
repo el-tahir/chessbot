@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/c4yXutYS"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "alina_95"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "16:57:01"]
+[WhiteElo "2005"]
+[BlackElo "2036"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Nc6 7. Be2 Qf6+ 8. Bf3 Qxd4+ 9. Be3 Qf6 10. Rf1 Nge7 11. Kg1 Ne5 12. Be2 Qg6 13. Bh5 Qc6 14. Bd4 d6 15. Bxe5 dxe5 16. Bxf7+ 1-0
+

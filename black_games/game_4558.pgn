@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/raDyu1Il"]
+[Date "2020.05.11"]
+[White "rafapino"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.11"]
+[UTCTime "14:33:04"]
+[WhiteElo "1860"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. e3 e6 3. Nc3 Bb4 4. Nf3 d5 5. a4 c5 6. b3 O-O 7. Bb2 Nc6 8. d4 cxd4 9. Nxd4 Nxd4 10. Qxd4 Re8 11. Be2 e5 12. Qd1 d4 13. exd4 exd4 14. O-O dxc3 15. Qxd8 Rxd8 16. Ba3 Bxa3 17. Rxa3 Rd2 18. Re1 c2 19. Ra2 Bf5 20. h3 Rxe2 21. Rxe2 c1=Q+ 22. Kh2 Qf4+ 23. g3 Qf3 24. Re3 Qd1 25. Rae2 Be4 26. Re1 Qc2 27. R3e2 Qxb3 28. Re3 Qxc4 29. f3 Bc6 30. g4 Qxa4 31. g5 Qf4+ 32. Kg1 Qxg5+ 33. Kf2 h6 0-1
+

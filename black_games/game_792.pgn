@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7MRXXEx2"]
+[Date "2021.11.19"]
+[White "HermawanDudy-CFLT"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:07:35"]
+[WhiteElo "2040"]
+[BlackElo "2041"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. O-O Nbd7 5. d3 e5 6. Nbd2 Bd6 7. c4 O-O 8. a3 Qe7 9. b4 Re8 10. c5 Bc7 11. Bb2 Nf8 12. Qc2 Ng6 13. Ng5 h6 14. Ngf3 Bg4 15. h3 Bf5 16. Nh4 Nxh4 17. gxh4 e4 18. dxe4 Nxe4 19. Nxe4 Bxe4 20. Bxe4 Qxe4 21. Qxe4 Rxe4 22. Kh1 Rxh4 23. Rg1 Rxh3+ 24. Kg2 Rh2+ 25. Kf3 Re8 26. Rxg7+ Kf8 27. Bf6 Re6 28. Bb2 f6 0-1
+

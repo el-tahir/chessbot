@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hji4ivtL"]
+[Date "2021.03.03"]
+[White "EltahirAmin"]
+[Black "Maxchess1986"]
+[Result "1-0"]
+[UTCDate "2021.03.03"]
+[UTCTime "13:36:00"]
+[WhiteElo "2033"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Nc6 5. f4 Bd6 6. Nf3 Bg4 7. fxe5 Bxe5 8. Nxe5 Nxe5 9. Bf4 Ng6 10. Bg3 c5 11. Qd2 N8e7 12. O-O-O O-O 13. h3 Be6 14. Nf4 Bxa2 15. b3 Qb6 16. Kb2 Bxb3 17. cxb3 a5 18. Ra1 a4 19. Qc2 Ne5 20. Be2 N7c6 21. Rhb1 Nb4 22. Qd1 axb3 23. Qxb3 Nbxd3+ 24. Nxd3 Nxd3+ 25. Bxd3 Qg6 26. Bc2 b5 27. Rxa8 Rxa8 28. Ra1 Rd8 29. e5 Qg5 30. e6 fxe6 31. Qxe6+ Kh8 32. Ra7 d3 33. Bb3 Qd2+ 34. Ka3 Qc1+ 35. Ka2 d2 36. Qf7 c4 37. Qxg7# 1-0
+

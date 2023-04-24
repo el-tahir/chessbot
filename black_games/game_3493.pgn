@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MEpdwF90"]
+[Date "2020.11.08"]
+[White "Sabemphande"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "11:37:28"]
+[WhiteElo "1960"]
+[BlackElo "1977"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Bg4 6. Be2 e6 7. O-O Bd6 8. Ne5 Bxe2 9. Qxe2 Nc6 10. c3 O-O 11. Bg5 h6 12. Bxf6 Qxf6 13. Nd2 Nxe5 14. dxe5 Qxe5 15. Qd3 Qxh2# 0-1
+

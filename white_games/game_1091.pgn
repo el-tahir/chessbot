@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S2UtjLJx"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "Brightsun12221"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "09:11:00"]
+[WhiteElo "2019"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. d4 b6 3. Nf3 Bb7 4. Bd3 g6 5. Be2 Bg7 6. O-O O-O 7. c4 d6 8. Nc3 Nbd7 9. a4 e5 10. d5 a5 11. h4 Nc5 12. Ng5 Bc8 13. h5 h6 14. Nh3 Bxh3 15. gxh3 Qd7 16. Kh2 Qf5 17. hxg6 fxg6 18. Bg4 Nxg4+ 19. Qxg4 Qd3 20. Rd1 Qc2 21. Rd2 Rxf2+ 22. Rxf2 Qxf2+ 23. Qg2 Qe1 24. Qxg6 Rf8 25. Bd2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HlBj4LHI"]
+[Date "2021.10.14"]
+[White "kabuyeshack"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.14"]
+[UTCTime "18:33:06"]
+[WhiteElo "1976"]
+[BlackElo "2020"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. g5 e6 7. c4 Bb4+ 8. Bd2 Bxd2+ 9. Nxd2 Ne7 10. Ngf3 Nf5 11. Bd3 Qb6 12. Nb3 Qb4+ 13. Qd2 Qe7 14. c5 Na6 15. a4 b6 16. Rc1 O-O 17. Kf1 Rab8 18. a5 Nc7 19. axb6 axb6 20. cxb6 Rxb6 21. Nc5 Rfb8 22. Rc2 Rb4 23. Qc3 Nb5 24. Bxb5 R4xb5 25. Kg2 f6 26. gxf6 gxf6 27. exf6 Qxf6 28. Ng5 Nd6 29. Ngxe6 Ne4 30. Qf3 Qxf3+ 31. Kxf3 Nxc5 32. Rxc5 Be4+ 33. Ke3 Rxc5 34. Rg1+ Kf7 35. Ng5+ Kf6 36. dxc5 Rb3+ 37. Kd4 Bf5 38. f4 Rd3# 0-1
+

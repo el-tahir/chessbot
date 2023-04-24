@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GtlH3DOh"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "SqueezyAndEasy"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "12:36:44"]
+[WhiteElo "1972"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nc6 5. Be2 Nf6 6. Nf3 Bf5 7. O-O e6 8. Bg5 Be7 9. Bd3 Bg4 10. Re1 O-O 11. h3 Bh5 12. g4 Bg6 13. Bxg6 hxg6 14. Ne5 Qc7 15. f4 Ne4 16. Bxe7 Qxe7 17. Nxe4 dxe4 18. Rxe4 Qe8 19. c3 f6 20. Nxc6 Qxc6 21. Qe2 Rae8 22. Re1 Qd5 23. a3 f5 24. Re5 Qb3 25. Rxe6 Rc8 26. Rxg6 fxg4 27. hxg4 Rxf4 28. Qe5 Rf3 29. Qxg7# 1-0
+

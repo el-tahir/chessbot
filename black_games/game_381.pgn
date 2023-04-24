@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0Ex330TO"]
+[Date "2022.07.24"]
+[White "brucete"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2022.07.24"]
+[UTCTime "16:59:15"]
+[WhiteElo "2009"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. h3 Nc6 6. Bd3 e6 7. O-O Bd6 8. a3 O-O 9. Bg5 Be7 10. Nbd2 b6 11. c4 Bb7 12. b4 a6 13. c5 b5 14. Re1 Qd7 15. Ne5 Nxe5 16. dxe5 Ne8 17. Bxe7 Qxe7 18. Nf3 f6 19. exf6 Nxf6 20. Ne5 Nd7 21. Qh5 g6 22. Bxg6 hxg6 23. Qxg6+ Qg7 24. Qxe6+ Rf7 25. Nxd7 Bc8 26. c6 Ra7 27. Qe8+ Kh7 28. Qxc8 d4 29. Qd8 Qg6 30. Qh4+ Kg7 31. Qxd4+ Kh7 32. Re4 Rg7 33. Rh4+ Kg8 34. Rg4 Qf7 35. Rxg7+ Qxg7 36. Qxg7+ Kxg7 37. Rc1 Rc7 38. Nb8 Kf6 39. Nxa6 Rc8 40. c7 Ke7 41. Rc5 Kd6 42. Rxb5 Kc6 43. Rc5+ Kb6 44. b5 Kb7 45. a4 Kb6 46. Rc6+ Ka5 47. Nc5 Kb4 48. Ne6 Ka5 49. Ra6+ Kb4 50. Rb6 Ka5 51. Rb8 Rxc7 52. Nxc7 Kb4 53. b6 Ka5 54. b7 Kb6 55. Nd5+ Ka7 56. Re8 Kxb7 57. Re6 Ka7 58. f4 Kb7 59. f5 Ka7 60. g4 Kb8 61. g5 Kc8 62. g6 Kd8 63. g7 Kd7 64. g8=Q 1/2-1/2
+

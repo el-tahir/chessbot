@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JOhMKWrK"]
+[Date "2020.11.02"]
+[White "pasifranti"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "12:14:38"]
+[WhiteElo "1971"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 c5 6. d4 Nc6 7. Be3 cxd4 8. Nxd4 Nxd4 9. cxd4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Ne7 12. Bd3 O-O 13. Nc3 Rc8 14. h3 Qb6 15. g4 Bxd3 16. Qxd3 Qxb2 17. Rc1 Qxc1+ 0-1
+

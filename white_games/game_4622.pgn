@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BOJ6ZYUP"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "Bokhan2177"]
+[Result "1/2-1/2"]
+[UTCDate "2020.05.10"]
+[UTCTime "17:30:48"]
+[WhiteElo "1949"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. Nf3 Nf6 6. Bc4 O-O 7. Qe2 Nbd7 8. Be3 a6 9. Rd1 b5 10. Bd3 Bb7 11. h4 Bxe4 12. g4 Bxd3 13. Qxd3 Nd5 14. g5 Nxe3 15. Qxe3 Bd6 16. h5 Re8 17. g6 fxg6 18. hxg6 h6 19. Rxh6 gxh6 20. Qxh6 Qe7 21. Ng5 Qg7 22. Qh5 Bf4 23. Nf7 e5 24. Rd3 exd4+ 25. Kd1 Ne5 26. Rh3 Nxf7 27. gxf7+ Kf8 28. fxe8=Q+ Rxe8 29. Qf5+ Qf7 30. Rh8+ Ke7 31. Qe4+ Kd8 32. Qxd4+ Kc8 33. Rxe8+ Qxe8 34. Qxf4 Qd7+ 35. Qd2 Qh3 36. f4 Qf1+ 37. Qe1 Qf3+ 38. Qe2 Qh1+ 39. Kd2 Qd5+ 40. Kc3 Qc5+ 41. Kd2 Qd5+ 42. Qd3 Qg2+ 43. Kc3 Qc6+ 44. Kd2 Qg2+ 45. Qe2 Qd5+ 1/2-1/2
+

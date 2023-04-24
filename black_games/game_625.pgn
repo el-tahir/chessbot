@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eS55Dmdu"]
+[Date "2022.04.30"]
+[White "Jazoli64"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.30"]
+[UTCTime "04:43:47"]
+[WhiteElo "2069"]
+[BlackElo "2088"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Be2 c5 6. c3 Nc6 7. Be3 cxd4 8. cxd4 Nge7 9. O-O Nf5 10. h3 Bxf3 11. Bxf3 Be7 12. Bg4 Nxe3 13. fxe3 Qb6 14. Qd2 Rc8 15. a3 Na5 16. Bd1 Bg5 17. Rf3 Nc4 18. Qc3 Qxb2 19. Qxb2 Nxb2 20. Nd2 Nxd1 21. Rxd1 Rc3 22. Nf1 Rxa3 23. Rc1 Kd7 24. Rc5 Rf8 25. g3 Be7 26. Rb5 Kc7 27. h4 a6 28. Rb2 a5 29. Rff2 a4 30. Rb1 Rb3 31. Rxb3 axb3 32. Rb2 Ra8 33. Rxb3 Ra1 34. Kg2 Ra2+ 35. Kf3 b5 36. Rxb5 f6 37. exf6 Bxf6 38. Rb3 e5 39. dxe5 Bxe5 40. Rd3 Ra4 41. Rxd5 Bf6 42. Nd2 Kc6 43. Rf5 Rb4 44. Ne4 Rb8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y53NuohD"]
+[Date "2023.03.03"]
+[White "EltahirAmin"]
+[Black "Diucaz"]
+[Result "0-1"]
+[UTCDate "2023.03.03"]
+[UTCTime "22:30:55"]
+[WhiteElo "2013"]
+[BlackElo "2008"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. d4 e6 4. Bd3 Bb4 5. Nf3 Nf6 6. Qe2 h6 7. Bd2 c5 8. a3 Bxc3 9. Bxc3 cxd4 10. Nxd4 Nc6 11. Nb5 O-O 12. Nd6 Qc7 13. e5 Nd5 14. Qe4 g6 15. Qh4 Kg7 16. Bd2 Rh8 17. c4 Nxe5 18. Nxb7 Nxd3+ 19. Ke2 N5f4+ 20. Bxf4 Nxf4+ 21. Kf1 Qxc4+ 22. Kg1 Ne2+ 23. Kf1 Ng3+ 24. Kg1 Nxh1 25. Rf1 Qxh4 0-1
+

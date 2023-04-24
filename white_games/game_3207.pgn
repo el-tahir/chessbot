@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9UAIsCoF"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "Ricnesh"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "06:04:18"]
+[WhiteElo "1950"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. Nf3 Bg4 7. fxe5 Bxf3 8. gxf3 Nxe5 9. Ng3 Qh4 10. Bg2 Bd6 11. Bd2 Nxd3+ 12. cxd3 Bxg3+ 13. hxg3 Qxg3+ 14. Kf1 Nf6 15. Qe1 Qg6 16. Rc1 Nh5 17. Rxc5 Ng3+ 18. Kg1 Nxh1 19. Kxh1 O-O 20. Rg5 Qb6 21. Qg3 g6 22. b3 Rac8 23. Rd5 Rc2 24. Bh6 Rd8 25. Qe5 f6 26. Qe7 1-0
+

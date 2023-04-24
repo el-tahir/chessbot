@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EcZ6wwmZ"]
+[Date "2020.12.25"]
+[White "Alperkeshev"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:22:33"]
+[WhiteElo "1955"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C45"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bg5 d6 7. Bb5 Bd7 8. O-O Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Bxc3 11. Qxc3 Qe6 12. Bxf6 Qxf6 13. Qxc7 O-O 14. c3 Rfe8 15. f3 b6 16. Qc4 Rec8 17. Qd3 Rd8 18. Rad1 Rac8 19. Rf2 h5 20. h3 h4 21. Rc2 Rc5 22. b4 Rg5 23. c4 Rg3 24. Kh2 Qf4 25. Kh1 a6 26. c5 bxc5 27. bxc5 Rg6 28. c6 Kf8 29. c7 Rc8 30. Qxa6 Rxc7 31. Rxc7 f5 32. Qc8# 1-0
+

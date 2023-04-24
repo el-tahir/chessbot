@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q9YFOcQm"]
+[Date "2020.11.29"]
+[White "wolf-fox"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.29"]
+[UTCTime "07:46:06"]
+[WhiteElo "1944"]
+[BlackElo "1898"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 c5 4. Bc4 Nb6 5. Bb3 e6 6. dxc5 Bxc5 7. Nf3 Nc6 8. O-O O-O 9. c3 Qe7 10. Qe2 d6 11. exd6 Bxd6 12. Nbd2 Bd7 13. Ne4 Bc7 14. Be3 Rac8 15. Bc5 Bd6 1-0
+

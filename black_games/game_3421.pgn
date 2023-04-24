@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pOy7Sy07"]
+[Date "2020.11.09"]
+[White "PrettyAnand"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "18:28:59"]
+[WhiteElo "1921"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. d3 O-O 8. O-O Bg4 9. h3 Bh5 10. g4 Bg6 11. Nh4 Nd7 12. Nxg6 hxg6 13. Bb3 Ne5 14. f4 Nd7 15. Qf3 Re8 16. Bd2 Qb6+ 17. Kg2 Nc5 18. Be3 Qc7 19. Bc4 Re7 20. Rae1 Rae8 21. a3 b5 22. Ba2 Bxf4 23. Bxf4 1-0
+

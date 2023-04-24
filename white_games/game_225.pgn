@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FYNnuZDx"]
+[Date "2022.10.15"]
+[White "EltahirAmin"]
+[Black "SSJMusa"]
+[Result "1-0"]
+[UTCDate "2022.10.15"]
+[UTCTime "06:08:55"]
+[WhiteElo "2021"]
+[BlackElo "1980"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 g6 4. Be3 Bg7 5. dxc5 Nf6 6. Nd2 O-O 7. cxd6 Nc6 8. dxe7 Qxe7 9. Bd3 Re8 10. f3 Ne5 11. Bc2 Be6 12. Ne2 Rad8 13. O-O Nc4 14. Bf4 Nxb2 15. Qe1 Nd3 16. Bxd3 Rxd3 17. Rc1 Bxa2 18. Nd4 Nh5 19. Bg3 Nxg3 20. hxg3 Bxd4+ 21. cxd4 Rxd4 22. Ra1 Ra4 23. Qd1 Qc5+ 24. Kh2 Qh5+ 25. Kg1 Qc5+ 26. Kh2 Ra3 27. g4 Rd8 28. Qe2 h5 29. Rfc1 Qb4 30. Nf1 hxg4 31. Rxa2 g3+ 32. Nxg3 Rxa2 33. Qxa2 Qd6 34. Qc4 Kg7 35. Qc3+ f6 36. Qc7+ Rd7 37. Qxd6 Rxd6 38. Rc7+ Kh6 39. Rxb7 Kg5 40. Rxa7 f5 41. Ra5 Kf4 42. exf5 g5 43. Ra4+ 1-0
+

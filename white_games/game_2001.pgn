@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QzhJ4r06"]
+[Date "2021.01.13"]
+[White "EltahirAmin"]
+[Black "shurikshin"]
+[Result "0-1"]
+[UTCDate "2021.01.13"]
+[UTCTime "08:53:52"]
+[WhiteElo "1929"]
+[BlackElo "1815"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 e5 3. d4 exd4 4. Qxd4 Nf6 5. f4 c5 6. Qe3 Nc6 7. Nf3 Be7 8. h3 O-O 9. Bc4 h6 10. Bd2 a6 11. a4 b6 12. O-O-O Nb4 13. Nd5 Nfxd5 14. exd5 Re8 15. Bc3 Bf6 16. Bxb4 cxb4 17. d6 a5 18. Qf2 Bb7 19. Rhe1 Qb8 20. Ne5 Bxe5 21. fxe5 Rf8 22. Rg1 Bc6 23. b3 b5 24. axb5 Bxb5 25. Bd5 Bc6 26. Bc4 a4 27. g4 axb3 28. Bxb3 Qb5 29. g5 h5 30. g6 Qxe5 31. gxf7+ Kh8 32. Rge1 Ra1+ 33. Kd2 Qc3+ 34. Ke2 Bb5+ 35. Rd3 Bxd3+ 36. cxd3 Rxe1+ 37. Qxe1 Qxb3 38. Qh4 Qxf7 39. Qxb4 Qf2+ 40. Kd1 Ra8 41. Qc3 Qf1+ 42. Kd2 Ra2+ 43. Ke3 Qf2+ 44. Ke4 Ra4+ 45. Kd5 Qf5+ 46. Qe5 Ra5+ 47. Kc4 Qxe5 48. d4 Qd5+ 49. Kb4 Rb5+ 50. Kc3 Qb3+ 51. Kd2 Ra5 52. h4 Ra2+ 0-1
+

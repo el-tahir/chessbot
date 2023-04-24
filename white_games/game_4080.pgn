@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xmOpm8I2"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "PepinoSampedrino"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "01:35:13"]
+[WhiteElo "1927"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 Nf6 4. c4 Be7 5. Nc3 d6 6. Nf3 Bg4 7. Bd3 Nc6 8. O-O Nxd4 9. Be2 Nxe2+ 10. Qxe2 O-O 11. h3 Bh5 12. g4 Bg6 13. Be3 Qd7 14. Bd4 Nxg4 15. hxg4 Qxg4+ 16. Kh1 Bh5 17. Ng1 Qh4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8BLkDAlz"]
+[Date "2020.11.07"]
+[White "Mbrsilva"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:22:03"]
+[WhiteElo "1951"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. c4 Bg4 4. Qb3 e6 5. Qxb7 Nbd7 6. Qb3 Rb8 7. Qc2 Bb4+ 8. Bd2 Bxd2+ 9. Nxd2 O-O 10. Ngf3 c5 11. b3 Qe7 12. Ne5 Nxe5 13. dxe5 Nd7 14. f4 Rfd8 15. Bd3 d4 16. e4 f6 17. exf6 Qxf6 18. O-O e5 19. f5 Qg5 20. Nf3 Qe3+ 21. Kh1 Nf6 22. Rae1 Qh6 23. Nxe5 Rf8 24. Nd7 Nxd7 25. e5 Rbe8 26. e6 Nf6 27. h3 g6 28. fxg6 hxg6 29. e7 Rf7 30. Bxg6 Rfxe7 31. Bxe8 Rh7 32. Qg6+ Qxg6 33. Bxg6 Rh6 34. Rxf6 Kg7 35. Rd6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sTkfjapA"]
+[Date "2020.10.15"]
+[White "Santi200"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "18:22:21"]
+[WhiteElo "1962"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D43"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Be7 6. e3 O-O 7. Bd3 Qb6 8. Qb3 Nbd7 9. c5 Qc7 10. Bf4 Qd8 11. h3 b6 12. O-O bxc5 13. dxc5 Nxc5 14. Qc2 Bd6 15. Ne5 a5 16. Nxc6 Qc7 17. Bxd6 Qxd6 18. Nd4 Nxd3 19. Qxd3 Ba6 20. Ncb5 Qd7 21. a4 Rab8 22. f4 Ne4 23. Rfc1 Rfc8 24. Qd1 Qd8 25. Rxc8 Rxc8 26. Rc1 Rxc1 27. Qxc1 Qh4 28. Nf3 Qf2+ 29. Kh1 Ng3+ 30. Kh2 Nf1+ 31. Kh1 Nxe3 32. Qg1 Qxg1+ 33. Kxg1 Nc4 34. b3 Nb6 35. Nfd4 Kf8 36. Kf2 Ke7 37. g4 Kd7 38. Ke3 Bxb5 39. Nxb5 h6 40. Kd4 g5 41. f5 Nc8 42. fxe6+ fxe6 43. Nc3 Nd6 44. Kc5 Ne4+ 45. Nxe4 dxe4 46. Kd4 Kd6 47. Kxe4 Kc5 48. Ke5 Kb4 49. Kxe6 Kxb3 50. Kf5 Kxa4 51. Kg6 Kb3 52. Kxh6 a4 53. Kxg5 a3 54. h4 a2 0-1
+

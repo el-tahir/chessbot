@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yhTLa1al"]
+[Date "2022.06.05"]
+[White "EltahirAmin"]
+[Black "Hamid03"]
+[Result "1-0"]
+[UTCDate "2022.06.05"]
+[UTCTime "15:08:46"]
+[WhiteElo "2037"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bc5 4. d3 Nc6 5. Be3 Nd4 6. Be2 Nxe2 7. Qxe2 Bxe3 8. Qxe3 d6 9. O-O Ng4 10. Qe2 h5 11. h3 Bd7 12. Nd2 Qh4 13. f4 O-O-O 14. Nd5 f6 15. c4 c6 16. Nb4 g5 17. f5 Nh6 18. a4 g4 19. Qf2 Qg5 20. h4 Qg7 21. g3 c5 22. Nd5 Bc6 23. b4 Bxd5 24. cxd5 cxb4 25. Qxa7 1-0
+

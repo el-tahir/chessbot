@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/29EnUgzs"]
+[Date "2021.10.18"]
+[White "EltahirAmin"]
+[Black "boeserossi"]
+[Result "0-1"]
+[UTCDate "2021.10.18"]
+[UTCTime "20:39:48"]
+[WhiteElo "2000"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be7 6. Bc4 O-O 7. O-O Nc6 8. Bg5 Nxd4 9. Qxd4 Be6 10. Rad1 Bxc4 11. Qxc4 a6 12. a4 h6 13. Bh4 Rb8 14. e5 Nh7 15. Bg3 b5 16. axb5 axb5 17. Nxb5 c6 18. Nxd6 Bxd6 19. Rxd6 Qe7 20. b3 Ng5 21. Rxc6 Rfd8 22. e6 Nxe6 23. Bxb8 Rxb8 24. Rc8+ Rxc8 25. Qxc8+ Kh7 26. Re1 Qg5 27. Qc3 Nf4 28. Qg3 Ne2+ 29. Kf1 Nxg3+ 30. hxg3 Qd2 31. Re2 Qc1+ 32. Re1 Qxc2 0-1
+

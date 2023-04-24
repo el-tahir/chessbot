@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IfGRONRo"]
+[Date "2021.02.12"]
+[White "Ramlakshman"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "16:46:18"]
+[WhiteElo "1947"]
+[BlackElo "1965"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. Qb3 Rb8 8. Ne5 Nxe5 9. dxe5 dxc4 10. Bxc4 Nd7 11. Bxf7# 1-0
+

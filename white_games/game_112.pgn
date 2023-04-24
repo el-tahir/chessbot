@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tFIITRtx"]
+[Date "2023.02.24"]
+[White "EltahirAmin"]
+[Black "feLchz"]
+[Result "1-0"]
+[UTCDate "2023.02.24"]
+[UTCTime "02:06:12"]
+[WhiteElo "1947"]
+[BlackElo "1977"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Be7 7. Bd3 O-O 8. O-O Nc6 9. f4 Nb4 10. a3 Nxd3 11. cxd3 Bc5 12. Qf3 Qb6 13. Na4 Qa7 14. Nxc5 Qxc5 15. Nxe6 Qb5 16. Nxf8 Kxf8 17. b4 Qxd3 18. Bc5+ 1-0
+

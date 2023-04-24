@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YVol5QV1"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "Azamat-SPb"]
+[Result "1-0"]
+[UTCDate "2021.01.28"]
+[UTCTime "09:56:54"]
+[WhiteElo "2053"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nc3 f5 4. Nxe5 Qf6 5. d4 Bb6 6. Bc4 d5 7. Nxd5 Qh4 8. Qe2 Bxd4 9. Nxc7+ Kd8 10. Nxa8 Bxe5 11. Be3 Qxe4 12. O-O-O+ Bd7 13. Be6 Nf6 14. Rd3 Ke7 15. Bc5+ Kxe6 16. Qd2 Nc6 17. Re1 Qc4 18. Rd6+ Kf7 19. Rxd7+ Nxd7 20. Qxd7+ Kg6 21. g4 Qf4+ 22. Be3 Qxg4 23. Qe6+ Bf6 24. Nc7 Rd8 25. f4 Nd4 26. Qc4 Nf3 27. Rf1 h6 28. Ne6 Re8 29. Nc5 Rxe3 30. Nd7 Re1+ 31. Rxe1 Nxe1 32. Nf8+ Kh5 33. Qf1 Nf3 34. h3 Qxf4+ 35. Kb1 Qe5 36. Qxf3+ Kh4 37. c3 Qe1+ 38. Kc2 Qe4+ 39. Qxe4+ fxe4 40. Kd2 Kxh3 41. Ke3 g5 42. Kxe4 g4 43. Ng6 g3 44. Nf4+ Kg4 45. Ke3 g2 46. Nxg2 h5 47. Ne1 h4 48. Nd3 Bg5+ 49. Kf2 h3 50. Ne1 Bh4+ 51. Kf1 Bxe1 52. Kxe1 Kg3 53. Kd2 Kh2 54. Kd3 Kg1 55. Kc4 h2 56. Kb4 h1=Q 57. b3 Qc6 58. a4 a6 59. Ka3 1-0
+

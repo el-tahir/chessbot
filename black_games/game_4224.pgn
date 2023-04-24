@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XQubRDLc"]
+[Date "2020.10.14"]
+[White "SemyonKol"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "16:13:28"]
+[WhiteElo "1981"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d4 dxe4 4. Ne5 Nf6 5. Qh5 Be6 6. Nxf7 Bxf7 7. Qa5 Qxa5+ 8. Ke2 e6 9. Ke3 Bg6 10. Kf4 h6 11. g4 Qg5+ 12. Kg3 Qxg4# 0-1
+

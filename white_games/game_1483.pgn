@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ylunAuis"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "lfrdm"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "11:37:49"]
+[WhiteElo "1969"]
+[BlackElo "1872"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 d6 6. Nc3 a6 7. Bc4 b5 8. Bb3 Bb7 9. Bg5 Qb6 10. Be3 Qd8 11. O-O Nf6 12. Qe2 Be7 13. Rac1 O-O 14. Rfd1 Rc8 15. d5 exd5 16. exd5 Na5 17. Bc2 Nc4 18. Bd4 Nxb2 19. Bxf6 Bxf6 20. Qe4 g6 21. Ne2 Nxd1 22. Rxd1 Re8 23. Qd3 Rc5 24. Nc3 Rxc3 0-1
+

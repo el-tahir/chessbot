@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZKUxnZEB"]
+[Date "2021.02.19"]
+[White "EltahirAmin"]
+[Black "joseph_barkin01"]
+[Result "1-0"]
+[UTCDate "2021.02.19"]
+[UTCTime "17:51:56"]
+[WhiteElo "1955"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Qc7 4. d4 cxd4 5. cxd4 b6 6. Nc3 Bb7 7. g3 a6 8. Bf4 d6 9. Be3 g6 10. Rc1 Qd7 11. a4 Bg7 12. Bh3 Ne7 13. d5 O-O 14. O-O f5 15. Bd4 Bxd4 16. Nxd4 e5 17. Ne6 Rf7 18. Qd2 Qe8 19. Qh6 Nd7 20. f4 Nf6 21. fxe5 dxe5 22. Nc7 Qd7 23. Nxa8 Bxa8 24. exf5 Nxf5 25. Bxf5 gxf5 26. Qg5+ Kf8 27. Rxf5 Ke7 28. Re1 Bxd5 29. Rexe5+ Kf8 30. Qh6+ Kg8 31. Rxf6 Rxf6 32. Qxf6 Bc4 33. Rg5+ 1-0
+

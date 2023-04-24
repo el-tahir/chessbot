@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NE31v1Oh"]
+[Date "2020.10.29"]
+[White "aleksei141"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.29"]
+[UTCTime "15:51:11"]
+[WhiteElo "1962"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C33"]
+[Termination "Normal"]
+
+1. e4 e5 2. f4 exf4 3. e5 Nc6 4. Nf3 Nge7 5. d4 Ng6 6. Bd3 d6 7. Bxg6 hxg6 8. Bxf4 Bg4 9. exd6 Bxd6 10. Qe2+ Kd7 11. Bxd6 cxd6 12. O-O Nxd4 13. Qc4 Nxf3+ 14. Rxf3 Bxf3 15. Qxf7+ Qe7 16. Qxf3 Qe1+ 17. Qf1 Qe3+ 18. Kh1 Rxh2+ 19. Kxh2 Rh8# 0-1
+

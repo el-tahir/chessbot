@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jvoPSQMz"]
+[Date "2021.11.17"]
+[White "groundking"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.17"]
+[UTCTime "06:54:48"]
+[WhiteElo "2072"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 Nf6 5. d4 Nc6 6. Be3 Bg4 7. Nf3 e6 8. O-O Bd6 9. h3 h5 10. hxg4 hxg4 11. Nh2 Bxh2+ 12. Kh1 Ne4 13. g3 Bxg3+ 14. Kg2 Bc7 15. Qxg4 Qd6 16. f4 O-O-O 17. Nc3 f5 18. Qf3 g5 19. Nxe4 fxe4 20. Qf2 gxf4 21. Bc1 Rdg8+ 0-1
+

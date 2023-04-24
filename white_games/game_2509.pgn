@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FTsKYtAo"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "badam17"]
+[Result "1-0"]
+[UTCDate "2020.12.18"]
+[UTCTime "23:07:24"]
+[WhiteElo "1987"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bg6 6. Bg5 Be7 7. h4 Bxg5 8. hxg5 Ne7 9. Nc3 Nd7 10. Qe2 Qb6 11. O-O-O O-O-O 12. Kb1 Qb4 13. Ne1 a5 14. Bxg6 hxg6 15. a3 Qb6 16. Nd3 Qxd4 17. f4 Nb6 18. Nb4 Rxh1 19. Rxh1 axb4 20. axb4 Qxb4 21. Na2 Qxf4 22. Rh7 Na4 23. Rxg7 Qxe5 24. Qxe5 Nf5 25. Rxf7 Rd7 26. Qxe6 Nc5 27. Rxd7 Nxe6 28. Rh7 Nxg5 29. Rh1 Ne4 30. g4 Ne3 31. Kc1 Nxg4 32. Nc3 Nxc3 33. bxc3 Kd7 34. Rg1 Ne5 35. Kd2 Ke6 36. Ke3 c5 37. Kf4 b5 38. Re1 d4 39. Rxe5+ Kd6 40. cxd4 cxd4 41. Rxb5 Kc6 42. Rg5 Kb6 43. Ke4 Kc6 44. Kxd4 Kd6 45. Re5 1-0
+

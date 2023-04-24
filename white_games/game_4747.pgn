@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iarR5PVQ"]
+[Date "2020.05.07"]
+[White "EltahirAmin"]
+[Black "maxim19990"]
+[Result "0-1"]
+[UTCDate "2020.05.07"]
+[UTCTime "19:19:53"]
+[WhiteElo "2021"]
+[BlackElo "2039"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. d4 exd4 5. Nxd4 Bd7 6. O-O Qe7 7. Re1 O-O-O 8. Nc3 Ne5 9. Bf1 g5 10. Nd5 Qe8 11. Bxg5 f6 12. Nxf6 Nxf6 13. Bxf6 Be7 14. Bxh8 Qxh8 15. Qh5 Qg7 16. Nf5 Bxf5 17. Qxf5+ Kb8 18. a4 Rf8 19. Qh3 Nf3+ 20. Kh1 Nxe1 21. Rxe1 h5 22. f3 h4 23. a5 a6 24. c4 Qxb2 25. Qd7 Bg5 26. Qg7 Qxg7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/giMF1W7h"]
+[Date "2021.02.19"]
+[White "zekabwe"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.19"]
+[UTCTime "17:55:11"]
+[WhiteElo "1974"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B33"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 e6 7. exf6 Qxf6 8. Nc3 Bc5 9. Be3 Bb4 10. Bd2 d5 11. Be2 a5 12. O-O O-O 13. a3 Bd6 14. Bd3 Rb8 15. b3 e5 16. Qh5 g6 17. Qh6 e4 18. Be2 Be5 19. Na4 Bxa1 20. c3 Rxb3 21. Rxa1 d4 22. Nc5 Rb2 23. Bg5 Qf5 24. Nxe4 Rxe2 25. Nf6+ Qxf6 1-0
+

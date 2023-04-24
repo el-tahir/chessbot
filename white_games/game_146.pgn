@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IgZOTUSo"]
+[Date "2023.02.08"]
+[White "EltahirAmin"]
+[Black "danielwiesel123"]
+[Result "1-0"]
+[UTCDate "2023.02.08"]
+[UTCTime "20:58:29"]
+[WhiteElo "1936"]
+[BlackElo "1930"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 exd4 5. Nxd4 Be7 6. Be3 Nxd4 7. Bxd4 Bf6 8. Qd2 Ne7 9. O-O-O Nc6 10. Bxf6 Qxf6 11. Kb1 Be6 12. f4 Bg4 13. Re1 O-O 14. h3 Bd7 15. g4 Rfe8 16. g5 Qg6 17. h4 Qh5 18. Be2 Bg4 19. Bxg4 Qxg4 20. h5 Re7 21. Reg1 Qf3 22. h6 Nd4 23. hxg7 b5 24. Qh2 h6 25. Qxh6 1-0
+

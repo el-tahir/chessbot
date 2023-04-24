@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pEeM1l5E"]
+[Date "2023.02.13"]
+[White "bombillatapada"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.02.13"]
+[UTCTime "14:51:37"]
+[WhiteElo "2000"]
+[BlackElo "1956"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. h3 Bh5 9. Bg5 Be7 10. g4 Nxg4 11. Bxe7 Qxe7 12. hxg4 Bxg4 13. Kg2 h5 14. Rh1 O-O-O 15. Nbd2 e5 16. dxe5 Nxe5 17. Qc2 Qf6 18. Nxe5 Qxe5 19. Rae1 Qf6 20. f3 Be6 21. Nf1 Kb8 22. Qf2 g5 23. Qg3+ Ka8 24. Qe5 Qh6 25. Bf5 Rhe8 26. Bxe6 Rxe6 27. Qc7 Rde8 28. Rxe6 Qxe6 29. Rxh5 Qe2+ 30. Kg1 Qxf3 31. Qxf7 Qxf7 0-1
+

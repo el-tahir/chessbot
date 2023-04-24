@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QUdrqsVA"]
+[Date "2021.03.07"]
+[White "Ananichev_SergeY"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.07"]
+[UTCTime "17:23:10"]
+[WhiteElo "2087"]
+[BlackElo "2087"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 c5 7. Nf3 Nc6 8. c3 Qb6 9. dxc5 Bxc5 10. a4 Bf2+ 11. Ke2 a5 12. Na3 Na7 13. Nb5 Bc5 14. Nfd4 Ne7 15. g4 Rc8 16. Be3 Nec6 17. Rab1 Nxb5 18. Nxb5 Rd8 19. Bxc5 Qxc5 20. Nd4 f6 21. Nxe6 Qe7 22. Nxd8 fxe5 23. Nxc6 bxc6 24. fxe5 O-O 25. Rbe1 Qc5 26. Qd4 Qe7 27. Ref1 Rb8 28. Rb1 Rd8 29. b4 axb4 30. cxb4 Ra8 31. a5 Rb8 32. Rhf1 Qh4 33. Qf4 h6 34. g5 Qh5+ 35. Kd3 hxg5 36. Qf7+ Qxf7 37. Rxf7 Kxf7 38. Kd4 Rb5 39. a6 Ke6 40. a7 c5+ 41. Kd3 cxb4 42. a8=Q Kxe5 43. Qe8+ Kf4 44. Rf1+ Kg4 45. Qe2+ Kh4 46. Qf3 g4 47. Qg3+ Kg5 48. Qf4+ Kg6 49. h4 Kh7 0-1
+

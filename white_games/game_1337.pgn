@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2jJ7W5Vk"]
+[Date "2021.03.02"]
+[White "EltahirAmin"]
+[Black "Magaga"]
+[Result "0-1"]
+[UTCDate "2021.03.02"]
+[UTCTime "04:39:08"]
+[WhiteElo "2064"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 e5 4. d4 Nbd7 5. dxe5 Nxe5 6. Nxe5 dxe5 7. Qxd8+ Kxd8 8. Bg5 Bb4 9. O-O-O+ Bd7 10. Nd5 Be7 11. Bxf6 gxf6 12. Be2 c6 13. Nc3 Kc7 14. Rd2 Be6 15. Rhd1 Rad8 16. f3 Rhg8 17. g3 Bb4 18. Rxd8 Rxd8 19. Nb1 Bxa2 20. b3 Bxb1 21. Kxb1 Rxd1+ 22. Bxd1 Bc3 23. Ka2 a5 24. Ka3 b5 25. Be2 Kb6 26. Ka2 Kc5 27. Kb1 Kd4 28. Kc1 Ke3 29. Kd1 Kf2 30. g4 h6 31. h4 Kg3 32. h5 Kf2 0-1
+

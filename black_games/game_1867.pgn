@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lB6fO7He"]
+[Date "2021.01.22"]
+[White "gesgon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "23:26:29"]
+[WhiteElo "1977"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 Bg4 5. Bg5 e6 6. e3 Be7 7. Be2 O-O 8. O-O Qb6 9. Qc2 Nbd7 10. c5 Qc7 11. Bf4 Qd8 12. h3 Bh5 13. b4 a5 14. a3 b6 15. g4 Bg6 16. Bd3 Bxd3 17. Qxd3 Ra7 18. Be5 Qa8 19. Qb1 Nxe5 20. Nxe5 Ne8 21. f4 f6 22. Nd3 bxc5 23. bxc5 Nc7 24. a4 Rb7 25. Qc2 Rfb8 26. Rfb1 Na6 27. Rxb7 Rxb7 28. Rb1 Nb4 29. Qe2 Qa6 30. Rd1 Qa8 31. Kf2 Kf7 32. Kf3 Qb8 33. Na2 Nxa2 34. Qxa2 Rb3 35. Rd2 Qa7 36. Qxb3 h5 37. gxh5 e5 38. fxe5 fxe5 39. Nxe5+ Kg8 40. Rg2 Bh4 41. Qd3 Qe7 42. Qg6 Qf8+ 43. Ke2 Bf6 44. Nd7 Qf7 45. Nxf6+ Qxf6 46. Qxf6 1-0
+

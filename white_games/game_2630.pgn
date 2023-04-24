@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4Rt87LR1"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "An_Duin"]
+[Result "0-1"]
+[UTCDate "2020.12.14"]
+[UTCTime "21:30:57"]
+[WhiteElo "1887"]
+[BlackElo "1905"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 e5 7. Nxc6 bxc6 8. Qf3 Bg4 9. Qg3 Be7 10. h3 Be6 11. Ba6 O-O 12. h4 Nh5 13. Qf3 g6 14. Bb7 Rb8 15. Bxc6 Rxb2 16. g4 Nf6 17. h5 Bxg4 18. Qg3 Bxh5 19. Nd5 Nxd5 20. Bxd5 Rxc2 21. Rxh5 Qa5+ 22. Kf1 Qc3 23. Re1 Qd3+ 24. Kg2 Re2 25. Reh1 Qxe3 26. Qxg6+ hxg6 27. Rh8+ Kg7 28. R1h7+ Kf6 29. Rxf8 Bxf8 30. Rxf7+ Kg5 31. Kf1 Qd3 32. Rxf8 Rxe4+ 33. Kg2 Rf4 34. Rd8 Qxd5+ 35. Kf1 Qd3+ 36. Ke1 Re4# 0-1
+

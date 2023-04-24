@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OacYMWCe"]
+[Date "2020.12.20"]
+[White "Gensuna666"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.20"]
+[UTCTime "17:31:38"]
+[WhiteElo "1996"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 Bf5 6. Ne2 e6 7. c4 h6 8. Nbc3 Bd6 9. O-O Nbd7 10. Ng3 Bh7 11. d5 cxd5 12. cxd5 exd5 13. Re1+ Ne5 14. Nxd5 O-O 15. Nxf6+ Qxf6 16. Bxb7 Rad8 17. Qa4 Nd3 18. Rf1 Bc5 19. Be3 Qb6 20. Bxc5 Qxc5 21. b3 Qb6 22. Bf3 Nc5 23. Qc6 Rfe8 24. h3 Bd3 25. Rfc1 Rc8 26. Qd5 Red8 27. Qe5 Nd7 28. Qf4 Nf6 29. Nf5 Bxf5 30. Qxf5 Rxc1+ 31. Rxc1 g6 32. Qf4 Kg7 33. Rc6 Qb8 34. Qxf6+ Kh7 35. Qxf7+ Kh8 36. Qf6+ Kg8 37. Qxg6+ Kf8 38. Rf6+ Ke7 39. Qf7# 1-0
+

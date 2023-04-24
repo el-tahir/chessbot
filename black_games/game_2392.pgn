@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VvihM2SH"]
+[Date "2020.12.20"]
+[White "DjamelDin_CSE_19"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.20"]
+[UTCTime "22:02:16"]
+[WhiteElo "1982"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 e5 4. f4 Nd7 5. Nf3 d4 6. Ne2 Bd6 7. g3 c5 8. Bg2 Ngf6 9. O-O Qb6 10. fxe5 Nxe5 11. Nxe5 Bxe5 12. Nf4 Bg4 13. Qe1 O-O-O 14. Nd5 Nxd5 15. exd5 f6 16. c4 dxc3 17. bxc3 h5 18. c4 Bxa1 0-1
+

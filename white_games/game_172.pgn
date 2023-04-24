@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/SWHsUfrW"]
+[Date "2023.01.25"]
+[White "EltahirAmin"]
+[Black "ShuuichiAkai"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "23:03:23"]
+[WhiteElo "1973"]
+[BlackElo "799"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Qd8 6. Be2 f6 7. d4 c6 8. O-O e5 9. dxe5 fxe5 10. Qxd8+ Kxd8 11. Nxe5 Bd6 12. Nf7+ Ke7 13. Nxh8 Be6 14. Bg5+ Kf8 15. Rad1 Bc5 16. Rd8# 1-0
+

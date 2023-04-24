@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hCKlBtvf"]
+[Date "2020.10.15"]
+[White "EltahirAmin"]
+[Black "luthersjoel"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "11:45:24"]
+[WhiteElo "1976"]
+[BlackElo "1916"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d3 d4 4. Nce2 c5 5. f4 Nc6 6. Nf3 e6 7. Ng3 Nge7 8. Be2 Ng6 9. O-O Be7 10. b3 O-O 11. Bb2 b6 12. c3 Bb7 13. Rc1 Qd7 14. f5 exf5 15. Nxf5 Bf6 16. Qe1 Nge5 17. Qg3 Rfd8 18. cxd4 Nxf3+ 19. Rxf3 g6 20. dxc5 bxc5 21. Bxf6 Qe6 22. Rxc5 Qxf6 23. Nh6+ Kg7 24. Rxf6 Kxf6 25. Qf4+ Kg7 26. Nxf7 Rf8 27. Qc7 Rxf7 28. Qd6 Rc8 29. Bg4 Rcc7 30. Be6 Rfe7 31. Rxc6 Bxc6 32. Qe5+ Kh6 33. g4 Bd7 34. g5+ Kh5 35. Qxc7 Rxe6 36. Qxd7 Re5 37. h3 Rxg5+ 38. Kf2 Kh6 39. h4 Rh5 40. Qg4 g5 41. hxg5+ Rxg5 42. Qe6+ Rg6 43. Qh3+ Kg7 44. Ke3 a6 45. Qd7+ Kh6 46. e5 Rg3+ 47. Kd4 Rg7 48. Qh3+ Kg6 49. e6 Kf6 50. Kc4 Ke7 51. d4 Rg6 52. d5 Rg5 53. Qxh7+ Kd6 54. Qd7+ Ke5 55. e7 Rg4+ 56. Kc5 Rg8 57. Qe6+ Kf4 58. Qxg8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/83qDIsi0"]
+[Date "2021.02.26"]
+[White "EltahirAmin"]
+[Black "RikelmeAmorim"]
+[Result "0-1"]
+[UTCDate "2021.02.26"]
+[UTCTime "23:39:18"]
+[WhiteElo "2023"]
+[BlackElo "2106"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. c3 dxe4 4. Ng5 Nf6 5. Qc2 Bf5 6. Bc4 e6 7. O-O h6 8. Nh3 Bxh3 9. gxh3 Bd6 10. d3 exd3 11. Bxd3 Qc7 12. f4 Nd5 13. Qf2 Nd7 14. Na3 Bc5 0-1
+

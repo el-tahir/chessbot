@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/COUUwy5E"]
+[Date "2021.11.16"]
+[White "giorgoslogothetis"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.16"]
+[UTCTime "05:54:04"]
+[WhiteElo "2098"]
+[BlackElo "2049"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 Nc6 6. c3 e5 7. dxe5 Nxe5 8. Bc2 Bd6 9. Nf3 Qe7 10. O-O O-O 11. Bg5 Qe6 12. Nbd2 Bd7 13. Nd4 Qe7 14. N2f3 h6 15. Bh4 Ng6 16. Bg3 Bxg3 17. fxg3 Qd6 18. Qe1 Rae8 19. Qf2 a6 20. Rae1 Ne5 21. Nxe5 Rxe5 22. Rxe5 Qxe5 23. Qf4 Re8 24. Qxe5 Rxe5 25. Kf2 b5 26. Re1 Rxe1 27. Kxe1 Kf8 28. Ke2 Ke7 29. Ke3 Kd6 30. Nf5+ Ke5 31. Nxg7 a5 32. g4 b4 33. cxb4 axb4 34. Nf5 Bxf5 35. gxf5 Nh5 36. g4 Nf4 37. h4 d4+ 38. Kf3 Nd5 39. Bd3 f6 40. a4 bxa3 41. bxa3 Nf4 42. Bc2 d3 43. Bd1 Nd5 44. a4 Kd4 45. a5 Nb4 46. g5 fxg5 47. hxg5 hxg5 48. f6 Nd5 49. f7 g4+ 50. Kxg4 Nf6+ 51. Kf5 Nd7 52. a6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zcu1yWPY"]
+[Date "2021.01.12"]
+[White "ivan_fatyuhin-QX"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.12"]
+[UTCTime "10:33:19"]
+[WhiteElo "1919"]
+[BlackElo "1915"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. Nf3 e6 7. c3 Be7 8. h3 Bxf3 9. Qxf3 O-O 10. Bd3 c5 11. Be3 cxd4 12. Bxd4 Nc6 13. Ne4 Nxd4 14. cxd4 Qxd4 15. Rd1 Qxb2 16. Nxf6+ Bxf6 17. O-O Rad8 18. Rb1 Qa3 19. Bxh7+ Kxh7 20. Qxa3 b6 21. Qxa7 Bd4 22. Qa3 Bc5 23. Qg3 Rd2 24. Qg5 Rfd8 25. Qh5+ Kg8 26. Rbd1 g6 27. Qf3 Kg7 28. Rxd2 Rxd2 29. Rd1 Rxf2 30. Qxf2 Bxf2+ 31. Kxf2 Kf6 32. Rd6 b5 33. Rb6 g5 34. Rxb5 e5 35. a4 Ke6 36. a5 Kd6 37. a6 Kc6 38. Rb1 1-0
+

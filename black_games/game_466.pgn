@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bDMmIRMv"]
+[Date "2022.05.14"]
+[White "GorDarbinyan"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.14"]
+[UTCTime "14:21:30"]
+[WhiteElo "2128"]
+[BlackElo "2110"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 c5 7. c3 Nc6 8. b3 Nge7 9. Nf3 Nf5 10. g4 Nh6 11. h3 Be7 12. O-O Qb6 13. Be3 cxd4 14. Bxd4 Nxd4 15. cxd4 O-O 16. Nc3 Rac8 17. Na4 Qa5 18. Rac1 Ba3 19. Rxc8 Rxc8 20. f5 b5 21. Nc5 Bxc5 22. dxc5 Rxc5 23. fxe6 Rc3 24. exf7+ Nxf7 25. Qxd5 Qxa2 26. Ng5 Rg3+ 27. Kh1 1-0
+

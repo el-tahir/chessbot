@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fLWWz0iX"]
+[Date "2020.12.04"]
+[White "EltahirAmin"]
+[Black "Themeka"]
+[Result "0-1"]
+[UTCDate "2020.12.04"]
+[UTCTime "23:46:12"]
+[WhiteElo "1839"]
+[BlackElo "1848"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Qf6+ 7. Kg1 Ng6 8. Bd3 d6 9. Be3 Nh6 10. Nd5 Qd8 11. Qf3 Be6 12. Nf4 Nxf4 13. Bxf4 Qe7 14. c4 O-O-O 15. c5 Bg4 16. Qg3 dxc5 17. Bxh6 gxh6 18. Qxg4+ Kb8 19. d5 Rhg8 20. Qf5 c4 21. Be2 Qc5+ 22. Kf1 c3 23. Rc1 Qe3 24. Rxc3 Qd2 25. Qf2 Qxb2 26. Rb3 Qxa2 27. e5 Qxb3 0-1
+

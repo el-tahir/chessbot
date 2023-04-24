@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cks1NVJU"]
+[Date "2020.10.14"]
+[White "absolutepin"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "16:04:07"]
+[WhiteElo "1942"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A08"]
+[Termination "Normal"]
+
+1. Nf3 c5 2. g3 d5 3. Bg2 Nc6 4. d4 Nf6 5. O-O e6 6. c4 Be7 7. Nc3 O-O 8. dxc5 Bxc5 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bg5 Qb6 12. Rc1 Be6 13. Qc2 Bd6 14. Be3 Qa6 15. Ng5 Bg4 16. Qxh7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QRyLc536"]
+[Date "2020.12.29"]
+[White "BabayOgly"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.29"]
+[UTCTime "08:55:15"]
+[WhiteElo "1934"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. Nf3 Be7 6. Bd3 O-O 7. O-O Bg4 8. c4 Nf6 9. h3 Bh5 10. Nc3 Nbd7 11. Re1 Re8 12. Bf4 Bf8 13. g4 Bg6 14. Qd2 c5 15. d5 Qb6 16. b3 a6 17. Rxe8 Rxe8 18. Re1 Rxe1+ 19. Nxe1 Qb4 20. Nf3 Bxd3 21. Qxd3 g6 22. Kg2 Bg7 23. Ne2 Ne8 24. Ng3 a5 25. Ne4 Be5 26. Bxe5 Nxe5 27. Nxe5 dxe5 28. d6 Nxd6 29. Nxd6 a4 30. Qd5 1-0
+

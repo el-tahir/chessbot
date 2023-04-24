@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EuAvCqtF"]
+[Date "2021.11.21"]
+[White "newkingsempirer"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.21"]
+[UTCTime "06:04:51"]
+[WhiteElo "1992"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. Be2 Nc6 7. O-O Nge7 8. Nh4 h6 9. Bg4 Bh7 10. f5 Qb6 11. f6 Ng6 12. Nxg6 Bxg6 13. Bh5 Bxh5 14. Qxh5 O-O-O 15. Qxf7 gxf6 16. Rxf6 Be7 17. Rxe6 Rdf8 18. Rxc6+ bxc6 19. Qxe7 c4+ 20. d4 Qxd4+ 21. Be3 Qxe3+ 0-1
+

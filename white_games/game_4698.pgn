@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0LjOzl0G"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "andrew_vinny"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "01:35:49"]
+[WhiteElo "1956"]
+[BlackElo "1933"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 h5 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be3 cxd4 7. Bxd4 Nc6 8. Na3 Nxd4 9. Nxd4 e5 10. Bc4 Qe4+ 11. Ne2 Bxa3 12. Qa4+ Bd7 13. Qxa3 Qxc4 14. Rd1 h4 15. b3 Qe4 16. Qd6 h3 17. f3 hxg2 18. Rg1 Qxf3 19. Qxe5+ Kf8 20. Nd4 Qxc3+ 21. Kf2 Ng4+ 22. Kxg2 Qh3+ 0-1
+

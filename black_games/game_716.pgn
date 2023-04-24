@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ypHqrzqt"]
+[Date "2021.11.21"]
+[White "VaccineDepopulation"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.21"]
+[UTCTime "22:28:02"]
+[WhiteElo "2133"]
+[BlackElo "2076"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 Nf6 4. g3 Nc6 5. Bg2 Qb6 6. Nb3 e6 7. c4 Bb4+ 8. Bd2 O-O 9. O-O Rd8 10. Bg5 Be7 11. Nc3 h6 12. Be3 Qc7 13. Bf4 e5 14. Nb5 Qb8 15. Be3 a6 16. Nc3 b6 17. Qd2 Ra7 18. Rad1 a5 19. Nb5 Rb7 20. Bxh6 d5 21. cxd5 Bf5 22. Qg5 Bg6 23. dxc6 gxh6 24. Qxh6 Rc7 25. Nxc7 Qxc7 26. Rxd8+ Qxd8 27. h4 Bf8 28. Qe3 Bc5 29. Nxc5 bxc5 30. Qxc5 Qc7 31. Rc1 e4 32. Qb5 e3 33. f4 Ne4 34. Qb7 Qd6 35. c7 Nxg3 36. c8=Q+ Kh7 37. Qg4 Qd2 38. Qc6 Nxe2+ 39. Qxe2 Qxe2 40. Qf3 Qxb2 41. Rf1 e2 42. Re1 Qxa2 43. Qxe2 Qb3 44. Qe5 Qg3 45. Kh1 Qxh4+ 46. Kg1 Qg4 47. Qg5 Qxg5 48. fxg5 Kg7 49. Rf1 Kf8 50. Ra1 Ke7 51. Rxa5 Ke6 52. Ra7 Ke5 53. Re7+ Kf5 0-1
+

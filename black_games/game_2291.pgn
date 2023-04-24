@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WKwuu6N3"]
+[Date "2020.12.24"]
+[White "Ayo_12-mate"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "07:38:23"]
+[WhiteElo "1985"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 Nc6 5. Ne4 Bf5 6. Ng3 Bg6 7. c3 e6 8. Nf3 Bd6 9. Bd3 Bxd3 10. Qxd3 Qd7 11. Bg5 f6 12. Bd2 O-O-O 13. Ne4 Rhe8 14. O-O e5 15. b4 exd4 16. cxd4 Qg4 17. Nxd6+ Rxd6 18. a4 Ncxb4 19. Bxb4 Nxb4 20. Qc4 Nd5 21. Rfc1 Rc6 22. Qb5 Rxc1+ 23. Rxc1 Rd8 24. a5 Qf4 25. a6 Qxc1+ 0-1
+

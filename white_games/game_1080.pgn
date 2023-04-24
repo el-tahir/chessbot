@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZgHjc4OS"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "Esenaman"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "10:02:25"]
+[WhiteElo "1999"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 f5 5. f4 fxe4 6. dxe4 Bd6 7. Nf3 Nc6 8. Qd3 Bg4 9. fxe5 Nxe5 10. Nxe5 Bxe5 11. Bf4 Bxe2 12. Qb5+ Bxb5 0-1
+

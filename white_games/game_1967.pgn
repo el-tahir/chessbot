@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/W1SZeN5C"]
+[Date "2021.01.14"]
+[White "EltahirAmin"]
+[Black "ethanhondou"]
+[Result "1-0"]
+[UTCDate "2021.01.14"]
+[UTCTime "16:08:23"]
+[WhiteElo "1931"]
+[BlackElo "1362"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nf6 4. d4 Nc6 5. Bb5 Bg4 6. dxe5 dxe5 7. Qe2 Bb4 8. Bd2 O-O 9. O-O-O Nd4 10. Qe3 Bxc3 11. Bxc3 Nxb5 12. Rxd8 Nxc3 13. Rxf8+ Rxf8 14. Qxc3 Be6 15. b3 Nxe4 16. Qe3 f5 17. Nxe5 c5 18. f3 Nd6 19. Qxc5 Nc8 20. Rd1 b6 21. Qxf8+ Kxf8 22. c4 Nd6 23. Nc6 Ne4 24. Rd7 g5 25. Kc2 f4 26. Kd3 Nf2+ 27. Kd4 Nd1 28. Ke5 Bf7 29. Kf6 Nc3 30. Ne5 b5 31. c5 b4 32. Nc4 a5 33. Nd6 Nb5 34. Rd8+ Be8 35. Rxe8# 1-0
+

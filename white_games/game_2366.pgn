@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4AjyrDX7"]
+[Date "2020.12.21"]
+[White "EltahirAmin"]
+[Black "Betsede"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "08:40:10"]
+[WhiteElo "1989"]
+[BlackElo "1996"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. Nf3 Nf6 5. d4 Bd6 6. Bd3 O-O 7. O-O Bg4 8. Bg5 Re8 9. h3 Bh5 10. g4 Bg6 11. Bxg6 hxg6 12. Qd3 c6 13. Rae1 Nbd7 14. Ne2 Qc7 15. Bh4 Ne4 16. c4 Ndf6 17. g5 Nh5 18. Rc1 dxc4 19. Rxc4 Nf4 20. Nxf4 Bxf4 21. Re1 f5 22. gxf6 Nxf6 23. Rxe8+ Rxe8 24. Qxg6 Qf7 25. Qf5 Qxc4 26. Qxf4 Qf7 27. Ne5 Qe6 28. Kh2 Nh5 29. Qg5 Nf6 30. Qg6 Nd5 31. Qg3 Rf8 32. Bg5 Qf5 33. Bh4 Qf4 34. a4 Qxg3+ 35. Bxg3 Nf4 36. a5 Ne2 37. Ng6 Rd8 38. Be5 Nxd4 39. Kg3 Nf5+ 40. Kf4 Nh6 41. Ke3 Re8 42. f4 Nf5+ 43. Ke4 Nd6+ 44. Kd4 Nb5+ 45. Kc5 Kf7 46. b4 Kxg6 47. a6 bxa6 48. Kxc6 Rxe5 49. fxe5 Kf5 50. Kd5 Nc7+ 51. Kd6 Ne6 52. h4 g5 53. hxg5 1-0
+

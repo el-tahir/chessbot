@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4kxdtf4Q"]
+[Date "2020.05.17"]
+[White "LexaPuma"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.17"]
+[UTCTime "11:51:13"]
+[WhiteElo "1993"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bg5 Bg4 6. c4 e6 7. Nc3 Be7 8. cxd5 Nxd5 9. Bxe7 Nxe7 10. Be2 O-O 11. O-O Nbc6 12. h3 Bh5 13. Qd3 Qb6 14. Rab1 Rfd8 15. Rfd1 Rac8 16. Qe3 Nf5 17. Qe4 Bxf3 18. Bxf3 Nfxd4 19. Qg4 Nxf3+ 20. Qxf3 Nd4 21. Qe3 Nc2 22. Qg3 Nd4 23. Kh2 Nf5 24. Qg4 Qxf2 25. Rf1 Qh4 26. Qxh4 Nxh4 27. Nb5 a6 28. Nc3 Rd2 29. Rg1 Nf3+ 30. Kg3 Nxg1 31. Rxg1 Rxb2 32. Ne4 Rxa2 33. Rf1 Rcc2 34. Nd6 Rxg2+ 35. Kf3 b5 36. Ke4 Rae2+ 37. Kd4 Rd2+ 38. Kc5 g6 39. Nxf7 Rgf2 40. Rxf2 Rxf2 41. Ne5 Rf5 42. Kd6 Rxe5 43. Kxe5 b4 44. Kxe6 b3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5Erzu5b4"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "Trol2016"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "22:50:11"]
+[WhiteElo "2019"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Bc4 O-O 7. O-O a6 8. a4 c5 9. Nde2 Nc6 10. f4 Bg4 11. Qe1 Bxe2 12. Qxe2 Nd4 13. Qf2 Rb8 14. Be3 Nc6 15. Rad1 Qb6 16. b3 Qb4 17. Nd5 Nxd5 18. Bxd5 Qb6 19. f5 Nb4 20. Qg3 Bf6 21. Bc4 Bd4 22. Bxd4 cxd4 23. f6 g6 24. Qg5 Kh8 25. Qh6 d3+ 26. Kh1 Rg8 27. cxd3 Qc7 28. Rf3 Qd8 29. Rdf1 Nc6 30. Rh3 1-0
+

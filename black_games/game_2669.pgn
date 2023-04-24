@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ti8QntGj"]
+[Date "2020.12.13"]
+[White "masterofpin"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "11:07:53"]
+[WhiteElo "1824"]
+[BlackElo "1920"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Bg4 7. Qb3 e6 8. cxd5 exd5 9. Bxf6 Qxf6 10. Nxd5 Qxd4 11. Nc7+ Kd8 12. Ne2 Bb4+ 13. Nc3 Kxc7 14. Be2 Rhe8 15. O-O Bxe2 16. Rfe1 Ba6 17. Nd5+ Kd7 18. Red1 Bc4 19. Qh3+ Re6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pw2p2hNR"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "Fischer95"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "10:31:02"]
+[WhiteElo "1982"]
+[BlackElo "1980"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 Nxc6 5. d4 Nxd4 6. Nf3 Nxf3+ 7. Qxf3 e5 8. Bc4 Bg4 9. Qxb7 Bd6 10. Qxf7# 1-0
+

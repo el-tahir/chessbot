@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tOFvaFTE"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "mave_chess"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "22:53:31"]
+[WhiteElo "1973"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B28"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 d6 4. d4 Nc6 5. d5 Nb8 6. e5 e6 7. Bf4 dxe5 8. Nxe5 Nf6 9. Bc4 b5 10. Be2 Nxd5 11. Bg3 Be7 12. Qd2 Nxc3 13. Qxc3 Bf6 14. Rd1 Qc7 15. O-O Bb7 16. Qe3 O-O 17. Ng6 Qa5 18. Nxf8 Kxf8 19. Qxc5+ Be7 20. Bd6 Qd8 21. Rd2 Bxd6 22. Rxd6 Qe7 23. Rd8# 1-0
+

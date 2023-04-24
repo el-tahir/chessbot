@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KXIQnkyN"]
+[Date "2020.12.21"]
+[White "vlada971"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "11:21:54"]
+[WhiteElo "1970"]
+[BlackElo "1973"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. c3 d5 5. Nxe5 Bd7 6. Nxd7 Qxd7 7. e5 Ne4 8. d4 Qf5 9. O-O Be7 10. Nd2 Ng5 11. f4 Ne4 12. Nxe4 Qxe4 13. Bxc6+ bxc6 14. Qa4 O-O 15. Qxc6 f6 16. Qe6+ Rf7 17. Bd2 Rf8 18. Rae1 Qd3 19. Bc1 Kh8 20. Qxd5 fxe5 21. Rd1 Rxf4 22. Rxf4 Qxd1+ 23. Kf2 Rxf4+ 24. Bxf4 exf4 25. Qa8+ 1-0
+

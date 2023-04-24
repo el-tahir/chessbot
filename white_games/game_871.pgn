@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X8F7gwwX"]
+[Date "2021.11.10"]
+[White "EltahirAmin"]
+[Black "crescenciosanjur24"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "05:22:36"]
+[WhiteElo "2042"]
+[BlackElo "2041"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 d4 4. Ne2 c5 5. d3 Nf6 6. Bg5 Be7 7. Qd2 O-O 8. h4 Nc6 9. O-O-O e5 10. Ng3 Bg4 11. Be2 Nd7 12. Nf5 Bxf5 13. exf5 f6 14. Bh6 Rf7 15. g4 gxh6 16. g5 hxg5 17. hxg5 fxg5 18. Kb1 Rg7 19. Rdg1 g4 20. Qh6 Nf6 21. Ng5 Rxg5 22. Qxg5+ Kh8 23. Bxg4 Qd7 24. Qh6 Rg8 25. Bh5 Rg7 26. Bg6 Bf8 27. Rh4 Qe7 28. Rgh1 Rxg6 29. fxg6 Bxh6 30. Rxh6 e4 31. Re1 e3 32. fxe3 dxe3 33. Rh3 Nd4 34. Rhxe3 Qg7 35. gxh7 Qxh7 36. a3 Qf5 37. Rg1 Ng4 38. Rh3+ 1-0
+

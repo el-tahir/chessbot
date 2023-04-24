@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Akb1WS4S"]
+[Date "2020.12.24"]
+[White "EltahirAmin"]
+[Black "Meyzler_Boris"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "07:43:54"]
+[WhiteElo "1982"]
+[BlackElo "2089"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 Bb4 7. Bb5 Qa5 8. O-O Nxd4 9. Qxd4 Bxc3 10. bxc3 Qxb5 11. Bxf6 gxf6 12. Qxf6 Rg8 13. e5 b6 14. Rfd1 Bb7 15. g3 Qc6 0-1
+

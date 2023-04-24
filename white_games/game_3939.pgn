@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q2AEAJQx"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "ARIEFZEIN"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "09:14:46"]
+[WhiteElo "2037"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. g3 Nc6 5. Bg2 Bf5 6. Nf3 e6 7. O-O Be7 8. d4 a6 9. Be3 h5 10. h4 1-0
+

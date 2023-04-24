@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pvcXJlDW"]
+[Date "2020.11.08"]
+[White "motho"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "20:36:25"]
+[WhiteElo "1880"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. Bb5 Bg7 5. d3 a6 6. Bc4 Nf6 7. Bg5 d6 8. Qd2 Bh6 9. Bxh6 1-0
+

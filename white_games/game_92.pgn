@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gEPVgt4j"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "TenFeetTall"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "21:53:09"]
+[WhiteElo "1959"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Qe2 e6 7. Nf3 Be7 8. O-O O-O 9. Bf4 Nxe4 10. Qxe4 Nf6 11. Qe2 Bd6 12. Ne5 Bxe5 13. dxe5 Nd5 14. Bg3 Qb6 15. b3 Qc7 16. Qe4 g6 17. h4 b6 18. h5 Bb7 19. h6 c5 20. Qh4 Qe7 21. Qh2 Rad8 22. Rad1 Nb4 23. Bh4 g5 24. Qg3 f6 25. exf6 Rxf6 26. Bxg5 Rg6 27. Bxg6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DWPwblec"]
+[Date "2021.02.23"]
+[White "SunnyDUp"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "01:59:54"]
+[WhiteElo "1961"]
+[BlackElo "1936"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bh7 6. f4 e6 7. Nc3 c5 8. dxc5 Bxc5 9. Bd3 Bxd3 10. Qxd3 Nc6 11. Bd2 Qb6 12. O-O-O Rc8 13. Na4 Nb4 14. Qb3 Bxg1 15. Nxb6 Nxa2+ 16. Qxa2 Bxb6 17. Qa4+ Kf8 18. Bb4+ 1-0
+

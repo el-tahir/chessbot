@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MTDMsCaL"]
+[Date "2021.02.17"]
+[White "EltahirAmin"]
+[Black "Real-Toca"]
+[Result "1-0"]
+[UTCDate "2021.02.17"]
+[UTCTime "16:36:49"]
+[WhiteElo "1987"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. h4 e5 7. Be3 Ng4 8. Qd2 Be7 9. Nf3 Qd6 10. Ne4 Qg6 11. Bd3 Nxe3 12. Qxe3 Qxg2 13. Rg1 Qh3 14. O-O-O Bg4 15. Rg3 exd4 16. Qxd4 Qxg3 17. Nxg3 Bxf3 18. Qxg7 Rf8 19. Re1 Nd7 20. Nf5 O-O-O 21. Nxe7+ Kb8 22. Qh6 a6 23. Qd6+ Ka7 24. Qd4+ Nb6 25. Qc3 Rfe8 26. Nf5 Rxe1+ 27. Qxe1 Nd5 28. b3 Bg4 29. Kb2 Bxf5 30. Bxf5 1-0
+

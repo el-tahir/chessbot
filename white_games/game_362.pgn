@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QSLWByr2"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "Ldcc1"]
+[Result "1-0"]
+[UTCDate "2022.07.24"]
+[UTCTime "19:36:28"]
+[WhiteElo "1991"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Nf3 O-O 8. Bd3 Bg4 9. Be3 Nd7 10. h3 Bh5 11. g4 Bg6 12. h4 Re8 13. h5 Bxd3 14. Qxd3 Qc7 15. g5 fxg5 16. Nxg5 g6 17. hxg6 hxg6 18. O-O-O Bf4 19. Nxf7 Kxf7 20. Rh7+ Kf6 21. Rg1 g5 22. Rgh1 Bxe3+ 23. fxe3 Ne5 24. R1h6+ Ng6 25. Qxg6# 1-0
+

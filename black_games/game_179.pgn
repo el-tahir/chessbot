@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/60ChAteT"]
+[Date "2022.11.24"]
+[White "Ineedcoffeee"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.11.24"]
+[UTCTime "14:36:39"]
+[WhiteElo "1985"]
+[BlackElo "1984"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 c5 7. Bg5 Qc7 8. e6 f6 9. Qg6+ Kd8 10. Qf7 Nh6 11. Bxh6 gxh6 12. Nf3 cxd4 13. O-O Nc6 14. Rd1 Kc8 15. Nxd4 Nxd4 16. Rxd4 Qd8 17. Nc3 b6 18. Nb5 Kb7 19. c4 Qe8 20. Qxe8 Rxe8 21. cxd5 a6 22. Nc3 Rc8 23. Rad1 f5 24. Ne2 Bg7 25. R4d3 Be5 26. f4 Bd6 27. Nd4 Bxf4 28. Nxf5 Bd6 29. Nxd6+ exd6 30. Rf1 b5 31. Rf7+ Kb6 32. e7 Rce8 33. Re3 Rhg8 34. Re6 Kc5 35. Rxh6 Kxd5 36. Rxh5+ Ke6 37. Rfh7 Rxe7 38. R5h6+ Kd7 39. Kf2 Rgg7 40. Rxg7 Rxg7 41. Rf6 Rg4 42. g3 Rc4 43. Rf7+ Ke6 44. Ra7 Rc6 45. h5 Kf6 46. Rh7 Rc2+ 47. Kf3 Rxb2 48. Rh6+ Ke5 49. Rg6 Rxa2 50. h6 Ra3+ 51. Kg4 Ra4+ 52. Kh5 Kf5 53. Rg4 Rxg4 54. h7 Rxg3 55. h8=Q Rh3# 0-1
+

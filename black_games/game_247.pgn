@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KOovLv95"]
+[Date "2022.10.04"]
+[White "ElMassry"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.10.04"]
+[UTCTime "01:21:34"]
+[WhiteElo "2029"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d3 d5 3. Nf3 Bg4 4. h3 Bh5 5. g4 Bg6 6. Nh4 e6 7. Nxg6 hxg6 8. Bg2 Bd6 9. Qe2 Nd7 10. exd5 cxd5 11. Bxd5 Ngf6 12. Bxb7 Rb8 13. Bc6 Qb6 14. Bxd7+ Nxd7 15. Nc3 Ne5 16. Ne4 Bc7 17. Rb1 Qa5+ 18. Nc3 Rb6 19. Be3 Rxb2 20. Bd2 Rxb1+ 21. Nxb1 Qxa2 22. O-O Rxh3 23. d4 Qd5 24. f3 Nxf3+ 25. Rxf3 Qxf3 26. Qb5+ Kf8 27. Bb4+ Kg8 28. Qe8+ Kh7 0-1
+

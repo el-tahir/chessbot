@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9VxUND22"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Satyam_1234"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "06:48:56"]
+[WhiteElo "2005"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 e5 4. Be3 exd4 5. Bxd4 Nf6 6. Qd2 O-O 7. h4 Re8 8. f3 d5 9. O-O-O dxe4 10. fxe4 h5 11. e5 Nd5 12. Nf3 Nxc3 13. Qxc3 Nc6 14. Bc4 Qe7 15. Ng5 Nxd4 16. Nxf7 Ne2+ 17. Bxe2 Qxf7 18. Rhf1 Qe7 19. Bc4+ Be6 20. g4 Bxc4 21. Qxc4+ Qe6 22. Qxc7 Bxe5 23. Qxb7 Reb8 24. Qf3 Bxb2+ 25. Kd2 Rd8+ 26. Qd3 Rxd3+ 27. cxd3 Qxg4 28. Rb1 Bg7 29. Rb7 Bh6+ 30. Kc2 Rc8+ 31. Kb1 Qe2 32. Rc1 0-1
+

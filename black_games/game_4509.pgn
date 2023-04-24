@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O8QKJmdz"]
+[Date "2020.05.12"]
+[White "oriol6_10"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "10:25:11"]
+[WhiteElo "2007"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. d4 e6 6. Be2 c5 7. exd5 cxd4 8. Qxd4 Nf6 9. Bg5 Be7 10. O-O-O Nxd5 11. Bxe7 Qxe7 12. Bb5+ Nc6 13. Nxd5 exd5 14. Bxc6+ bxc6 15. Rhe1 Qxe1 16. Rxe1+ 1-0
+

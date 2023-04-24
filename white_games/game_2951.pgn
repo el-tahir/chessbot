@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5hQYEwzi"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "SlavaGl"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "10:35:30"]
+[WhiteElo "1917"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Be2 c6 6. Be3 Nbd7 7. Qd2 Ng4 8. Bf4 e5 9. dxe5 dxe5 10. Bg3 Qc7 11. h3 Ngf6 12. O-O-O O-O 13. h4 Nh5 14. Bh2 Nf4 15. Bxf4 exf4 16. h5 g5 17. h6 Bf6 18. Bc4 Ne5 19. Nxe5 Qxe5 20. g3 b5 21. Bb3 b4 22. Na4 f3 23. c3 g4 24. cxb4 Bg5 25. Qxg5+ Qxg5+ 26. Kb1 Be6 27. Bc2 a5 28. b5 cxb5 29. Nc3 Bc4 30. Nd5 Rfd8 31. Nf4 a4 32. Rde1 b4 33. Rh5 Qe7 34. Rh4 b3 35. Rxg4+ Kh8 36. axb3 axb3 37. Bd1 Qxe4+ 38. Kc1 Be2 39. Nxe2 Qxg4 40. Nf4 Ra1# 0-1
+

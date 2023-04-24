@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/evfIuRQW"]
+[Date "2020.05.07"]
+[White "Cesar1957"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.07"]
+[UTCTime "19:23:10"]
+[WhiteElo "2053"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bg4 6. f3 Bh5 7. c5 e6 8. Bf4 a6 9. b4 Nc6 10. a3 Be7 11. Bd3 O-O 12. Nge2 b6 13. O-O bxc5 14. bxc5 Qa5 15. Qc2 Bg6 16. Bxg6 hxg6 17. Na4 Nh5 18. Be3 Rab8 19. Nb6 Rfd8 20. g4 Nf6 21. f4 Ne4 22. f5 Rxb6 23. cxb6 Qxb6 24. fxe6 fxe6 25. Rab1 Qc7 26. Bf4 Qd7 27. Ng3 Nxd4 28. Qd3 Bc5 29. Be3 Nxg3 30. hxg3 e5 31. Qxg6 Qa4 32. Rb7 Ne2+ 33. Kh2 Bf8 34. Rxf8+ 1-0
+

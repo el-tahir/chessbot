@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t92Z5A4E"]
+[Date "2021.10.12"]
+[White "EltahirAmin"]
+[Black "AKTosposo_13_Rizal"]
+[Result "0-1"]
+[UTCDate "2021.10.12"]
+[UTCTime "03:24:41"]
+[WhiteElo "2104"]
+[BlackElo "2093"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d5 6. Be3 Bb4 7. exd5 exd5 8. Qd3 Nge7 9. a3 Bxc3+ 10. Qxc3 O-O 11. Bd3 Be6 12. O-O Rc8 13. Qd2 Qd7 14. Qe2 Nf5 15. Nxe6 Qxe6 16. Rfe1 d4 17. Bd2 Qd5 18. Qh5 g6 19. Qg5 Ne5 20. Bxf5 f6 21. Qg3 Rc7 22. Re2 Rg7 23. Rae1 gxf5 24. Qh3 Nc4 25. Bh6 Ne5 26. Bxg7 Kxg7 27. Qxf5 Rf7 28. f4 Nf3+ 29. gxf3 Qxf5 30. Rg2+ Kf8 31. Rg4 Qxc2 32. Kh1 Rg7 33. Reg1 Rxg4 34. fxg4 Qxb2 35. Rg2 Qxa3 36. h3 d3 37. g5 fxg5 38. fxg5 d2 39. Rg1 Qxh3# 0-1
+

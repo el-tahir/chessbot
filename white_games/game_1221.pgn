@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ASDYf5yI"]
+[Date "2021.03.07"]
+[White "EltahirAmin"]
+[Black "JoraDeribasov"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "18:17:55"]
+[WhiteElo "2084"]
+[BlackElo "2077"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e5 3. d4 Nf6 4. dxe5 Nxe4 5. Bd3 Nc5 6. exd6 Nxd3+ 7. Qxd3 Bxd6 8. O-O O-O 9. Ng5 g6 10. Ne4 Bf5 11. Nbc3 Qh4 12. g3 Qd8 13. Bh6 Re8 14. Bg5 Be7 15. Bxe7 Qxe7 16. Rae1 Nc6 17. Qf3 Bh3 18. Nf6+ 1-0
+

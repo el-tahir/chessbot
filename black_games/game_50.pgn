@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rK04U0o7"]
+[Date "2023.03.05"]
+[White "julioazorpad"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2023.03.05"]
+[UTCTime "18:24:54"]
+[WhiteElo "1994"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Bb5+ Nc6 6. Nf3 e6 7. Ne5 Bd7 8. Nxd7 Qxd7 9. O-O Bd6 10. h3 Rc8 11. Ne2 a6 12. Bxc6 Rxc6 13. c3 Bb8 14. Ng3 Bxg3 15. fxg3 Ne4 16. Qd3 Qd6 17. Bf4 Qe7 18. Be5 O-O 19. h4 Rb6 20. b4 Rc6 21. Rac1 Rc4 22. Rf3 Rfc8 23. Qe3 Rxc3 24. Rxc3 Rxc3 25. Qf4 Rxf3 26. gxf3 Nf6 27. Bxf6 Qxf6 28. Qxf6 gxf6 29. Kf2 b5 30. Ke3 Kg7 31. Kf4 Kg6 32. g4 h5 33. a3 hxg4 34. fxg4 f5 35. gxf5+ exf5 36. h5+ Kxh5 37. Kxf5 Kh4 38. Ke5 Kg4 39. Kxd5 f5 40. Kc6 f4 41. d5 f3 42. d6 f2 43. d7 f1=Q 44. d8=Q Qc4+ 45. Kb6 Qe6+ 46. Ka5 Kf5 47. Qb6 Qc8 48. Qxa6 Qxa6+ 49. Kxa6 Ke5 50. Kxb5 Kd6 51. a4 Kc7 52. a5 Kb8 53. a6 Ka8 54. Kb6 Kb8 55. b5 Ka8 56. Ka5 Kb8 57. b6 Ka8 58. Kb5 Kb8 59. Kc6 Ka8 1/2-1/2
+

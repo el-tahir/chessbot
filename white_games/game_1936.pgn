@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M09CJK26"]
+[Date "2021.01.19"]
+[White "EltahirAmin"]
+[Black "boggus"]
+[Result "1-0"]
+[UTCDate "2021.01.19"]
+[UTCTime "15:22:21"]
+[WhiteElo "1951"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bc4 d6 5. d3 Bg4 6. Be3 Nge7 7. Qd2 Bxe3 8. Qxe3 Bxf3 9. gxf3 Na5 10. f4 Nxc4 11. dxc4 Nc6 12. O-O-O a6 13. Nd5 Ne7 14. Rhg1 Nxd5 15. exd5 Qe7 16. Rxg7 O-O-O 17. fxe5 dxe5 18. Re1 Qf6 19. Qxe5 Qh4 20. Rxf7 Qxc4 21. f4 Qxa2 22. Qxc7# 1-0
+

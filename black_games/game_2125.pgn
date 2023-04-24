@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NyGBEO96"]
+[Date "2020.12.30"]
+[White "Kanga"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "12:47:51"]
+[WhiteElo "2063"]
+[BlackElo "1993"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Be3 Bb4+ 7. Nc3 O-O 8. Qh5 Qf6 9. Ne2 d6 10. a3 Bxc3+ 11. Nxc3 Nc6 12. g3 b6 13. O-O-O Bb7 14. Bd3 Na5 15. e5 dxe5 16. fxe5 Qxe5 17. Bf4 Qxh5 0-1
+

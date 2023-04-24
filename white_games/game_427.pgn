@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FiWMcNVA"]
+[Date "2022.06.01"]
+[White "EltahirAmin"]
+[Black "wholearthealing"]
+[Result "0-1"]
+[UTCDate "2022.06.01"]
+[UTCTime "01:17:32"]
+[WhiteElo "2032"]
+[BlackElo "2028"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6 8. Qe2 Ngf6 9. O-O Bd6 10. Bg5 Bxg3 11. hxg3 Qb6 12. c3 O-O-O 13. Rfb1 Bxd3 14. Qxd3 e5 15. a4 e4 16. Qc4 exf3 17. a5 Qb5 18. Qxf7 Qxg5 19. b4 h5 20. c4 h4 21. b5 hxg3 22. bxc6 gxf2+ 23. Kxf2 Qxg2+ 24. Ke3 Qe2+ 25. Kf4 Rh4+ 26. Kg3 Qg2+ 27. Kxh4 Rh8+ 0-1
+

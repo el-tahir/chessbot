@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Mrxq9NO4"]
+[Date "2020.10.13"]
+[White "EltahirAmin"]
+[Black "baxa2020"]
+[Result "1-0"]
+[UTCDate "2020.10.13"]
+[UTCTime "11:48:58"]
+[WhiteElo "2005"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 g6 6. f4 Bg7 7. Nf3 O-O 8. Bc4 b5 9. Bb3 a5 10. a4 Na6 11. O-O Bb7 12. Be3 Nb4 13. c4 bxc4 14. Bxc4 Nbd5 15. Bd2 Ba6 16. Rc1 Qb6 17. b3 Bxc4 18. Rxc4 Rab8 19. Ne5 Qxb3 20. Qe2 Nb4 21. Rfc1 Qxa4 22. Nxc6 Nxc6 23. Rxa4 Nb4 24. Rxa5 e6 25. Rb1 Nfd5 26. Rb5 Rxb5 27. Qxb5 Nc2 28. Ne2 Nxd4 29. Nxd4 Bxd4+ 30. Kh1 Rc8 31. Rc1 Ra8 32. Qc4 Bf6 33. g4 Ra2 34. Qxa2 1-0
+

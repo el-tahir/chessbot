@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cAfaBrLP"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "latfkar"]
+[Result "1-0"]
+[UTCDate "2020.12.18"]
+[UTCTime "10:11:52"]
+[WhiteElo "1951"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. d4 dxe4 5. Ng5 Bb4 6. Bd2 Bxc3 7. Bxc3 O-O 8. Bc4 h6 9. Nh3 c5 10. O-O Nc6 11. dxc5 Qxd1 12. Raxd1 Bd7 13. Bxf6 gxf6 14. Rxd7 1-0
+

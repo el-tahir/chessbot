@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w7AnbbuI"]
+[Date "2021.02.16"]
+[White "EltahirAmin"]
+[Black "matheuschess"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "13:32:18"]
+[WhiteElo "1970"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. d4 dxe4 5. Ng5 cxd4 6. Qb3 d3 7. Qxf7+ Kd7 8. Qd5+ Ke8 9. Qf7+ Kd7 10. g3 Nf6 11. Bh3+ Kc7 12. Bxc8 Rxc8 13. Ne6+ 1-0
+

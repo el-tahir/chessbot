@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6NwwmdfT"]
+[Date "2021.11.21"]
+[White "EltahirAmin"]
+[Black "Pofuduk_Tavsan"]
+[Result "1-0"]
+[UTCDate "2021.11.21"]
+[UTCTime "22:15:39"]
+[WhiteElo "2065"]
+[BlackElo "2051"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qb6 6. Nb3 Nge7 7. Be3 Qd8 8. Nb5 Ng6 9. Bd3 a6 10. Nc3 Bb4 11. O-O O-O 12. Kh1 Nge5 13. f4 Nxd3 14. cxd3 d5 15. exd5 exd5 16. d4 Bf5 17. g4 Bxc3 18. bxc3 Be4+ 19. Kg1 Rc8 20. Nc5 b6 21. Nxe4 dxe4 22. Qc2 Re8 23. Qg2 Na5 24. f5 Rxc3 25. Bh6 Qxd4+ 26. Kh1 gxh6 27. f6 e3 28. Qh3 Qe4+ 29. Kg1 Rc2 30. Rf3 Qd4 31. Qxh6 e2+ 32. Kh1 Qxg4 33. Rg1 Qxg1+ 34. Kxg1 e1=Q+ 35. Rf1 Rg2+ 36. Kxg2 Qe2+ 37. Rf2 Qg4+ 38. Kf1 Rc8 39. Qg7+ Qxg7 40. fxg7 Kxg7 41. Rg2+ Kf8 42. Rd2 Rc1+ 43. Ke2 Rc5 44. Kd3 Nc4 45. Kc3 Nd6+ 46. Kd4 Ne4 47. Rf2 Rb5 48. Rg2 Ra5 49. Rf2 Ke7 50. Rxf7+ 1-0
+

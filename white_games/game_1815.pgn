@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RpiQrZEn"]
+[Date "2021.01.27"]
+[White "EltahirAmin"]
+[Black "makeMeCry"]
+[Result "1-0"]
+[UTCDate "2021.01.27"]
+[UTCTime "22:35:11"]
+[WhiteElo "2042"]
+[BlackElo "2011"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 c6 3. exd5 Nf6 4. d4 Bg4 5. dxc6 Nxc6 6. Be2 e6 7. c3 Bf5 8. Bg5 Bg6 9. Nbd2 Be7 10. O-O Rc8 11. Qb3 Rc7 12. Rad1 O-O 13. Ne5 Nd5 14. Bxe7 Ncxe7 15. f4 f6 16. Nxg6 hxg6 17. Bg4 f5 18. Bf3 Rd7 19. Rfe1 Rf6 20. g3 Qb6 21. Qc2 Rc7 22. Re5 Nb4 23. Qa4 Na6 24. Rde1 Qxb2 25. Nc4 Qxc3 26. Nd6 Nc6 27. Rxe6 Nxd4 28. Bd5 Kh7 29. Qe8 Qc5 30. Rxf6 Ne6+ 31. Kf1 gxf6 32. Bxe6 Qxd6 33. Qg8+ Kh6 34. Bf7 Qd3+ 35. Kg1 Qd4+ 36. Kh1 Rxf7 37. Qxf7 Nb4 38. Qf8+ Kh5 39. Qh8+ Kg4 40. Qh4+ Kf3 41. Qh3 Nd3 42. Rf1+ Ke2 43. Qg2+ Nf2+ 44. Qxf2+ Qxf2 45. Rxf2+ Kxf2 46. h4 b5 47. h5 gxh5 48. Kh2 b4 49. Kh3 a5 50. Kh4 a4 51. Kxh5 b3 52. Kg6 bxa2 53. Kxf6 a1=Q+ 54. Kxf5 Qd4 55. Kg5 Qd7 56. f5 Qe8 57. g4 Qf8 58. Kf4 a3 59. Ke5 a2 60. f6 a1=Q+ 61. Kf5 Qaa8 62. g5 Qad8 63. g6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/28OmSZBX"]
+[Date "2020.10.27"]
+[White "Daniterere"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.27"]
+[UTCTime "00:32:10"]
+[WhiteElo "2023"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Bf4 e6 5. Nf3 c5 6. c3 Qb6 7. b3 Nc6 8. a4 Nge7 9. Be2 Ng6 10. Bg3 cxd4 11. cxd4 Be7 12. O-O O-O 13. Na3 Rac8 14. Nb5 a6 15. Nd6 Bxd6 16. exd6 Nb4 17. Ne5 Bc2 18. Qd2 Bxb3 19. Nd7 Qc6 20. Nxf8 Rxf8 21. Qxb4 Bc4 22. Rac1 b5 23. axb5 axb5 24. Rfe1 f5 25. Be5 f4 26. Bf3 Ra8 27. h3 Ra4 28. Qc5 Qe8 29. Bg4 Nh4 30. Qc7 Ra2 31. Qe7 Qg6 32. Bxe6+ 1-0
+

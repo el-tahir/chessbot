@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cbutu2XZ"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "andrew_vinny"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "01:24:50"]
+[WhiteElo "1945"]
+[BlackElo "1944"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O O-O 7. Bg5 h6 8. Bh4 Nc6 9. c3 Be6 10. Re1 Re8 11. h3 Nh7 12. Bg3 Ng5 13. Ne5 Nxe5 14. Bxe5 f6 15. Bh2 Qd7 16. Qe2 Bd6 17. Bc2 Bxh2+ 18. Kxh2 f5 19. Nd2 Ne4 20. Nf3 g5 21. Ne5 Qd6 22. Qh5 Kg7 23. Qg6+ Kf8 24. Qxh6+ Ke7 25. Bxe4 fxe4 26. Qxg5+ Kf8 27. Kg1 Re7 28. Ng6+ Ke8 29. Qxe7+ Qxe7 30. Nxe7 Kxe7 31. Re3 Rg8 32. Rae1 Kd6 33. Kh2 b6 34. f3 Bf5 35. fxe4 Bxe4 36. Rg3 Rf8 37. Re2 Rf4 38. Rg4 Rf5 39. Rgxe4 dxe4 40. Rxe4 Kd5 41. Re5+ Rxe5 42. dxe5 Kxe5 43. Kg3 c5 44. Kg4 b5 45. h4 b4 46. Kg5 bxc3 47. bxc3 Ke4 48. h5 Kd3 49. h6 Kxc3 50. h7 c4 51. h8=Q+ Kc2 52. Qc8 c3 53. g4 Kb2 54. Kf6 c2 55. g5 c1=Q 56. Qxc1+ Kxc1 57. g6 a5 58. g7 a4 59. g8=Q Kb2 60. Qc4 a3 61. Qb3+ Ka1 62. Qxa3 Kb1 1-0
+

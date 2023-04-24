@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uq2sQibQ"]
+[Date "2020.12.18"]
+[White "EltahirAmin"]
+[Black "Pranipus"]
+[Result "0-1"]
+[UTCDate "2020.12.18"]
+[UTCTime "23:21:38"]
+[WhiteElo "1975"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 Be7 7. Bb5 O-O 8. O-O a6 9. Be2 h6 10. Bh4 d5 11. exd5 exd5 12. f4 Nxd4 13. Qxd4 Bf5 14. Bd3 Bxd3 15. Qxd3 Rc8 16. Rae1 Re8 17. Re5 Ne4 18. Bxe7 Rxe7 19. Rxd5 Qb6+ 20. Kh1 Nf2+ 21. Rxf2 Qxf2 22. Rd8+ Re8 23. Rxe8+ Rxe8 0-1
+

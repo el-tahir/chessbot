@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZPmiEKkK"]
+[Date "2021.01.20"]
+[White "katastrov2800"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.20"]
+[UTCTime "18:10:20"]
+[WhiteElo "1977"]
+[BlackElo "1965"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Bg4 5. Ne5 Nbd7 6. Nxg4 Nxg4 7. e4 h5 8. Nc3 Nb6 9. a4 a5 10. exd5 cxd5 11. O-O Qd7 12. Bf4 h4 13. Nb5 Rc8 14. Bc7 hxg3 15. fxg3 Nc4 16. Qf3 f6 17. Bf4 g5 18. Bc1 Rxh2 19. b3 Nb6 20. Bxg5 Rxc2 21. Bh1 Bg7 22. Rae1 fxg5 23. Qf7+ Kd8 24. Qxg7 Rxh1+ 25. Kxh1 Rh2+ 26. Kg1 Qe6 27. Rf8+ Kd7 28. Rxe6 Kxe6 29. Qxg5 Rf2 30. Rxf2 Nxf2 31. Kxf2 Kd7 32. Qf5+ e6 33. Qf7+ Kc6 34. Qxe6# 1-0
+

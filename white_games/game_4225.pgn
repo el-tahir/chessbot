@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jCGEaXSM"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "chesrasim"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "16:11:21"]
+[WhiteElo "1967"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C48"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Nc6 4. Bb5 Nf6 5. Bxc6 dxc6 6. Nxe5 Qe7 7. d4 Bb4 8. O-O Bxc3 9. bxc3 O-O 10. f3 c5 11. Bg5 b6 12. Nc6 Qd6 13. e5 Qxc6 14. exf6 gxf6 15. Bh6 Re8 16. f4 Bf5 17. h4 Kh8 18. h5 Rg8 19. Qd2 Rae8 20. Rae1 Re4 21. d5 Qe8 22. Rxe4 Qxe4 23. Rf3 Qxf3 0-1
+

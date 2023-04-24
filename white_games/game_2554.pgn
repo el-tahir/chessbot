@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nOAprsT7"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "ANDREASFAJAR2000"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "15:11:56"]
+[WhiteElo "1958"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 g5 2. Nc3 Bg7 3. d4 e6 4. Bc4 d6 5. Nge2 Nc6 6. Be3 a6 7. a4 b6 8. Qd2 h6 9. h4 g4 10. Ng3 h5 11. Bg5 f6 12. Be3 Na5 13. Bd3 Bb7 14. e5 f5 15. Nxf5 exf5 16. Bxf5 Bxg2 17. Bg6+ Kf8 18. Bg5 Qd7 19. Qf4+ Nf6 20. exf6 Bxh1 21. fxg7+ Kxg7 22. Qf6+ Kg8 23. Bf5 Qg7 24. Be6+ Kh7 25. Qf5+ Qg6 26. Qf4 Rhf8 27. Qe3 Rae8 28. d5 c6 29. O-O-O cxd5 30. Nxd5 Rxe6 31. Qxb6 Nc4 32. Qc7+ Rf7 33. Qxc4 Bxd5 34. Qxd5 Re5 35. Qa8 Rxf2 36. Qb8 Qxc2# 0-1
+

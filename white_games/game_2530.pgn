@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/woarObcL"]
+[Date "2020.12.17"]
+[White "EltahirAmin"]
+[Black "Lchess9871"]
+[Result "1-0"]
+[UTCDate "2020.12.17"]
+[UTCTime "16:42:59"]
+[WhiteElo "1950"]
+[BlackElo "1934"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 h6 6. Nxf7 Kxf7 7. Bg6+ 1-0
+

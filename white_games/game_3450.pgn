@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E83j1Uv3"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "crimsoncrusader"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "21:09:31"]
+[WhiteElo "1968"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Nc6 6. Nc3 e6 7. Bf4 Be7 8. Qd2 h6 9. Nge4 Nxe4 10. Nxe4 O-O 11. O-O-O f5 12. Ng3 Bg5 13. Rhe1 Bxf4 14. Qxf4 Qf6 15. Nh5 Qg6 16. Ng3 e5 17. Qc4+ Be6 18. Qb5 Rab8 19. Bc4 Bxc4 20. Qxc4+ Kh8 21. Rd7 f4 22. Ne4 Qxg2 23. b3 Nd4 24. Qxc7 Rbc8 25. Qxe5 Nxc2 26. Kb2 Nxe1 27. h4 Rce8 28. Qc7 Rxe4 29. Qd6 Ree8 30. Qd2 Qe4 31. Qc3 Qe5 32. Rd4 Nf3 33. Rd7 Qxc3+ 34. Kxc3 Rb8 35. Kd3 Ne5+ 36. Ke4 Nxd7 0-1
+

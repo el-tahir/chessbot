@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9ptGC8En"]
+[Date "2020.10.23"]
+[White "Peinkase"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.23"]
+[UTCTime "21:04:56"]
+[WhiteElo "1866"]
+[BlackElo "1901"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Time forfeit"]
+
+1. c4 c6 2. g3 d5 3. cxd5 cxd5 4. Bg2 Nf6 5. d3 Nc6 6. Nf3 Bg4 7. O-O Qd7 8. Nc3 Bh3 9. Bg5 Bxg2 10. Kxg2 e6 11. Bxf6 gxf6 12. Qd2 h5 13. Rac1 Bd6 14. Nb5 Bb8 15. a4 Ke7 16. b4 a6 17. Nbd4 h4 18. Nxh4 Rxh4 19. gxh4 Qd6 20. f4 Nxd4 21. e4 Bc7 22. Rfe1 Rg8+ 23. Kh1 Nf3 24. Qf2 Nxe1 25. Rxe1 Qxf4 26. Qxf4 Bxf4 27. exd5 e5 28. d4 Kd6 29. b5 axb5 30. axb5 Kxd5 31. dxe5 fxe5 32. Rd1+ Ke6 33. Rd3 Rg4 34. h3 Rxh4 35. Kg2 Rh8 36. Rc3 Rg8+ 37. Kf3 Rg3+ 0-1
+

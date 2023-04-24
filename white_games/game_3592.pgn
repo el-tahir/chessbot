@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jTRCvEz3"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "DirkKurzawa"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "12:27:14"]
+[WhiteElo "1960"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 f5 3. exf5 Nf6 4. Nf3 d6 5. Bc4 Bxf5 6. O-O Nc6 7. Re1 Be7 8. d4 exd4 9. Nxd4 Nxd4 10. Qxd4 Qd7 11. Be3 c6 12. Rad1 d5 13. Bb3 O-O 14. Bg5 Rfe8 15. Re5 h6 16. Bxf6 Bxf6 17. Rxd5 cxd5 18. Qf4 Kh8 19. Nxd5 Bxb2 20. c3 Bxc3 21. h3 Be5 22. Qh4 Qd6 23. Ne3 Bh2+ 24. Kf1 Qf4 25. Qxf4 Bxf4 26. Nxf5 g6 27. Nxh6 1-0
+

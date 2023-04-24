@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8KnAYVTC"]
+[Date "2020.12.07"]
+[White "EltahirAmin"]
+[Black "KIKERAYO"]
+[Result "1-0"]
+[UTCDate "2020.12.07"]
+[UTCTime "15:42:30"]
+[WhiteElo "1862"]
+[BlackElo "1857"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d6 3. Nc3 Nd7 4. d4 a6 5. Bd3 Rb8 6. Be3 Ngf6 7. a4 Qc7 8. a5 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. O-O Bd6 12. Ne2 O-O 13. f4 Nd7 14. Qe1 f6 15. Qh4 Qd8 16. Bc4+ Kh8 17. Rf3 f5 18. Qh5 Nf6 19. Qh4 Nxe4 20. Qh3 Nd2 21. Bxd2 e4 22. Rg3 b5 23. Bc3 Rb7 24. Ba2 c5 25. Qh5 b4 26. Rh3 h6 27. Qxh6# 1-0
+

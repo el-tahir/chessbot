@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3NeRI93W"]
+[Date "2021.10.12"]
+[White "EltahirAmin"]
+[Black "mangatta"]
+[Result "1-0"]
+[UTCDate "2021.10.12"]
+[UTCTime "23:37:14"]
+[WhiteElo "2041"]
+[BlackElo "2066"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qe7 3. Nc3 c6 4. d4 d6 5. Bc4 f6 6. Be3 Be6 7. d5 Bf7 8. Qd2 b5 9. Bb3 b4 10. Na4 c5 11. Bc4 Qb7 12. Nh4 g6 13. f4 Be7 14. fxe5 fxe5 15. O-O Bxh4 16. g3 Be7 17. Rf2 Nf6 18. Raf1 Nbd7 19. Bg5 O-O 20. Bxf6 Bxf6 21. Rxf6 Nxf6 22. Rxf6 Qe7 23. Qg5 Kg7 24. Rxg6+ hxg6 25. Qxe7 Rad8 26. Bb5 Kg8 27. Qxa7 Ra8 28. Qd7 Rfd8 29. Qg4 Rab8 30. Bc6 Kg7 31. h4 Kh7 32. b3 Rg8 33. Qd7 Kg7 34. Qxd6 1-0
+

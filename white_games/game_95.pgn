@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k9qgCRTa"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "Jointkillah"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "15:41:08"]
+[WhiteElo "1947"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 e6 7. Bc4 Nge7 8. Qd2 O-O 9. O-O-O d5 10. exd5 exd5 11. Bb3 Be6 12. Nxc6 bxc6 13. Bh6 Bxh6 14. Qxh6 Nf5 15. Qd2 a5 16. h4 d4 17. Ne4 Bxb3 18. axb3 a4 19. b4 a3 20. bxa3 Rxa3 21. g4 Ra1+ 22. Kb2 Qa8 23. Kb3 Qa3+ 24. Kc4 Rxd1 25. Rxd1 Nxh4 26. Qxd4 Re8 27. Nf6+ Kf8 28. Nxe8 Kxe8 29. Qd8# 1-0
+

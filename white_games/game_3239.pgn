@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UK8fZDou"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "Potanin_A"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:40:23"]
+[WhiteElo "1961"]
+[BlackElo "1961"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-13"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Nxe5 5. d4 Bxd4 6. Qxd4 Qe7 7. Bf4 d6 8. O-O-O f6 9. Nd5 Qf7 10. h4 Nc6 11. Qe3 Kd8 12. Bg3 Nge7 13. f4 Re8 14. e5 Nxd5 15. Rxd5 fxe5 16. fxe5 Nxe5 17. Bxe5 Be6 18. Rd1 Kc8 19. Bh2 Bxa2 20. Qh3+ Be6 21. Qa3 a6 22. Bd3 Qf6 23. h5 Qh6+ 24. Kb1 Kb8 25. Qa4 Rd8 26. Be4 Ka7 27. Bg1+ b6 28. Qc6 Rab8 29. Qxc7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BUzcHH1r"]
+[Date "2021.02.20"]
+[White "EltahirAmin"]
+[Black "IbraDrkn"]
+[Result "1-0"]
+[UTCDate "2021.02.20"]
+[UTCTime "15:47:54"]
+[WhiteElo "1924"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. Bd3 Nf6 5. Nf3 Bd6 6. O-O O-O 7. Bg5 h6 8. Bh4 Bg4 9. Nbd2 c5 10. c3 c4 11. Bc2 Nbd7 12. Rc1 Qc7 13. Bg3 Bxg3 14. hxg3 Rae8 15. Bb1 Re7 16. Qc2 Rfe8 17. Rce1 Rxe1 18. Rxe1 Rxe1+ 19. Nxe1 Qd6 20. Nef3 Qe6 21. Kf1 Bxf3 22. Nxf3 Ne4 23. Qe2 Ndf6 24. Ne5 b5 25. a3 Qf5 26. Nf3 Nxg3+ 27. fxg3 Qxb1+ 28. Kf2 Ne4+ 29. Ke3 Qc1+ 30. Nd2 Qxd2+ 31. Qxd2 Nxd2 32. Kxd2 Kf8 33. Ke3 f5 34. Kf4 g6 35. Ke5 Kf7 36. Kxd5 a6 37. Kc6 Ke8 38. Kc7 g5 39. d5 h5 40. d6 f4 41. d7+ 1-0
+

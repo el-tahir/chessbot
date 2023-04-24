@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1UkhE1yb"]
+[Date "2020.11.09"]
+[White "EltahirAmin"]
+[Black "totalnazo"]
+[Result "0-1"]
+[UTCDate "2020.11.09"]
+[UTCTime "09:11:38"]
+[WhiteElo "1950"]
+[BlackElo "1964"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Nd5 Qh4 8. Ndc7+ Kd7 9. Nxa8 Qxe4+ 10. Be2 Qxg2 11. Rf1 f5 12. Bf3 Qxh2 13. Nac7 a6 14. Nd5 axb5 15. Be3 Nge7 16. Bc5 Nxd5 17. Qxd5 e4 18. Qxf5+ Kc7 19. Qxe4 dxc5 20. O-O-O g6 21. Qe8 Bh6+ 22. Kb1 Rxe8 0-1
+

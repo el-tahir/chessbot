@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UAevsnVU"]
+[Date "2022.05.04"]
+[White "EltahirAmin"]
+[Black "Archristed"]
+[Result "1-0"]
+[UTCDate "2022.05.04"]
+[UTCTime "02:44:48"]
+[WhiteElo "2053"]
+[BlackElo "2045"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D04"]
+[Termination "Normal"]
+
+1. e3 d5 2. d4 Nf6 3. Nf3 c5 4. Ne5 e6 5. c3 Nc6 6. Nd2 Qc7 7. Ndf3 Bd6 8. Nxc6 bxc6 9. Bd3 O-O 10. O-O a5 11. Re1 Ba6 12. Bxa6 Rxa6 13. e4 cxd4 14. Nxd4 Nxe4 15. Qc2 Rb6 16. h3 f5 17. Nxe6 Qd7 18. Nxf8 Bxf8 19. Bf4 Bc5 20. Be3 Qb7 21. b3 Bxe3 22. Rxe3 Qd7 23. f3 Ng3 24. Rae1 Rb8 25. Re7 Qc8 26. Qe2 h6 27. Qe6+ Qxe6 28. R1xe6 Rc8 29. Re8+ Rxe8 30. Rxe8+ Kf7 31. Rc8 Ne2+ 32. Kf2 Nxc3 33. Rxc6 Nxa2 34. Rc5 Nb4 35. Rxa5 Ke6 36. Rb5 g5 37. Rxb4 1-0
+

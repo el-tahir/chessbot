@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g4CvnaTt"]
+[Date "2020.11.15"]
+[White "Buntschuh"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:53:36"]
+[WhiteElo "1954"]
+[BlackElo "1945"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. e4 Nf6 5. exd5 Nxd5 6. d4 Nc6 7. Nf3 Bg4 8. Be2 e6 9. O-O Be7 10. Be3 h5 11. Nxd5 Qxd5 12. Ne5 Bxe2 13. Qxe2 Nxe5 14. dxe5 Qxe5 15. Rac1 O-O 16. Rc3 Rac8 17. Rfc1 Rxc3 18. Rxc3 Bb4 19. Rc4 a5 20. g3 Rd8 21. Qf3 Qxb2 22. Qxb7 Bd2 23. Rc8 Qxb7 24. Rxd8+ Kh7 25. Rxd2 a4 26. Rd1 h4 27. h3 hxg3 28. fxg3 Qf3 29. Bf2 Qxd1+ 0-1
+

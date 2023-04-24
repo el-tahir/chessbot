@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iwrH4x9R"]
+[Date "2020.11.28"]
+[White "EltahirAmin"]
+[Black "TARASIC"]
+[Result "0-1"]
+[UTCDate "2020.11.28"]
+[UTCTime "09:23:33"]
+[WhiteElo "1920"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Bc5 6. Be3 Qb6 7. Na4 Qa5+ 8. c3 Nxd4 9. Bxd4 Bxd4 10. Qxd4 Nf6 11. Bd3 O-O 12. O-O d5 13. e5 Ne4 14. Bxe4 dxe4 15. Qxe4 b5 16. Nc5 Rb8 17. f4 b4 18. Na4 Qxa4 19. c4 Bb7 20. Qd3 Rfd8 21. Qg3 Be4 22. b3 Qa5 23. Rae1 Bf5 24. h4 Qxa2 25. h5 Rd2 26. h6 Bg6 27. f5 exf5 28. Rxf5 Rxg2+ 29. Qxg2 Qxg2+ 30. Kxg2 Bxf5 31. hxg7 Kxg7 32. Ra1 Rb7 33. Kf3 Be6 34. Kf4 h5 35. Rg1+ Bg4 36. Kg5 a5 37. Ra1 Ra7 38. c5 Kf8 39. Kf6 Ra6+ 40. Kg5 Ke7 41. Rd1 Ke6 42. Kf4 Bxd1 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UVuD59I9"]
+[Date "2020.11.19"]
+[White "EltahirAmin"]
+[Black "bernabechizoma"]
+[Result "0-1"]
+[UTCDate "2020.11.19"]
+[UTCTime "17:24:06"]
+[WhiteElo "1952"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 b6 4. Bd3 Bb7 5. Be3 d6 6. Qd2 e6 7. Nc3 Nf6 8. Bh6 O-O 9. Bxg7 Kxg7 10. h4 h6 11. e5 dxe5 12. dxe5 Nd5 13. O-O-O Nxc3 14. Qxc3 Qc8 15. g4 c5 16. Ng5 hxg5 17. hxg5 Nc6 18. Rh6 Qc7 19. f4 Rh8 20. Rdh1 Nd4 21. f5 exf5 22. gxf5 Nxf5 23. e6+ Nd4 24. exf7 Qxf7 25. Rxg6+ Qxg6 26. Bxg6 Rxh1+ 27. Kd2 Rh2+ 28. Ke1 Re2+ 29. Kf1 Rf8+ 30. Kg1 Rg2+ 31. Kh1 Rf1# 0-1
+

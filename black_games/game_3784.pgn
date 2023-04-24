@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W1j6Uj63"]
+[Date "2020.11.03"]
+[White "Aongola"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "17:04:30"]
+[WhiteElo "2029"]
+[BlackElo "2050"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bg5 Nf6 4. e3 e6 5. Bd3 Be7 6. Nbd2 h6 7. Bh4 b6 8. h3 Bb7 9. g4 Nbd7 10. g5 hxg5 11. Bxg5 c5 12. c3 cxd4 13. Nxd4 Ne4 14. Bxe7 Qxe7 15. Bxe4 dxe4 16. Qa4 Kf8 17. O-O-O Ne5 18. Kb1 Nd3 19. Rdf1 Rh5 20. Ne2 Ra5 21. Qd4 Bd5 22. c4 Bb7 23. Nxe4 Rd8 24. Qc3 Bxe4 25. Ng3 Bxh1 26. Rxh1 Nxf2 27. Rg1 Rd1+ 28. Kc2 Rxg1 0-1
+

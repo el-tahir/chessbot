@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YtgVK0jf"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "tolentinointernet"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "14:13:20"]
+[WhiteElo "1931"]
+[BlackElo "2017"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. Qe2 O-O 8. O-O b6 9. Bg5 Bb7 10. Ng3 c5 11. c3 Qc7 12. Rad1 Rad8 13. Rfe1 h6 14. Be3 Nd5 15. Rd2 Nxe3 16. fxe3 Nf6 17. Qf2 Bd6 18. Ne2 Bxf3 19. gxf3 Bxh2+ 20. Qxh2 Qxh2+ 21. Kxh2 cxd4 22. exd4 Nd5 23. Rg1 Ne3 24. Nf4 g5 25. Nh5 f5 26. Bc4 Kf7 27. Bb3 Rfe8 28. Re2 f4 29. Rge1 Kg6 30. Nxf4+ gxf4 31. Rg1+ Kf5 32. Kh3 Rg8 33. Ree1 Rg5 34. Kh4 Rdg8 35. Rh1 Ng2+ 36. Kh3 Rg3+ 37. Kh2 Nxe1 38. Rxe1 Rg2+ 39. Kh1 Rxb2 40. Bxe6+ Kf6 41. Bxg8 Rc2 42. c4 h5 43. Re6+ Kg5 44. Re4 Rxa2 45. d5 Rd2 46. Re6 Kh4 47. d6 Kg3 48. Rg6+ Kxf3 49. Bd5+ Ke3 50. d7 f3 51. d8=Q f2 52. Qe7+ Kd3 53. Rg3+ Kc2 54. Qe4+ Kc1 55. Rc3+ Kd1 56. Qf3+ Ke1 57. Re3+ Kf1 58. Qg2# 1-0
+

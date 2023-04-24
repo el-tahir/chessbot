@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uqExyrsS"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "tato2711"]
+[Result "1-0"]
+[UTCDate "2021.01.28"]
+[UTCTime "16:21:08"]
+[WhiteElo "2032"]
+[BlackElo "2090"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 c5 4. d3 Nc6 5. f4 f5 6. Nf3 fxe4 7. dxe4 Nf6 8. Ng3 Qc7 9. Bc4 e5 10. Ng5 exf4 11. Ne2 Ne5 12. Bxf4 h6 13. Bf7+ Kd8 14. Ne6+ Bxe6 15. Bxe6 Bd6 16. c3 Ke7 17. Bb3 Rad8 18. O-O Nxe4 19. Bxe5 Bxe5 20. Rf7+ Kd6 21. Rxc7 Kxc7 22. cxd4 Bxd4+ 23. Nxd4 Rxd4 24. Qf3 Rhd8 25. Rc1 b6 26. Qf7+ R8d7 27. Qf4+ Kc6 28. Qf1 Nd2 29. Qe1 Nxb3 30. axb3 Rd3 31. Qe4+ Kb5 32. Qa4# 1-0
+

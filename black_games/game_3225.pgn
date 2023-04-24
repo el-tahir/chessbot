@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4F2hi8Hg"]
+[Date "2020.11.14"]
+[White "Feliset"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "23:24:29"]
+[WhiteElo "1952"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Nf3 O-O 8. O-O Nd7 9. Be3 Nb6 10. Bb3 Qc7 11. c3 c5 12. Rc1 c4 13. Bc2 Nd5 14. g3 Re8 15. Bd2 Bg4 16. Kg2 Qd7 17. Re1 Rxe1 18. Qxe1 Re8 19. Be3 f5 20. h3 Bxf3+ 21. Kxf3 f4 22. gxf4 Nxf4 23. Qf1 Ng6 24. Bxg6 fxg6 25. Qg2 Qc6+ 0-1
+

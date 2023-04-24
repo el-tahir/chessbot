@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lBXtOeAq"]
+[Date "2022.07.26"]
+[White "EltahirAmin"]
+[Black "Fabrice29380"]
+[Result "0-1"]
+[UTCDate "2022.07.26"]
+[UTCTime "22:22:19"]
+[WhiteElo "2015"]
+[BlackElo "2168"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Nf3 Nxe4 0-1
+

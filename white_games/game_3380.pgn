@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xs8Ao9qa"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "dantealopez"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "22:01:32"]
+[WhiteElo "1952"]
+[BlackElo "1941"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 Nc6 5. Be3 e5 6. Bd3 f5 7. d5 Nce7 8. Bg5 h6 9. Bd2 f4 10. g3 g5 11. h4 g4 12. Nh2 f3 13. Be3 h5 14. Qd2 Nh6 15. O-O-O Nf7 16. Nf1 a6 17. Bg5 Bd7 18. Bxe7 Qxe7 19. Ne3 Bh6 20. Kb1 Qf6 21. Na4 Bxa4 22. b3 Bd7 23. c4 O-O 24. Rc1 Rfc8 25. Qc3 Bxe3 26. fxe3 Qh6 27. Rce1 b5 28. c5 c6 29. b4 cxd5 30. exd5 dxc5 31. bxc5 a5 32. c6 Qd6 33. e4 b4 34. Qd2 Be8 35. Rc1 a4 36. Rc4 b3 37. a3 Rc7 38. Qb2 Kf8 39. Rhc1 Ke7 40. Rb4 Nd8 41. Qd2 Qf6 42. Qe3 Nf7 43. Qc5+ Nd6 44. Rb7 Rc8 45. Ba6 Kf7 46. Rb4 f2 47. Rxa4 Qf3 48. Qxd6 Re7 49. Qb4 Rcc7 50. Qc3 1-0
+

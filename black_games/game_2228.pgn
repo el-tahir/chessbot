@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VW5RkHvL"]
+[Date "2020.12.27"]
+[White "diverspongers"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:15:53"]
+[WhiteElo "1944"]
+[BlackElo "1954"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 Bg4 4. Nc3 e6 5. cxd5 Bb4 6. Qb3 Bxc3+ 7. bxc3 Nxd5 8. Qxb7 Nd7 9. Bd2 O-O 10. e4 Rb8 11. Qxa7 N5f6 12. Bd3 Qe7 13. O-O Rfc8 14. Qa5 Rb2 15. Bg5 h6 16. Bh4 c5 17. e5 g5 18. Nxg5 hxg5 19. Bxg5 cxd4 20. cxd4 Kg7 21. Rac1 Qd8 22. Qxd8 Rxd8 23. exf6+ Nxf6 24. Bxf6+ Kxf6 25. Bc2 Rxd4 26. a4 Rd2 27. Be4 Be2 28. a5 Bxf1 29. Rxf1 Ra2 30. h4 Rxa5 31. Bf3 e5 32. h5 Kg7 33. g4 Ra4 34. Kg2 e4 35. Bd1 e3 36. Kf3 exf2 37. Be2 Raa2 38. Bc4 Ra3+ 39. Kg2 Re3 40. g5 Re1 41. Rxf2 Rxf2+ 42. Kxf2 Re5 43. h6+ Kg6 44. Bd3+ Kxg5 45. h7 Re8 46. Kg3 Rh8 47. Kf3 f6 48. Kg3 f5 0-1
+

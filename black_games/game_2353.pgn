@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hRfVyg4p"]
+[Date "2020.12.21"]
+[White "Implayingbad"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "11:40:48"]
+[WhiteElo "1972"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 exd6 5. c4 Nb6 6. Nf3 Be7 7. Nc3 O-O 8. Bd3 Bg4 9. O-O Nc6 10. Be3 g6 11. h3 Be6 12. d5 1-0
+

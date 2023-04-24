@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ycqHw7J6"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "CSConstantine"]
+[Result "1/2-1/2"]
+[UTCDate "2020.05.12"]
+[UTCTime "10:11:49"]
+[WhiteElo "1982"]
+[BlackElo "1984"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 Nf6 3. d4 g6 4. Bd3 Bg7 5. Be3 O-O 6. Qd2 Ng4 7. Bf4 c5 8. h3 Nf6 9. Bh6 c4 10. Bxg7 Kxg7 11. Bxc4 Nxe4 12. Qe3 d5 13. Bd3 Nf6 14. h4 h5 15. Ne5 Nc6 16. g4 Nxe5 17. gxh5 Nxd3+ 18. cxd3 Nxh5 19. Rg1 Qd6 20. Nc3 a6 21. Qf3 Nf4 22. h5 Rh8 23. hxg6 fxg6 24. O-O-O Rh3 25. Rg3 Rxg3 26. Qxg3 b5 27. a3 b4 28. axb4 Bf5 29. Qh4 Nxd3+ 30. Kd2 Qf4+ 31. Qxf4 Nxf4 32. Ke3 g5 33. Rg1 Kf6 34. f3 Rb8 35. Rh1 Rxb4 36. Rh6+ Bg6 37. Rh2 a5 38. Rg2 Rb3 39. Rg4 a4 40. Rxf4+ gxf4+ 41. Kxf4 a3 42. Nxd5+ Ke6 43. bxa3 Rxa3 44. Nc7+ Kd6 45. Nb5+ Kd5 46. Nxa3 Kxd4 47. Nc2+ Kc3 48. Ne3 Kd4 49. Ng4 Bh5 50. Ne3 e5+ 51. Kg3 Kxe3 52. Kg2 Bxf3+ 53. Kf1 e4 54. Ke1 Kd3 55. Kf1 e3 56. Ke1 e2 57. Kf2 Kd2 58. Kxf3 e1=Q 59. Kf4 Kd3 60. Kf3 Qe3+ 61. Kg2 Ke4 62. Kh2 Qf2+ 63. Kh3 Qg1 64. Kh4 Kf5 65. Kh3 Qg4+ 66. Kh2 Kf4 67. Kh1 Kf3 68. Kh2 1/2-1/2
+

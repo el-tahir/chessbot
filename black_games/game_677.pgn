@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d6ebzrwH"]
+[Date "2022.04.27"]
+[White "fleakillerh"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.27"]
+[UTCTime "04:38:20"]
+[WhiteElo "2100"]
+[BlackElo "2123"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A16"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. Nc3 d6 3. g3 Bg4 4. Bg2 e5 5. d3 Nc6 6. Nf3 Be7 7. O-O O-O 8. a3 Ne8 9. b4 a6 10. Qb3 f5 11. h3 Bh5 12. Nd5 Qd7 13. Nxe7+ Nxe7 14. c5+ Kh8 15. cxd6 cxd6 16. Nd2 Bxe2 17. Re1 Bh5 18. Nc4 Qe6 19. Bg5 Nc6 20. Qa2 Nd4 21. Be3 Nc6 22. Rac1 Rc8 23. Nb6 Rc7 24. Nd5 Rc8 25. a4 Nf6 26. Nxf6 Qxa2 27. Nxh5 g6 28. b5 axb5 29. axb5 Ne7 30. Bh6 Rxc1 31. Rxc1 Rc8 32. Re1 gxh5 33. d4 Qe6 34. dxe5 dxe5 35. Be3 Nd5 36. Bc1 Rc2 37. Bf1 Qb6 38. Be2 Nc3 39. Be3 Qc7 40. Bxh5 Nxb5 41. Bd1 Rc3 42. Kg2 Qc6+ 43. Bf3 e4 44. Bd1 Rd3 45. Ba4 Qc4 46. Bxb5 Qxb5 47. Rc1 Kg7 48. Rc7+ Kf6 49. h4 Rxe3 50. fxe3 Qe2+ 51. Kh3 Qg4+ 52. Kg2 Qf3+ 53. Kh3 Qxe3 54. Rxb7 Qf3 55. Rb6+ Ke5 56. Rb7 e3 57. Rb5+ Ke4 58. Rb4+ Kd3 59. Rb3+ Kc2 60. Rb2+ Kxb2 0-1
+

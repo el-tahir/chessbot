@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uTkJnQgT"]
+[Date "2021.01.27"]
+[White "Themagician20177"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.27"]
+[UTCTime "22:28:52"]
+[WhiteElo "1986"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. e3 d5 3. Nf3 Nf6 4. h4 Bg4 5. Be2 c5 6. dxc5 e6 7. Nbd2 Bxc5 8. g3 Qb6 9. a3 a5 10. c4 Nc6 11. cxd5 Nxd5 12. O-O O-O 13. Qb3 Qc7 14. Ne4 Ba7 15. Bd2 Rac8 16. Rac1 f5 17. Neg5 Rfe8 18. Kg2 h6 19. Nxe6 Rxe6 20. Qxd5 Re8 21. Bc4 Kh8 22. Qxe6 Rxe6 23. Bxe6 Bxf3+ 24. Kxf3 Qe5 25. Bd7 Qd5+ 26. Ke2 Qxd7 27. Rfd1 Qf7 28. Bc3 Qh5+ 29. Kf1 Qf3 30. Kg1 Bb6 31. Rd7 Bxe3 32. Bxg7+ Kg8 33. Rf1 Qxg3+ 34. Kh1 Qxh4+ 35. Kg2 Qg4+ 36. Kh1 Qf3+ 37. Kh2 Bf4+ 38. Kg1 Qg4+ 39. Kh1 Qh3+ 40. Kg1 Qh2# 0-1
+

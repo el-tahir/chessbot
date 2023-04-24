@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8akpGeRV"]
+[Date "2020.05.10"]
+[White "josyelpro1234"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "19:34:44"]
+[WhiteElo "1927"]
+[BlackElo "1927"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C55"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. O-O Nf6 6. e5 Ne4 7. Re1 Nc5 8. a3 O-O 9. b4 Ne6 10. Bd2 b6 11. b5 Na5 12. Bxa5 bxa5 13. Nxd4 Bb7 14. Nxe6 fxe6 15. Nc3 Qe8 16. Re3 Rd8 17. Rg3 Bc5 18. Qg4 Bxf2+ 0-1
+

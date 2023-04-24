@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N9Se6CTO"]
+[Date "2021.01.21"]
+[White "EltahirAmin"]
+[Black "Antonio_15"]
+[Result "0-1"]
+[UTCDate "2021.01.21"]
+[UTCTime "14:28:41"]
+[WhiteElo "1954"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Bg4 7. Be2 e6 8. O-O cxd4 9. Nxd4 Bxe2 10. Nxe2 Qxd1 11. Rxd1 Bxa3 12. bxa3 O-O 13. Rb1 b6 14. Bg5 Ne4 15. Bd2 Rfd8 16. Rb2 Ne5 17. f3 Nc4 18. fxe4 Nxb2 0-1
+

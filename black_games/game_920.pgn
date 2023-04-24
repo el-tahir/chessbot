@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GuHRD36g"]
+[Date "2021.11.08"]
+[White "ButchoyBookie"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:17:25"]
+[WhiteElo "2088"]
+[BlackElo "2035"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Ng4 5. h3 Nh6 6. d4 g6 7. Bg5 Bg7 8. Qd2 Nf5 9. Ne2 h6 10. Bf4 g5 11. Be3 e6 12. Ng3 Nxg3 13. fxg3 Nd7 14. Bd3 Nb6 15. b3 Qe7 16. O-O O-O 17. Nh2 f5 18. exf6 Rxf6 19. Ng4 Rxf1+ 20. Rxf1 Bd7 21. Ne5 Rf8 22. Qd1 Bxe5 23. dxe5 d4 24. Bxd4 Nd5 25. Qh5 Qg7 26. Rxf8+ Kxf8 27. Bc5+ Kg8 28. c4 Nb4 29. Bb1 Na6 30. Bd4 c5 31. Bc3 Bc6 32. Qd1 Qe7 33. Qd3 Nb4 34. Qg6+ Qg7 35. Qh5 Kf8 36. a3 Na6 37. b4 Be8 38. Qf3+ Kg8 39. Qe3 Bg6 40. Be4 cxb4 41. axb4 Bxe4 42. Qxe4 Qd7 43. b5 Qd1+ 44. Kh2 Nc5 45. Qf3 Qxf3 46. gxf3 Kf7 47. Kg2 Ke7 48. Kf1 Kd7 49. Ke2 Kc7 50. Ke3 Kb6 51. Kd4 a6 52. bxa6 bxa6 53. f4 Nb3+ 54. Kd3 gxf4 55. gxf4 Nc5+ 56. Ke3 a5 57. Kd2 a4 58. Kc2 Ne4 59. Bb2 Kc5 60. f5 Kxc4 61. f6 Ng5 62. h4 Nf7 63. Ba3 Kd5 64. Kc3 h5 65. Kb4 Kxe5 66. Kxa4 Kxf6 67. Bb2+ Kf5 68. Bc1 Kg4 0-1
+

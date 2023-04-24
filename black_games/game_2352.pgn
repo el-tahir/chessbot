@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Xt3NVY8x"]
+[Date "2020.12.21"]
+[White "Jararaca"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.21"]
+[UTCTime "16:01:03"]
+[WhiteElo "1950"]
+[BlackElo "1957"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. c4 e6 5. cxd5 cxd5 6. g4 Bg6 7. h4 h5 8. g5 Nc6 9. Be3 Qb6 10. Qb3 Bb4+ 11. Nd2 Nge7 12. Bd3 Nf5 13. Bxf5 Bxf5 14. Nf3 O-O 15. O-O Rfc8 16. a3 Bxd2 17. Qxb6 axb6 18. Bxd2 Na5 19. b4 Nc4 20. Be1 b5 21. Nd2 Nxa3 22. f4 Rc2 23. Nb1 Be4 24. Rf2 Nxb1 25. Rxa8+ Kh7 26. Rxc2 Bxc2 27. Rb8 Kg6 28. Rxb7 Bd3 29. Kf2 Na3 30. Ke3 Bc4 31. Bc3 Nc2+ 32. Kd2 Na3 33. Kc1 Bd3 34. Ra7 Nc4 35. Rb7 Ne3 36. Kd2 Bc4 37. f5+ Nxf5 38. Ke1 Nxh4 39. Bd2 Nf3+ 40. Kd1 Nxd2 41. Kxd2 Kxg5 42. Rxf7 h4 43. Rxg7+ Kf4 44. Rg6 h3 45. Rxe6 h2 46. Rh6 Kg3 47. e6 Kg2 48. e7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ghmulCO2"]
+[Date "2021.01.06"]
+[White "jonat20"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.06"]
+[UTCTime "11:30:43"]
+[WhiteElo "1881"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 Nf6 4. dxc6 Nxc6 5. c3 Bg4 6. Be2 h5 7. f3 Bf5 8. Bg5 e6 9. Nd2 Be7 10. Bxf6 Bxf6 11. Ne4 Be7 12. Bd3 Qb6 13. Qc2 Rc8 14. Ne2 O-O 15. O-O Bxe4 16. fxe4 Bf6 17. e5 Bxe5 18. Kh1 Bxd4 19. Nxd4 Nxd4 20. Bh7+ Kh8 21. Qe4 Nc6 22. Rf3 Ne7 23. Rh3 g6 24. Bxg6 fxg6 25. Qe5+ Kh7 26. Re1 Qa6 27. Ree3 Qf1# 0-1
+

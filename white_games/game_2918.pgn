@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q273c58n"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "Hotzenplotz54"]
+[Result "0-1"]
+[UTCDate "2020.11.23"]
+[UTCTime "15:21:35"]
+[WhiteElo "1914"]
+[BlackElo "1915"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C15"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. f3 c5 5. Be2 cxd4 6. Qxd4 Nc6 7. Bb5 Bxc3+ 8. Qxc3 Bd7 9. Bf4 d4 10. Qc4 Nge7 11. Bxc6 Bxc6 12. Qxd4 Qxd4 0-1
+

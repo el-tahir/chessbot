@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iMeSEvJ9"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "Elvisj6"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "16:13:03"]
+[WhiteElo "2030"]
+[BlackElo "2044"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 fxe4 4. Bc4 Nf6 5. Qe2 d5 6. Bb3 Bd6 7. f4 Bxe5 8. fxe5 Bg4 9. Qb5+ c6 10. Qxb7 Nh5 11. Qxa8 O-O 12. Qxa7 Qh4+ 13. g3 Nxg3 14. hxg3 Qxh1+ 0-1
+

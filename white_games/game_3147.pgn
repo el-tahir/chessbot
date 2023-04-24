@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1Fgw9fOP"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "oteng"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "15:27:52"]
+[WhiteElo "1943"]
+[BlackElo "1883"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e6 3. Nf3 Nf6 4. d4 Bb4 5. Bd3 O-O 6. a3 Be7 7. O-O d5 8. e5 Ne8 9. Be3 g6 10. Bh6 Ng7 11. Qd2 Re8 12. Ng5 Nf5 13. Bxf5 exf5 14. f4 b6 15. Rae1 Ba6 16. Rf3 Bxg5 17. fxg5 Qe7 18. Nxd5 Qd7 19. Nf6+ 1-0
+

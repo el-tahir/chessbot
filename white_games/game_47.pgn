@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ltiGo946"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "GrandR"]
+[Result "1-0"]
+[UTCDate "2023.03.08"]
+[UTCTime "01:27:10"]
+[WhiteElo "1982"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Bc5 6. Be3 Qb6 7. Na4 Qa5+ 8. c3 Be7 9. b4 Qc7 10. Rc1 b5 11. Nb2 Nf6 12. Bd3 Bb7 13. f3 O-O 14. O-O d5 15. Qc2 dxe4 16. fxe4 Bd6 17. e5 Bxe5 18. h3 Nh5 19. Bxh7+ Kh8 20. Be4 Bh2+ 21. Kf2 Qg3+ 22. Ke2 Bxe4 23. Qxe4 Nd7 24. Rf3 Ndf6 25. Rxg3 Nxg3+ 26. Kd3 Ngxe4 27. Rf1 Rad8 28. Kc2 Nd5 29. Bg1 Bxg1 30. Rxg1 Ndxc3 31. Nf3 Nxa2 32. Nd3 Rc8+ 33. Kb3 Nac3 34. Re1 f5 35. g4 Rfd8 36. Nde5 Nd2+ 37. Nxd2 Rxd2 38. g5 Rd4 39. Rh1 Ne4 40. h4 Rc3+ 41. Ka2 Rxb4 42. Rd1 Rc2+ 43. Ka3 Ra4+ 44. Kb3 Rc3+ 45. Kb2 b4 46. g6 Raa3 47. Rd8# 1-0
+

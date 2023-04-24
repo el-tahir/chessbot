@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Mu1cyXCi"]
+[Date "2020.11.16"]
+[White "cipumellaricas"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "15:34:52"]
+[WhiteElo "1971"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 c5 6. Be3 cxd4 7. cxd4 Nc6 8. a3 Rc8 9. Nc3 Nge7 10. Nh4 g6 11. Nxf5 Nxf5 12. Bd3 Nxe3 13. fxe3 Bg7 14. O-O O-O 15. Qf3 Bxe5 16. dxe5 Nxe5 17. Qe2 d4 18. exd4 Qxd4+ 19. Kh1 Nxd3 20. Rad1 Nf4 21. Rxd4 Nxe2 22. Nxe2 Rc2 23. Rb4 b6 24. Nd4 Rd2 25. Nb5 a6 26. Nc7 a5 27. Rxb6 Rc8 28. Nb5 Rcc2 29. Rg1 Rxb2 30. Rb8+ Kg7 31. Rb7 Rd5 32. Nd6 Ra2 33. Nxf7 Rxa3 34. Nd8+ Kh6 35. Nxe6 Rad3 36. Nf8 a4 37. Rxh7+ Kg5 38. h4+ Kf6 39. Kh2 a3 40. Rf1+ Ke5 41. Re7+ Kd4 42. Nxg6 a2 43. Rf4+ Kc5 44. Ra4 Rd2 45. Rea7 Rd6 46. Nf4 R6d4 47. Rxd4 Rxd4 48. g3 Rd2+ 49. Kh3 Kb4 50. h5 Kb3 51. h6 Kb2 52. h7 Rd1 53. Kg4 Rd8 54. Kh5 a1=Q 55. Rxa1 Kxa1 56. g4 Kb2 57. g5 Kc3 58. g6 Kd4 59. Ne6+ 1-0
+

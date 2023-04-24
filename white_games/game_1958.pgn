@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GTQcaCcl"]
+[Date "2021.01.17"]
+[White "EltahirAmin"]
+[Black "surendra276513"]
+[Result "0-1"]
+[UTCDate "2021.01.17"]
+[UTCTime "06:32:54"]
+[WhiteElo "1948"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d3 Be7 4. Be2 Nf6 5. O-O O-O 6. Bg5 Re8 7. Qd2 Bf8 8. Nc3 h6 9. Be3 c6 10. Rad1 d5 11. exd5 cxd5 12. Nb1 Nc6 13. d4 e4 14. Ne1 Qd6 15. c4 Ng4 16. Bxg4 Bxg4 17. f3 exf3 18. Nxf3 Qe6 19. Nc3 Qxe3+ 20. Qxe3 Rxe3 21. Nxd5 Bxf3 22. gxf3 Re2 23. Rf2 Rae8 24. Kf1 Rxf2+ 25. Kxf2 Nb4 26. Nc3 a6 27. a3 Nc6 28. d5 Ne5 29. Re1 Nd3+ 0-1
+

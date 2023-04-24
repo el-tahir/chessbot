@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Y4vNr254"]
+[Date "2020.11.06"]
+[White "Raissaxadrez"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "20:21:03"]
+[WhiteElo "1953"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Be6 4. g4 Nd7 5. f4 f6 6. f5 Bxf5 7. gxf5 Qa5+ 8. Bd2 Qb6 9. Bc3 fxe5 10. dxe5 e6 11. Qh5+ Kd8 12. Qf7 Bb4 13. fxe6 Bxc3+ 14. Nxc3 Nxe5 15. Qxg7 Qe3+ 16. Nge2 Nf3+ 0-1
+

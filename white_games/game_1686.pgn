@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DjMgrCG0"]
+[Date "2021.02.12"]
+[White "EltahirAmin"]
+[Black "Ikramov_taxur"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "16:27:05"]
+[WhiteElo "1960"]
+[BlackElo "1956"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Nc6 6. O-O e6 7. Nc3 Be7 8. Be3 O-O 9. Qe2 Ne5 10. Rad1 h6 11. Bh7+ Nxh7 12. Rxd8 Rxd8 13. Nxh7 Kxh7 14. Rd1 Bd7 15. Bd4 Nc6 16. Qg4 e5 17. Qe4+ f5 18. Qe1 Nxd4 19. Rxd4 exd4 20. Nd5 Bd6 21. h4 Bc6 22. Nb4 a5 23. Nd3 Re8 24. Qd2 Re4 25. f3 Re3 26. c3 Bc5 27. Kh1 dxc3 28. Qxc3 Bb6 29. Qc2 Rae8 30. Nf4 Re1+ 31. Kh2 Bg1+ 32. Kg3 Bc5 33. Qxf5+ g6 34. Qxg6+ Kh8 35. Qxh6+ Kg8 36. Qg5+ Kf7 37. Qxc5 R8e5 38. Qc4+ Ke7 39. Ng6+ 1-0
+

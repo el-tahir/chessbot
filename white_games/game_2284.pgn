@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BZbBBUk2"]
+[Date "2020.12.24"]
+[White "EltahirAmin"]
+[Black "aomrane_94"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "09:38:25"]
+[WhiteElo "1958"]
+[BlackElo "1925"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Nc3 c6 6. Bf3 Bd6 7. Nh3 O-O 8. Bg5 Re8 9. O-O Nbd7 10. Re1 Qc7 11. g3 e5 12. dxe5 Rxe5 13. Qd2 Nd5 14. Nxd5 cxd5 15. Bxd5 Nb6 16. Bb3 Rxe1+ 17. Rxe1 Bxh3 18. Qe3 h6 19. Bxh6 Qc6 20. f3 gxh6 21. Qxh6 Bc5+ 0-1
+

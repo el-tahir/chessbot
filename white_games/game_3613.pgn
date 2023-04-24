@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ihghXLM4"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "RT992"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "20:26:53"]
+[WhiteElo "1961"]
+[BlackElo "1906"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nf6 4. Bg2 Be6 5. Nge2 Nc6 6. O-O Nd4 7. Nxd4 cxd4 8. d3 dxc3 9. bxc3 Bg4 10. Qe1 e6 11. Ba3 Be7 12. Rb1 b6 13. e5 dxe5 14. Bc6+ Nd7 15. Bxe7 Kxe7 16. Bxa8 Qxa8 17. Qe4 Qxe4 18. dxe4 f5 19. f3 Bh5 20. exf5 exf5 21. Rb5 Nc5 22. Re1 Bxf3 23. Rxe5+ Kf6 24. Re3 Be4 25. g4 g6 26. h4 h5 27. gxf5 gxf5 28. Rb4 Rg8+ 29. Kf2 Rg2+ 30. Ke1 Rxc2 31. c4 Rxa2 32. Rbb3 Rh2 33. Ra3 a5 34. Ra1 Rh1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/laEwspyi"]
+[Date "2020.11.02"]
+[White "Alexander_2019"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "12:56:17"]
+[WhiteElo "2047"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Be7 8. c3 O-O 9. Be3 Re8 10. O-O-O Bf5 11. Nf3 Qa5 12. h3 c5 13. g4 Bg6 14. h4 h5 15. g5 Nc6 16. dxc5 Bxc5 17. Rd5 Bxe3+ 18. fxe3 Qb6 19. Nd4 Nxd4 20. cxd4 fxg5 21. Rxg5 Qxd4 22. exd4 Rxe2 23. Rxg6 Rc8 24. Kd1 Rxb2 25. Rh3 Rxc4 26. a3 fxg6 27. Rd3 Rcc2 28. d5 Rh2 29. Kc1 Ra2 30. Kb1 Rag2 31. Rd1 Rd2 32. Kc1 Rxd1+ 33. Kxd1 Kf7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/veJ4c3Eg"]
+[Date "2020.11.22"]
+[White "dedenksportkampioen"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "07:43:22"]
+[WhiteElo "1949"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. h3 Bh5 9. Nbd2 Bd6 10. g4 Bg6 11. Bxg6 h6 12. Bc2 Bc7 13. Ne5 Nxe5 14. dxe5 Bxe5 15. f4 Bc7 16. g5 hxg5 17. fxg5 Qd6 18. Qe2 Qg3+ 19. Qg2 Qe3+ 20. Qf2 Qxh3 21. Qg2 Bb6+ 22. Rf2 Qe3 23. Nf1 Qxf2+ 24. Qxf2 Ng4 25. Qxb6 axb6 26. Be3 b5 27. Bc5 Kd7 28. Ne3 Ne5 29. Kg2 Rh5 30. g6 fxg6 31. a4 Rah8 32. Nf1 Rg5+ 33. Kf2 Ng4+ 34. Ke1 Re5+ 35. Kd2 Rh3 36. Bxg6 Rf3 37. axb5 Rf2+ 38. Kd3 Rg5 39. Bxf2 Rxg6 40. Bd4 e5 41. Kc2 exd4 42. cxd4 Nf6 43. Nd2 Ne4 44. Nb3 Rg2+ 45. Kd3 Kc7 46. Nc5 Rd2+ 47. Ke3 b6 48. Nxe4 dxe4 49. Kxd2 Kd6 50. Ke3 Kd5 51. Rc1 g5 52. Rc5+ bxc5 53. dxc5 Kxc5 54. b3 Kxb5 55. Kd2 Kb4 56. Kc2 g4 57. Kb2 g3 58. Kc2 g2 59. Kb2 g1=Q 60. Kc2 Qf2+ 61. Kc1 Qe2 0-1
+

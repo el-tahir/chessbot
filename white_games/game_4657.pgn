@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fShc0E0E"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "racer2300"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "12:26:19"]
+[WhiteElo "1977"]
+[BlackElo "2052"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Bf5 4. d3 Nf6 5. g4 Bxg4 6. Be2 Bxe2 7. Qxe2 exd3 8. cxd3 Nc6 9. Nc3 Nd4 10. Qd2 h6 11. Nge4 Nf3+ 0-1
+

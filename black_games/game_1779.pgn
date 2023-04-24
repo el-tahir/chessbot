@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xwjDIcJE"]
+[Date "2021.01.30"]
+[White "Good-time2020"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.30"]
+[UTCTime "12:23:22"]
+[WhiteElo "1986"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 c5 6. O-O Bxd3 7. Qxd3 Nc6 8. c3 Qb6 9. Nbd2 Be7 10. Nb3 c4 11. Qc2 cxb3 12. axb3 Bd8 13. Ng5 Bxg5 14. Bxg5 Rc8 15. f4 Nxd4 16. Qf2 Nf5 17. Qxb6 axb6 18. Ra7 Rc7 19. Ra8+ Kd7 20. Rd8+ Kc6 21. c4 d4 22. b4 h6 23. h4 Rd7 24. Rc8+ Rc7 25. Rd8 hxg5 26. hxg5 b5 27. b3 b6 28. Kf2 Kb7 29. Ra1 Rc8 30. Rd7+ Kc6 31. Rxf7 Nge7 32. g4 Rhf8 33. Rxf8 Rxf8 34. gxf5 Nxf5 35. Kf3 bxc4 36. bxc4 b5 37. Ra6+ Kd7 38. c5 Rb8 39. Ke4 g6 40. Ra7+ Ke8 41. c6 Rc8 42. c7 Kd7 43. Rb7 Rxc7 44. Rxb5 Rc4 45. Rb7+ Kc6 46. Rb8 Rc1 47. b5+ Kc7 48. Re8 Re1+ 49. Kd3 Re3+ 50. Kd2 Rf3 51. Rxe6 Rxf4 52. Rxg6 Re4 53. e6 Ng3 54. Rf6 Re2+ 55. Kd3 Rb2 56. Kxd4 Rxb5 57. e7 Rb8 58. Re6 Re8 59. Re1 Nf5+ 60. Kd5 Nxe7+ 61. Kc4 Kd7 62. Rd1+ Kc8 63. Re1 Ng6 64. Rxe8+ Kd7 65. Rg8 1-0
+

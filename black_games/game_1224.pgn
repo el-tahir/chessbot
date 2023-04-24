@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZdCdRYQF"]
+[Date "2021.03.07"]
+[White "liron_fb"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.07"]
+[UTCTime "18:03:48"]
+[WhiteElo "2033"]
+[BlackElo "2081"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. e3 c6 2. d4 d5 3. Nf3 Nf6 4. Be2 Bg4 5. O-O e6 6. Nfd2 Bxe2 7. Qxe2 Bd6 8. f4 Bc7 9. b3 Nbd7 10. c4 Qe7 11. c5 O-O 12. Nc3 Ne8 13. a4 f6 14. Nf3 e5 15. fxe5 fxe5 16. Bd2 Nef6 17. b4 Rae8 18. b5 exd4 19. Nxd4 Qxc5 20. bxc6 bxc6 21. Rfc1 Qd6 22. g3 Qe5 23. Nxc6 Qf5 24. Rf1 Qg6 25. a5 Ne5 26. Nxe5 Bxe5 27. Rab1 d4 28. Nb5 dxe3 29. Bxe3 Nd5 30. Rxf8+ Rxf8 31. Rd1 Nf4 32. Qc4+ Kh8 33. Bxf4 Bxf4 34. Rf1 Be3+ 35. Kg2 Re8 36. Rf3 h6 37. Nc7 Re4 38. Qc3 Qd6 39. Rxe3 Rxe3 40. Qxe3 Qxc7 41. Qe8+ Kh7 42. Qe4+ g6 43. Qe1 Qc2+ 44. Kh3 Qc8+ 45. Kg2 Qf5 46. Qe7+ Kg8 47. Qe8+ Qf8 48. Qxf8+ Kxf8 49. Kf3 Ke7 50. Ke4 Ke6 51. Kd4 a6 52. Kc5 Kf5 53. Kb6 Kg4 54. Kxa6 Kh3 0-1
+

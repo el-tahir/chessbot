@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aqbqaCMC"]
+[Date "2021.02.17"]
+[White "Shahrokh1348"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.17"]
+[UTCTime "16:25:53"]
+[WhiteElo "2046"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. g4 Be4 6. Nf3 Be7 7. Bd3 Bh4+ 8. Kf1 Nh6 9. h3 Nd7 10. Be3 Be7 11. Qe2 c5 12. c3 cxd4 13. cxd4 Qb6 14. Nc3 Bxd3 15. Qxd3 O-O-O 16. Kg2 Qxb2+ 17. Bf2 Kb8 18. Rhc1 Rc8 19. Rab1 Qa3 20. Qb5 Nb6 21. Be1 Rc7 22. Bd2 Rhc8 23. Rb3 Qa6 24. Qxa6 bxa6 25. Rcb1 Ka8 26. a4 Nc4 27. Be1 f5 28. g5 Nf7 29. h4 Nd8 30. h5 Nc6 31. Kf2 N6a5 32. Nxd5 exd5 33. Rd3 Na3 34. Rbd1 Rc2+ 35. Kg3 N5c4 36. e6 Nd6 37. Ne5 Ne4+ 38. Kh3 Re2 39. Nf3 Rcc2 40. Bg3 Nxg3 41. Kxg3 Rg2+ 42. Kh3 Bd6 43. Rh1 Bxf4 44. e7 Bxg5 45. e8=Q+ 1-0
+

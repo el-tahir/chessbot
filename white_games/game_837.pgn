@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YDYs4SYc"]
+[Date "2021.11.15"]
+[White "EltahirAmin"]
+[Black "Kovtun1982"]
+[Result "1-0"]
+[UTCDate "2021.11.15"]
+[UTCTime "15:24:24"]
+[WhiteElo "2055"]
+[BlackElo "2040"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 g5 2. Nc3 Bg7 3. d4 c5 4. d5 h6 5. h4 gxh4 6. Be3 d6 7. Rxh4 a6 8. Nf3 b5 9. a3 Bd7 10. Bd3 c4 11. Be2 a5 12. Rh5 Nf6 13. Rh4 Ng4 14. Bd4 Bxd4 15. Qxd4 Rg8 16. Ne5 Nxe5 17. Rxh6 Qc7 18. f4 Ng6 19. Bh5 Kd8 20. f5 Ne5 21. f6 Rxg2 22. fxe7+ Kxe7 23. Rh7 Rh2 24. Qe3 Rg2 25. Qf4 Be8 26. O-O-O Nbd7 27. Rf1 b4 28. Bxf7 Bxf7 29. Rxf7+ Kd8 30. Nb5 Ng6 31. Rf8+ Ndxf8 32. Qf6+ Qe7 33. Qd4 bxa3 34. Qb6+ Ke8 35. bxa3 Rd8 36. Nc7+ Qxc7 37. Qxc7 Rd7 38. Qc8+ Ke7 39. Qxf8+ Nxf8 40. Rh1 Rg7 41. Rh6 Ng6 42. Rh5 Ne5 43. Rf5 Rf7 44. Rf6 Rxf6 45. Kd2 Rf2+ 46. Kc3 Re2 47. a4 Rxe4 48. Kd2 Rf4 49. Kc1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ANXam8vO"]
+[Date "2020.05.11"]
+[White "EltahirAmin"]
+[Black "anvayparwekar"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "08:53:28"]
+[WhiteElo "1939"]
+[BlackElo "1926"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. O-O Bg4 7. c3 e6 8. Bg5 Bd6 9. Nbd2 h6 10. Bh4 Bf4 11. Be2 Rc8 12. h3 Bh5 13. Nh2 Qc7 14. g3 Bxe2 15. Qxe2 Bd6 16. Bxf6 gxf6 17. Ng4 Ke7 18. Qf3 f5 19. Ne3 Rcg8 20. Kg2 h5 21. Rae1 f4 22. Nf5+ Kd8 23. Nxd6 Qxd6 24. g4 hxg4 25. hxg4 Rh7 26. Rh1 Rhg7 27. Rh4 f5 28. Kh3 fxg4+ 29. Rxg4 Rh7+ 30. Kg2 Rgh8 31. Rxf4 Rh2+ 32. Kf1 R2h3 33. Qg4 R3h6 34. Nf3 Ne7 35. Ne5 Nf5 36. Nf7+ Ke7 37. Nxd6 Kxd6 38. Rxf5 exf5 39. Qxf5 Rh1+ 40. Ke2 Re8+ 41. Kd2 Rf1 42. Rxf1 Re7 43. Qf6+ Re6 44. Qxe6+ Kxe6 45. f4 Kf5 46. Kd3 b6 47. c4 dxc4+ 48. Kxc4 Ke4 49. b4 Kf5 50. a4 a6 51. b5 a5 52. Kd5 Kf6 53. Kd6 Kf5 54. d5 Kf6 55. Kc6 Kf5 56. d6 Ke6 57. Kc7 Kf5 58. d7 Ke6 59. d8=Q Kf5 60. Qf8+ Kg6 61. Rg1+ Kh5 62. Qh8# 1-0
+

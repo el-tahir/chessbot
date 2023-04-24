@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OIRIRppP"]
+[Date "2020.11.17"]
+[White "StanislavVasilevich"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.17"]
+[UTCTime "13:39:04"]
+[WhiteElo "1975"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Bg4 5. e3 e6 6. cxd5 cxd5 7. Bd2 Bd6 8. Rc1 Nc6 9. Nb5 Bb8 10. h3 Bh5 11. Be2 a6 12. Nc3 O-O 13. O-O Qd6 14. g3 e5 15. dxe5 Nxe5 16. Nxe5 Qxe5 17. Bxh5 Nxh5 18. f4 Qe6 19. Qxh5 Ba7 20. Rce1 g6 21. Qg4 f5 22. Qf3 d4 23. Qd5 Rfe8 24. Qxe6+ Rxe6 25. exd4 Bxd4+ 26. Kg2 Rb6 27. Rb1 Re8 28. Kh1 Bxc3 29. Bxc3 Re3 30. Kg2 Kf7 31. Rbd1 Ree6 32. Rfe1 Rec6 33. Rd7+ Kf8 34. Bg7+ Kg8 35. Re8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/g1c7ycCQ"]
+[Date "2021.02.08"]
+[White "dimascarabas"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.08"]
+[UTCTime "12:58:16"]
+[WhiteElo "1955"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. b4 d5 3. cxd5 cxd5 4. a3 Nf6 5. Bb2 a6 6. d3 Nc6 7. Nf3 Qc7 8. Nbd2 e5 9. Rc1 Qd6 10. g3 Be7 11. Bg2 O-O 12. O-O Bg4 13. Qb3 Rac8 14. e4 d4 15. Nc4 Qb8 16. Nfxe5 Nxe5 17. Nxe5 Qxe5 18. f4 Qb5 19. e5 Rxc1 20. Rxc1 Ne8 21. Bxd4 Be6 22. Qc3 f6 23. exf6 Nxf6 24. Qc7 Qxd3 25. Qxe7 Qxd4+ 26. Kh1 Bd5 27. Re1 Bxg2+ 28. Kxg2 Qd2+ 29. Re2 Qd5+ 30. Kh3 Re8 31. Re5 Rxe7 32. Rxd5 Nxd5 0-1
+

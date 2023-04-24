@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ND8Q0UsG"]
+[Date "2023.02.21"]
+[White "DanielRiveraRamirez"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.21"]
+[UTCTime "18:58:02"]
+[WhiteElo "2018"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. d3 e6 5. c3 Nd7 6. Nf3 Ne7 7. g3 Ng6 8. Bg2 Bc5 9. d4 Bb6 10. b4 a5 11. a3 axb4 12. cxb4 O-O 13. Be3 Qe7 14. Nc3 f6 15. Qd2 fxe5 16. fxe5 Bg4 17. O-O Rf7 18. Ng5 Rxf1+ 19. Rxf1 Rxa3 20. h3 Bf5 21. g4 Be4 22. Ngxe4 dxe4 23. Bxe4 Ngxe5 24. dxe5 Bxe3+ 25. Qxe3 Nxe5 26. Bxh7+ Kxh7 27. Qxe5 Qh4 28. Kg2 Rb3 29. Qe4+ Kg8 30. Ne2 Qxh3+ 31. Kg1 Qh6 32. Nf4 Rg3+ 33. Ng2 Qd2 34. Qxe6+ Kh7 35. Qf5+ Kg8 36. Qf2 Qxf2+ 37. Rxf2 Rb3 38. Rf4 g5 39. Re4 Kf7 40. Ne3 Kf6 41. Kf2 b6 42. Kf3 c5 43. bxc5 bxc5 44. Rc4 Rb5 45. Nd5+ Ke5 46. Nc3 Ra5 47. Re4+ Kf6 48. Nd5+ Kg6 49. Rc4 Kf7 50. Ke4 Ke6 51. Ne3 Kd6 52. Nf5+ Kc6 53. Ke5 Rb5 54. Ng7 Rb4 55. Re4 c4 56. Ne6 c3 57. Rxb4 c2 58. Rc4+ 1-0
+

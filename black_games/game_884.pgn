@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7vsCCnLr"]
+[Date "2021.11.09"]
+[White "cachitotucani"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.09"]
+[UTCTime "04:04:44"]
+[WhiteElo "2062"]
+[BlackElo "2068"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bb5 Bg4 7. Bxc6+ bxc6 8. O-O e6 9. Bg5 Be7 10. h3 Bh5 11. Bxf6 Bxf6 12. Re1 O-O 13. Re3 Rb8 14. Rb1 Qc7 15. g4 Bg6 16. Ne5 Bxe5 17. Rxe5 c5 18. h4 cxd4 19. Qxd4 h5 20. gxh5 Bh7 21. Rg5 a5 1-0
+

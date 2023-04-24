@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IRjMvpz7"]
+[Date "2020.10.16"]
+[White "Buryat-mongol"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.16"]
+[UTCTime "12:53:47"]
+[WhiteElo "1925"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 Qb6 5. Qc1 Nh5 6. Bg3 Nxg3 7. hxg3 h6 8. Nbd2 Bg4 9. c3 Nd7 10. Rh4 Bf5 11. Ne5 Nxe5 12. dxe5 e6 13. Nf3 Be7 14. Nd4 Bxh4 15. gxh4 Bh7 16. a4 Qc7 17. b4 Qxe5 18. b5 c5 19. Nf3 Qf6 20. c4 O-O 21. cxd5 exd5 22. Qxc5 Qxa1+ 23. Ke2 Qb2+ 24. Nd2 Rac8 25. Qxd5 Rc2 26. g4 Rfc8 27. g5 Rxd2+ 28. Kf3 Rxd5 29. gxh6 Rf5+ 30. Ke4 Qc2+ 31. Kd4 Rd8# 0-1
+

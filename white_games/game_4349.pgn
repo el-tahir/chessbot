@@ -1,0 +1,19 @@
+[Event "Koltanowski"]
+[Site "https://lichess.org/SsHW7uyL"]
+[Date "2020.05.15"]
+[White "EltahirAmin"]
+[Black "PROROK_ILO"]
+[Result "1-0"]
+[UTCDate "2020.05.15"]
+[UTCTime "23:14:59"]
+[WhiteElo "2030"]
+[BlackElo "2013"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+10"]
+[ECO "A76"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. Nc3 Nf6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Qc2 Na6 11. a3 Nc7 12. Bg5 a6 13. a4 b6 14. Nd2 Rb8 15. f4 b5 16. axb5 axb5 17. Ra7 h6 18. Bh4 b4 19. Nd1 Ncxd5 20. exd5 Rxe2 21. Qd3 Re8 22. Nc4 Bf5 23. Qf3 Re7 24. Ra6 Rd7 25. Nde3 Bd3 26. Re1 Bxc4 27. Nxc4 Qc7 28. f5 g5 29. Bg3 Ne8 30. Rf1 Bd4+ 31. Kh1 f6 32. Qh5 Ng7 33. Qxh6 Nxf5 34. Qg6+ Ng7 35. Re1 Re7 36. h3 Rxe1+ 37. Bxe1 Re8 38. Bg3 Qe7 39. Ra1 Be5 40. Bxe5 dxe5 41. d6 Qf7 42. Qd3 Rd8 43. Nb6 Ne6 44. d7 Nd4 45. Qb1 f5 46. Ra7 Qe6 47. Qc1 Qxb6 48. Qxg5+ Kf8 49. Rb7 Qxb7 50. Qxd8+ Kf7 51. Qe8+ Kf6 52. d8=Q+ Kg7 53. Qxe5+ Kg6 54. Qg8+ Kh6 55. Qf6+ Kh5 56. Qfg5# 1-0
+

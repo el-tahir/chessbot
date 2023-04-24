@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hIbWlAAh"]
+[Date "2020.11.22"]
+[White "Colombiano2020"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "16:44:30"]
+[WhiteElo "1906"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Time forfeit"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. e3 Bg4 7. Bd3 e6 8. O-O Bd6 9. h3 Bh5 10. Be2 O-O 11. a3 Rc8 12. Nb5 Bb8 13. Bd2 a6 14. Nc3 Qd6 15. g3 e5 16. dxe5 Nxe5 17. Nxe5 Bxe2 18. Qxe2 Qxe5 19. f4 Qe6 20. Rac1 Qxh3 21. Qg2 Qe6 22. Ne2 Ne4 23. Nd4 Qb6 24. Bb4 Rfe8 25. Rc2 a5 26. Be1 Ba7 27. Bf2 Rxc2 28. Nxc2 Qxb2 29. Nd4 Bxd4 30. exd4 Qxa3 31. Rd1 b5 32. Kh2 b4 33. Qf1 b3 34. Rd3 Qb2 35. Kg2 Qxf2+ 36. Qxf2 Nxf2 37. Kxf2 b2 38. Rb3 a4 39. Rxb2 f5 40. Ra2 Ra8 41. Ke2 Kf7 42. Kd3 Kg6 43. Kc3 Kh5 44. Kb4 Kg4 45. Kc5 Kxg3 46. Kxd5 Kxf4 47. Kc5 Ke4 48. d5 Ra5+ 49. Kd6 Rxd5+ 50. Ke6 Rd4 51. Re2+ Kf3 52. Ra2 h5 53. Kxf5 h4 54. Ra3+ Kg2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W1dSd9Ci"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "ottoman083"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "15:07:21"]
+[WhiteElo "1974"]
+[BlackElo "2098"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 f6 5. f4 Nc6 6. Nf3 Bd6 7. fxe5 Nxe5 8. Ng3 Nxf3+ 9. Qxf3 Ne7 10. Be2 O-O 11. O-O Ng6 12. Qf2 Ne5 13. Nf5 Be6 14. Nxd4 Bf7 15. Nf5 c6 16. Qg3 Bg6 17. h4 Bxf5 18. exf5 Nc4 19. Qg4 Qb6+ 20. Kh1 Ne3 21. Bxe3 Qxe3 22. Rae1 Qe5 23. Qh3 Rfe8 24. Bh5 Qxe1 25. Rxe1 Rxe1# 0-1
+

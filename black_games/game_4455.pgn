@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VhM3rbbO"]
+[Date "2020.05.12"]
+[White "Corbachov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "17:03:51"]
+[WhiteElo "1982"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bh7 6. Bd3 Bxd3 7. Qxd3 e6 8. f4 Be7 9. Nf3 c5 10. Be3 c4 11. Qe2 Qb6 12. c3 Nc6 13. O-O g5 14. f5 exf5 15. gxf5 gxh4 16. f6 Nxf6 17. exf6 Rg8+ 18. Kh2 Qc7+ 19. Ne5 Nxe5 20. Bf4 Ng4+ 21. Qxg4 Rxg4 22. Bxc7 Bd8 23. Bxd8 Rxd8 24. Na3 Kd7 25. Rae1 Rdg8 26. Re7+ Kc8 27. Rf2 h3 28. Nb5 Rg2+ 29. Rxg2 hxg2 30. Kg1 a6 31. Nd6+ Kd8 32. Nxf7+ Kc8 33. Nxh6 Rg6 34. f7 Rxh6 35. f8=Q# 1-0
+

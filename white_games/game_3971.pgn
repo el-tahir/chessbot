@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7e58X8XZ"]
+[Date "2020.10.28"]
+[White "EltahirAmin"]
+[Black "Tanpa-Nama"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "12:00:44"]
+[WhiteElo "1979"]
+[BlackElo "2108"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Bb4 7. exf6 Qxf6 8. Be2 O-O 9. O-O d5 10. Nxd5 Qd6 11. Nxb4 Qxb4 12. c3 Qd6 13. Be3 Bf5 14. Bd3 Bxd3 15. Qxd3 c5 16. Rad1 cxd4 17. Bxd4 Nf4 18. Qf3 Rfe8 19. Qg4 Ne2+ 20. Kh1 Nxd4 21. Rxd4 Qb6 22. b3 Re6 23. Rfd1 Rae8 24. h3 Qc7 25. f4 Qxc3 26. R4d3 Re1+ 27. Kh2 Qa5 28. Rg3 g6 29. Rgd3 Rxd1 30. Qxd1 Qxa2 31. Rd8 Rxd8 32. Qxd8+ Kg7 33. Qd4+ Kg8 34. Qd8+ Kg7 35. Qd4+ Kh6 36. f5 Qxb3 37. Qf4+ Kg7 38. f6+ Kf8 39. Qb8# 1-0
+

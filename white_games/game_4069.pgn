@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DnEPldRA"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "Anonymus13"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "09:20:50"]
+[WhiteElo "1947"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Nf6 4. d4 exd4 5. Nce2 d5 6. e5 Ne4 7. Nxd4 Qh4+ 8. g3 Nxg3 9. hxg3 Qxh1 10. Ngf3 Nxd4 11. Qxd4 Qxf3 12. Be3 Bd7 13. Be2 Qxg3+ 14. Bf2 Qg6 15. Qxd5 O-O-O 16. Bxa7 Bc6 17. Qa5 Qe4 18. Bc5 Bxc5 19. Qxc5 Rhe8 20. Qf2 f6 21. Qa7 b6 22. Qa6+ Bb7 23. Qb5 fxe5 24. Rd1 Rxd1+ 25. Kxd1 exf4 26. Bg4+ Kb8 27. c3 f3 28. c4 Qb1+ 29. Kd2 Re2+ 30. Kc3 Qc2+ 31. Kd4 Re4# 0-1
+

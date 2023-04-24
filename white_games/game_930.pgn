@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wfk56J5S"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "Lhonskie"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "00:36:13"]
+[WhiteElo "2025"]
+[BlackElo "1995"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nf6 3. Nf3 c6 4. d4 g6 5. Bd3 Bg7 6. Be3 Ng4 7. Bf4 O-O 8. h3 e5 9. dxe5 Nxe5 10. Nxe5 dxe5 11. Be3 Nd7 12. Qd2 b6 13. Bh6 Nc5 14. Bxg7 Kxg7 15. O-O-O Ne6 16. h4 a5 17. h5 g5 18. g3 h6 19. Rdf1 a4 20. Ne2 a3 21. b3 Nd4 22. f4 Nxe2+ 23. Qxe2 Qd4 24. fxg5 hxg5 25. h6+ Kh8 26. Qf2 f6 27. Qxd4 exd4 28. e5 f5 29. Rh5 Kh7 30. Rxg5 Kxh6 31. Rg4 Bd7 32. Rh1# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9ciF0yNB"]
+[Date "2020.05.12"]
+[White "iami1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "20:45:01"]
+[WhiteElo "2079"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Bd3 c5 6. c3 Nc6 7. Be3 cxd4 8. cxd4 Bb4+ 9. Nbd2 Nge7 10. O-O O-O 11. Bxh7+ Kh8 12. Bd3 g6 13. h3 Bxd2 14. hxg4 Bxe3 15. fxe3 Kg7 16. Ng5 Qb6 17. Qf3 Nxd4 18. Qf6+ Kh6 19. Kf2 Qxb2+ 20. Kg3 Ndf5+ 21. gxf5 Nxf5+ 22. Bxf5 Qxe5+ 23. Qxe5 Kxg5 24. Bxe6+ Kh6 25. Rh1# 1-0
+

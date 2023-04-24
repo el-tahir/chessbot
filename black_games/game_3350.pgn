@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zKvMkhi4"]
+[Date "2020.11.12"]
+[White "Kapa28"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "15:44:32"]
+[WhiteElo "1826"]
+[BlackElo "1916"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d3 Bd6 7. Qe2+ Be6 8. Be3 O-O 9. O-O-O Re8 10. Kb1 c5 11. Qd2 Nc6 12. Be2 b5 13. d4 cxd4 14. Nxd4 Nxd4 15. Bxd4 Qc7 16. Bc3 Rad8 17. Bxb5 Rf8 18. Qe2 Qb6 19. Bd4 Qa5 20. Bd3 Qxa2+ 21. Kc1 Bf4+ 22. Be3 Be5 23. Kd2 Qxb2 24. Ke1 a5 25. Kf1 a4 26. Bc1 Qc3 27. Bd2 Qc6 28. Bb5 Qa8 29. Kg1 a3 30. c3 a2 31. Ra1 Rfe8 32. h3 Re7 33. f3 Bg3 34. Be1 Qa7+ 35. Kf1 Bxe1 36. Qxe1 Bc4+ 37. Bxc4 Rxe1+ 38. Kxe1 Qe3+ 39. Be2 Qxc3+ 40. Kf2 Qd4+ 41. Kf1 Qxa1+ 42. Kf2 Qd4+ 43. Kf1 a1=Q+ 44. Bd1 Qaxd1# 0-1
+

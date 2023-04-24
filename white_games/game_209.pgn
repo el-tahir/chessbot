@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zx0dJGoK"]
+[Date "2022.10.22"]
+[White "EltahirAmin"]
+[Black "IceCreamAndCookies"]
+[Result "0-1"]
+[UTCDate "2022.10.22"]
+[UTCTime "23:05:55"]
+[WhiteElo "2017"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Re1 Ng4 6. Rf1 d6 7. h3 Nf6 8. c3 Nxe4 9. d4 exd4 10. Re1 d5 11. Bd3 O-O 12. Bxe4 dxe4 13. Rxe4 Bf5 14. Rf4 Bxb1 15. Rxb1 dxc3 16. Qb3 Qd3 17. bxc3 Rad8 18. Bb2 Qxb1+ 19. Kh2 Bd6 0-1
+

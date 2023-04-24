@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QMEhGHph"]
+[Date "2021.11.21"]
+[White "GODFREY7"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.21"]
+[UTCTime "21:53:01"]
+[WhiteElo "2068"]
+[BlackElo "2063"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. a3 e6 4. d3 d5 5. exd5 exd5 6. Ba2 Nf6 7. Bg5 Be7 8. Ne2 O-O 9. O-O Bg4 10. f3 Bh5 11. Ng3 Bg6 12. f4 Qb6 13. f5 c4+ 14. Kh1 Ng4 15. Qxg4 1-0
+

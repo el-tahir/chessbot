@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T71bpB9k"]
+[Date "2021.11.10"]
+[White "EltahirAmin"]
+[Black "harunylmaz"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "17:29:59"]
+[WhiteElo "2057"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d5 3. Nf3 Nf6 4. exd5 e4 5. Ng5 Bb4 6. Bc4 O-O 7. O-O Bxc3 8. dxc3 Nxd5 9. Qxd5 Qe7 10. Re1 Be6 11. Qxe4 Nc6 12. Nxe6 fxe6 13. Qxe6+ Qxe6 14. Rxe6 1-0
+

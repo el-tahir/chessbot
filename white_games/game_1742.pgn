@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Lqv6wrkh"]
+[Date "2021.02.05"]
+[White "EltahirAmin"]
+[Black "guaripolo2016"]
+[Result "0-1"]
+[UTCDate "2021.02.05"]
+[UTCTime "13:24:37"]
+[WhiteElo "1968"]
+[BlackElo "1869"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. Be2 e6 5. O-O Nf6 6. d3 Bb4 7. exd5 exd5 8. Bd2 O-O 9. a3 Ba5 10. b4 Bc7 11. h3 Bh5 12. Nd4 Bg6 13. f4 Qd6 14. Qe1 Re8 15. Qh4 Nbd7 16. Bf3 Re7 17. Rae1 Rae8 18. Nce2 a6 19. Ng3 h6 20. Kh2 Rxe1 21. Rxe1 Rxe1 22. Bxe1 Qxf4 23. Qxf4 Bxf4 24. Nf5 Ne5 25. Ne7+ Kh7 26. Nxg6 fxg6 27. Kg1 h5 28. Ne2 Be3+ 29. Kh2 Nxf3+ 30. gxf3 Nd7 31. Kg3 Nb6 32. f4 d4 33. Kf3 Na4 34. Bf2 Bxf2 35. Kxf2 b6 36. Nxd4 c5 37. bxc5 Nxc5 38. Ke3 Kh6 39. Ne6 Nxe6 40. Ke4 0-1
+

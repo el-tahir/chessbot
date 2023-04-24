@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J43HOmvu"]
+[Date "2021.02.23"]
+[White "soheil44"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "16:22:27"]
+[WhiteElo "1966"]
+[BlackElo "1977"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A35"]
+[Termination "Normal"]
+
+1. c4 c5 2. Nc3 Nc6 3. e4 Nf6 4. d3 e6 5. Nf3 d5 6. Be2 d4 7. Nb1 a6 8. Bg5 Be7 9. O-O h6 10. Bh4 g5 11. Bg3 Rg8 12. h3 h5 13. Bh2 g4 14. hxg4 hxg4 15. Ne1 Bd6 16. f4 gxf3 17. Nxf3 Bxh2+ 18. Nxh2 Ne5 19. Nd2 Qe7 20. Ndf3 Neg4 21. e5 Ne3 22. Qd2 Rxg2+ 23. Kh1 Nfg4 24. Rg1 Nf2# 0-1
+

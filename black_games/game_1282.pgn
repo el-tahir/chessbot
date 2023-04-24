@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tfB2wpUk"]
+[Date "2021.03.05"]
+[White "Timo_B"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.05"]
+[UTCTime "15:20:45"]
+[WhiteElo "2109"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O 8. O-O Bg4 9. h3 Bh5 10. c3 Nd7 11. Be3 Rc8 12. Re1 Bb8 13. Qb3 Qc7 14. g3 Rfe8 15. d5 Rxe3 16. fxe3 Qxg3+ 17. Kf1 Qxh3+ 18. Kf2 Bg3+ 19. Kg1 Bxf3 20. Bxf3 Qh2+ 21. Kf1 Qf2# 0-1
+

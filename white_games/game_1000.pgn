@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i9os1ThR"]
+[Date "2021.10.26"]
+[White "EltahirAmin"]
+[Black "ncc613"]
+[Result "1-0"]
+[UTCDate "2021.10.26"]
+[UTCTime "18:36:26"]
+[WhiteElo "2043"]
+[BlackElo "2027"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 e6 3. Nf3 Nf6 4. d4 Nc6 5. Bd3 Bd7 6. Be3 h6 7. Qd2 Ng4 8. h3 Nxe3 9. Qxe3 Be7 10. g4 h5 11. g5 e5 12. h4 exd4 13. Nxd4 Nxd4 14. Qxd4 Rg8 15. f4 c5 16. Qe3 Bg4 17. f5 f6 18. g6 Qa5 19. Bc4 Rf8 20. Be6 b5 21. O-O Qb4 22. Nd5 Qa5 23. Qa3 Qxa3 24. bxa3 Bd8 25. Rab1 Rb8 26. a4 b4 27. a3 a5 28. axb4 cxb4 29. c3 Be2 30. Rf2 Bd3 31. Rb3 Bxe4 32. cxb4 axb4 33. Nxb4 Bb6 34. Kf1 Bxf2 35. Kxf2 Ke7 36. Ke3 Ba8 37. Kd4 Rfd8 38. Kc3 Rb7 39. Rb1 Rdb8 40. a5 Rb5 41. a6 Rc5+ 42. Kd4 Rbc8 43. a7 d5 44. Nxd5+ Bxd5 45. Bxd5 Rd8 46. a8=Q Rcxd5+ 47. Qxd5 Rxd5+ 48. Kxd5 Kd7 49. Rb7+ Kc8 50. Rxg7 Kd8 51. Rh7 Ke8 52. Ra7 Kf8 53. Ke6 Ke8 54. Kxf6 Kd8 55. g7 Kc8 56. g8=Q# 1-0
+

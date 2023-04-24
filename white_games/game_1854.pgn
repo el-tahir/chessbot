@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yZhjmXLe"]
+[Date "2021.01.23"]
+[White "EltahirAmin"]
+[Black "provki"]
+[Result "0-1"]
+[UTCDate "2021.01.23"]
+[UTCTime "11:55:52"]
+[WhiteElo "1978"]
+[BlackElo "1987"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nc3 Bb4 6. Nf3 Nge7 7. a3 Bxc3+ 8. bxc3 d5 9. e5 Ng6 10. Bd3 O-O 11. h4 h6 12. Qc2 Nge7 13. Bf4 f5 14. Qd2 Kh7 15. Ng5+ hxg5 16. hxg5+ Kg8 17. Qe3 Ng6 18. Bh2 Kf7 19. O-O-O Na5 20. g4 Qb6 21. gxf5 exf5 22. f4 Bd7 23. Rde1 Nc4 24. Bxc4 dxc4 25. d5 Qxe3+ 26. Rxe3 Ke7 27. Rd1 Ba4 28. d6+ Ke6 29. Rd4 Bb3 30. d7 Rad8 31. Rd6+ Kf7 32. e6+ Ke7 33. Rd2 Rh8 34. Ree2 Nf8 35. Kb2 Nxe6 36. Bg1 Rxd7 37. Bc5+ Kd8 38. Rxd7+ Kxd7 39. Bb4 Nxf4 40. Rd2+ Nd3+ 41. Rxd3+ cxd3 42. Kxb3 Rd8 43. c4 Ke6 44. Bd2 Ke5 45. Kc3 Ke4 46. g6 f4 47. a4 f3 48. c5 f2 49. c6 f1=Q 50. cxb7 Qa1+ 51. Kc4 Qa2+ 52. Kc5 Qxd2 53. Kc6 Qc3+ 54. Kb5 Rb8 55. a5 Rxb7+ 56. Ka6 Qc6# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gnPaZesk"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "peneque"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "16:21:26"]
+[WhiteElo "1971"]
+[BlackElo "1989"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Bg4 5. dxe5 Nxe5 6. Be2 Nxf3+ 7. Bxf3 Be6 8. O-O Ne7 9. Bd2 g6 10. Bg5 Qd7 11. b4 Bg7 12. Nd5 Bxa1 13. Qxa1 Bxd5 14. Qxh8+ Ng8 15. Qxg8# 1-0
+

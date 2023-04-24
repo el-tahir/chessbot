@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nEBljlHv"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "Bo_ko"]
+[Result "0-1"]
+[UTCDate "2022.07.24"]
+[UTCTime "16:44:34"]
+[WhiteElo "2015"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. d3 h6 5. Be3 Bb6 6. Qd2 Nge7 7. Be2 d6 8. O-O O-O 9. Na4 Bxe3 10. Qxe3 f5 11. exf5 Nxf5 12. Qd2 Bd7 13. c3 Nh4 14. Nxh4 Qxh4 15. Bf3 Rxf3 16. gxf3 Rf8 17. Qe3 Ne7 18. b4 Bxa4 19. Qe4 Rf4 20. Qxb7 Bc6 21. Qc8+ Nxc8 0-1
+

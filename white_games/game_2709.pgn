@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zWEkeNHr"]
+[Date "2020.12.09"]
+[White "EltahirAmin"]
+[Black "slim1550"]
+[Result "0-1"]
+[UTCDate "2020.12.09"]
+[UTCTime "13:24:06"]
+[WhiteElo "1927"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Be3 Nf6 7. Be2 O-O 8. O-O Bxc3 9. bxc3 e5 10. Nxc6 bxc6 11. f3 d6 12. Rb1 Qc7 13. Bd3 Be6 14. f4 Bxa2 15. Rb2 exf4 16. Bxf4 Be6 17. Bg5 Nd7 18. Qh5 Ne5 19. Be2 f6 20. Bf4 Rab8 21. Rfb1 Rxb2 22. Rxb2 Rb8 23. Rxb8+ Qxb8 24. h3 Qb6+ 25. Kh2 Qf2 26. Bg3 g6 27. Bxf2 gxh5 28. Bxa7 h4 29. Bb8 d5 30. Ba6 Kf7 31. Bb7 Bd7 32. Kg1 dxe4 33. Kf2 Nc4 34. Ke2 f5 35. Ba7 Ke6 36. Ba6 Nd6 37. Be3 Nf7 38. Bc4+ Ke7 39. Bd2 Ne5 40. Ba2 Ng6 41. Ke3 c5 42. Be1 Bc6 43. Kf2 f4 44. Bd2 Kf6 45. Be3 fxe3+ 46. Kxe3 Ke5 47. Bc4 Nf4 0-1
+

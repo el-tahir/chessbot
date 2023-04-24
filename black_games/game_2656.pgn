@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xLKxJHIh"]
+[Date "2020.12.13"]
+[White "tjabalinha"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.13"]
+[UTCTime "15:54:02"]
+[WhiteElo "1869"]
+[BlackElo "1907"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c4 c5 6. Nc3 cxd4 7. Nxd4 Nf6 8. exf6 Qxf6 9. cxd5 Bd6 10. Qa4+ Nd7 11. dxe6 Bxe6 12. Nxe6 Qxe6+ 13. Qe4 Ne5 14. Bb5+ Ke7 15. O-O a6 16. Ba4 b5 17. Bb3 Qf6 18. Nd5+ 1-0
+

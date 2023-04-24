@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ewKOT6ab"]
+[Date "2021.02.27"]
+[White "marianm"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "14:21:26"]
+[WhiteElo "2043"]
+[BlackElo "1999"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D11"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Qb3 e6 5. Bg5 Be7 6. e3 O-O 7. Nbd2 a5 8. a4 Na6 9. Rc1 Nb4 10. Be2 Rb8 11. O-O Ne8 12. Bf4 Bd6 13. c5 Bxf4 14. exf4 Nf6 15. Ne5 Nd7 16. Ndf3 f6 17. Nd3 Nxd3 18. Bxd3 e5 19. dxe5 fxe5 20. Nxe5 Nxe5 21. fxe5 Qg5 22. Qc2 h6 23. Qe2 Bh3 24. f3 Rbe8 25. Qf2 Rxe5 26. f4 Rxf4 27. Qg3 Rxf1+ 28. Rxf1 Qxg3 29. hxg3 Bg4 30. Rf4 h5 31. Bg6 Re1+ 32. Kf2 Re2+ 33. Kg1 Rxb2 34. Bf7+ Kh7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LZIRctfx"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "VINCENT_99"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "13:13:06"]
+[WhiteElo "1898"]
+[BlackElo "1844"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 a6 2. d4 b5 3. f4 Bb7 4. Bd3 e6 5. Nf3 Nf6 6. Qe2 c5 7. c3 c4 8. Bc2 d5 9. e5 Nfd7 10. f5 Be7 11. O-O exf5 12. Bxf5 Nf8 13. Nbd2 Qb6 14. Rf2 Ne6 15. Nf1 h6 16. Ng3 Nd7 17. b3 O-O 18. Bxh6 gxh6 19. Raf1 Bc8 20. Nh5 Ng5 21. Nxg5 hxg5 22. Qg4 Qh6 23. h4 f6 24. Be6+ Kh7 25. hxg5 Nxe5 26. dxe5 Bxe6 27. Qxe6 Qxh5 28. Qxe7+ Rf7 29. Qe6 Rg8 30. Rxf6 Rxf6 31. Rxf6 Qxg5 32. Rf7+ Rg7 33. Qh3+ Kg8 34. Rxg7+ Kxg7 35. Qd7+ Kf8 36. e6 Qc1+ 37. Kh2 Qf4+ 38. Kh3 Qf5+ 39. Kh4 Qf4+ 40. g4 Qf6+ 41. Kh5 Qh8+ 42. Kg6 Qg8+ 43. Kf5 Qh8 44. Qf7# 1-0
+

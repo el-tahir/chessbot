@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qbvxbUWM"]
+[Date "2020.12.24"]
+[White "Yakov_Mizhitdorzhiev"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "14:03:26"]
+[WhiteElo "1947"]
+[BlackElo "1958"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. g4 Bd7 7. Nf3 e6 8. Bd3 Be7 9. f5 Bh4+ 10. Kf1 O-O 11. Nxh4 Qxh4 12. Qf3 Nc6 13. f6 Nxd4 14. Qf4 dxe5 15. Qxe5 Nf3 0-1
+

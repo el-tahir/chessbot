@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lEKGy28H"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "alvarofglez"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "11:03:28"]
+[WhiteElo "1997"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. Nf3 c5 6. Be3 Nc6 7. Rb1 cxd4 8. Nxd4 Ndxe5 9. Nxc6 Nxc6 10. Qg4 h5 11. Qg3 h4 12. Qg4 e5 13. Qa4 d4 14. Bb5 dxe3 15. O-O exf2+ 16. Rxf2 Bd7 17. Qb3 Be6 18. Bc4 Bc5 19. Bxe6 Bxf2+ 20. Kxf2 Qf6+ 21. Kg1 Qxe6 22. Qxb7 O-O 23. Rd1 Nd4 24. Ne4 h3 25. Ng5 Qg4 26. Rf1 Qxg5 27. Qe4 Qxg2+ 28. Qxg2 hxg2 29. Kxg2 Nxc2 30. Rc1 Rac8 31. Kf2 f5 32. h4 e4 33. Rg1 f4 34. h5 Kh7 35. Ke2 Rfd8 36. Kf2 Rd2+ 37. Kf1 f3 38. Rg5 e3 39. Kg1 Rd1+ 40. Kh2 e2 41. Kg3 e1=Q+ 42. Kg4 f2 43. h6 f1=Q 44. hxg7 1-0
+

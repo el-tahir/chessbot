@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UIsnsOku"]
+[Date "2022.04.28"]
+[White "EltahirAmin"]
+[Black "H_Gustavo_1980"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:21:30"]
+[WhiteElo "2101"]
+[BlackElo "2095"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Ng3 Ngf6 6. Nf3 Nb6 7. Bd3 Bg4 8. O-O e6 9. Bg5 Be7 10. h3 Bxf3 11. Qxf3 O-O 12. Rad1 Nbd5 13. Rfe1 h6 14. Bc1 Nb4 15. Bc4 b5 16. Bb3 a5 17. a3 Nbd5 18. Nh5 a4 19. Ba2 b4 20. Bxh6 gxh6 21. Qg3+ Ng4 22. Qxg4+ Bg5 23. h4 f5 24. Qg3 f4 25. Qg4 Nf6 26. Nxf6+ Qxf6 27. hxg5 hxg5 28. Rxe6 Qf5 29. Rf6+ 1-0
+

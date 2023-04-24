@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/lNrra71Q"]
+[Date "2020.11.21"]
+[White "ShuuichiAkai"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.21"]
+[UTCTime "17:11:14"]
+[WhiteElo "1150"]
+[BlackElo "1927"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. a3 d5 2. b3 e5 3. Bb2 Bc5 4. d4 exd4 5. Nd2 Qf6 6. e3 Qh4 7. g3 Qf6 8. Bb5+ c6 9. Bd3 Ne7 10. c4 dxc3 11. Bxc3 Qxc3 12. Ke2 Bg4+ 13. f3 Bh5 14. Rc1 Qe5 15. Rxc5 O-O 16. Ke1 Qxe3+ 17. Kf1 Qxc5 18. Ne2 Bg6 19. Nd4 Nf5 20. Nc2 Qxc2 21. Qa1 Qxd3+ 22. Ke1 Re8+ 23. Kf2 Ne3 24. Re1 Qxd2+ 25. Re2 Ng4+ 26. Kg2 Qxe2+ 27. Kh3 Nf2+ 28. Kg2 Nd3+ 29. Kh3 Bf5+ 30. Kh4 Qe7+ 31. Kh5 g6+ 32. Kh6 Qf8+ 33. Kg5 f6+ 34. Qxf6 Qxf6+ 35. Kxf6 h6 36. g4 Nd7# 0-1
+

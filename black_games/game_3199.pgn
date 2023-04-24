@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G1VGrRyF"]
+[Date "2020.11.15"]
+[White "redfklf"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "08:50:56"]
+[WhiteElo "1970"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bc5 6. e4 Nxf2 0-1
+

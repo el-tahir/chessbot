@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iiFfasgx"]
+[Date "2020.12.23"]
+[White "USKyam"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "10:18:42"]
+[WhiteElo "2011"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Bg4 5. Ne5 Bf5 6. Qb3 Qc7 7. cxd5 cxd5 8. Nxd5 Nxd5 9. Qxd5 e6 10. Qb3 Nc6 11. Qa4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 O-O 14. Nxc6 bxc6 15. Rc1 Qf4+ 16. Ke1 Qxc1+ 0-1
+

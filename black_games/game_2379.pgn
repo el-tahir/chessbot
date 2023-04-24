@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Fc1C9285"]
+[Date "2020.12.21"]
+[White "Venturamex"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.21"]
+[UTCTime "07:14:06"]
+[WhiteElo "1948"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C24"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Bc4 e5 4. d3 Bc5 5. Nge2 O-O 6. O-O a6 7. a3 b5 8. Ba2 Bb7 9. h3 Ne7 10. Kh2 d5 11. exd5 Nexd5 12. Nxd5 Nxd5 13. f4 Bd6 14. Bxd5 Bxd5 15. f5 Qh4 16. g3 e4 17. dxe4 Qxe4 18. Nf4 Bxf4 19. Bxf4 Qg2# 0-1
+

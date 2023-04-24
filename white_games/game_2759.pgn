@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d7UsGZQ8"]
+[Date "2020.12.05"]
+[White "EltahirAmin"]
+[Black "rildoss"]
+[Result "0-1"]
+[UTCDate "2020.12.05"]
+[UTCTime "20:57:30"]
+[WhiteElo "1835"]
+[BlackElo "1889"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Bc4 O-O 8. O-O e6 9. Kh1 d5 10. exd5 exd5 11. Bb3 Ne4 12. Nxd5 Nxd4 13. Bxd4 Bxd4 14. Qxd4 Qh4 15. Rae1 Ng3+ 16. fxg3 Qxd4 17. Re7 Qxb2 18. Nf6+ Kg7 19. Ne8+ Rxe8 20. Rxe8 b6 21. Rxf7+ Kh6 22. Ree7 Qc1+ 0-1
+

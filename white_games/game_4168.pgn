@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u9t4UQQU"]
+[Date "2020.10.16"]
+[White "EltahirAmin"]
+[Black "Gulkov"]
+[Result "0-1"]
+[UTCDate "2020.10.16"]
+[UTCTime "13:01:22"]
+[WhiteElo "1951"]
+[BlackElo "1809"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A13"]
+[Termination "Normal"]
+
+1. c4 e6 2. Nc3 c6 3. g3 d5 4. Bg2 Bd6 5. d4 f5 6. b3 g6 7. Bb2 Nf6 8. Nf3 Ne4 9. Nxe4 fxe4 10. Ne5 Nd7 11. O-O Qf6 12. Ng4 Qg7 13. Rc1 h5 14. Ne3 h4 15. cxd5 exd5 16. f4 Nf6 17. f5 Qh6 18. g4 Qxe3+ 19. Kh1 Nxg4 0-1
+

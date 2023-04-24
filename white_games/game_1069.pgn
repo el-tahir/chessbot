@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TsZ9Gyrm"]
+[Date "2021.10.17"]
+[White "EltahirAmin"]
+[Black "Or76-lando"]
+[Result "0-1"]
+[UTCDate "2021.10.17"]
+[UTCTime "02:48:03"]
+[WhiteElo "2026"]
+[BlackElo "2082"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 e5 7. Be2 exd4 8. Bxd4 Nxd4 9. Qxd4 Be7 10. O-O-O O-O 11. g4 Qb6 12. Qd2 Nxg4 13. Rdf1 Nxf2 14. Rhg1 Bf6 15. Qh6 Kh8 16. Qf4 Nh3 17. Qg3 Nxg1 18. Rxg1 Rg8 19. Nd5 Qd8 20. Kb1 Be6 21. Nf4 Rc8 22. c3 Be5 23. Bh5 g6 24. Bf3 f5 0-1
+

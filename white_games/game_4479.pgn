@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jp6SY8Jm"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "ryanacetan"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "12:42:15"]
+[WhiteElo "1989"]
+[BlackElo "1940"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. Bc4 Qg5 5. Bxf7+ Ke7 6. b3 Qxe5 7. Ba3+ Kxf7 8. O-O Bxa3 9. Nxa3 Nf6 10. f3 e3 11. Nc4 Qc5 12. dxe3 b5 13. Nd2 Qxe3+ 14. Kh1 Rd8 15. Re1 Qxd2 0-1
+

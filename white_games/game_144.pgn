@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/k9PemKqM"]
+[Date "2023.02.10"]
+[White "EltahirAmin"]
+[Black "lichess AI level 6"]
+[Result "0-1"]
+[UTCDate "2023.02.10"]
+[UTCTime "17:47:31"]
+[WhiteElo "1949"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 h6 5. f4 Nc6 6. Nf3 Bg4 7. Ng3 Qd6 8. f5 Bxf3 9. Qxf3 Qb4+ 10. c3 dxc3 11. Qd1 cxb2+ 0-1
+

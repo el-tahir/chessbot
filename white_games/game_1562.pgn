@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b34vTUKU"]
+[Date "2021.02.22"]
+[White "EltahirAmin"]
+[Black "Monica01"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "16:29:32"]
+[WhiteElo "1967"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nc3 Qd8 6. Bg5 h6 7. Bh4 Be7 8. Bc4 O-O 9. Qd2 Nc6 10. O-O-O a6 11. g4 b5 12. g5 hxg5 13. Bd3 gxh4 14. Nxh4 Nd5 15. Ng6 Bg5 16. f4 Nxf4 17. Nxf4 Qd6 18. Rdf1 Nxd4 19. Qe3 e5 20. Qh3 Bxh3 21. Rf3 Nxf3 0-1
+

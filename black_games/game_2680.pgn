@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oQsTmiiB"]
+[Date "2020.12.12"]
+[White "belalnabi"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "18:34:54"]
+[WhiteElo "1943"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Nf3 e6 6. Bd3 Bxd3 7. Qxd3 c5 8. c3 Nc6 9. dxc5 Bxc5 10. Be3 Bxe3 11. Qxe3 Nge7 12. Nbd2 Nf5 13. Qd3 Qb6 14. Rb1 O-O-O 15. O-O f6 16. Rfe1 Qc7 17. exf6 gxf6 18. Rxe6 Rhg8 19. Qxf5 Kb8 20. Rbe1 Rdf8 21. Rxf6 Re8 22. Rxe8+ Rxe8 23. Rf8 1-0
+

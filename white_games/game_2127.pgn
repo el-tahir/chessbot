@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NovBoRML"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "cummsibrutt"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "12:26:43"]
+[WhiteElo "2004"]
+[BlackElo "2047"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 Nb6 5. f4 Bf5 6. b4 e6 7. a3 a5 8. b5 c5 9. bxc6 bxc6 10. g4 Bg6 11. h4 h5 12. Bd3 hxg4 13. Bxg6 Rxh4 14. Rxh4 Qxh4+ 15. Kf1 fxg6 16. Qd3 Kf7 17. Rb1 N8d7 18. Nce2 c5 19. Qb5 a4 20. Be3 c4 21. Qc6 Rc8 22. Qb7 Rb8 23. Qc6 Bxa3 24. Nc3 Qg3 25. Ke2 Qg2+ 26. Bf2 g3 27. Rf1 gxf2 28. Rxf2 Qxg1 29. Nb5 Bb4 30. Nc7 Qe1+ 31. Kf3 Qe4+ 32. Kg3 Be1 33. Qxe6+ Kf8 34. Qg4 Qe3+ 35. Qf3 Qxf3+ 36. Kxf3 Bxf2 37. Ne6+ Ke7 38. Kxf2 Kxe6 39. Kf3 Rf8 40. c3 g5 41. Kg4 Rxf4+ 42. Kxg5 Rf3 43. Kg6 Rxc3 44. Kxg7 Rd3 45. Kg6 Rxd4 46. Kg5 Re4 47. Kh5 Rxe5+ 48. Kg4 Re4+ 49. Kf3 Ke5 50. Kf2 Kd4 51. Kf3 c3 52. Kf2 c2 53. Kf3 Kd3 54. Kf2 Re3 55. Kf1 Kd2 56. Kf2 Re2+ 57. Kf3 Kd1 58. Kf4 Re1 59. Kf5 Rf1+ 60. Kg4 Ke2 61. Kg3 Rg1+ 62. Kh2 Kf2 63. Kh3 Rg2 64. Kh4 Rh2+ 65. Kg4 Rg2+ 0-1
+

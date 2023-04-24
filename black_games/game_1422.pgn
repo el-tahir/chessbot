@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cEQCsoD4"]
+[Date "2021.02.26"]
+[White "ELGRANCASTILLO"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.26"]
+[UTCTime "23:51:36"]
+[WhiteElo "2060"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. Bg5 e6 8. Bxf6 gxf6 9. cxd5 exd5 10. Be2 Bb4 11. O-O Qd6 12. h3 h5 13. Re1 O-O-O 14. Nh2 Bxe2 15. Rxe2 Rhg8 16. Nb5 Qf4 17. Qa4 a6 18. Nc3 Bd6 19. Nf1 Nxd4 20. Nxd5 Nxe2+ 21. Kh1 Qxa4 22. Nxf6 Rxg2 23. Kxg2 Qc6+ 24. f3 Nf4+ 25. Kf2 Qc2+ 26. Ke3 Qd3+ 27. Kf2 Qe2+ 0-1
+

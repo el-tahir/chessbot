@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mJipt1Bi"]
+[Date "2021.03.07"]
+[White "Ericsson06"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.07"]
+[UTCTime "14:08:57"]
+[WhiteElo "2070"]
+[BlackElo "2064"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. cxd5 Nxd5 7. Nc3 Nb6 8. Bb5 Bg4 9. Bxc6+ bxc6 10. O-O e6 11. Re1 Bd6 12. Qd3 Bc7 13. Bg5 Qd6 14. h3 Bxf3 15. Qxf3 O-O 16. Ne4 Qh2+ 17. Kf1 Nc4 18. b3 f5 19. Ng3 Nd2+ 20. Bxd2 e5 21. dxe5 Rae8 22. Bf4 h6 23. Rad1 g5 24. Bc1 Bxe5 25. Qxc6 f4 26. Bb2 fxg3 27. Rxe5 Rxf2+ 28. Ke1 Qg1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KqK1FCoL"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "Teepy"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "02:09:37"]
+[WhiteElo "2060"]
+[BlackElo "2043"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 cxd4 3. Qxd4 d6 4. Nf3 Nf6 5. Bc4 Nbd7 6. Ng5 e6 7. Nc3 h6 8. Nxf7 Kxf7 9. O-O d5 10. Bb3 Bc5 11. Qf4 Rf8 12. e4 dxe4 13. Nxe4 Bb6 14. Re1 Nc5 15. Nd6+ Kg8 16. Bc4 Bc7 17. Rd1 Qe7 18. Be3 Nce4 19. Bc5 Nxc5 0-1
+

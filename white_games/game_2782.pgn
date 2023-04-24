@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w6a13dw7"]
+[Date "2020.12.03"]
+[White "EltahirAmin"]
+[Black "saeid1352"]
+[Result "0-1"]
+[UTCDate "2020.12.03"]
+[UTCTime "11:45:31"]
+[WhiteElo "1856"]
+[BlackElo "1855"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c6 3. Nf3 d5 4. d4 Nf6 5. e5 Nfd7 6. Bd3 a6 7. O-O b5 8. a3 c5 9. dxc5 Nxc5 10. Be3 Nbd7 11. Be2 Bb7 12. Nd4 Nxe5 13. f4 Nc4 14. Bxc4 dxc4 15. b4 Ne4 16. Nxe4 Bxe4 17. c3 g6 18. Qg4 Bg7 19. Rad1 Bd3 20. f5 Bxd4 21. Bxd4 Bxf5 22. Qf3 O-O 23. g4 Bd3 24. Rxd3 cxd3 25. Rd1 Qg5 26. Rxd3 Rad8 27. Kg2 h5 28. h3 hxg4 29. hxg4 Rd5 30. Qh3 f6 31. Be3 Qe5 32. Bd4 Qe4+ 33. Kf2 e5 34. Qh6 exd4 35. cxd4 Qxd3 36. g5 Qf5+ 37. Ke3 Qxg5+ 38. Qxg5 fxg5 0-1
+

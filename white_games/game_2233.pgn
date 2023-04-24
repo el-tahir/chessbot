@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OTLZWlfP"]
+[Date "2020.12.26"]
+[White "EltahirAmin"]
+[Black "SAkeER"]
+[Result "1-0"]
+[UTCDate "2020.12.26"]
+[UTCTime "09:55:05"]
+[WhiteElo "1947"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 f6 11. Bc4 1-0
+

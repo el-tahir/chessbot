@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BZ2z8BTc"]
+[Date "2021.02.25"]
+[White "Meco_Variations"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "11:48:31"]
+[WhiteElo "1973"]
+[BlackElo "1973"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nc3 d5 3. Qd3 Nf6 4. Bg5 e6 5. O-O-O Be7 6. h4 Qa5 7. Kb1 Na6 8. a3 c5 9. dxc5 Nxc5 10. Qd4 Nce4 11. Nxe4 Nxe4 12. Qxg7 Rf8 13. Bxe7 Kxe7 14. Nh3 Bd7 15. f3 Nc5 16. e4 dxe4 17. fxe4 Rac8 18. e5 Ne4 19. Bd3 Nd2+ 20. Ka1 Nc4 21. Qf6+ Ke8 22. Bxc4 Rxc4 23. Ng5 Rxc2 24. Nxh7 Qb6 25. Rb1 Qf2 26. Nxf8 Qxf6 27. exf6 Kxf8 28. h5 Rxg2 29. h6 Kg8 30. h7+ Kh8 31. Rbd1 1-0
+

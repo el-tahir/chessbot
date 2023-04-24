@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bj3CQ6Qi"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "jovsdondonilla03"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "15:28:55"]
+[WhiteElo "1919"]
+[BlackElo "1941"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bb5 Nf6 5. d4 exd4 6. Nxd4 Bg4 7. g3 Bxd1 0-1
+

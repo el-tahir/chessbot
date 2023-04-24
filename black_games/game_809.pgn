@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bx20pxCz"]
+[Date "2021.11.18"]
+[White "Nigel_Rivera"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.18"]
+[UTCTime "17:59:16"]
+[WhiteElo "2051"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qc7 5. Bd3 e5 6. Nc3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Nh4 Nf6 10. Nxg6 hxg6 11. Qe2 Na6 12. Be3 Bb4 13. Qd2 O-O-O 14. O-O-O Rd7 15. a3 Bc5 16. Qe2 Rhd8 17. Bxa6 Bxe3+ 18. Qxe3 bxa6 19. Rxd7 Rxd7 20. Rd1 Rxd1+ 21. Nxd1 Kb8 22. Qd3 Qd7 23. Qxd7 Nxd7 24. b4 Kb7 25. Kb2 Kb6 26. Kb3 Kb5 27. c4+ Kb6 28. c5+ Kb7 29. Ne3 a5 30. Nc4 Ka6 31. f3 axb4 32. axb4 Kb5 33. Nd6+ Ka6 34. Nxf7 Kb7 35. Kc4 a6 36. h4 Kc7 37. Ng5 Kd8 38. Ne6+ Ke7 39. Nc7 Kf7 40. Nxa6 1-0
+

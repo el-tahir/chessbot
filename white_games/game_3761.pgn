@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N4CHrmcB"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "Gmjavipro"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:38:51"]
+[WhiteElo "2055"]
+[BlackElo "2054"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. Be3 Nxe4 8. Bxe4 Nf6 9. Bd3 c5 10. c3 cxd4 11. Nxd4 O-O 12. O-O Bd7 13. Qf3 Nd5 14. Qe4 g6 15. Bh6 Re8 16. f4 Bf6 17. Rae1 Bg7 18. Bg5 Qb6 19. b3 Nxc3 20. Qf3 Qxd4+ 21. Kh1 Bc6 22. Qh3 Nd5 23. Re4 Qb2 24. Rb1 Qxa2 25. Ra4 Qd2 26. Re4 Nc3 27. f5 Bxe4 28. Bxd2 Nxb1 29. Bxe4 Nxd2 30. Bd3 exf5 31. g3 Re1+ 32. Kg2 Rae8 33. Kf2 Rc1 34. g4 Ne4+ 35. Ke2 Ra1 36. Kf3 Ng5+ 0-1
+

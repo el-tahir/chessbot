@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hvFSujSD"]
+[Date "2022.04.28"]
+[White "H_Gustavo_1980"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.28"]
+[UTCTime "04:24:08"]
+[WhiteElo "2090"]
+[BlackElo "2109"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. e3 Nf6 3. Bd3 d5 4. c3 Bg4 5. f3 Bh5 6. Ne2 Nc6 7. Nf4 Bg6 8. Nxg6 hxg6 9. Bb5 Qb6 10. Bxc6+ Qxc6 11. Na3 e6 12. Nc2 Bd6 13. h3 Bg3+ 14. Ke2 O-O-O 15. b4 cxb4 16. Nxb4 Qxc3 17. Qd3 Qxb4 18. Ba3 Qa5 19. Rab1 Qa6 20. Rbc1+ Kb8 21. Qxa6 bxa6 22. Rb1+ Ka8 23. Rhc1 Rb8 24. Rb3 Rxb3 25. axb3 Rb8 26. Rb1 a5 27. f4 Ne4 28. Kf3 Nd2+ 29. Kxg3 Nxb1 30. Bd6 Rxb3 0-1
+

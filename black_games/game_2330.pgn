@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6U8P1lqU"]
+[Date "2020.12.23"]
+[White "lustea0201"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.23"]
+[UTCTime "09:13:53"]
+[WhiteElo "1976"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nc3 e6 7. Nf3 Be7 8. Be3 O-O 9. Be2 c5 10. Nb5 a6 11. Nxd6 Bxd6 12. exd6 Qxd6 13. dxc5 Qxc5 14. Bxc5 1-0
+

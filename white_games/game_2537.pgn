@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rywPfEHH"]
+[Date "2020.12.17"]
+[White "EltahirAmin"]
+[Black "TassadarZ"]
+[Result "1/2-1/2"]
+[UTCDate "2020.12.17"]
+[UTCTime "15:39:36"]
+[WhiteElo "1940"]
+[BlackElo "1950"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 Bg4 7. Be2 e6 8. O-O Be7 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nh5 12. Qb3 Nxg3 13. hxg3 Bxf3 14. Bxf3 Nxd4 15. Qxb7 Nxf3+ 16. gxf3 O-O 17. Rab1 Bf6 18. Kg2 Qb6 19. Qxb6 axb6 20. Rfd1 Rfd8 21. a3 Bxc3 22. bxc3 Rab8 23. Rb5 Kg7 24. a4 Kf6 25. a5 bxa5 26. Rxa5 Rbc8 27. Ra6 Rxc3 28. Raxd6 Rxd6 29. Rxd6 Rc8 30. Kh3 Rh8 1/2-1/2
+

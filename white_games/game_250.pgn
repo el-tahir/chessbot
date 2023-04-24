@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XhhzLVgf"]
+[Date "2022.10.03"]
+[White "EltahirAmin"]
+[Black "greenak"]
+[Result "0-1"]
+[UTCDate "2022.10.03"]
+[UTCTime "17:49:18"]
+[WhiteElo "2054"]
+[BlackElo "2061"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 a6 6. Be3 Nc6 7. Be2 d6 8. O-O Nf6 9. Qd2 O-O 10. Nxc6 bxc6 11. Bh6 Rb8 12. b3 a5 13. a4 Qb6 14. Bxg7 Kxg7 15. Kh1 Bd7 16. f3 Qb4 17. Rfd1 h6 18. Na2 Qxd2 19. Rxd2 Be6 20. Nc1 d5 21. exd5 Nxd5 22. Nd3 Bf5 23. Ne5 Nb4 24. c3 Nc2 25. Rb1 Ne3 26. Rbb2 Rbc8 27. g4 Be6 28. b4 axb4 29. cxb4 Nd5 30. b5 cxb5 31. axb5 Rc1+ 32. Kg2 Rb8 33. b6 Rxb6 34. Rxb6 Nxb6 35. h4 Nd5 36. Bc4 Nf4+ 37. Kg3 Bxc4 38. Kxf4 Be6 39. Nd3 Rc4+ 40. Kg3 Rd4 41. Kf2 Bc4 42. Ke3 Rxd3+ 43. Rxd3 Bxd3 44. Kxd3 Kf6 45. Ke4 Ke6 46. Kf4 Kd5 47. h5 Kd4 48. hxg6 fxg6 49. g5 h5 50. Kg3 e5 51. Kf2 e4 52. fxe4 Kxe4 53. Kg3 Kf5 54. Kh4 Kf4 55. Kh3 Kxg5 56. Kh2 Kg4 0-1
+

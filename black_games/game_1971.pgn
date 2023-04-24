@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rhhOHW3w"]
+[Date "2021.01.14"]
+[White "xonixx"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.14"]
+[UTCTime "14:55:17"]
+[WhiteElo "1876"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. Bb5+ Nc6 7. Bxc6+ bxc6 8. O-O Rb8 9. a3 Ne7 10. dxc5 Ng6 11. b4 a5 12. c3 Ra8 13. Bb2 Be7 14. Qe2 O-O 15. a4 Nxf4 16. Qe3 Nd3 17. Ba3 axb4 18. Bxb4 Nxb4 19. cxb4 Qb8 20. Nd4 Qxb4 21. Nxc6 Qxc5 22. Qxc5 Bxc5+ 23. Kh1 Rfc8 0-1
+

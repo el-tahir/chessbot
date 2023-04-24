@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nb9lI6r2"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "Barban"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "10:50:03"]
+[WhiteElo "1986"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nc6 5. Nc3 g6 6. Bg5 Bg7 7. Nf3 Bg4 8. Be2 Bxf3 9. Bxf3 Nxd4 10. O-O Nc6 11. Qd2 Ne5 12. Be2 Nf6 13. f4 Nc6 14. Bc4 O-O 15. Rad1 Qc7 16. Bxf6 Bxf6 17. Nd5 Qc8 18. Rf3 Bg7 19. Rh3 Re8 20. f5 e6 21. fxg6 fxg6 22. Nf4 d5 23. exd5 Ne5 24. Bb3 Qc5+ 25. Kh1 Rac8 26. Nxe6 Rcd8 27. Nxc5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tfrFuJ1u"]
+[Date "2021.01.17"]
+[White "Dudusbs"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.17"]
+[UTCTime "05:40:28"]
+[WhiteElo "1986"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. Be2 e6 8. c5 Be7 9. a3 O-O 10. b4 b6 11. h3 Bh5 12. O-O bxc5 13. bxc5 Rb8 14. Bf4 Rb7 15. Rb1 Rxb1 16. Nxb1 Qa5 17. Bd2 Qc7 18. Bb4 a5 19. Bc3 Rb8 20. a4 Nb4 21. Bb5 Ne4 22. g4 Ng5 23. Ne5 Bg6 24. h4 Ne4 25. h5 f6 26. Nd7 Rxb5 27. axb5 Qxd7 28. hxg6 e5 29. gxh7+ Kxh7 30. Kg2 exd4 31. Bxd4 Qxb5 32. Rh1+ Kg8 33. Qf3 Bxc5 34. Ba1 Bxf2 35. Nc3 Nxc3 36. Qxf2 Nd3 37. Qd2 Ne4 38. Qe3 Qb8 39. g5 Qe5 40. gxf6 Qxa1 41. fxg7 Qb2+ 42. Kf3 Qf6+ 43. Ke2 Qb2+ 44. Kxd3 Qc3+ 45. Ke2 Qxe3+ 46. Kxe3 Kxg7 47. Rg1+ Kf6 48. Ra1 a4 49. Rxa4 Ke5 50. Ra5 Kd6 51. Ra8 Ke5 52. Rh8 d4+ 53. Ke2 Nc5 54. Rh5+ Kd6 55. Rh6+ Kd5 56. Rh5+ Kc4 0-1
+

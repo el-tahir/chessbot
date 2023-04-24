@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/agtjhyXJ"]
+[Date "2020.12.20"]
+[White "EltahirAmin"]
+[Black "ivandroalx"]
+[Result "0-1"]
+[UTCDate "2020.12.20"]
+[UTCTime "22:12:01"]
+[WhiteElo "1993"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. e5 Bf5 6. Nf3 e6 7. Bd3 Nge7 8. Nh4 Bg6 9. Nxg6 hxg6 10. h3 Nf5 11. Bxf5 gxf5 12. Nc3 Qb6 13. Ne2 Bb4+ 14. Bd2 g5 15. Rc1 Nxd4 16. Qa4+ Nc6 17. Rxc6 Bxd2+ 18. Kxd2 bxc6 19. Rc1 Rc8 20. Nd4 O-O 21. h4 g4 22. h5 c5 23. Nb3 c4 24. Na1 Qxf2+ 25. Kd1 Qf1+ 26. Kc2 Qxg2+ 27. Kb1 Qe4+ 28. Nc2 d4 29. Ka1 d3 30. Nb4 Rc5 31. Qa3 Rfc8 32. Qc3 Qxe5 33. Qxe5 Rxe5 34. Nxd3 Re2 35. Nf4 Rf2 36. Nd3 cxd3 37. Rxc8+ Kg7 38. a4 d2 39. Rd8 Rf1+ 40. Ka2 d1=Q 41. Rxd1 Rxd1 42. Kb3 g3 43. Kb4 g2 44. Ka5 g1=Q 45. Ka6 Qb6# 0-1
+

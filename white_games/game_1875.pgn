@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vGdLfgFV"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "Rolfoblitz"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "22:47:48"]
+[WhiteElo "1967"]
+[BlackElo "1980"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. a3 Nh6 7. b4 cxd4 8. cxd4 Nf5 9. Bb2 Bd7 10. g4 Nh6 11. Bd3 Nxg4 12. Rg1 Nh6 13. Nbd2 Nf5 14. Bxf5 exf5 15. Qe2 Be6 16. Ng5 O-O-O 17. Nb3 h6 18. Nf3 g5 19. Rc1 Kb8 20. Kf1 Rc8 21. Kg2 g4 22. Nfd2 h5 23. Rc2 Bh6 24. Rgc1 f4 25. Nc5 f3+ 26. Kf1 fxe2+ 27. Kxe2 Bxd2 28. Kxd2 Bf5 29. e6 Bxe6 30. Re1 Ka8 31. Na4 Qb5 32. Nc5 Bf5 33. Rcc1 Qd3+ 34. Nxd3 Bxd3 35. Kxd3 Rhe8 36. Re3 f5 37. Rce1 Re4 38. Rxe4 dxe4+ 39. Ke3 Rd8 40. Rd1 Ne7 41. Kf4 Rf8 42. d5 Ng6+ 43. Kg5 Ne7 44. d6 Nc6 45. d7 Rd8 46. Bf6 Rxd7 47. Rxd7 a5 48. b5 Nd4 49. Bxd4 e3 50. Rd8# 1-0
+

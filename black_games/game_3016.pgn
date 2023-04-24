@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0heBYWiQ"]
+[Date "2020.11.21"]
+[White "Elpoderoso83"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.21"]
+[UTCTime "00:15:35"]
+[WhiteElo "1895"]
+[BlackElo "1892"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bb5 Bg4 7. Be3 e6 8. h3 Bh5 9. g4 Bg6 10. Ne5 Rc8 11. Qe2 Bb4 12. Qd2 Ne4 13. Qe2 Nxc3 14. Qf3 Nxb5+ 15. c3 Bd6 16. Nxg6 hxg6 17. O-O-O Qa5 18. Kb1 Bb4 19. cxb4 Nxb4 20. a3 Nxa3+ 21. bxa3 Qxa3 22. Qe2 Rc2 23. Qxc2 Nxc2 24. Kxc2 O-O 25. Ra1 Rc8+ 26. Kd2 Qc3+ 27. Ke2 Qc2+ 28. Kf3 Qe4+ 29. Kg3 a6 30. Rae1 Qd3 31. Rd1 Qb5 32. Rb1 Qd7 33. Rb3 b5 34. Rhb1 Qd6+ 35. Bf4 Qb6 36. Be5 Rc2 37. Rb4 Ra2 38. R1b2 Rxb2 39. Rxb2 a5 40. f3 a4 41. Kf4 a3 42. Ke3 Qa5 43. Ra2 b4 0-1
+

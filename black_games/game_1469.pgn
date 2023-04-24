@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/clx91lZn"]
+[Date "2021.02.25"]
+[White "savaserdogan"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:26:00"]
+[WhiteElo "1981"]
+[BlackElo "1998"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Nc3 c5 6. Be3 cxd4 7. Bxd4 Bb4 8. Be2 Nc6 9. O-O Nge7 10. a3 Ba5 11. b4 Bc7 12. Bb5 O-O 13. Be2 Nf5 0-1
+

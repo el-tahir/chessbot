@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jrwYDopt"]
+[Date "2022.09.26"]
+[White "EltahirAmin"]
+[Black "SpennyThompson"]
+[Result "1-0"]
+[UTCDate "2022.09.26"]
+[UTCTime "01:40:34"]
+[WhiteElo "2031"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 g6 6. Nxf5 gxf5 7. Bd3 e6 8. Qe2 Be7 9. Nf3 Nf6 10. c3 Nbd7 11. Bf4 Qb6 12. Rb1 O-O-O 13. a4 Nd5 14. Be5 f6 15. Bg3 h5 16. h4 f4 17. Bh2 f5 18. Qxe6 Bxh4 19. Qxf5 Rde8+ 20. Kd2 Qb3 21. Ne5 Re7 22. Bc2 Qb6 23. b4 Rf8 24. Qh3 Bxf2 25. a5 Qc7 26. b5 cxb5 27. Rxb5 f3 28. Rc5 Be3+ 29. Ke1 f2+ 30. Kf1 Qxc5 31. dxc5 Kc7 32. Nxd7+ Bf4 33. Bxf4+ Nxf4 34. Nxf8 Re1+ 35. Kxf2 Nxh3+ 36. Rxh3 Re8 37. Rf3 1-0
+

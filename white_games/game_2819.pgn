@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ei9zRWz9"]
+[Date "2020.11.28"]
+[White "EltahirAmin"]
+[Black "Schmidt97"]
+[Result "1/2-1/2"]
+[UTCDate "2020.11.28"]
+[UTCTime "20:51:46"]
+[WhiteElo "1883"]
+[BlackElo "1833"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Bd7 7. Bc4 e5 8. Nf5 Bxf5 9. exf5 Nf6 10. Nd5 Nxd5 11. Qxd5 Qf6 12. Bb6 Qxf5 13. O-O-O Be7 14. g4 Qf6 15. g5 Qxg5+ 16. Kb1 O-O 17. h4 Qf6 18. h5 Kh8 19. Rdg1 Rac8 20. Bd3 Nb4 21. Qe4 Nxd3 22. Qxd3 Qf4 23. Be3 Qc4 24. Qf5 Rc7 25. c3 b5 26. Rxg7 Kxg7 27. Rg1+ Kh8 28. Bh6 Rg8 29. Rxg8+ Kxg8 30. Qg4+ Qxg4 31. Bc1 Qg1 32. a3 Rxc3 33. bxc3 Qxf2 34. Bb2 Qe1+ 35. Ka2 Bg5 36. Kb3 Bc1 37. Ba1 Bxa3 38. Ka2 Qe3 39. Kxa3 Qh6 40. Bb2 Qxh5 41. Kb4 e4 42. Bc1 Qf3 43. Ba3 e3 44. Ka5 e2 45. Kxa6 e1=Q 46. Bb4 Qfxc3 47. Kxb5 Qxb4+ 48. Kc6 Qec3+ 49. Kd7 Qca3 50. Ke7 d5+ 51. Kf6 d4 52. Kf5 d3 53. Ke5 d2 54. Kf5 1/2-1/2
+

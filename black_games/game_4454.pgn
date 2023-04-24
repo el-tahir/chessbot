@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PxsCl0OD"]
+[Date "2020.05.12"]
+[White "viasatelite"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "17:07:57"]
+[WhiteElo "1971"]
+[BlackElo "1976"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f3 e6 5. g4 Bg6 6. h4 h5 7. g5 c5 8. c3 Nc6 9. Bb5 cxd4 10. Bxc6+ bxc6 11. cxd4 Bb4+ 12. Nc3 Ne7 13. Bd2 Nf5 14. Nge2 O-O 15. f4 Qb6 16. Na4 Bxd2+ 17. Qxd2 Qc7 18. Nc5 Rab8 19. b3 Rb4 20. a3 Rb6 21. b4 Ra8 22. Rc1 Rbb8 23. a4 a5 24. b5 cxb5 25. Nxe6 Qe7 26. Nc5 b4 27. Kf2 b3 28. Nd3 Qd7 29. Nc5 Qe8 30. Rb1 Rb4 31. Rb2 Rab8 32. Kg2 Qc6 33. Kh3 Ne7 34. Rc1 Bf5+ 35. Kg3 Qc8 36. Nd3 Qd7 37. Nxb4 axb4 38. a5 Bh3 39. Kh2 Qg4 40. Rg1 Qd7 41. Ng3 Bg4 42. Rf1 Nf5 43. Nxf5 Bxf5 44. a6 Rc8 45. a7 Rc2 46. a8=Q+ Kh7 47. Rxc2 bxc2 48. g6+ fxg6 49. Qh8+ Kxh8 50. Rg1 Kh7 51. Qg2 c1=Q 52. Rxc1 Bc2 53. Qxg6+ Kxg6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dwdCva73"]
+[Date "2020.12.10"]
+[White "EltahirAmin"]
+[Black "SirNumenorih"]
+[Result "0-1"]
+[UTCDate "2020.12.10"]
+[UTCTime "16:10:23"]
+[WhiteElo "1934"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Ng6 7. Qf3 d6 8. Bc4 Qd7 9. Rf1 Nf6 10. Kg1 O-O 11. Bg5 Ne8 12. Rae1 c6 13. e5 dxe5 14. dxe5 h6 15. e6 Qd4+ 16. Kh1 fxe6 17. Qe2 Rxf1+ 18. Rxf1 Nd6 19. Bxe6+ Kh8 20. Bc1 Bxe6 21. Qxe6 Ne5 22. Nb1 Re8 23. Qh3 Qc4 24. Bxh6 Qxf1# 0-1
+

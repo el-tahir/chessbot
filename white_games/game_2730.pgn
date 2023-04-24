@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MRQrwF4z"]
+[Date "2020.12.08"]
+[White "EltahirAmin"]
+[Black "Syd2mizard"]
+[Result "0-1"]
+[UTCDate "2020.12.08"]
+[UTCTime "15:45:47"]
+[WhiteElo "1898"]
+[BlackElo "1886"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Bb4 7. Be2 Bxc3+ 8. bxc3 Qxc3+ 9. Bd2 Qxd4 10. O-O Nf6 11. Qe1 Nc6 12. Kh1 Qb6 13. f3 O-O 14. c4 d5 15. cxd5 exd5 16. exd5 Nxd5 17. Bc4 Be6 18. Qh4 Nf6 19. Bg5 Bxc4 20. Bxf6 gxf6 21. Qxc4 Ne5 22. Qf4 Ng6 23. h4 Nxf4 0-1
+

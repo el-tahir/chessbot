@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IE6oiW4v"]
+[Date "2020.12.28"]
+[White "navojoalov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "11:53:17"]
+[WhiteElo "1951"]
+[BlackElo "1974"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Qf3 Nb6 4. d4 c6 5. Nc3 e6 6. Bd3 d6 7. Nge2 Be7 8. g3 N8d7 9. exd6 Bxd6 10. h4 Nf6 11. O-O Qc7 12. Re1 Bd7 13. Bd2 O-O-O 14. a4 Nbd5 15. a5 h6 16. a6 b6 17. Ne4 Nxe4 18. Bxe4 g5 19. h5 f5 20. Bxd5 exd5 21. c4 Rdf8 22. cxd5 f4 23. g4 Re8 24. Rac1 c5 25. dxc5 Bxc5 26. b4 Kb8 27. bxc5 bxc5 28. Nd4 Rxe1+ 29. Bxe1 Re8 30. Ne6 Bxe6 31. dxe6 Rxe6 32. Rb1+ Kc8 33. Qa8+ Kd7 34. Rb7 Rxe1+ 35. Kg2 Kd6 36. Rxc7 Kxc7 37. Qxa7+ Kd6 38. Qb6+ Kd5 39. Qd8+ Kc4 40. a7 Ra1 41. a8=Q Rxa8 42. Qxa8 Kd3 43. Qd5+ Ke2 44. Qxc5 f3+ 45. Kg3 Kf1 46. Qe3 Kg1 47. Qxf3 Kf1 48. Qd1# 1-0
+

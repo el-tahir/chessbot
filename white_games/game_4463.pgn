@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q9aFSMfT"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "brute_force"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "14:53:57"]
+[WhiteElo "1981"]
+[BlackElo "1975"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 e6 4. Bd3 g6 5. O-O Bg7 6. Bg5 Nge7 7. Nc3 O-O 8. Qd2 Nxd4 9. Nxd4 Bxd4 10. Bh6 Bg7 11. Bxg7 Kxg7 12. h4 f5 13. h5 fxe4 14. h6+ Kg8 15. Bxe4 d5 16. Qd4 Nf5 17. Bxf5 Qf6 18. Qxf6 Rxf6 19. Bd3 e5 20. Nxd5 Rd6 21. Ne7+ 1-0
+

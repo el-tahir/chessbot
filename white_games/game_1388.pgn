@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EYivOGjP"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "sefikzvekic12"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "21:22:01"]
+[WhiteElo "2017"]
+[BlackElo "2066"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 a6 4. d4 d5 5. e5 Nc6 6. Be3 cxd4 7. cxd4 Nge7 8. Bd3 Ng6 9. Nc3 Be7 10. h4 b5 11. h5 Nf8 12. a3 Nd7 13. Qd2 Na5 14. Bc2 Nc4 15. Qc1 Bb7 16. Bf4 h6 17. b3 Ncb6 18. Qe3 Rc8 19. Rc1 b4 20. axb4 Bxb4 21. Bb1 Bxc3+ 22. Rxc3 Rxc3 23. Qxc3 O-O 24. Qd3 f5 25. exf6 Nxf6 26. Rh3 Ne4 27. Bxh6 gxh6 28. Rg3+ Kh8 29. Rg6 Rf6 30. Qe3 Rxg6 31. hxg6 Kg7 32. Ne5 Nd7 33. Qf4 Qe7 34. Ng4 Ng5 35. Qh2 Qb4+ 36. Kf1 Qb5+ 37. Kg1 Qxb3 38. Qxh6+ Kg8 39. Qxg5 Qxb1+ 40. Kh2 Bc6 41. Qh6 Qb7 42. Qh7+ Kf8 43. Qf7# 1-0
+

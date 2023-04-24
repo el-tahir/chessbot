@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QI6TuLl1"]
+[Date "2021.01.12"]
+[White "Afrizalmasterjuara"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.12"]
+[UTCTime "07:23:00"]
+[WhiteElo "1906"]
+[BlackElo "1908"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Be3 Bg4 7. Be2 e6 8. Ne5 Nxe5 9. dxe5 Bxe2 10. Qxe2 Nd7 11. Bf4 Bb4 12. Qd3 O-O 13. O-O-O Qa5 14. Kb1 Nc5 15. Qg3 Kh8 16. Ne2 Ne4 17. Qg4 Nxf2 18. Qf3 Nxd1 19. Rxd1 Rac8 20. c3 Be7 21. Ng3 b5 22. Nh5 b4 23. Qg4 Rg8 24. Bd2 bxc3 25. Bxc3 Rxc3 26. bxc3 Qxc3 27. a4 Rb8+ 28. Ka2 Qb2# 0-1
+

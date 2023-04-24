@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tBt7up1p"]
+[Date "2021.01.06"]
+[White "MICSOKOLI"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.06"]
+[UTCTime "11:47:41"]
+[WhiteElo "1942"]
+[BlackElo "1917"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. cxd5 cxd5 6. Qa4+ Nc6 7. Bb5 Rc8 8. Nc3 Ne7 9. Bg5 h6 10. Bxe7 Bxe7 11. Nf3 O-O 12. O-O a6 13. Be2 f6 14. Qd1 Qb6 15. Kh1 Qxb2 16. Rc1 Ba3 17. exf6 Qxc1 18. Qxc1 Bxc1 19. Rxc1 Rxf6 20. Nh4 Nxd4 21. Bf1 g5 22. Nxf5 Rxf5 23. Kg1 b5 24. Bd3 Rf7 25. a3 Rfc7 26. f3 Rxc3 27. Rd1 Rxd3 28. Rxd3 Rc1+ 29. Kf2 e5 30. g3 Kf7 31. h4 gxh4 32. gxh4 Kf6 33. f4 Rc2+ 34. Kg3 Nf5+ 35. Kh3 d4 36. Rf3 Rc3 37. fxe5+ Kxe5 38. Rxc3 dxc3 39. Kg4 c2 40. Kh5 c1=Q 41. Kg6 Nxh4+ 42. Kf7 Qg5 0-1
+

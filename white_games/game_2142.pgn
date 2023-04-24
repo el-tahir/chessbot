@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YolCjPKs"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "Dust_Commander"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "10:48:28"]
+[WhiteElo "1996"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Bf5 4. g4 Bg6 5. h4 h6 6. Nh3 e6 7. h5 Bh7 8. Bg2 f5 9. Nc3 Nf6 10. g5 Nd5 11. d3 Nxc3 12. bxc3 exd3 13. g6 dxc2 14. Qxc2 Bg8 15. Bf4 Nc6 16. Rd1 Qf6 17. O-O e5 18. Rfe1 Bd6 19. Qa4 Kd8 20. Bxc6 bxc6 21. Qxc6 Rb8 22. Bc1 Be6 23. Rxd6+ cxd6 24. Qxd6+ Bd7 25. Qxb8+ Bc8 26. Rd1+ Ke7 27. Qc7+ 1-0
+

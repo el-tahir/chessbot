@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wI5OsTAN"]
+[Date "2021.01.12"]
+[White "EltahirAmin"]
+[Black "Mineirouaibh"]
+[Result "1-0"]
+[UTCDate "2021.01.12"]
+[UTCTime "20:18:54"]
+[WhiteElo "1928"]
+[BlackElo "1920"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d3 Bg4 5. Be3 Ne7 6. Be2 Nd7 7. h3 Bh5 8. g4 Bg6 9. h4 h6 10. h5 Bh7 11. d4 Qb6 12. Rb1 Qa5 13. Bd2 Qc7 14. d5 O-O-O 15. b4 g6 16. b5 c5 17. a4 b6 18. a5 f5 19. axb6 Nxb6 20. Ra1 Kb7 21. Na4 Ra8 22. Ba5 Bg7 23. c4 fxe4 24. Nd2 gxh5 25. Rxh5 Bg6 26. Rh1 h5 27. gxh5 Bf7 28. Nxe4 Nf5 29. Ng5 Nd4 30. Rg1 Raf8 31. Ne6 Bxe6 32. dxe6 Nxe6 33. Bf3+ Kb8 34. Bxb6 axb6 35. Nxb6 Qxb6 36. Ra8+ Kc7 37. Ra6 Qb8 38. Qxd6+ Kc8 39. Qxe6+ Kd8 40. Rd6+ Kc7 41. Rxg7+ 1-0
+

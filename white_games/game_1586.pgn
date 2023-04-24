@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tFjyji5C"]
+[Date "2021.02.20"]
+[White "EltahirAmin"]
+[Black "indamb"]
+[Result "0-1"]
+[UTCDate "2021.02.20"]
+[UTCTime "17:37:47"]
+[WhiteElo "1965"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be3 Nf6 5. Nc3 c6 6. Be2 b5 7. a3 a5 8. h3 Bb7 9. h4 h5 10. Qd2 b4 11. axb4 axb4 12. Rxa8 Bxa8 13. Nd1 Nxe4 14. Qxb4 c5 15. dxc5 dxc5 16. Qa4+ Nd7 17. Bb5 Nf6 18. Bxc5 O-O 19. Ba3 Qc7 20. Be2 Ne5 21. O-O Nxf3+ 22. gxf3 Nd5 23. Qc4 Qxc4 24. Bxc4 Nf4 25. Bxe7 Re8 26. Bg5 Be5 27. Ne3 Bxf3 28. Nd5 Nh3# 0-1
+

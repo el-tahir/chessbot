@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/F57fdv3b"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "ZacDragon"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "15:40:51"]
+[WhiteElo "1959"]
+[BlackElo "1934"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. a3 Be7 8. Be3 h5 9. Bb5 h4 10. h3 f6 11. Qe2 cxd4 12. Nxd4 Nxd4 13. Bxd4 f5 14. Qd1 a6 15. Be2 g5 16. Bh5+ Kf8 17. Rf1 Bc5 18. Bxc5+ Nxc5 19. Qe2 Bd7 20. O-O-O Bc6 21. fxg5 Qxg5+ 22. Kb1 Qxh5 23. Qe3 Nd7 24. Ne2 Qh6 25. Nf4 Ke7 26. Qb3 Qg5 27. Qb4+ Kf7 28. Qd6 Rhe8 29. c4 Qe7 30. Qc7 Nc5 31. Qa5 Ne4 32. cxd5 exd5 33. e6+ Kg7 34. Qe1 Qg5 35. Qe2 Re7 36. Rc1 Rae8 37. Ka1 Ng3 38. Qc2 Nxf1 39. Qc3+ Qf6 40. Nh5+ Kg6 41. Qxf6+ Kxh5 42. Qxf5+ Kh6 43. Rxf1 Rxe6 44. Rf4 Re1+ 45. Ka2 R1e4 46. Rxe4 Rxe4 47. Qf6+ Kh7 48. b4 d4 49. Kb3 Bd5+ 50. Ka4 d3 51. Qf5+ Kg7 52. Qxd5 Re3 53. Qg5+ Kf7 54. Qxe3 d2 55. Qd3 d1=Q+ 56. Qxd1 Kg6 57. Qg4+ Kf6 58. Qxh4+ Ke5 59. Qg4 Kd5 60. Qg7 b5+ 0-1
+

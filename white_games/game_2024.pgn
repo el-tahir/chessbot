@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p6LmMeet"]
+[Date "2021.01.10"]
+[White "EltahirAmin"]
+[Black "BobT2801"]
+[Result "0-1"]
+[UTCDate "2021.01.10"]
+[UTCTime "10:32:06"]
+[WhiteElo "1920"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Bd3 Nc6 7. O-O cxd4 8. Ne2 Ncxe5 9. Nxe5 Nxe5 10. Nxd4 Bd7 11. Be2 Bd6 12. f4 Ng6 13. Bd3 O-O 14. Qh5 Bc5 15. Be3 Qf6 16. Rf3 Bxd4 17. Bxd4 Qxd4+ 18. Kh1 a6 19. Raf1 Bb5 20. f5 exf5 21. Qxf5 Bxd3 22. cxd3 Rae8 23. g3 Re3 24. Qxf7+ Rxf7 25. Rxf7 Qxd3 26. h4 Rxg3 27. h5 Rh3+ 28. Kg1 Qg3# 0-1
+

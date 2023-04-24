@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Moy0evs1"]
+[Date "2022.04.28"]
+[White "Nier04"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "06:31:51"]
+[WhiteElo "2156"]
+[BlackElo "2131"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 Bg4 4. e3 e6 5. Nc3 Bb4 6. Qc2 O-O 7. Be2 Nc6 8. cxd5 Nxd5 9. O-O Nxc3 10. bxc3 Bd6 11. a4 Qf6 12. Rb1 Qh6 13. e4 Bxf3 14. Bxh6 1-0
+

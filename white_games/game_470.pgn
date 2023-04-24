@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eCfE8915"]
+[Date "2022.05.14"]
+[White "EltahirAmin"]
+[Black "Genevieve2015"]
+[Result "0-1"]
+[UTCDate "2022.05.14"]
+[UTCTime "02:41:52"]
+[WhiteElo "2122"]
+[BlackElo "2122"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 e6 4. Nf3 Nd7 5. Bd3 b6 6. Bg5 Be7 7. Bxe7 Nxe7 8. O-O Bb7 9. Re1 Qc7 10. Qe2 O-O-O 11. a4 a5 12. Reb1 dxe4 13. Nxe4 c5 14. dxc5 Nxc5 15. Nxc5 Qxc5 16. Ba6 Nd5 17. Bxb7+ Kxb7 18. Ne5 Rhf8 19. c3 f6 20. Nd3 Qc6 21. b4 Nxc3 22. Qf1 Nxb1 23. Rxb1 Qc4 24. Rd1 axb4 25. g3 e5 26. Qg2+ e4 27. Nf4 Rxd1+ 0-1
+

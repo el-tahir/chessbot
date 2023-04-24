@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hZ4Ywlof"]
+[Date "2020.10.29"]
+[White "MORGAN1973"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.29"]
+[UTCTime "17:47:43"]
+[WhiteElo "2044"]
+[BlackElo "2016"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 cxd4 7. cxd4 Bb4+ 8. Nc3 Qc7 9. Bd2 Nc6 10. Qa4 Ne7 11. Bb5 Bxc3 12. bxc3 O-O 13. O-O a6 14. Be2 b5 15. Qa3 Nc8 16. h3 Nb6 17. Nh4 Be4 18. f3 Bg6 19. Nxg6 hxg6 20. Qc1 Na5 21. Bd3 Nac4 22. Be1 Qe7 23. g4 f6 24. f4 g5 25. fxg5 fxg5 26. Bd2 Rxf1+ 27. Kxf1 Rf8+ 28. Kg2 Qf7 29. Bxc4 Nxc4 30. Bxg5 Qf3+ 31. Kg1 Qg3+ 32. Kh1 Qxh3+ 0-1
+

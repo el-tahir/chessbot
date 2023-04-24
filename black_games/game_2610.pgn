@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZbBaxOLQ"]
+[Date "2020.12.15"]
+[White "egydoc91"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.15"]
+[UTCTime "17:30:43"]
+[WhiteElo "1900"]
+[BlackElo "1916"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bg4 7. Be2 e6 8. O-O Bd6 9. Bxd6 Qxd6 10. h3 Bh5 11. Nb5 Qb8 12. Nh2 Bxe2 13. Qxe2 a6 14. Nc3 Nxd4 15. Qd3 Nc6 16. Na4 O-O 17. Nb6 Ra7 18. g4 Qc7 19. Qb3 Nd4 20. Qb4 Nxc2 21. Rac1 Qxh2+ 22. Kxh2 Nxb4 23. g5 Ne4 24. a3 Nd3 25. Rc2 Nxg5 26. Rc3 Nxb2 27. Nd7 Rd8 28. Ne5 Raa8 29. Rb1 Na4 30. Rcb3 b5 31. Rg3 Ne4 32. Rg4 Nxf2 33. Rf4 Ne4 34. Nxf7 Rf8 35. Rbf1 Nac5 36. Ne5 Rxf4 37. Rxf4 Rf8 38. Rxf8+ Kxf8 39. Kg2 Ke7 40. Kf3 Kd6 41. Nf7+ Ke7 42. Ne5 Kf6 43. Nc6 Ng5+ 44. Kg4 Na4 45. Nd4 Nb2 46. Ne2 Nc4 47. Nf4 Nxa3 48. Nd3 Nc4 49. Nc5 a5 50. Nd3 a4 51. Nb4 a3 52. h4 Ne4 53. Kf3 g5 54. hxg5+ Kxg5 55. Ke2 h5 56. Kf3 h4 57. Kg2 Nc3 58. Kh3 a2 59. Nxa2 Nxa2 60. Kg2 b4 61. Kf3 b3 62. Ke2 b2 63. Kd3 b1=Q+ 64. Ke2 Qc2+ 0-1
+

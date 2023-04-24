@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DRvJvWEs"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "cajka"]
+[Result "1/2-1/2"]
+[UTCDate "2023.03.01"]
+[UTCTime "22:57:06"]
+[WhiteElo "1993"]
+[BlackElo "2053"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A41"]
+[Termination "Time forfeit"]
+
+1. d4 d6 2. Nf3 c6 3. e4 Nd7 4. Bd3 g6 5. c4 Bg7 6. Nc3 f6 7. Be3 a6 8. Qd2 Qc7 9. O-O e5 10. Kh1 g5 11. Ng1 h5 12. b4 Ne7 13. a4 Ng6 14. b5 h4 15. dxe5 Ndxe5 16. bxc6 bxc6 17. Rab1 h3 18. g3 Be6 19. f4 gxf4 20. gxf4 Ng4 21. Bb6 Qb7 22. f5 Bxf5 23. Rxf5 Nh4 24. Bf2 Qc7 25. Rf4 Nxf2+ 26. Rxf2 Bh6 27. Qe2 Qf7 28. Qg4 Bg5 29. Rbf1 Qe7 30. Nf3 Rg8 31. Nxh4 Bxh4 32. Qxg8+ Kd7 33. Qxa8 Bxf2 34. Qa7+ Ke6 35. Qxe7+ Kxe7 36. Rxf2 Ke6 37. Rf3 Ke5 38. Rxh3 Kd4 39. Ne2+ Ke5 40. Kg2 a5 41. Kf2 Ke6 42. Rg3 Kf7 43. h4 f5 44. exf5 Kf6 45. h5 Ke5 46. h6 Kf6 47. h7 d5 48. cxd5 Ke5 49. dxc6 Kd6 50. h8=Q Kxc6 51. Qc3+ Kd6 52. Rg6+ Ke7 53. Qf6+ Kd7 54. Rg7+ Ke8 55. Qf8+ Kxf8 56. Rb7 Ke8 57. Ra7 Kd8 58. f6 Ke8 59. Rh7 Kf8 60. Bb5 Kg8 61. Ra7 Kf8 62. Rxa5 Kf7 63. Ra6 Kf8 64. Rc6 Ke8 65. a5 Kf8 66. a6 Ke8 67. a7 Kf8 68. a8=Q+ Kf7 69. Qa6 Kg6 70. f7+ Kf5 71. f8=Q+ Ke4 72. Rf6 Kd5 1/2-1/2
+

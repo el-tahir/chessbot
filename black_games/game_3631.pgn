@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tmPiTkFH"]
+[Date "2020.11.06"]
+[White "hendri_Mitsubishi"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.06"]
+[UTCTime "15:57:29"]
+[WhiteElo "1995"]
+[BlackElo "1985"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 c5 7. c3 cxd4 8. cxd4 Bb4+ 9. Nc3 Nc6 10. Nf3 Nge7 11. g4 h5 12. g5 Nf5 13. O-O Qb6 14. Ne2 Rc8 15. Be3 h4 16. Rac1 h3 17. Ng3 Nxe3 18. Qxe3 Ke7 19. f5 Qa5 20. f6+ gxf6 21. exf6+ Kd7 22. g6 Rhf8 23. gxf7 Rxf7 24. Rxc6 Rc7 25. Rxc7+ Qxc7 26. Ne5+ Ke8 27. Nxf7 Kxf7 28. Qg5 Qc2 29. Qg7+ Ke8 30. f7+ Kd8 31. f8=Q+ Bxf8 32. Rxf8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZwtK3MXH"]
+[Date "2021.02.16"]
+[White "EltahirAmin"]
+[Black "Maibe83"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "17:06:39"]
+[WhiteElo "1989"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A05"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. Nc3 Nd6 4. d4 g6 5. Bd3 Bg7 6. Bg5 O-O 7. Qd2 Nc6 8. d5 f6 9. Bh6 Ne5 10. Nxe5 fxe5 11. h4 e6 12. h5 Nf5 13. Bxg7 Kxg7 14. hxg6 hxg6 15. Bxf5 exf5 16. Qh6+ Kf6 17. O-O-O d6 18. g4 Rg8 19. g5+ Kf7 20. Qh7+ Rg7 21. Qh4 Bd7 22. f4 e4 23. Ne2 Qe7 24. Nd4 c5 25. dxc6 bxc6 26. Qf2 c5 27. Ne2 Be6 28. Kb1 d5 29. Rh6 Rb8 30. Rdh1 Qb7 31. b3 c4 32. Qd4 Qe7 33. Rh7 Rg8 34. R1h6 cxb3 35. axb3 a5 36. Ng3 a4 37. Nh5 gxh5 38. g6+ Ke8 39. Qxa4+ Bd7 40. Qa8+ Qd8 41. Qxd5 1-0
+

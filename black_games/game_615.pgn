@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FbK4X4gK"]
+[Date "2022.04.30"]
+[White "toddi"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.30"]
+[UTCTime "12:36:45"]
+[WhiteElo "2139"]
+[BlackElo "2079"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. Nf3 d6 5. exd6 cxd6 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8. d3 Nc6 9. O-O O-O-O 10. a4 e5 11. a5 Na8 12. Be3 f5 13. Nb5 Kb8 14. d4 f4 15. Bd2 e4 16. d5 Ne7 17. c4 exf3 18. Qxf3 g5 19. Rae1 Nf5 20. Re6 Nd4 21. Qe4 Nxe6 22. dxe6 Qc6 23. Qf5 Be7 24. b3 Rdf8 25. Qg4 h5 26. Qe2 g4 27. f3 gxf3 28. Rxf3 Rhg8 29. Kh1 Nc7 30. Nd4 Qa6 31. Bxf4 d5 32. Nb5 Bd8 33. e7 Re8 34. exd8=Q+ Rxd8 35. Nxc7 Kc8 36. Nxa6 bxa6 37. cxd5 Rxd5 38. Qxa6+ Kd7 39. Qxa7+ Kc6 40. Qb6+ Kd7 41. Qc7+ Ke6 42. Re3+ Kf5 43. h3 Rd1+ 44. Kh2 h4 45. Qf7# 1-0
+

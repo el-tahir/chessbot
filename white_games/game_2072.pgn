@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5Ga4D03a"]
+[Date "2021.01.04"]
+[White "EltahirAmin"]
+[Black "Grass2grace"]
+[Result "0-1"]
+[UTCDate "2021.01.04"]
+[UTCTime "09:09:04"]
+[WhiteElo "1951"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 c6 3. Nf3 d5 4. d4 Nbd7 5. Ng5 h6 6. e5 hxg5 7. exf6 exf6 8. Bd3 Bd6 9. O-O Bxh2+ 10. Kh1 Bf4+ 11. Kg1 Qc7 12. Bxf4 Qxf4 13. g3 Qd6 14. Re1+ Kd8 15. Qf3 Nf8 16. Ne2 Ng6 17. c4 Bd7 18. cxd5 cxd5 19. Rac1 Bc6 20. Nc3 Kd7 21. Bf5+ Kd8 22. g4 Qh2+ 23. Kf1 Nf4 24. Re3 Rh3 25. Qxh3 Nxh3 26. Rc2 Qg1+ 27. Ke2 Qxf2+ 28. Kd3 Qf1+ 29. Rce2 Nf4+ 30. Kc2 Nxe2 31. Rxe2 Kc7 32. Re7+ Kb6 33. Rxf7 Qf2+ 34. Kb3 a5 35. Rxg7 a4+ 36. Ka3 Qxd4 37. Bc2 Qc5+ 38. b4 axb3+ 39. Kxb3 Qc4+ 40. Kb2 Qb4+ 41. Bb3 d4 42. Nd1 Qd2+ 43. Bc2 Be4 44. Ne3 dxe3 45. Rf7 Qxc2+ 46. Ka1 Rxa2# 0-1
+

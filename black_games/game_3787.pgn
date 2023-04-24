@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aYyxt63b"]
+[Date "2020.11.03"]
+[White "Mehran65"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "16:36:09"]
+[WhiteElo "2063"]
+[BlackElo "2045"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Bg5 e6 5. e3 Be7 6. Nf3 b6 7. Ne5 Bb7 8. Bd3 Nbd7 9. f4 Nxe5 10. fxe5 Nd7 11. Bxe7 Qxe7 12. O-O O-O-O 13. cxd5 exd5 14. Qa4 Kb8 15. Ba6 f6 16. Bxb7 Kxb7 17. Rac1 fxe5 18. dxe5 Nxe5 19. e4 d4 20. Ne2 d3 21. Nc3 Rhf8 22. Rfd1 Qc5+ 23. Kh1 Ng4 24. Rd2 Nf2+ 25. Kg1 Nh3+ 26. Kh1 Rf2 27. Qd1 Rdf8 28. Nd5 Qxc1 29. Qxc1 Rf1+ 0-1
+

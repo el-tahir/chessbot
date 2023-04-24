@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HxU64Q4P"]
+[Date "2020.11.03"]
+[White "caracan"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:51:19"]
+[WhiteElo "2065"]
+[BlackElo "2055"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. c3 d5 3. Bg5 Nf6 4. Nd2 e6 5. e3 Be7 6. Bd3 h6 7. Bh4 b6 8. Rc1 Bb7 9. Bb1 Nbd7 10. Qc2 Rc8 11. Ngf3 c5 12. O-O cxd4 13. exd4 Ba6 14. Rfe1 g5 15. Bg3 Nh5 16. Be5 Nxe5 17. Nxe5 Bd6 18. Qa4+ Bb5 19. Qxb5+ Ke7 20. Nc6+ 1-0
+

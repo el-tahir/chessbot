@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KaqzmR8N"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "Vivity2"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "07:31:02"]
+[WhiteElo "1932"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. O-O g6 8. Bg5 Bg7 9. Qd2 h6 10. Be3 Ng4 11. Nxc6 bxc6 12. Ba4 Nxe3 13. fxe3 Rb8 14. Bb3 Qa5 15. Bxf7+ Kd8 16. Bb3 Bxc3 17. bxc3 Rb5 18. h4 Rc5 19. Rf7 Qxc3 20. Qf2 Qxa1+ 21. Kh2 Qe5+ 22. Kg1 Qxe4 23. Qe1 Re5 24. Rf3 Bg4 25. Rg3 h5 26. Qf1 Ke8 27. Qa6 Kf8 28. Qxa7 Kg7 29. Qa6 Rf8 30. Qd3 Qxd3 31. cxd3 d5 32. d4 Re6 33. Bc2 Ref6 34. Kh2 Rf2 35. Ba4 Rxa2 36. Bxc6 Rff2 37. Bxd5 e6 38. Bxa2 Rxa2 39. e4 Re2 40. Re3 Rxe3 41. e5 Rd3 42. d5 Rxd5 43. Kg3 Rxe5 44. Kf2 Re2+ 45. Kg1 e5 46. Kh2 Re3 47. Kg1 Ra3 48. Kf2 e4 49. Kg1 e3 50. Kf1 e2+ 51. Ke1 Ra1+ 52. Kf2 e1=Q# 0-1
+

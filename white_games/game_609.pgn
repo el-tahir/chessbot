@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nbQhR20z"]
+[Date "2022.05.01"]
+[White "EltahirAmin"]
+[Black "beydov"]
+[Result "0-1"]
+[UTCDate "2022.05.01"]
+[UTCTime "20:31:01"]
+[WhiteElo "2051"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B28"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 b5 4. d4 cxd4 5. Nxd4 Bb7 6. Bd3 d6 7. O-O e6 8. f4 Nd7 9. Kh1 Ngf6 10. Qf3 Be7 11. Qg3 O-O 12. f5 e5 13. Nf3 b4 14. Ne2 Nxe4 15. Bxe4 Bxe4 16. Bh6 Bf6 17. Nd2 Bb7 18. Ng1 Kh8 19. Be3 Nc5 20. Nh3 Ne4 21. Nxe4 Bxe4 22. Ng5 Bxg5 23. Bxg5 f6 24. Be3 d5 25. Rad1 Bxc2 26. Rd2 Be4 27. Re1 Bxf5 28. Bc5 Rf7 29. Bxb4 Be4 30. Rxe4 Qb6 31. Rg4 d4 32. Ba3 Rc8 33. h3 Qc6 34. Rf2 Rd7 35. h4 d3 36. h5 d2 37. Rxd2 Rxd2 38. Rxg7 Rd1+ 39. Kh2 Qb6 40. Rxh7+ Kxh7 41. Qg6+ Kh8 42. h6 Qg1+ 43. Kh3 Qe3+ 44. Kh2 Qf4+ 45. Kh3 Rh1# 0-1
+

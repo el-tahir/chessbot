@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0wFFA5bm"]
+[Date "2022.01.03"]
+[White "Drawford"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.01.03"]
+[UTCTime "17:16:15"]
+[WhiteElo "2127"]
+[BlackElo "2108"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Bg4 5. Ne5 Bc8 6. cxd5 cxd5 7. Bg5 e6 8. e3 Be7 9. Bb5+ Bd7 10. Nxd7 Nbxd7 11. O-O O-O 12. Rc1 a6 13. Bd3 Rc8 14. Bb1 h6 15. Bh4 Ne8 16. Bg3 Bd6 17. Qe2 Ndf6 18. e4 dxe4 19. Nxe4 Bxg3 20. hxg3 Qxd4 21. Rxc8 Nd5 22. Rd1 Qe5 23. Nc3 Qg5 1-0
+

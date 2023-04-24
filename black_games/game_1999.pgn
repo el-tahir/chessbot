@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FS8nmwjE"]
+[Date "2021.01.13"]
+[White "edisupriadi"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.13"]
+[UTCTime "10:32:34"]
+[WhiteElo "1917"]
+[BlackElo "1927"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. cxd5 Nxd5 7. Bc4 Nb6 8. Bxf7+ Kxf7 9. Qb3+ e6 10. Ng5+ Ke7 11. Nxh7 Kd7 12. Ng5 Be7 13. Nxe6 Qg8 14. d5 Nd4 15. Qd3 Nxe6 16. Qb5+ Kd8 17. dxe6 Qxe6+ 18. Be3 Bd7 19. Qa5 Bh4 20. O-O Qe5 21. Qxe5 Bf6 22. Bxb6+ axb6 23. Qd6 Ra5 24. Qxb6+ Ke7 25. Qxa5 Be5 26. Qxe5+ Be6 27. f4 Rh6 28. f5 Kf7 29. Qxe6+ Rxe6 30. fxe6+ Kxe6 31. a4 b5 32. a5 g5 33. a6 b4 34. a7 g4 35. a8=Q g3 36. hxg3 b3 37. Ra3 Ke5 38. Rxb3 Ke6 39. Qa5 Kd6 40. Rb6+ Kc7 41. Qa7+ Kc8 42. Rb8# 1-0
+

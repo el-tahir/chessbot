@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7yzvWP6i"]
+[Date "2022.04.27"]
+[White "EltahirAmin"]
+[Black "bryan300511"]
+[Result "1-0"]
+[UTCDate "2022.04.27"]
+[UTCTime "23:08:59"]
+[WhiteElo "2106"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 d5 6. exd5 exd5 7. Bb5 Bd7 8. Qe2+ Qe7 9. Be3 Nxd4 10. Bxd7+ Qxd7 11. Bxd4+ Qe7 12. Qxe7+ Bxe7 13. Bxg7 Bf6 14. Bxh8 Bxh8 15. O-O-O Bxc3 16. bxc3 Ne7 17. Rhe1 Kf8 18. Re5 Rc8 19. Kb2 Rc5 20. Rh5 Kg7 21. Re1 Nc6 22. Rd1 Ne7 23. Re5 Kf6 24. Rh5 Kg6 25. Re5 Kf6 26. Re3 Nf5 27. Rf3 Kg6 28. g3 Rb5+ 29. Ka3 Nd6 30. Rfd3 Nc4+ 31. Ka4 Rb6 32. Rxd5 Nb2+ 33. Ka3 Nxd1 34. Rxd1 h5 35. Rd7 h4 36. c4 hxg3 37. hxg3 a6 38. c5 Rb5 39. Rc7 a5 40. c4 Rb4 41. c6 bxc6 42. Rxc6+ Kf5 43. Rc5+ Ke4 44. Rxa5 Kf3 45. Rf5+ Ke4 46. Rf4+ Kd3 47. Kxb4 1-0
+

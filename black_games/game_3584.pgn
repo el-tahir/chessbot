@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rokqHpHY"]
+[Date "2020.11.07"]
+[White "GibonCZ"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "13:01:18"]
+[WhiteElo "1952"]
+[BlackElo "1985"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 c5 6. Be3 cxd4 7. Bxd4 Nc6 8. Bb5 Rc8 9. Qa4 a6 10. Bxc6+ bxc6 11. Qxa6 Ne7 12. Nbd2 c5 13. Qb5+ Qd7 14. Qxd7+ Kxd7 15. Be3 Nc6 16. Nb3 Na7 17. O-O-O Be7 18. h3 c4 19. Nbd4 Ra8 20. Nxf5 exf5 21. Nd4 Rhd8 22. Nxf5 Nb5 23. a3 Ke8 24. Nxg7+ Kf8 25. Bh6 Kg8 26. Nf5 Bc5 27. f3 Ra6 28. Bg5 Rg6 29. Ne7+ Bxe7 30. Bxe7 Rd7 31. Bf6 Rxg2 32. Rhg1 Rxg1 33. Rxg1+ Kf8 34. Rg7 d4 35. cxd4 Nxd4 36. Rxh7 Ne2+ 37. Kc2 Nd4+ 38. Kc3 Ne2+ 39. Kxc4 Rd4+ 40. Kb5 Ke8 41. Rh8+ Kd7 42. a4 Rd5+ 43. Kb4 Nd4 44. Rd8+ Ke6 45. Rxd5 Kxd5 46. h4 Nxf3 47. h5 Nd2 48. h6 Ne4 49. h7 Nd2 50. h8=Q Ne4 51. Qd8+ Ke6 52. Qd6+ Kf5 53. Qd5 Ng5 54. Qe4+ Nxe4 55. a5 Nxf6 56. a6 1-0
+

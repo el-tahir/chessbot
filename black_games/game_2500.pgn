@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iKxQT3L1"]
+[Date "2020.12.19"]
+[White "Alberto-959"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "08:48:24"]
+[WhiteElo "1962"]
+[BlackElo "1969"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O d5 5. exd5 exd5 6. Re1+ Be7 7. Bb5 Nf6 8. Bxc6+ bxc6 9. Qe2 Be6 10. Ng5 O-O 11. Nxe6 fxe6 12. Qxe6+ Kh8 13. Qxc6 Ne4 14. f3 Rc8 15. Qa6 c4 16. fxe4 Bc5+ 17. Kh1 Qh4 18. g3 Qh3 19. d4 Rf1+ 0-1
+

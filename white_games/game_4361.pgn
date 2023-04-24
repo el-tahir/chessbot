@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gI3S7nGk"]
+[Date "2020.05.14"]
+[White "EltahirAmin"]
+[Black "kingjymz"]
+[Result "1-0"]
+[UTCDate "2020.05.14"]
+[UTCTime "16:48:41"]
+[WhiteElo "2010"]
+[BlackElo "2030"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb4+ 8. Kf1 d6 9. Qb3 Qe7 10. d5 Bc5 11. dxc6 bxc6 12. Bg5 f6 13. Bxg8 fxg5 14. Nc3 d5 15. Bxd5 cxd5 16. Nxd5 Qd6 17. Rd1 Ba6+ 18. Kg1 Rd8 19. Qa4+ Kf7 20. Qxa6 Qxa6 21. Nxg5+ Kg6 22. Nf3 Rhf8 23. g3 Rxf3 24. Kg2 Rxf2+ 25. Kh3 Qe6+ 26. Kh4 1-0
+

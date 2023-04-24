@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/okoORvfb"]
+[Date "2021.01.06"]
+[White "adamviva"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.06"]
+[UTCTime "11:42:25"]
+[WhiteElo "1886"]
+[BlackElo "1923"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. e3 d5 3. f4 Nf6 4. Bd3 Bg4 5. Nf3 e6 6. Nbd2 Bd6 7. c3 O-O 8. Qc2 c5 9. b3 Na6 10. Ne5 Bxe5 11. fxe5 Nd7 12. O-O g6 13. Nf3 cxd4 14. exd4 Rc8 15. Bh6 Re8 16. Ng5 Re7 17. h3 Bf5 18. g4 Bxd3 19. Qxd3 Qe8 20. Qf3 f5 21. exf6 Nxf6 22. Qxf6 Nc7 23. Rae1 Nb5 24. Nxe6 Rf7 25. Qe5 Rc6 26. Rxf7 Qxf7 27. Qxd5 Rd6 28. Qxb5 Rxe6 29. Rf1 Qe7 30. Rf8+ Qxf8 31. Bxf8 Kxf8 32. Qxb7 Re7 33. Qd5 Kg7 34. c4 Re1+ 35. Kf2 Ra1 36. a4 Ra2+ 37. Kf3 Rb2 38. Qb5 Rc2 39. d5 Rc3+ 40. Kf4 h6 41. d6 g5+ 42. Ke4 Rxh3 43. d7 Rg3 44. Qe5+ Kf7 45. Qxg3 Ke7 46. Qc7 h5 47. d8=Q+ Ke6 48. Qdd6# 1-0
+

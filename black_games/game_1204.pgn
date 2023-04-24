@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WSJvauCz"]
+[Date "2021.10.11"]
+[White "fuzzytug"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "03:54:52"]
+[WhiteElo "2062"]
+[BlackElo "2101"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 Nf6 5. Nc3 e6 6. Bc4 Bb4 7. Qf3 Nbd7 8. Ne2 Nb6 9. e5 Nfd5 10. O-O Nxc4 11. Qxf7# 1-0
+

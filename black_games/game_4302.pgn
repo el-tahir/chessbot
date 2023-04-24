@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XbbkAQN9"]
+[Date "2020.07.30"]
+[White "Hatanga"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.07.30"]
+[UTCTime "22:29:51"]
+[WhiteElo "2086"]
+[BlackElo "2049"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. b3 d5 3. Bb2 Nf6 4. e3 Bg4 5. d4 e6 6. Be2 c5 7. Nbd2 Nc6 8. dxc5 Bxc5 9. h3 Bh5 10. O-O O-O 11. c4 Rc8 12. cxd5 Nxd5 13. Rc1 Bb6 14. a3 Qe7 15. b4 a6 16. Nb3 Rc7 17. Nbd4 Rfc8 18. Nxc6 Rxc6 19. Rxc6 Rxc6 20. Nd4 Bxd4 21. Bxd4 Bg6 22. Bc5 Qf6 23. Bf3 h6 24. Bxd5 exd5 25. Qxd5 Rc8 26. Qxb7 Qe6 27. Rd1 Be4 28. Qd7 Re8 29. Qxe6 Rxe6 30. f3 Bc6 31. Kf2 g5 32. Rd6 1-0
+

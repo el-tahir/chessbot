@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EaKO8fI0"]
+[Date "2021.11.21"]
+[White "Neo_9000"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.21"]
+[UTCTime "22:07:11"]
+[WhiteElo "1993"]
+[BlackElo "2066"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 Nf6 4. d3 d5 5. Ne2 dxe4 6. dxe4 Qc7 7. O-O e5 8. h3 Bd6 9. Kh2 Be6 10. f4 exf4 11. Bxf4 O-O-O 12. Bxd6 Rxd6 13. Qe1 Rhd8 14. Nf4 g5 15. Nxe6 Rxe6 16. Nc3 Rde8 17. Rd1 h5 18. Rxf6 Rxf6 19. Nd5 Qd6 20. Nb6+ axb6 21. Rxd6 Rxd6 22. Qf2 Ne5 23. Qf5+ Kb8 24. Qxg5 Rd2 25. Qxh5 Rxc2 26. Qf5 Rxb2 27. h4 c4 28. h5 c3 29. Qf4 c2 30. Qd2 Rc8 31. Qd6+ Rc7 32. Qd8+ Rc8 33. Qd6+ Ka7 34. Qa3+ Kb8 35. Qd6+ 1/2-1/2
+

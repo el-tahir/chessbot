@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/toAB65ba"]
+[Date "2021.11.09"]
+[White "EltahirAmin"]
+[Black "sendiv_pratama2021"]
+[Result "0-1"]
+[UTCDate "2021.11.09"]
+[UTCTime "03:32:27"]
+[WhiteElo "2048"]
+[BlackElo "2105"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 Bg4 5. Be2 Bxf3 6. Bxf3 Nxd4 7. O-O e5 8. Be3 Nf6 9. a4 Qb6 10. Bg5 Qxb2 11. Bxf6 Qxc3 12. Bh4 Nxf3+ 13. gxf3 f6 14. Qd5 O-O-O 15. Rab1 Rd7 16. Rb3 Qa5 17. Rfb1 Qa6 18. Qe6 Kd8 19. Bxf6+ Be7 20. Bxg7 Re8 21. a5 h6 22. c4 Bg5 23. Bf6+ Bxf6 24. Qxf6+ Kc8 25. Qxh6 Rg8+ 26. Kh1 Qxc4 27. Qh3 b5 28. Rxb5 Rg7 29. Rb8+ Kc7 30. R1b7+ Kc6 31. Rxd7 Qc1+ 0-1
+

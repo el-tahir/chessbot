@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G1JJZ1pJ"]
+[Date "2020.10.20"]
+[White "KingMZ"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.20"]
+[UTCTime "11:00:17"]
+[WhiteElo "1874"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. g3 Bg4 6. Bg5 Nc6 7. Qd2 e6 8. e3 Bb4 9. h3 Bh5 10. g4 Bg6 11. Bg2 Be4 12. Bxe4 Nxe4 13. Bxd8 Nxd2 14. Kxd2 Rxd8 15. a3 Ba5 16. b4 Bc7 17. Na4 b6 18. Rc1 Rd6 19. Rc2 Kd7 20. Nf3 Rc8 21. Rhc1 Nb8 22. Ne5+ Kd8 23. Nxf7+ Kd7 24. Nxd6 Kxd6 25. Nc3 Nd7 26. Nb5+ 1-0
+

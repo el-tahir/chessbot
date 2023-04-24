@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DLWEEfia"]
+[Date "2021.02.22"]
+[White "zurdogalvez"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.22"]
+[UTCTime "18:20:20"]
+[WhiteElo "1958"]
+[BlackElo "1948"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Nc6 6. Be3 Bg4 7. c3 e6 8. Nbd2 Bd6 9. h3 Bh5 10. Qc2 Rc8 11. O-O Bg6 12. Bxg6 hxg6 13. Rfe1 Ke7 14. Nf1 Rh7 15. Ng3 Qd7 16. Nh2 Rch8 17. f4 Nh5 18. Qf2 Nxg3 19. Qxg3 Kd8 20. Nf3 Qe7 21. Ne5 Nxe5 22. dxe5 Bc5 23. Bd4 Bxd4+ 24. cxd4 Qb4 25. Qb3 Qxd4+ 26. Kh2 Qxf4+ 27. Kh1 Rxh3+ 28. gxh3 Qf5 29. Re3 b6 30. Rd1 g5 31. a4 g4 32. Kh2 Qf4+ 33. Kg2 gxh3+ 34. Rxh3 Qe4+ 35. Kg1 Qg4+ 36. Rg3 Qe4 37. Qf3 Rh1+ 38. Kxh1 Qxa4 1-0
+

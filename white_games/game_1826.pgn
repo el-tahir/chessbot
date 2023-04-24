@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rSxmdLDu"]
+[Date "2021.01.27"]
+[White "EltahirAmin"]
+[Black "erickamba2002"]
+[Result "1-0"]
+[UTCDate "2021.01.27"]
+[UTCTime "06:49:31"]
+[WhiteElo "2016"]
+[BlackElo "1979"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d4 Nd7 5. Bc4 h6 6. O-O Qf6 7. Be3 Ne7 8. Qe2 Ng6 9. Rad1 Be7 10. Rd2 O-O 11. Rfd1 Nb6 12. Bb3 Bg4 13. h3 Bc8 14. dxe5 dxe5 15. Nh2 Nf4 16. Bxf4 Qxf4 17. Ng4 Bc5 18. Ne3 Qg5 19. Qf3 Be6 20. Ne2 Bxb3 21. axb3 f5 22. Nxf5 g6 23. b4 Bxb4 24. Qb3+ Kh8 25. Qxb4 gxf5 26. Ng3 f4 27. Nf5 Rg8 28. f3 Raf8 29. Qe7 Rxf5 30. Qxb7 Rf6 31. Qxa7 Nc4 32. Rf2 Ne3 33. Rdd2 Qg3 34. Kh1 Rfg6 35. Qe7 Nxg2 36. Qxe5+ R6g7 37. Rxg2 Qxh3+ 38. Kg1 Qxf3 39. Rxg7 Rxg7+ 40. Qxg7+ Kxg7 41. Rg2+ Qxg2+ 42. Kxg2 Kf6 43. Kf3 Ke5 44. c4 1-0
+

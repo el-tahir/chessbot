@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/y5v1Hmnv"]
+[Date "2021.01.28"]
+[White "rashidian_treat"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "16:14:51"]
+[WhiteElo "2144"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. c3 c5 10. Qc2 h6 11. Be4 Nc6 12. Be3 cxd4 13. Nxd4 Rc8 14. f3 Nxd4 15. Bxd4 Be6 16. Rad1 Qa5 17. Bxb7 Rb8 18. Be4 Qh5 19. g4 Qh3 20. Bxa7 Rb5 21. Rxd6 h5 22. Qe2 Ra5 23. Be3 Rxa2 24. Qg2 Qh4 25. Qg3 Qxg3+ 26. hxg3 hxg4 27. fxg4 Bxg4 28. b4 Re2 29. Rd3 Re8 30. Rf4 f5 31. Bf3 R2xe3 32. Rxe3 Rxe3 33. Bxg4 fxg4 34. Rxg4 Rxc3 35. b5 Rb3 36. Rg5 f6 37. Rc5 Kf7 38. Kg2 g5 39. Kh3 Kg6 40. Kg4 f5+ 41. Rxf5 Rb4+ 42. Rf4 gxf4 43. gxf4 Rxb5 44. Kf3 Kf5 0-1
+

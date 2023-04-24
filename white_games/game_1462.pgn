@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NcClrQCn"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "StephenC20XX"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:49:56"]
+[WhiteElo "1994"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 h6 6. Nxf7 Kxf7 7. Bg6+ Kxg6 8. Qxd8 Be6 9. O-O c6 10. Nc3 Kf7 11. Bf4 g5 12. Bxb8 Bg7 13. Qd3 Raxb8 14. Rad1 Nd5 15. Nxd5 Bxd5 16. f4 Bf6 17. c4 Be6 18. f5 Bc8 19. c5 b5 20. b4 Rb7 21. Qb3+ Kg7 22. Rf2 Rd7 23. Rfd2 Rhd8 24. Rxd7 Rxd7 25. Rxd7 Bxd7 26. a4 Bxf5 27. axb5 cxb5 28. c6 Bd4+ 29. Kf1 Bb6 30. Qd5 e6 31. Qxb5 e5 32. Qxe5+ Kg6 33. c7 Bd3+ 34. Ke1 Ba6 35. Qe8+ Kf5 36. c8=Q+ Bxc8 37. Qxc8+ 1-0
+

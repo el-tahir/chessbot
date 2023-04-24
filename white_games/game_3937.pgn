@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1nM7I31R"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "protongravaton"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "10:44:39"]
+[WhiteElo "2048"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 7. Qd2 a6 8. Bd3 h6 9. Ng1 Nf6 10. Nge2 Ng4 11. f3 Nxe3 12. Qxe3 h5 13. O-O-O Bh6 14. f4 exf4 15. Nxf4 O-O 16. Kb1 Qe8 17. Qg3 Kh8 18. Rdf1 Bd7 19. Nce2 Ng8 20. Qh4 Qe5 21. g4 Bg7 22. c3 Bxg4 23. Rhg1 Bf6 24. Qf2 g5 25. Rxg4 hxg4 26. Nh5 Bg7 27. Neg3 f6 28. Nf5 Rf7 29. Qg2 Bf8 30. Qxg4 Nh6 31. Qh3 Rh7 32. Nfg3 Be7 33. Rf5 Nxf5 34. Nxf5 Qf4 35. Nxe7 Qh4 36. Qxh4 gxh4 37. Ng6+ Kg8 38. Nxf6+ Kg7 39. Nxh7 Kxg6 40. e5+ Kh5 41. exd6 cxd6 42. Kc2 Rh8 43. Nf6+ Kg5 44. Ne4+ Kf4 45. Nxd6 Rd8 46. Nxb7 Rxd5 47. Bc4 Re5 48. b3 a5 49. Kd3 Rg5 50. Nd6 Rg1 51. Nf7 Ra1 52. Nd6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ggE8DKyt"]
+[Date "2020.12.10"]
+[White "torkani"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.10"]
+[UTCTime "10:31:06"]
+[WhiteElo "1871"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. Ne2 Nc6 8. f4 cxd4 9. cxd4 Bb4+ 10. Nbc3 Nge7 11. a3 Bxc3+ 12. bxc3 O-O 13. O-O Qb6 14. g4 Na5 15. Rb1 Qc7 16. Rb4 Nc4 17. h4 f6 18. exf6 Rxf6 19. h5 Raf8 20. Kg2 Nd6 21. c4 Nxc4 22. Kh3 Nd6 23. Ng3 Ne8 24. Rb3 Nc6 25. Rc3 Qb6 26. Be3 Nd6 27. Rb1 Qc7 28. g5 Rf5 29. Nxf5 Nxf5 30. Bd2 Nd6 31. Rc5 Ne4 32. Rc2 Nf2+ 0-1
+

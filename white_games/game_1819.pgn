@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LPFt2EX9"]
+[Date "2021.01.27"]
+[White "EltahirAmin"]
+[Black "jorgehr7"]
+[Result "1-0"]
+[UTCDate "2021.01.27"]
+[UTCTime "17:56:57"]
+[WhiteElo "2031"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 e5 4. d4 cxd4 5. cxd4 Nc6 6. d5 Nb8 7. Nc3 Ne7 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. O-O g6 11. Bg5 h6 12. Be3 Bg7 13. Qd2 h5 14. Rac1 O-O 15. Nb5 Nb6 16. Bh6 f5 17. Bxg7 Kxg7 18. Ng5 f4 19. Ne6+ 1-0
+

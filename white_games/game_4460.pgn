@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FEncF3K2"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "AdigeSchakujce"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "16:00:24"]
+[WhiteElo "1988"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O O-O 7. Bg5 h6 8. Bh4 Nbd7 9. Nbd2 c6 10. c3 b5 11. a3 a5 12. Qe2 Re8 13. Rae1 Bd6 14. Qd1 Bb7 15. Bb1 Qb6 16. Qc2 b4 17. c4 bxa3 18. c5 Nxc5 19. dxc5 Bxc5 20. Bxf6 Bxf2+ 21. Kh1 Rxe1 22. Qh7+ Kf8 23. Qxg7+ Ke8 24. Qg8+ Kd7 25. Qxf7+ Kc8 26. Rxe1 Bxe1 27. Bf5+ Kb8 28. Qe8+ Ka7 29. Qxe1 axb2 30. Bd4 c5 31. Bc3 a4 32. Qb1 a3 33. Ne5 d4 34. Nd7 Qc7 35. Bxd4 cxd4 36. Qa2 Re8 37. Qxa3+ Ba6 38. Nf3 Qc1+ 39. Ng1 Re1 0-1
+

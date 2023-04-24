@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZifW0S4D"]
+[Date "2021.02.17"]
+[White "Karaku"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.17"]
+[UTCTime "14:27:40"]
+[WhiteElo "1971"]
+[BlackElo "1990"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nf3 Nf6 6. Nc3 Bb4 7. Bd3 O-O 8. O-O d5 9. e5 Nd7 10. Bxh7+ Kxh7 11. Ng5+ Kg6 12. Qg4 Ndxe5 13. dxe5 Nxe5 14. Qxb4 f6 15. Nh3 Kf7 16. Bf4 Nd3 17. Qb5 Nxf4 18. Nxf4 Bd7 19. Qd3 f5 20. Rad1 g5 21. Nfe2 Bc6 22. Nd4 Qd6 23. Rfe1 Rh8 24. g3 e5 25. Nxc6 bxc6 26. Qxf5+ Ke7 27. Rxe5+ Kd8 28. Nxd5 Qf8 29. Nf6+ Kc7 30. Rd7+ Kb6 31. Ne4 Qxf5 32. Rxf5 Rae8 33. Nxg5 Re1+ 34. Kg2 Rb1 35. b3 Rb2 36. Rf3 Rxa2 37. h4 a6 38. Ne4 Re8 39. Nc3 Rb2 40. Na4+ Ka5 41. Rb7 Rbe2 42. Rf5+ R2e5 43. Rxe5+ Rxe5 44. Rg7 Rb5 45. Rg5 Rxg5 46. hxg5 Kb4 47. g6 Kxb3 48. Nb6 c5 49. g7 c4 50. g8=Q a5 51. Qxc4+ Ka3 52. Qa4+ Kb2 53. Qxa5 Kc2 54. g4 Kd3 55. g5 Ke4 56. g6 Kd4 57. g7 Ke4 58. g8=Q Kd3 59. Qb3+ Ke4 60. Qbb4+ Kd3 61. Qaa3+ Kc2 62. Qbb2+ Kd1 63. Qaa1# 1-0
+

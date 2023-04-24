@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0fIDIpYr"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "Valchess2019"]
+[Result "0-1"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:29:27"]
+[WhiteElo "1986"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 d6 7. O-O Nf6 8. Bg5 O-O 9. Re1 Bg4 10. h3 Bxf3 11. Qxf3 exd4 12. Na3 Ne5 13. Qe2 dxc3 14. Rac1 c6 15. Rxc3 b5 16. Bb3 b4 17. Rg3 bxa3 18. Bh6 Ne8 19. f4 Ng6 20. f5 Bh4 21. fxg6 Bxg3 22. gxh7+ Kxh7 23. Qh5 gxh6 24. Rf1 Qg5 25. Rxf7+ Rxf7 26. Qxf7+ Ng7 27. Bc2 Qc1+ 28. Bd1 Qxd1+ 29. Qf1 Qxf1+ 30. Kxf1 Rf8+ 0-1
+

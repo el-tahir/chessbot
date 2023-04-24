@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NpJEQTov"]
+[Date "2021.10.23"]
+[White "EltahirAmin"]
+[Black "Ztromboli"]
+[Result "1-0"]
+[UTCDate "2021.10.23"]
+[UTCTime "22:24:44"]
+[WhiteElo "2070"]
+[BlackElo "2087"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. d4 cxd4 4. Qxd4 a6 5. Nf3 Nc6 6. Qd1 d6 7. Be3 Nf6 8. Bd3 Be7 9. O-O b5 10. a3 Bb7 11. Ng5 h6 12. Nh3 O-O 13. f4 Ng4 14. Qxg4 1-0
+

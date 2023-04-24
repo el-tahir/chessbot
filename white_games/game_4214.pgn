@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bmjHJgYz"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Imyanara"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "21:54:49"]
+[WhiteElo "2001"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. Nc3 c5 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 d6 8. Qf3 O-O 9. O-O-O Ne5 10. Qe2 Nfg4 11. Bd2 Nxc4 12. Qxc4 Nxf2 13. h4 Nxd1 14. Kxd1 Qb6 15. Nb3 Be6 16. Nd5 Bxd5 17. exd5 Rac8 18. Qd3 Bxb2 19. h5 Qa6 20. Qe3 Qxa2 21. hxg6 Qb1+ 22. Bc1 Qxc2+ 23. Ke1 fxg6 24. Bxb2 Qxb2 25. Qe6+ Kg7 26. Qh3 Qf2+ 27. Kd1 Qc2+ 28. Ke1 Qb1+ 29. Ke2 Qe4+ 30. Qe3 Rc2+ 31. Nd2 Qc4+ 32. Kd1 Rc1# 0-1
+

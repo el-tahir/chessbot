@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2TChwN7K"]
+[Date "2021.10.24"]
+[White "Yermiyah"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.24"]
+[UTCTime "23:29:39"]
+[WhiteElo "2089"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. Bf4 e6 8. Nbd2 Bd6 9. Bg5 Be7 10. O-O O-O 11. h3 Bh5 12. Qc2 Rc8 13. Bxf6 Bxf6 14. Bxh7+ Kh8 15. Bd3 Nxd4 16. Nxd4 Bxd4 17. g4 Qh4 18. gxh5 Qxh3 19. Nb3 Bb6 20. Qe2 d4 21. c4 a5 22. Nd2 Rc5 23. Nf3 Rxh5 24. Nh4 Rg5+ 0-1
+

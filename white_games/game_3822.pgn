@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DuGATkpo"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "Dardan_komani"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "15:23:25"]
+[WhiteElo "2016"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 h6 4. d4 exd4 5. Nxd4 Qf6 6. Be3 Bb4 7. Bc4 Bxc3+ 8. bxc3 d6 9. O-O Nge7 10. Rb1 Bd7 11. Rxb7 Ne5 12. Bb3 O-O 13. f4 N5c6 14. Rxc7 Nxd4 15. cxd4 Bb5 16. Rf3 Ng6 17. e5 dxe5 18. fxe5 Qb6 19. Rcxf7 Rxf7 20. Rxf7 Kh8 21. Qh5 Rg8 22. Qxg6 Qxg6 23. Rf3 Bc6 24. Rg3 Qe4 25. Bxg8 Kxg8 26. c4 Qb1+ 27. Kf2 Qxa2+ 28. Ke1 Qxc4 29. Bxh6 Qc1+ 30. Bxc1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pOfkzFMM"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "SkriabinSergey"]
+[Result "0-1"]
+[UTCDate "2021.10.15"]
+[UTCTime "06:05:50"]
+[WhiteElo "2017"]
+[BlackElo "2005"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 c6 3. Nf3 d5 4. d4 Bb4 5. e5 Bxc3+ 6. bxc3 Ne7 7. Bd3 Ng6 8. Bg5 Qa5 9. Bd2 Qc7 10. h4 Nd7 11. h5 Ne7 12. Ng5 h6 13. Nxf7 Kxf7 14. Qg4 c5 15. Rh3 c4 16. Rf3+ Ke8 17. Qxg7 Rg8 18. Bg6+ Kd8 19. Qxh6 Nxg6 20. hxg6 Nxe5 21. Bg5+ Kd7 22. Qh7+ Kc6 23. dxe5 Qxe5+ 24. Be3 Rg7 25. Qh4 Qxc3+ 26. Ke2 Qxa1 27. Qd4 b6 28. Qxa1 Rxg6 29. Rf6 Rxg2 30. Qe5 Bd7 31. Rxe6+ Bxe6 32. Qxe6+ Kc7 33. Qxd5 Rag8 34. Bf4+ Kc8 35. Qxc4+ Kb7 36. a4 R2g4 37. Qc7+ Ka6 38. Be3 Rxa4 39. c4 Ra2+ 40. Kd3 Ra3+ 41. Ke4 Rg4+ 42. Kf5 Rg1 43. c5 bxc5 44. Qxc5 Rga1 45. Qxa7+ Kb5 46. Qb6+ Kc4 47. Qc5+ Kd3 48. Qd4+ Ke2 49. Qd2+ Kf3 50. Qd5+ Ke2 51. Qc4+ Kf3 52. Qd5+ Ke2 53. Qc4+ Kd1 54. Qd5+ Ke1 55. Qd2+ Kf1 56. Qd3+ Kg1 57. Qd8 Ra5+ 58. Kf4 R1a4+ 59. Kf3 Rf5+ 60. Ke2 Ra2+ 61. Kd3 Raxf2 62. Qg8+ Kf1 63. Bxf2 Rxf2 64. Qc4 Kg2 65. Kd4 Rf4+ 0-1
+

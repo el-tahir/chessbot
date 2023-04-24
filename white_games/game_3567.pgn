@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZDANQhTA"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "felixm44"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:29:21"]
+[WhiteElo "1935"]
+[BlackElo "1927"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 b5 6. a3 Bb7 7. Be3 Qc7 8. Be2 Nc6 9. O-O Nf6 10. f3 h5 11. a4 b4 12. Nb1 Bc5 13. c3 h4 14. cxb4 Nxb4 15. Nc3 Nc6 16. Kh1 Nh5 17. Rb1 Qb6 18. Nxc6 Bxe3 19. Ne5 Ng3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Blitz Warm-up Arena May '20"]
+[Site "https://lichess.org/SxrZGM1V"]
+[Date "2020.05.09"]
+[White "Valence-Echecs"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.09"]
+[UTCTime "18:10:52"]
+[WhiteElo "1859"]
+[BlackElo "2015"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Nc3 a6 5. Bxc6 bxc6 6. d4 cxd4 7. Nxd4 Nf6 8. O-O Be7 9. Kh1 O-O 10. f4 Qb6 11. Nf3 d5 12. exd5 cxd5 13. Ne5 Bb7 14. Na4 Qa7 15. Qd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RKdmdw7D"]
+[Date "2022.04.30"]
+[White "Trytodeath"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.30"]
+[UTCTime "04:33:11"]
+[WhiteElo "2142"]
+[BlackElo "2104"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. d4 Nc6 6. Bd3 Bg4 7. c3 e6 8. O-O Bd6 9. Na3 O-O 10. Nc2 Qc7 11. h3 Bh5 12. g4 Bg6 13. Ne5 Bxe5 14. fxe5 Ne4 15. Qf3 Ng5 16. Bxg5 Bxd3 17. Qxd3 Qb6 18. Bc1 Nxe5 19. Qe2 Ng6 20. Ne3 e5 21. Nf5 Rae8 22. Qf2 Re6 23. Be3 e4 24. c4 Rd8 25. cxd5 Rxd5 26. Rac1 h6 27. Rc5 Qd8 28. Rfc1 Ne7 29. Nxe7+ Rxe7 30. Rc8 Kh7 31. Rxd8 Rxd8 32. Qf5+ g6 33. Qc5 Red7 34. Qe5 Rd5 35. Qxe4 R8d7 36. Rc5 R5d6 37. Re5 Ra6 38. Re7 Rxe7 39. Qxe7 Kg7 40. Bf4 Rxa2 41. Be5+ Kg8 42. Qe8+ Kh7 43. Qh8# 1-0
+

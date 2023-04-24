@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sANLIQSq"]
+[Date "2022.04.27"]
+[White "VuadorXL2"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.27"]
+[UTCTime "22:30:25"]
+[WhiteElo "2091"]
+[BlackElo "2119"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. f3 Bh5 7. Nxh5 Nxh5 8. Bc4 Nd7 9. c3 Qc7 10. Qd2 O-O-O 11. Qg5 Nhf6 12. Ne2 e5 13. dxe5 Nxe5 14. Bf4 Bd6 15. Qxg7 Nxc4 16. Qxf6 Bxf4 17. Qxf4 Qxf4 18. Nxf4 Nxb2 19. O-O Rd2 20. Rfe1 Rg8 21. Re7 Nd3 22. Nxd3 Rgxg2+ 23. Kf1 Rxh2 24. Kg1 Rhg2+ 25. Kf1 Rh2 26. Kg1 Rdg2+ 27. Kf1 Rc2 28. Kg1 Rcg2+ 29. Kf1 Rg7 30. Nf2 a5 31. Ke2 Rgg2 32. Rf1 Rg7 33. Ke3 h5 34. Rd1 Rgg2 35. Ne4 f5 36. Nc5 Re2+ 37. Kf4 Rxe7 38. Kxf5 h4 39. Kg4 h3 40. Kg3 Rxa2 41. Kxh3 Rg7 42. Rb1 b5 43. Ne6 Rg8 44. Nd4 Kb7 45. Re1 Rg7 46. Re6 Rc7 47. Nxb5 cxb5 0-1
+

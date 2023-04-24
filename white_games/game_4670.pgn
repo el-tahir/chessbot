@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Z1GzatEJ"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "iranchess2019"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "11:31:56"]
+[WhiteElo "1987"]
+[BlackElo "2009"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C17"]
+[Termination "Normal"]
+
+1. Nc3 e6 2. d4 d5 3. e4 Bb4 4. e5 c5 5. Nf3 Nc6 6. Be3 cxd4 7. Nxd4 Nxd4 8. Bxd4 Qa5 9. a3 Bxc3+ 10. Bxc3 Qc7 11. Bd3 Ne7 12. Qh5 g6 13. Qh4 Nf5 14. Bxf5 gxf5 15. g3 Bd7 16. Qf6 Rg8 17. O-O-O Qd8 18. Qh4 Qxh4 19. gxh4 O-O-O 20. Rhg1 Bc6 21. h5 b6 22. h6 Rg6 23. Rxg6 fxg6 24. h4 Kc7 25. h5 Rh8 26. hxg6 hxg6 27. Rh1 Rh7 28. f4 Bb5 29. Kd2 Kc6 30. Ke3 Kd7 31. b4 Ba4 32. Kd3 Ke7 33. Bd4 Kf7 34. c4 Bc6 35. c5 Kg8 36. cxb6 axb6 37. Bxb6 Rb7 38. Bc5 Kh7 39. Bf8 Bb5+ 40. Kc3 Rc7+ 41. Bc5 Bc6 42. Kb3 d4 43. Bxd4 Bxh1 44. Bc5 Kxh6 45. a4 Kh5 46. a5 Kg4 47. a6 Kxf4 48. a7 Kxe5 49. a8=Q Bxa8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FdTiNwn1"]
+[Date "2022.05.04"]
+[White "EltahirAmin"]
+[Black "sugiyanto_kts"]
+[Result "1-0"]
+[UTCDate "2022.05.04"]
+[UTCTime "04:59:31"]
+[WhiteElo "2048"]
+[BlackElo "2181"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 e6 3. Nf3 Qc7 4. d4 d5 5. Bd3 Bb4 6. Qe2 Bxc3+ 7. bxc3 Ne7 8. O-O Nd7 9. Bg5 Nf6 10. Rae1 dxe4 11. Bxe4 Ned5 12. Qd3 h6 13. Bh4 Nf4 14. Qe3 N6d5 15. Bxd5 Nxd5 16. Qd2 Qa5 17. c4 Qxd2 18. Nxd2 Nf4 19. Bg3 Ng6 20. Nb3 O-O 21. Rd1 Rd8 22. Rd2 a6 23. Rfd1 a5 24. d5 cxd5 25. cxd5 e5 26. Re2 f6 27. Nc5 b6 28. Ne4 Ba6 29. Red2 Rac8 30. d6 Rd7 31. Nc3 Bc4 32. a4 Kf7 33. f3 Ke6 34. Bf2 Rc6 35. Ne4 f5 36. Nc3 Nf4 37. g3 Nh3+ 38. Kg2 Nxf2 39. Kxf2 Rcxd6 40. Rxd6+ Rxd6 41. Rxd6+ Kxd6 42. Ke3 Kc5 43. g4 g6 44. h4 Kb4 45. Kd2 Be6 46. g5 hxg5 47. hxg5 Kc5 48. Kd3 Bc4+ 49. Ke3 Be6 50. Kd3 Bd7 51. Ke3 Bc6 52. f4 e4 53. Kd2 Kb4 54. Na2+ Ka3 55. Nc1 Kxa4 56. Nb3 Kb4 57. Nd4 Bd5 58. c3+ Kc4 59. Nc2 a4 60. Ne3+ Kc5 61. Kc2 Bb3+ 62. Kb2 b5 63. Nf1 Bc4 64. Nd2 Bd3 65. Nb1 b4 66. c4 1-0
+

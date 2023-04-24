@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/TTB58LVY"]
+[Date "2021.12.04"]
+[White "Anonymous"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.12.04"]
+[UTCTime "06:34:10"]
+[WhiteElo "?"]
+[BlackElo "2105"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. Bd3 e5 5. exd5 Qxd5 6. Qe2 Nf6 7. Bc4 Qd6 8. O-O Be7 9. Rd1 O-O 10. Bb5 Bg4 11. h3 Bh5 12. Bxc6 Qxc6 13. d4 exd4 14. cxd4 cxd4 15. Rxd4 Qxc1+ 16. Rd1 Bxf3 17. gxf3 Qg5+ 18. Kf1 Rfe8 19. Qc4 Nh5 20. Rd5 Qg6 21. Nc3 Rac8 22. Qe4 Qa6+ 23. Kg1 Ng3 24. fxg3 Qb6+ 25. Kg2 Qxb2+ 26. Kg1 Bc5+ 27. Kf1 Qf2# 0-1
+

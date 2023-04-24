@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6Vbti5ny"]
+[Date "2021.02.22"]
+[White "PhilPawn"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "12:15:46"]
+[WhiteElo "1971"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. g3 d5 3. Bg2 Nf6 4. e4 Bg4 5. f3 Bh5 6. e5 Nfd7 7. Nc3 e6 8. Nge2 c5 9. O-O Nc6 10. Be3 Be7 11. h3 O-O 12. Nf4 Bg6 13. Nxg6 hxg6 14. f4 cxd4 15. Bxd4 Nxd4 16. Qxd4 Bc5 17. Rad1 Bxd4+ 18. Rxd4 Qb6 19. Rd1 Rac8 20. Na4 Qa5 21. Nc3 Nc5 22. Bf1 Qb6 23. b3 Nxb3 24. Na4 Qxd4+ 25. Rxd4 Nxd4 26. c3 Nf3+ 27. Kg2 Nd2 28. Bd3 b5 29. Nb2 Rxc3 30. Bxb5 Rb8 31. a4 a6 32. Bxa6 Rxb2 33. Bb5 Ne4+ 34. Kh1 Rc1+ 35. Bf1 Rxf1# 0-1
+

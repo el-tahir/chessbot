@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NvJkb1xm"]
+[Date "2022.04.27"]
+[White "EltahirAmin"]
+[Black "mumito64"]
+[Result "0-1"]
+[UTCDate "2022.04.27"]
+[UTCTime "22:21:42"]
+[WhiteElo "2121"]
+[BlackElo "2117"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 g6 5. Be3 cxd4 6. Nxd4 Bg7 7. Bc4 Qa5 8. O-O Nf6 9. Bb5 Bd7 10. Qd3 O-O 11. Rfb1 a6 12. Bc4 b5 13. Bb3 Nb4 14. Qe2 Rac8 15. a3 Nc6 16. f4 Ng4 17. Bf2 Nxf2 18. Nxc6 Nh3+ 19. gxh3 Bxc6 20. Nd5 Qd8 21. e5 e6 22. Ne3 d5 23. Rc1 Qh4 24. Qg4 Qh6 25. Rf1 Bxe5 26. fxe5 Qxe3+ 27. Rf2 Qxe5 28. Raf1 Qg7 29. h4 h5 30. Qg3 Ba8 31. c3 d4 32. cxd4 Qxd4 33. Bxe6 Rc7 34. Qxc7 Qe4 35. Bxf7+ Kh8 36. Qc3+ Kh7 37. Qf3 Qxh4 38. Bxg6+ Kxg6 39. Qxf8 Qg4+ 40. Rg2 Qxg2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UslTzR0C"]
+[Date "2020.12.01"]
+[White "ferryboat"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.01"]
+[UTCTime "18:32:05"]
+[WhiteElo "1855"]
+[BlackElo "1875"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be3 O-O 8. Qd2 Bg4 9. O-O-O Nd7 10. Be2 Nb6 11. h3 Be6 12. g4 Nd5 13. g5 a5 14. gxf6 Qxf6 15. Rhg1 Nb4 16. Bg5 Nxa2+ 17. Kb1 Qf5 18. Bd3 Qxf3 19. Rg3 Bxg3 20. fxg3 Qxg3 21. Be3 Nb4 22. Rg1 Qxh3 23. d5 Nxd3 24. Qxd3 Bxd5 25. Rxg7+ Kxg7 26. Bd4+ f6 27. Qxh3 Kf7 28. Qd7+ Kg8 29. Qg4+ Kh8 30. Qf5 Kg7 31. Qg4+ Kf7 32. Qf5 Ke8 33. Qxh7 Rd8 34. Bc5 Rd7 35. Qh5+ Rff7 36. Qh8+ Rf8 37. Qxf8# 1-0
+

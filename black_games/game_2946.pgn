@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WmjlqoyS"]
+[Date "2020.11.23"]
+[White "wirsehenunsoben"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "10:56:53"]
+[WhiteElo "1905"]
+[BlackElo "1923"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A16"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 b6 3. d3 Bb7 4. e4 g6 5. Bg5 Bg7 6. f4 O-O 7. Nf3 d6 8. e5 dxe5 9. fxe5 Nfd7 10. d4 c5 11. Nd5 h6 12. Bxe7 Qc8 13. Bxf8 Nxf8 14. Ne7+ 1-0
+

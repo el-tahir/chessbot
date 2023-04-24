@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/gSo6Tq9F"]
+[Date "2021.12.04"]
+[White "EltahirAmin"]
+[Black "Anonymous"]
+[Result "1-0"]
+[UTCDate "2021.12.04"]
+[UTCTime "06:02:54"]
+[WhiteElo "2105"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Na5 7. e5 Ng4 8. Qxg4 1-0
+

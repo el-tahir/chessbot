@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rHJMS1it"]
+[Date "2020.05.14"]
+[White "osmanucar"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.14"]
+[UTCTime "23:44:03"]
+[WhiteElo "2036"]
+[BlackElo "2014"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 a6 6. e3 Nc6 7. a3 Bg4 8. Nf3 e6 9. Be2 Bd6 10. Bg3 O-O 11. Ne5 Bxe2 12. Qxe2 Qe7 13. O-O Rac8 14. Rac1 Nd7 15. Nxc6 bxc6 16. Bxd6 Qxd6 17. Qxa6 Qe7 18. b4 Nf6 19. Qd3 Ra8 20. a4 Rfb8 21. Rb1 Rxb4 22. Rfc1 Rbb8 23. Rxb8+ Rxb8 24. a5 Ra8 25. a6 Qa3 26. Rc2 Qa1+ 27. Qf1 Qxa6 28. Qxa6 Rxa6 29. e4 Ra1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ws0CTA7N"]
+[Date "2021.01.09"]
+[White "EltahirAmin"]
+[Black "GARFAELD"]
+[Result "0-1"]
+[UTCDate "2021.01.09"]
+[UTCTime "06:13:59"]
+[WhiteElo "1913"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 Bg4 4. d4 e6 5. h3 Bh5 6. g4 Bg6 7. Bc4 Nxe4 8. Qe2 d5 9. Nxe4 Bxe4 10. Bd3 Bxd3 11. Qxd3 c6 12. Bf4 Bd6 13. Ne5 O-O 14. h4 f6 15. g5 fxe5 16. Bxe5 Bxe5 17. dxe5 g6 18. h5 Qe7 19. hxg6 Qb4+ 20. Ke2 Rf5 21. gxh7+ Kh8 22. Kd1 Qxb2 23. Kd2 Rxf2+ 24. Ke3 Qxc2 25. g6 Rf3+ 26. Kd4 Qxd3+ 27. Kc5 Qxg6 28. Rag1 Rg3 29. Rf1 Nd7+ 30. Kd6 Rd8 31. Ke7 Qg7+ 32. Kxd8 Qg5+ 33. Kxd7 Qg7+ 34. Kxe6 Rg6+ 35. Kf5 Qf7# 0-1
+

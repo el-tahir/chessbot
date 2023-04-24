@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/BeSMNTFT"]
+[Date "2021.02.16"]
+[White "EltahirAmin"]
+[Black "Hassaanmohammed"]
+[Result "1-0"]
+[UTCDate "2021.02.16"]
+[UTCTime "23:41:15"]
+[WhiteElo "1984"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C77"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Ba4 b5 6. Bb3 Bc5 7. d3 O-O 8. Bg5 h6 9. h4 hxg5 10. hxg5 Nh7 11. g6 Nf6 12. Nh4 Nd5 13. Nxd5 Nd4 14. Nf5 c6 15. Rh8+ Kxh8 16. Qh5+ Kg8 17. Nh6+ Kh8 18. Nxf7+ Kg8 19. Nf6+ Qxf6 20. Qh8# 1-0
+

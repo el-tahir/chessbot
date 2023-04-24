@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gYLkGbvr"]
+[Date "2020.10.24"]
+[White "Valentin_Fluture"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "20:12:55"]
+[WhiteElo "1932"]
+[BlackElo "1940"]
+[WhiteRatingDiff "-31"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nf3 Bb4+ 6. Nc3 Ne7 7. a3 Ba5 8. b4 Bc7 9. c5 b6 10. b5 bxc5 11. dxc5 O-O 12. bxc6 Nexc6 13. Bb5 Nxe5 14. Nxe5 Bxe5 15. Qf3 Qa5 16. Bd2 Bxc3 17. Bxc3 Qxb5 18. g4 Be4 19. Qe3 Bxh1 20. O-O-O Be4 21. Qd4 f6 22. g5 e5 23. Qe3 Qb1+ 24. Kd2 Qc2+ 25. Ke1 d4 26. Bd2 dxe3 0-1
+

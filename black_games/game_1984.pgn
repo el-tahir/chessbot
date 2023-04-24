@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/atmrBky6"]
+[Date "2021.01.14"]
+[White "Soulgazing"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.14"]
+[UTCTime "09:06:44"]
+[WhiteElo "1976"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 Nf6 3. Nd2 d5 4. Ngf3 Nbd7 5. g3 Qc7 6. Bg2 e6 7. O-O Bd6 8. Re1 h5 9. Qe2 h4 10. Nxh4 Rxh4 11. gxh4 Bxh2+ 12. Kh1 Be5 13. Nf3 Bd6 14. e5 Nxe5 15. Nxe5 Ke7 16. Bg5 Bd7 17. d4 Rh8 18. Kg1 Kf8 19. Bxf6 gxf6 20. Nxd7+ Qxd7 21. h5 f5 22. c3 Qe7 23. Qf3 Qh4 24. Qh3 Qf4 25. Re3 Rg8 26. Rg3 Rh8 27. Rd1 e5 28. Rf3 Qh6 29. Rxf5 c5 30. dxe5 Be7 31. Bxd5 c4 32. Rxf7+ Ke8 33. Bg2 Bc5 34. Qd7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yEn6tM2R"]
+[Date "2022.05.16"]
+[White "EltahirAmin"]
+[Black "judjuds"]
+[Result "0-1"]
+[UTCDate "2022.05.16"]
+[UTCTime "04:40:42"]
+[WhiteElo "2088"]
+[BlackElo "2154"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 h6 6. Be2 e6 7. Nf1 Bd6 8. Ne3 O-O 9. O-O b5 10. c3 Bb7 11. d4 Qc7 12. Qc2 c5 13. Bd2 Bxf3 14. Bxf3 Bxh2+ 15. Kh1 Bf4 16. Bxa8 Rc8 17. Rac1 a5 18. Bf3 Nbd7 19. dxc5 Qxc5 20. Ng4 Qh5+ 21. Kg1 Nxg4 22. Bxg4 Qh2# 0-1
+

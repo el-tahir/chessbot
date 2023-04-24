@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FRrqiGQE"]
+[Date "2020.10.18"]
+[White "raj100784"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.18"]
+[UTCTime "14:23:40"]
+[WhiteElo "1907"]
+[BlackElo "1883"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bc4 Bg4 6. Be2 e6 7. O-O Bb4 8. Nc3 Bxc3 9. bxc3 O-O 10. Ba3 Re8 11. Ne5 Bxe2 12. Qxe2 Ne4 13. Bb2 Qb6 14. Rab1 Nc6 15. Nd7 Qc7 16. f3 Qxd7 17. fxe4 e5 18. exd5 Qxd5 19. c4 Qa5 20. dxe5 Nxe5 21. Qh5 Qc5+ 22. Kh1 g6 23. Qh4 Qf8 24. Rbe1 Nc6 25. Rxe8 Rxe8 26. Re1 Rxe1+ 27. Qxe1 Ne7 28. Ba3 Qh6 29. Bxe7 a5 30. Bf6 a4 31. h3 Qf8 32. Qe7 Qc8 33. Qd8+ Qxd8 34. Bxd8 Kf8 35. Kg1 Ke8 36. Ba5 Kd7 37. Kf2 Kc6 38. Ke3 Kc5 39. Kd3 b6 40. Bc3 f5 41. a3 h5 42. Bb4+ Kc6 43. Ke3 b5 44. cxb5+ Kxb5 45. Kf4 Kc6 46. Kg5 Kd5 47. Kxg6 Ke4 48. Kxh5 Kf4 49. c4 1-0
+

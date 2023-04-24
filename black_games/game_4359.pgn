@@ -1,0 +1,19 @@
+[Event "Matulović"]
+[Site "https://lichess.org/pZtxXNWV"]
+[Date "2020.05.14"]
+[White "mkqa"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.14"]
+[UTCTime "22:59:09"]
+[WhiteElo "1711"]
+[BlackElo "2017"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. c3 Nc6 8. O-O cxd4 9. cxd4 Bb4 10. a3 Ba5 11. Bd2 Bxd2 12. Nxd2 Nge7 13. Ng3 O-O 14. Nf3 Qb6 15. b4 a6 16. Ng5 Ng6 17. Rfd1 Rac8 18. Rac1 h6 19. Nxe6 fxe6 20. Qxg6 Nxd4 21. Rxc8 Rxc8 22. Nh5 Rc7 23. Nf6+ Kf8 24. Nh7+ Ke7 25. Qxg7+ Kd8 26. Qf8+ Kd7 27. Nf6+ Kc6 28. Qd6+ Kb5 29. a4+ Kxa4 30. Qxb6 Nb5 31. Qa5+ Kb3 32. Qa1 Kxb4 33. Rb1+ Kc4 34. Rc1+ 1-0
+

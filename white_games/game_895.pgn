@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2SYQxdHB"]
+[Date "2021.11.09"]
+[White "EltahirAmin"]
+[Black "Ajedrezes"]
+[Result "0-1"]
+[UTCDate "2021.11.09"]
+[UTCTime "03:24:17"]
+[WhiteElo "2049"]
+[BlackElo "1995"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. Nf3 dxe4 4. Ng5 Bg4 5. Be2 Bxe2 6. Qxe2 Nc6 7. Ngxe4 Nd4 8. Qd1 Nd5 9. Nxd5 Qxd5 10. d3 O-O-O 11. Be3 e5 12. Nc3 Qxg2 13. Rf1 Nf3+ 14. Ke2 Nd4+ 15. Bxd4 exd4 16. Ne4 f5 17. Ng3 Bd6 18. Ke1 Bb4+ 19. c3 dxc3 20. bxc3 Bxc3+ 21. Ke2 Rhe8+ 0-1
+

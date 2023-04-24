@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hUmQJdtn"]
+[Date "2020.11.20"]
+[White "EltahirAmin"]
+[Black "TaufiqIslamProtick"]
+[Result "0-1"]
+[UTCDate "2020.11.20"]
+[UTCTime "10:13:37"]
+[WhiteElo "1915"]
+[BlackElo "1891"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 e5 7. Qe3 Nf6 8. b3 g6 9. Bb2 Bg7 10. Bc4 Be6 11. Nd5 Nxd5 12. exd5 Bf5 13. O-O Bxc2 14. f4 Qe7 15. Bb5+ Kf8 16. fxe5 Bxe5 17. Rae1 f6 18. Qxe5 dxe5 19. Rxe5 Qc5+ 20. Kh1 Qxb5 21. Rxf6+ Kg7 22. Re7+ Kh6 23. Rf3 Bf5 24. Bc1+ Kh5 25. Rh3+ Bxh3 26. Re5+ Bf5 27. h3 Qf1+ 28. Kh2 Qxc1 29. g4+ 0-1
+

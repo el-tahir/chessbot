@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oAaoLaGp"]
+[Date "2022.10.12"]
+[White "NickSnutz"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.12"]
+[UTCTime "22:32:08"]
+[WhiteElo "2024"]
+[BlackElo "2027"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 Nf6 5. fxe4 Bg4 6. Nf3 Nbd7 7. Be2 Qc7 8. O-O O-O-O 9. e5 Nd5 10. Nxd5 cxd5 11. Be3 e6 12. c4 Kb8 13. cxd5 exd5 14. Rc1 Qa5 15. Bd2 Bb4 16. a3 Bxd2 17. Nxd2 Bxe2 18. Qxe2 Qb6 19. Nf3 Rhe8 20. b4 f6 21. Qb2 fxe5 22. Kh1 e4 23. Ne5 Nxe5 24. dxe5 Rf8 25. Rfd1 Rf2 26. Qc3 Qg6 27. Rg1 Qf7 28. e6 Qe7 29. Qg3+ 1-0
+

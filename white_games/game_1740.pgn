@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nbjvS4dM"]
+[Date "2021.02.05"]
+[White "EltahirAmin"]
+[Black "MiKoS89"]
+[Result "0-1"]
+[UTCDate "2021.02.05"]
+[UTCTime "13:42:45"]
+[WhiteElo "1968"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Bb4 8. Qf3 Qe7 9. Bg5 f6 10. Bd2 fxe5 11. O-O Nf6 12. Rfe1 d5 13. dxe5 O-O 14. exf6 Qxf6 15. Bxd5+ Kh8 16. Qxf6 gxf6 17. Bh6 Rd8 18. Rad1 c6 19. Bb3 Rxd1 20. Rxd1 Bf5 21. Ne2 Re8 22. Kf1 Ne7 23. Nd4 Bg6 24. Ne6 Nd5 25. f4 Rxe6 26. Bxd5 cxd5 27. Rxd5 b6 28. Rd8+ Re8 29. Rd7 a5 30. g4 f5 31. gxf5 Bxf5 32. c3 Bf8 33. Bg5 Bxd7 0-1
+

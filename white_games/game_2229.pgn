@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vyFNx7XK"]
+[Date "2020.12.27"]
+[White "EltahirAmin"]
+[Black "Aceof_spades"]
+[Result "1-0"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:10:24"]
+[WhiteElo "1948"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 g6 6. Nf3 Bg7 7. Bc4 O-O 8. Bg5 Bg4 9. Qd2 Bxf3 10. gxf3 Nbd7 11. O-O-O Nb6 12. Bb3 a5 13. a4 Nbd5 14. f4 e6 15. h4 h5 16. Rhg1 Kh8 17. Qd3 Nb4 18. Qf3 b5 19. Bxf6 Qxf6 20. Nxh5 gxh5 21. Qxh5+ Qh6 22. Qf3 bxa4 23. Rg5 axb3 24. Rh5 bxc2 25. Rxh6+ Bxh6 26. Rd2 Rg8 27. Rxc2 Nxc2 28. Kxc2 Rad8 29. Kc3 Rd5 30. b4 axb4+ 31. Kxb4 Bf8+ 32. Kc4 c5 33. dxc5 Rxc5+ 34. Kd3 Rd5+ 35. Ke2 Bh6 36. Qc3+ Bg7 37. Qf3 Rgd8 38. Qe3 e5 39. f5 Rd2+ 40. Qxd2 Rxd2+ 41. Kxd2 Bh6+ 42. Kd3 Kg7 43. Ke4 Kf6 44. h5 Bf4 45. f3 Kg7 46. Kd5 f6 47. Ke6 Bg5 48. Kd5 Kh6 49. f4 Kxh5 50. fxg5 Kxg5 51. Ke4 1-0
+

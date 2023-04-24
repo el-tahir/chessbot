@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IKYSdRGS"]
+[Date "2020.12.20"]
+[White "EltahirAmin"]
+[Black "Arman8125"]
+[Result "0-1"]
+[UTCDate "2020.12.20"]
+[UTCTime "22:22:06"]
+[WhiteElo "1981"]
+[BlackElo "1997"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. g3 Nf6 5. Bg2 Nc6 6. Nf3 Bg4 7. O-O e6 8. d3 Bb4 9. Bd2 O-O 10. Ne2 Bxd2 11. Qxd2 a6 12. h3 Bf5 13. Nh4 Bg6 14. Nxg6 hxg6 15. Nf4 Qd4 16. c3 Qb6 17. d4 Rad8 18. Rfe1 e5 19. Nxg6 fxg6 20. Qg5 e4 21. Qxg6 Ne7 22. Qg5 Qb5 23. Qd2 Qf5 24. g4 Qg6 25. g5 Nh7 26. Bxe4 Qxg5+ 27. Qxg5 Nxg5 28. Bg2 Ng6 29. Re2 Nf4 30. Re7 Ngxh3+ 31. Bxh3 Nxh3+ 32. Kh2 Ng5 33. Rg1 Rxf2+ 34. Kg3 Rdf8 35. Kh4 Nf3+ 36. Kh5 Nxg1 0-1
+

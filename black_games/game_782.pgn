@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v001m5q9"]
+[Date "2021.11.19"]
+[White "Tololin20"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:38:41"]
+[WhiteElo "2045"]
+[BlackElo "2059"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 Bg4 5. Ne5 Bh5 6. Bg5 e6 7. cxd5 cxd5 8. f3 Be7 9. g4 Bg6 10. h4 Nfd7 11. Bxe7 Qxe7 12. Nxg6 hxg6 13. h5 Nc6 14. Qd2 Rc8 15. e3 Nb6 16. O-O-O Nb4 17. Kb1 Qf6 18. f4 gxh5 19. gxh5 Qf5+ 20. Bd3 Qf6 21. a3 Nc6 22. Rdg1 Na5 23. Nxd5 Nxd5 24. Qxa5 Nxe3 25. Bb5+ Kf8 26. Qxa7 Qxd4 27. Qxd4 1-0
+

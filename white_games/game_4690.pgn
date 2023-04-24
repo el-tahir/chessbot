@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gPMfmSRW"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "AntoniusGladius"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "02:10:06"]
+[WhiteElo "1951"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bg5 c6 3. Nf3 e6 4. Bxd8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/szOqANVV"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "Chevalier20"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "13:07:37"]
+[WhiteElo "1949"]
+[BlackElo "2076"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 d5 5. e5 Nc6 6. Nf3 Qb6 7. Nc3 Nge7 8. g4 Ng6 9. h4 Bb4 10. h5 Nge7 11. Be3 Bd7 12. Rb1 Na5 13. a3 Bxc3+ 14. bxc3 Qc7 15. Qd3 a6 16. Be2 b5 17. h6 g6 18. Bg5 Nec6 19. Bf6 Rg8 20. Ng5 Nc4 21. Rb3 N6a5 22. Rb4 Nxa3 23. Nxh7 N5c4 24. Ng5 a5 25. h7 Rf8 26. h8=Q Rxh8 27. Rxh8# 1-0
+

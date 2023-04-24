@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tKu2wyaA"]
+[Date "2022.06.01"]
+[White "EltahirAmin"]
+[Black "JERZ_JAKESPADE2022"]
+[Result "1-0"]
+[UTCDate "2022.06.01"]
+[UTCTime "00:00:42"]
+[WhiteElo "2007"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Ng4 7. Qe2 Nxe3 8. Qxe3 g6 9. O-O-O Bg7 10. Nxc6 bxc6 11. f4 O-O 12. e5 dxe5 13. Rxd8 1-0
+

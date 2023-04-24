@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iJT5bp3i"]
+[Date "2020.11.20"]
+[White "EltahirAmin"]
+[Black "FelixGhadiri"]
+[Result "1-0"]
+[UTCDate "2020.11.20"]
+[UTCTime "20:58:39"]
+[WhiteElo "1881"]
+[BlackElo "1858"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne7 7. e5 Nfg8 8. d6 cxd6 9. exd6 Nc6 10. Nb5 Bxd6 11. Qxd6 Qe7+ 12. Qxe7+ Kxe7 13. Bc4 a6 14. Nc7 Ra7 15. Be3 b6 16. Bxb6 Rb7 17. Nd5+ Kd6 18. Be3 Rxb2 19. Bb3 Na5 20. Bf4+ Ke6 21. Nc7+ Kf6 22. Bc1 Nxb3 23. axb3 Rxc2 24. O-O Rxc7 25. Bb2+ Ke7 26. Bxg7 Nh6 27. Rfe1+ Kd6 28. Bxh8 f6 29. Bxf6 Bb7 30. Be5+ Kc6 31. Rac1+ Kd5 32. Rxc7 Bc6 33. Ra7 Nf5 34. Rxa6 Nd4 35. Raa1 Nxb3 36. Rad1+ Kc5 37. Rd3 Na5 38. Rc1+ Kb6 39. Rd2 Nb3 40. Rb2 Bd5 41. Rcb1 Kc6 42. Rxb3 Bxb3 43. Rxb3 d5 44. Rh3 h6 45. Rxh6+ Kc5 46. Rd6 d4 47. Bxd4+ 1-0
+

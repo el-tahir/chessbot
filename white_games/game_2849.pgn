@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UV3zKhO1"]
+[Date "2020.11.26"]
+[White "EltahirAmin"]
+[Black "chessinsilent"]
+[Result "0-1"]
+[UTCDate "2020.11.26"]
+[UTCTime "19:45:43"]
+[WhiteElo "1913"]
+[BlackElo "2033"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 c5 3. d4 Nc6 4. d5 Nb8 5. c4 d6 6. Bd3 e6 7. Nc3 Nf6 8. Bg5 Be7 9. O-O a6 10. Qd2 O-O 11. Rae1 Bd7 12. h3 Re8 13. Nh2 Qc7 14. f4 h6 15. Bh4 exd5 16. exd5 a5 17. Re3 Qc8 18. Rfe1 Bf8 19. Ne4 Nxe4 20. Bxe4 f5 21. Bb1 Na6 22. Rxe8 Bxe8 23. Rxe8 Qxe8 24. Bxf5 Be7 25. Be6+ Kh8 26. Be1 Nc7 27. f5 Nxe6 28. fxe6 Bf6 29. Ng4 Bd4+ 30. Kh1 b5 31. Nxh6 gxh6 32. Qxh6+ Kg8 33. h4 Bxb2 34. h5 Bg7 35. Qg5 bxc4 36. Bc3 Ra7 37. h6 Qe7 38. h7+ Kxh7 39. Qh5+ Kg8 40. Qf3 Bxc3 41. Qxc3 Qh7+ 42. Kg1 Qb1+ 43. Kh2 Rh7+ 44. Kg3 Qd3+ 45. Qxd3 cxd3 46. e7 Kf7 47. e8=Q+ Kxe8 48. Kf3 Re7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GjwDmdeR"]
+[Date "2021.03.07"]
+[White "Cormaster"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "16:10:58"]
+[WhiteElo "2066"]
+[BlackElo "2079"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 c6 5. c4 Nf6 6. Nc3 Bg4 7. Be2 e6 8. Be3 Bd6 9. O-O O-O 10. h3 Bh5 11. Qc2 Na6 12. a3 Nc7 13. Rad1 c5 14. dxc5 1-0
+

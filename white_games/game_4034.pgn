@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vw6qGt53"]
+[Date "2020.10.25"]
+[White "EltahirAmin"]
+[Black "Zanzi_Il_Pazzo"]
+[Result "0-1"]
+[UTCDate "2020.10.25"]
+[UTCTime "14:53:19"]
+[WhiteElo "1970"]
+[BlackElo "1977"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nf6 4. d4 Be7 5. Bg5 exd4 6. Nxd4 O-O 7. Bc4 Nbd7 8. Qd2 a6 9. O-O-O b5 10. Bb3 Nc5 11. f4 Nfxe4 12. Nxe4 Nxe4 13. Bxe7 Qxe7 14. Qe2 Bb7 15. Qh5 c5 16. Nf5 Qf6 17. Rhe1 c4 18. Rxe4 Bxe4 19. Nxd6 Bg6 20. Qd5 cxb3 21. axb3 Rad8 22. f5 Bh5 23. Rd3 g6 24. Qc6 Be2 25. Rd2 Qg5 26. h4 Qf4 27. f6 Qf1+ 0-1
+

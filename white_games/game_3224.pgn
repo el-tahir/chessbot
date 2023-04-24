@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RFiyMAtE"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "kosja"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "23:28:39"]
+[WhiteElo "1959"]
+[BlackElo "1970"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Ng6 7. Bc4 d6 8. Rf1 N8e7 9. Kg1 O-O 10. Qh5 Be6 11. d5 Bd7 12. Bg5 Qe8 13. Rae1 Ne5 14. Be2 N7g6 15. Nd1 Qc8 16. Ne3 a6 17. Nf5 Bb5 18. Bxb5 axb5 19. a3 Qd7 20. Rf4 Nxf4 21. Bxf4 Ng6 22. Bg5 f6 23. Bc1 Rae8 24. g4 Re5 25. b3 Rfe8 26. Bb2 Rxe4 27. Rxe4 Rxe4 28. Qh3 Qe8 29. Bc3 Nf4 30. Qf3 Ne2+ 31. Kf2 Nxc3 32. Qxc3 Re2+ 33. Kg3 Qe5+ 34. Kh4 Qxc3 35. Ne7+ Kf7 36. g5 Rxh2+ 37. Kg4 Kxe7 38. Kf5 Qe5+ 39. Kg4 Qxg5+ 0-1
+

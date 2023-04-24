@@ -1,0 +1,19 @@
+[Event "Blitz Warm-up Arena May '20"]
+[Site "https://lichess.org/qF9BLpJn"]
+[Date "2020.05.09"]
+[White "EltahirAmin"]
+[Black "rajuppi"]
+[Result "0-1"]
+[UTCDate "2020.05.09"]
+[UTCTime "18:28:43"]
+[WhiteElo "2020"]
+[BlackElo "2254"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Bf5 4. g4 Bg6 5. h4 h6 6. h5 hxg5 0-1
+

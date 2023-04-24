@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2NDcBEMy"]
+[Date "2020.10.27"]
+[White "EltahirAmin"]
+[Black "jaso29"]
+[Result "1-0"]
+[UTCDate "2020.10.27"]
+[UTCTime "14:05:00"]
+[WhiteElo "1977"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Be2 d6 5. O-O Nge7 6. Na4 Bb6 7. Nxb6 axb6 8. d4 O-O 9. a3 f5 10. Bg5 fxe4 11. Ne1 exd4 12. c3 d3 13. Bh5 g6 14. Qb3+ Kg7 15. Bd1 Qe8 16. f3 Rf5 17. h4 Rxg5 18. hxg5 e3 19. Nxd3 Nf5 20. Be2 Qe7 21. f4 Be6 22. Qc2 Bc4 23. Rf3 Re8 24. b3 Bd5 25. Rh3 Qe4 26. Bf3 Qe6 27. c4 Bxf3 28. Rxf3 Ncd4 29. Qc3 Kg8 30. Re1 Nxf3+ 31. gxf3 c5 32. Nc1 Nd4 33. Kg2 Nf5 34. Ne2 Nh4+ 35. Kg3 Nf5+ 36. Kg2 Ra8 37. a4 Re8 38. Qf6 Qxf6 39. gxf6 Kf7 40. Ng3 Kxf6 41. Ne4+ Ke6 42. Kh3 Kd7 43. Kg4 Rg8 44. Ng5 h5+ 45. Kh3 Ng7 46. Rxe3 Nf5 47. Re6 Nd4 48. Rf6 Nxf3 49. Rf7+ Kc6 50. Nxf3 g5 51. Rf6 g4+ 52. Kh4 gxf3 53. Re6 1-0
+

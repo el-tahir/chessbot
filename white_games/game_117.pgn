@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S7Ke4OyU"]
+[Date "2023.02.23"]
+[White "EltahirAmin"]
+[Black "japatur"]
+[Result "1-0"]
+[UTCDate "2023.02.23"]
+[UTCTime "05:08:22"]
+[WhiteElo "1950"]
+[BlackElo "1897"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Ng3 Ngf6 6. Nf3 e6 7. c3 Be7 8. Bd3 c5 9. Be3 O-O 10. Qd2 b6 11. O-O-O Bb7 12. h4 cxd4 13. Nxd4 Nc5 14. Bb1 Rc8 15. h5 e5 16. Ndf5 Qxd2+ 17. Rxd2 Rfe8 18. Rhd1 Nce4 19. Nxe7+ Rxe7 20. Nxe4 Bxe4 21. Rd8+ Re8 22. Rxe8+ Rxe8 23. Bxe4 Nxe4 24. Rd7 Ra8 25. Kc2 f5 26. f3 Nf6 27. Re7 e4 28. fxe4 Nxe4 29. g4 Kf8 30. Rc7 fxg4 31. Kd3 Nf6 32. h6 g6 33. Bd4 Nd5 34. Rxh7 g3 35. Rh8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Az6MZxCJ"]
+[Date "2020.11.26"]
+[White "EltahirAmin"]
+[Black "rdanyharyadi"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "12:03:46"]
+[WhiteElo "1885"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E10"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Be7 4. Nc3 O-O 5. e4 d6 6. Bd3 Nc6 7. O-O Re8 8. Bg5 h6 9. Bh4 g5 10. Bg3 g4 11. Nh4 h5 12. e5 dxe5 13. dxe5 Nh7 14. Bxh7+ Kxh7 15. Qd3+ Kg7 16. Qe4 Bxh4 17. Rad1 Qe7 18. h3 gxh3 19. Bxh4 Qc5 20. gxh3 Rg8 21. Kh2 Nxe5 22. Rg1+ Kf8 23. Rd8# 1-0
+

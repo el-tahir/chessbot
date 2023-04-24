@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2ankBlqb"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "Albertiny"]
+[Result "1-0"]
+[UTCDate "2020.11.06"]
+[UTCTime "15:09:07"]
+[WhiteElo "1962"]
+[BlackElo "2012"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Bd6 5. f4 f6 6. Nf3 Ne7 7. fxe5 fxe5 8. Ng3 Ng6 9. Bg5 Qd7 10. Be2 O-O 11. O-O Nc6 12. c3 dxc3 13. bxc3 Qe8 14. d4 exd4 15. cxd4 Bf4 16. Qb3+ Qe6 17. d5 Qf7 18. dxc6 Qxb3 19. axb3 bxc6 20. Bc4+ Kh8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mVRVs3SU"]
+[Date "2020.12.23"]
+[White "svobchel"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "09:57:22"]
+[WhiteElo "1959"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Bc5 4. c3 Nge7 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ng6 8. e3 h5 9. h3 b6 10. Bd3 Bb7 11. Qc2 Nh4 12. O-O Nxf3+ 13. gxf3 g4 14. fxg4 hxg4 15. Be4 Rxh3 16. b4 Bxe3 17. fxe3 Rxg3+ 18. Kf2 Qh4 19. Ke2 O-O-O 20. Nd2 Nxe5 21. Bxb7+ Kxb7 22. Qe4+ Nc6 23. b5 Rg2+ 24. Qxg2 Qh7 25. bxc6+ dxc6 26. e4 Qh6 27. Rad1 Qg6 28. Rf4 g3 29. Rf3 Qg4 30. Qxg3 Qh5 31. Nb3 Re8 32. Qf4 Qb5+ 33. Rdd3 Qa4 34. Rd2 Rxe4+ 35. Qxe4 Qxe4+ 36. Re3 Qg2+ 37. Kd3 Qd5+ 38. Kc2 Qf5+ 39. Kb2 a5 40. Re7 a4 41. Nd4 Qa5 42. Rxf7 a3+ 43. Kc2 Qa4+ 44. Kd3 b5 45. Re2 Qc4+ 46. Kd2 b4 47. Ree7 Qxc3+ 0-1
+

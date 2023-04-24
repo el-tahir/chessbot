@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Lvb0ThGI"]
+[Date "2021.10.14"]
+[White "FredrikLarssonESS"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "18:12:12"]
+[WhiteElo "2052"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. dxc5 Nf6 3. Nf3 e6 4. Be3 Nc6 5. g3 Qa5+ 6. Qd2 Qb5 7. c3 Bxc5 8. Na3 Bxe3 9. Nxb5 Bxd2+ 10. Nxd2 Kd8 11. Nd6 Ke7 12. N2c4 b5 13. Nxb5 d5 14. Ne3 Ba6 15. Nc7 Bb7 16. Nxa8 Bxa8 17. Bg2 Rb8 18. b3 Ne5 19. O-O Rc8 20. Rac1 a5 21. Rfd1 a4 22. c4 dxc4 23. Bxa8 Rxa8 24. Nxc4 axb3 25. axb3 Neg4 26. h3 Nh6 27. Ne5 Ra3 28. Rc7+ Ke8 29. b4 Nd5 30. Rb7 Rb3 31. Nc6 Nf5 32. e4 Nc3 33. Rd8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FULErNEN"]
+[Date "2021.10.11"]
+[White "bholachaudhary"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.11"]
+[UTCTime "05:52:08"]
+[WhiteElo "2099"]
+[BlackElo "2094"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Bg4 7. Qd2 Rc8 8. h3 Bh5 9. g4 Bg6 10. Bd3 e6 11. O-O-O Qa5 12. f4 Nb4 13. Kb1 Rxc3 14. Qxc3 Qxa2+ 15. Kc1 Nxd3+ 16. cxd3 Kd7 17. f5 Be7 18. Kd2 Rc8 19. Qa3 Qxa3 20. bxa3 exf5 21. exf5 Nd5 22. fxg6 hxg6 23. Rc1 Rxc1 24. Rxc1 Nxe3 25. Kxe3 Bg5+ 26. Ke4 Bxc1 27. a4 Bb2 28. Nb5 a6 29. Nd4 Bxd4 30. Kxd4 Kc6 31. Kc4 d5+ 32. Kd4 b5 33. a5 b4 34. h4 Kb5 35. h5 gxh5 36. gxh5 Kxa5 37. Kxd5 b3 38. Kc4 b2 39. Kb3 b1=Q+ 0-1
+

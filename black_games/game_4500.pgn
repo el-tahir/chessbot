@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vyx0NHA3"]
+[Date "2020.05.12"]
+[White "Fairplay50"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "11:13:41"]
+[WhiteElo "2034"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. e3 d5 3. Bd3 Bf5 4. Bxf5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/v2Pa9N58"]
+[Date "2020.11.15"]
+[White "Flokjears"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:10:37"]
+[WhiteElo "1948"]
+[BlackElo "1947"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. h3 Bh5 10. Be3 Re8 11. Re1 Nd7 12. Be2 Nb6 13. Qd2 Nd5 14. c4 Nxe3 15. fxe3 Bf4 16. exf4 Qc7 17. d5 cxd5 18. cxd5 Rad8 19. Rad1 Qb6+ 20. Kh2 Bg6 21. d6 Rd7 22. Nh4 Red8 23. Nxg6 hxg6 24. Qc3 Qf2 25. Bf3 Qh4 26. Qe3 Kh7 27. g3 Qh6 28. f5 g5 29. g4 g6 30. fxg6+ Qxg6 31. Be4 1-0
+

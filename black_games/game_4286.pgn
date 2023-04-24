@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Md0yGgJh"]
+[Date "2020.08.07"]
+[White "Arcan1951"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.08.07"]
+[UTCTime "11:18:22"]
+[WhiteElo "1945"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A51"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 Bb4+ 5. Nc3 O-O 6. Nf3 Re8+ 7. Be2 d5 8. O-O Bg4 9. h3 Bh5 10. a3 Ba5 11. b4 Bb6 12. c5 Nc6 13. cxb6 axb6 14. Bg5 Qd6 15. Bh4 Re6 16. Bg3 Qe7 17. Re1 Re8 18. Be5 Bxf3 19. Bxf3 Nxe5 20. dxe5 Rxe5 21. Rxe5 Qxe5 22. Qc2 c6 23. Kf1 g5 24. g3 h5 25. Rd1 g4 26. hxg4 hxg4 27. Bg2 Nh7 28. Ne2 Ng5 29. Nf4 Nf3 30. Qd3 Qe1+ 31. Rxe1 Rxe1# 0-1
+

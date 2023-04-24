@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AnZsxSAI"]
+[Date "2020.05.13"]
+[White "Cheatonoff"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:27:08"]
+[WhiteElo "1975"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Qxd5 5. Nc3 Qd6 6. d4 Nf6 7. Nf3 Bg4 8. g3 e6 9. Bf4 Qb6 10. Bg2 Bb4 11. O-O O-O 12. Na4 Qa5 13. a3 Be7 14. b4 Qh5 15. Qd3 Nd5 16. Bd2 Nc6 17. Ne5 Nxe5 18. dxe5 Qxe5 19. Rfe1 Qf6 20. Re4 Qxa1+ 0-1
+

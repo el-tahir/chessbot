@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2SZmlAHP"]
+[Date "2020.08.07"]
+[White "EltahirAmin"]
+[Black "sohei_katana"]
+[Result "1-0"]
+[UTCDate "2020.08.07"]
+[UTCTime "11:49:16"]
+[WhiteElo "1983"]
+[BlackElo "2053"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Bd3 Bg4 6. O-O Ne7 7. Bg5 O-O 8. Nbd2 f6 9. Bh4 c6 10. c3 Qc7 11. Qc2 h6 12. Rae1 Na6 13. Qd1 Bxh2+ 14. Kh1 Bf4 15. g3 Bxd2 16. Qxd2 Bxf3+ 17. Kh2 Rae8 18. Re3 Bh5 19. Kg2 Qd7 20. g4 Qxg4+ 21. Bg3 Nf5 22. Rxe8 Rxe8 23. Rh1 Qf3+ 24. Kg1 Nxg3 25. fxg3 Qxg3+ 26. Qg2 Re1+ 27. Bf1 Qe3+ 28. Kh2 Qf4+ 29. Kg1 Qe3+ 30. Kh2 Rd1 31. Rg1 Rd2 32. Be2 Rxe2 33. Kh1 Rxg2 34. Rxg2 Qh3+ 35. Kg1 Qxg2+ 36. Kxg2 Nc7 37. Kg3 Ne6 38. Kh4 Bf7 39. a3 g5+ 40. Kg4 Kg7 41. Kf5 h5 42. a4 h4 43. Kg4 Kg6 44. Kh3 Nf8 45. Kg4 Be6+ 46. Kf3 f5 47. Kg2 g4 48. a5 Kg5 49. a6 b6 50. Kh2 f4 51. Kg2 g3 52. Kf3 h3 53. Ke2 h2 54. Kf1 h1=Q+ 55. Ke2 Qe4+ 56. Kd2 g2 57. Kc1 Qe3+ 58. Kb1 g1=Q+ 59. Ka2 Qgf2 60. Kb3 Qee2 61. Kb4 Qxb2+ 62. Ka4 1-0
+

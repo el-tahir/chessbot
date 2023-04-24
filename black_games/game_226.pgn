@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wq5s1j26"]
+[Date "2022.10.15"]
+[White "cheremshina"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.15"]
+[UTCTime "06:04:43"]
+[WhiteElo "2022"]
+[BlackElo "2027"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 c5 3. d4 Bg4 4. Bg2 Nc6 5. O-O Bxf3 6. Bxf3 Nxd4 7. Bg2 e5 8. c3 Nc6 9. Bxd5 Qc7 10. Bg2 Nf6 11. Qc2 O-O-O 12. a4 Bd6 13. Na3 Rhe8 14. Nb5 Qb8 15. Be3 a6 16. Nxd6+ Rxd6 17. Bxc5 Rd7 18. b4 Nd5 19. b5 axb5 20. axb5 Nce7 21. c4 Nf6 22. Bb6 Rd6 23. c5 Rd4 24. c6 bxc6 25. Bxd4 exd4 26. bxc6 Ned5 27. Qc5 Rxe2 28. Bxd5 Nxd5 29. Qxd5 Qc7 1-0
+

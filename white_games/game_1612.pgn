@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HlGBXs57"]
+[Date "2021.02.19"]
+[White "EltahirAmin"]
+[Black "Compay93"]
+[Result "0-1"]
+[UTCDate "2021.02.19"]
+[UTCTime "18:32:09"]
+[WhiteElo "1947"]
+[BlackElo "1882"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A03"]
+[Termination "Time forfeit"]
+
+1. f4 d5 2. Nf3 Bg4 3. e3 Nc6 4. Be2 e5 5. fxe5 Bxf3 6. Bxf3 Nxe5 7. O-O Nf6 8. Nc3 Bb4 9. a3 Bxc3 10. dxc3 O-O 11. Qe2 Nxf3+ 12. Qxf3 Qd6 13. b3 Ne4 14. Rd1 Qb6 15. Bb2 Rad8 16. c4 Ng5 17. Qg4 Qxe3+ 18. Kh1 d4 19. Bxd4 Qe4 20. Qxe4 Nxe4 21. Kg1 c5 22. Be3 b6 23. Rd5 Rxd5 24. cxd5 Rd8 25. Rd1 Nc3 26. Rd3 Ne4 27. c4 f6 28. Kf1 g5 29. Ke2 h5 30. Kf3 f5 31. h4 gxh4 32. Kf4 Ng3 33. Kg5 Kg7 34. Bf4 Ne4+ 35. Kxh4 Kg6 36. d6 Rd7 37. Rd5 a6 38. a4 Nc3 39. Re5 Ne4 40. Re6+ Kf7 41. Re5 Kf6 42. Kxh5 Nxd6 43. Rd5 Ke6 44. Rxd6+ Rxd6 45. Bxd6 Kxd6 46. Kg5 Ke5 47. g3 a5 48. Kg6 Ke4 49. Kg5 Ke5 50. g4 f4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HipHNoCQ"]
+[Date "2021.03.01"]
+[White "KAREN_ELEVEN11"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.01"]
+[UTCTime "11:56:56"]
+[WhiteElo "2032"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O 8. O-O Bg4 9. c3 Na6 10. h3 Bh5 11. Be3 Bc7 12. Qb3 Qd6 13. Qxb7 Bxf3 14. Bxf3 Qh2# 0-1
+

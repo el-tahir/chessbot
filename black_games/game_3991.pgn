@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xuROVAJl"]
+[Date "2020.10.26"]
+[White "Der_Wanderer"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "21:29:20"]
+[WhiteElo "1986"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Normal"]
+
+1. f4 c6 2. c4 d5 3. cxd5 cxd5 4. Nf3 Nf6 5. e3 Bg4 6. Bb5+ Nc6 7. O-O e6 8. a3 Qb6 9. Bxc6+ bxc6 10. d4 c5 11. Nc3 Bd6 12. Na4 Qc7 13. dxc5 Bxc5 14. Kh1 Bd6 15. b4 O-O 16. Bb2 Qd7 17. Bxf6 gxf6 18. Rc1 Rac8 19. Nc5 e5 1-0
+

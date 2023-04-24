@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LH97HaGP"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "Yasir001"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:28:09"]
+[WhiteElo "2125"]
+[BlackElo "2232"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Nc6 7. Bc4 Qf6+ 8. Ke3 Qg5+ 9. Kd3 Nb4+ 10. Ke2 Qxg2+ 11. Ke3 Nxc2+ 12. Kf4 g5+ 13. Ke5 d6+ 14. Kd5 Be6# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/23eHZcHi"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "Hungry2Queens1Cup"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:38:24"]
+[WhiteElo "2053"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. Qxd4 Nf6 4. Qd1 b6 5. Nf3 Bb7 6. Bc4 d5 7. Bd3 c5 8. c4 Be7 9. Qe2 O-O 10. O-O Nbd7 11. Re1 Ne4 12. Nc3 f5 13. Nd2 Re8 14. f3 Nxc3 15. bxc3 Bf6 16. Bb2 f4 17. e4 dxe4 18. Nxe4 Bh4 19. Red1 Nf6 20. Qc2 Qc7 21. a4 Rad8 22. Nxf6+ Bxf6 23. Bxh7+ Kh8 24. Qg6 Re2 25. Qh5 g5 26. Bd3+ Kg8 27. Bxe2 Bg7 28. Rxd8+ Qxd8 29. Rd1 Qe7 30. Bf1 Bc6 31. h4 Be8 32. Qg4 gxh4 33. Bc1 Bxa4 34. Rd7 Bxd7 35. Qxf4 a5 36. Bd3 Qe1+ 37. Bf1 Qg3 38. Qb8+ Kh7 39. Bd3+ Bf5 40. Bxf5+ Qg6 41. Bxg6+ Kxg6 42. Qxb6+ Kh7 43. Qxc5 Bxc3 44. Qh5+ 1-0
+

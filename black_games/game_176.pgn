@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2005r6RW"]
+[Date "2022.12.02"]
+[White "minderbruder"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.12.02"]
+[UTCTime "21:22:50"]
+[WhiteElo "1960"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. f4 c5 7. c3 Nc6 8. Nf3 Nge7 9. O-O Nf5 10. g4 Nh6 11. h3 Be7 12. Be3 cxd4 13. cxd4 Qb6 14. Nbd2 O-O 15. f5 exf5 16. Bxh6 gxh6 17. gxf5 Bg5 18. f6 Kh8 19. Kh1 Rg8 20. Rg1 Rg6 21. a3 Rag8 22. b4 Bxd2 23. Qxd2 Rg2 24. Qxh6 Rxg1+ 25. Rxg1 Rxg1+ 26. Kxg1 1-0
+

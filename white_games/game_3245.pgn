@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/htzeNlNL"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "KofesT"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:14:12"]
+[WhiteElo "1948"]
+[BlackElo "1980"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3 8. Qxd3 Ngf6 9. Bg5 e6 10. O-O-O h6 11. Bf4 Nb6 12. Rhe1 Bd6 13. Ne5 Nbd5 14. Bd2 Qc7 15. f4 c5 16. f5 cxd4 17. fxe6 fxe6 18. Qg6+ Kd8 19. Nf7+ Kd7 20. Nxh8 Rc8 21. Qxg7+ Ne7 22. c3 dxc3 23. Bxc3 Nd5 24. Nf7 Nxc3 25. bxc3 Qxc3+ 26. Qxc3 Rxc3+ 27. Kb2 Rc6 28. Rxd6+ Rxd6 29. Nxd6 1-0
+

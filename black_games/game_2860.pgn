@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3qDHk1SO"]
+[Date "2020.11.26"]
+[White "alchemin"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.26"]
+[UTCTime "15:44:12"]
+[WhiteElo "1891"]
+[BlackElo "1902"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Nc3 Nf6 5. d4 Nc6 6. Bg5 Bg4 7. Bxf6 exf6 8. h3 Bh5 9. Be2 Bb4 10. O-O O-O 11. a3 Bxc3 12. bxc3 Rc8 13. Rb1 b6 14. Qd3 Bg6 15. Qd2 Re8 16. Bb5 Qd6 17. a4 Re7 18. Rfe1 Rxe1+ 19. Rxe1 Na5 20. Ba6 Rd8 21. Qe2 h6 22. Nh4 Be4 23. Bd3 Re8 24. Qd1 Qf4 25. Bxe4 dxe4 26. g3 Qd6 27. Ng2 f5 28. d5 Nc4 29. Qd4 Ne5 30. Nh4 g5 31. f4 exf3 32. Nxf5 Qf6 33. Rxe5 Qxe5 34. Qxe5 Rxe5 35. Nd4 Rxd5 36. Kf2 f5 37. Kxf3 Kf7 38. Nc6 Rc5 39. Nd4 Rxc3+ 40. Kf2 Rc4 41. Nxf5 Rxa4 42. Nxh6+ Kg6 43. Ng4 Ra2 44. Ne3 b5 45. g4 b4 46. Kf3 b3 47. cxb3 Rb2 48. Nc4 Rxb3+ 49. Ke4 Rb4 50. Kd5 Rb3 51. Ne5+ Kg7 52. Nc6 a6 53. Na7 Rxh3 54. Nc6 Rg3 0-1
+

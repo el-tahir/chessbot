@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WpK8Vwwe"]
+[Date "2022.09.12"]
+[White "Arjun_Crisologo"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.09.12"]
+[UTCTime "02:57:01"]
+[WhiteElo "2065"]
+[BlackElo "2045"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 Bg4 4. Bg2 Qd7 5. Ne5 Qc8 6. Nxg4 Nxg4 7. O-O e6 8. c4 Bd6 9. Nc3 c6 10. Bd2 O-O 11. cxd5 cxd5 12. Rc1 Nc6 13. e4 Nf6 14. e5 Nxe5 15. dxe5 Bxe5 16. Nxd5 Qd8 17. Nxf6+ Qxf6 18. Bc3 Rac8 19. Bxe5 Qxe5 20. Rxc8 Rxc8 21. Qb3 b6 22. Rd1 Qe2 23. Qd3 Qh5 24. Qd8+ 1-0
+

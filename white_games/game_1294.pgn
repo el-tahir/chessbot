@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kMfxebxY"]
+[Date "2021.03.04"]
+[White "EltahirAmin"]
+[Black "angelmus"]
+[Result "1-0"]
+[UTCDate "2021.03.04"]
+[UTCTime "21:23:41"]
+[WhiteElo "2034"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 h6 6. Nf3 g5 7. Bd3 g4 8. Ne5 Nbd7 9. Qe2 Nxe5 10. dxe5 Qd6 11. exd6 1-0
+

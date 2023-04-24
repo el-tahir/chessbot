@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tbWqzLav"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "JayPBee"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "19:55:50"]
+[WhiteElo "2030"]
+[BlackElo "2083"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. Bd3 d6 5. Bc2 g6 6. d4 cxd4 7. cxd4 Bg7 8. Nc3 Bg4 9. O-O Bxf3 10. gxf3 Nh5 11. Be3 Qb6 12. Na4 Qb4 13. a3 Qa5 14. Rb1 b5 15. b4 Qc7 16. Nc3 Rc8 17. Nxb5 Qd7 18. Ba4 O-O 19. d5 Ne5 20. Nxa7 Qh3 21. Nxc8 Nxf3+ 22. Qxf3 Qxf3 23. Nxe7+ Kh8 24. Bd1 Qh3 25. f4 Qxe3+ 0-1
+

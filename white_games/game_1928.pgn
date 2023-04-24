@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FqICQazo"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "Dajith"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "13:38:37"]
+[WhiteElo "1961"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 b6 7. Be3 Bb7 8. O-O-O Qe7 9. g4 O-O-O 10. h4 f6 11. Bh3 Kb8 12. Rhe1 h5 13. Nd5 Qf7 14. g5 Ne7 15. a4 Nc6 16. Qd3 Ne5 17. Qd2 Nc4 18. Qc3 Nxe3 19. Rxe3 a5 20. b4 axb4 21. Qxb4 fxg5 22. hxg5 Qxf2 23. Rb3 Qc5 24. Qxc5 dxc5 25. a5 Bxd5 26. exd5 Kb7 27. Bg2 Rd6 28. Rf1 Be7 29. g6 Bf6 30. Re1 h4 31. Re6 Rhd8 32. axb6 cxb6 33. Rbe3 Kc7 34. c4 Rh8 35. Bh3 Bg5 36. Rxd6 Kxd6 37. Kd2 Re8 38. Kd3 Rxe3+ 39. Kc2 Rxh3 40. Kb2 Re3 41. Kc2 h3 42. Kd2 h2 43. Kd1 h1=Q+ 44. Kd2 Qh2+ 45. Kc1 Qf2 46. Kd1 Re1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9uSBs0SW"]
+[Date "2020.05.30"]
+[White "EltahirAmin"]
+[Black "AnatolyKarpawn"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "11:10:00"]
+[WhiteElo "2037"]
+[BlackElo "2098"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nd7 3. Nf3 Ngf6 4. Bd3 e5 5. d5 Be7 6. c4 c6 7. Nc3 Qc7 8. Bg5 O-O 9. Rc1 a6 10. O-O Re8 11. Qd2 h6 12. Bxh6 gxh6 13. Qxh6 Nf8 14. Ng5 Qd8 15. f4 Ng4 16. Qh5 Ng6 17. Qh7+ Kf8 18. Qxf7# 1-0
+

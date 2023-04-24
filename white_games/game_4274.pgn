@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6xsUPgo3"]
+[Date "2020.10.12"]
+[White "EltahirAmin"]
+[Black "KAI-TheEye"]
+[Result "1-0"]
+[UTCDate "2020.10.12"]
+[UTCTime "19:35:09"]
+[WhiteElo "2002"]
+[BlackElo "1677"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bb5 Bb4 4. Nf3 Bxc3 5. dxc3 d6 6. O-O Nf6 7. Bg5 h6 8. Bh4 O-O 9. Re1 a6 10. Ba4 Qe7 11. Qd3 Qe6 12. Bb3 Ne7 13. Bxe6 1-0
+

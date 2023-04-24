@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/USM56Vi2"]
+[Date "2020.11.22"]
+[White "fardin1222"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "06:16:08"]
+[WhiteElo "1912"]
+[BlackElo "1921"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Qh5 d5 3. exd5 cxd5 4. Qe2 Nf6 5. b3 Nc6 6. Ba3 e5 7. Bxf8 Rxf8 8. g3 Nd4 9. Qd1 Qb6 10. c3 Bg4 11. f3 O-O-O 12. fxg4 Nb5 13. Bxb5 Qxb5 14. Qe2 Qc6 15. Nf3 e4 16. Nd4 Qd7 17. Nf5 g6 18. Nd4 Nxg4 19. h3 Ne5 20. O-O Qxh3 21. Qg2 Qd7 22. Na3 f5 23. Nab5 a6 24. Na3 g5 25. Rf2 f4 26. g4 f3 27. Qg3 Nxg4 28. c4 Nxf2 29. Qxf2 g4 30. cxd5 g3 31. Qe3 f2+ 32. Kg2 h5 33. Qxg3 Rg8 34. Qxg8 Rxg8+ 35. Kxf2 Qf7+ 36. Ke3 Qxd5 37. Ne2 Qd3+ 38. Kf2 Rf8+ 39. Ke1 e3 40. dxe3 Qxe3 41. Rd1 Re8 42. Rd2 Qg1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lJW92PNP"]
+[Date "2020.12.15"]
+[White "EltahirAmin"]
+[Black "President_Kitten"]
+[Result "0-1"]
+[UTCDate "2020.12.15"]
+[UTCTime "20:42:30"]
+[WhiteElo "1930"]
+[BlackElo "1903"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+23"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 d5 6. exd5 exd5 7. Be3 Nf6 8. Bb5 Bd7 9. O-O Be7 10. Re1 O-O 11. Qf3 Bg4 12. Qg3 Bd6 13. f4 Qc7 14. h3 Bd7 15. Bd3 Nh5 16. Qf2 Nxf4 17. Nxc6 bxc6 18. Bxf4 Bxf4 19. Qh4 h6 20. Rf1 Bg3 21. Qd4 Bh2+ 22. Kh1 Be5 23. Qf2 Bg3 24. Qf3 d4 25. Ne4 Be5 26. Rae1 c5 27. g4 Bc6 28. g5 hxg5 29. Rg1 Bf6 30. Nxf6+ gxf6 31. Be4 Bxe4 32. Qxe4 Qd6 33. Qf5 Rae8 34. Ref1 Kg7 35. h4 Rh8 36. Rg4 Qe6 37. Kg2 Qxf5 38. Rxf5 Rxh4 39. Rxh4 gxh4 40. Rf3 Re2+ 41. Kh3 Rxc2 42. Kg4 Rxb2 43. Kf4 Rxa2 44. Rg3+ hxg3 0-1
+

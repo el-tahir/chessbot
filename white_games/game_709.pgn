@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oHPTTDYy"]
+[Date "2021.11.22"]
+[White "EltahirAmin"]
+[Black "Kmcagalj"]
+[Result "0-1"]
+[UTCDate "2021.11.22"]
+[UTCTime "00:08:05"]
+[WhiteElo "2070"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 h6 4. d4 g6 5. Bc4 exd4 6. Nxd4 Bg7 7. Qf3 Nf6 8. O-O O-O 9. Bf4 a6 10. a4 Qe7 11. Rfe1 Nbd7 12. Re2 Ne5 13. Bxe5 dxe5 14. Nb3 Be6 15. Bxe6 Qxe6 16. Rd2 Rfd8 17. Rad1 Qe7 18. Nc1 Rxd2 19. Rxd2 Rd8 20. Rxd8+ Qxd8 21. Nd3 Qe7 22. Qg3 Nh5 23. Qh3 Nf4 24. Nxf4 exf4 25. Nd5 Qd8 26. b3 c6 27. Nxf4 0-1
+

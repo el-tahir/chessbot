@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GWSvRy32"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "chaddyboy25"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "10:59:21"]
+[WhiteElo "2003"]
+[BlackElo "2000"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 cxd4 5. Qxd4 Bg7 6. Qxg7 1-0
+

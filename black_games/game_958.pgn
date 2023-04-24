@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7sKOuuIK"]
+[Date "2021.11.01"]
+[White "nadalofchess"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.01"]
+[UTCTime "20:48:08"]
+[WhiteElo "2039"]
+[BlackElo "2067"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. d4 d5 3. e3 Nf6 4. c3 Bg4 5. Nbd2 e6 6. Be2 Bd6 7. h3 Bh5 8. a3 Nbd7 9. b4 e5 10. c4 e4 11. Nh2 Bxe2 12. Qxe2 Qc7 13. Ng4 h5 14. Nxf6+ Nxf6 15. Bb2 O-O-O 16. cxd5 Nxd5 17. Rc1 f5 18. b5 c5 19. dxc5 Bxc5 20. Bd4 b6 21. Bxc5 bxc5 22. g3 Kb8 23. Qc4 Rc8 24. a4 Rhd8 25. Nb3 Nb4 26. O-O Nd3 27. Rc2 f4 28. exf4 Nxf4 29. h4 g5 30. hxg5 h4 31. Qxe4 Nh5 32. Rxc5 Qd6 33. Rxc8+ Rxc8 34. g4 Nf4 35. Na5 Rc7 36. Qe8+ Rc8 37. Nc6+ Kb7 38. Qe7+ Qd7 39. Qxd7+ 1-0
+

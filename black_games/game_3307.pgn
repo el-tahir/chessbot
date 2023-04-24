@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4RydVYqP"]
+[Date "2020.11.13"]
+[White "Ameku"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "09:50:30"]
+[WhiteElo "2007"]
+[BlackElo "2011"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4 Bb4 9. a3 Ba5 10. b4 Bc7 11. Bb2 Nge7 12. Nbd2 O-O 13. Rc1 Rc8 14. Qb3 f6 15. exf6 Rxf6 16. Rfe1 Qd6 17. Bd3 Bg4 18. Ne5 Bh5 19. Ndf3 Rcf8 20. Qc2 Bxf3 21. gxf3 Nf5 22. b5 Nxe5 23. dxe5 Rg6+ 24. Kf1 Qd8 25. Qxc7 Qh4 26. Bxf5 Rxf5 27. Ke2 Qf4 28. Kd1 Qxf3+ 29. Kc2 Qxf2+ 30. Kb1 Rg2 31. Qc8+ Rf8 32. Qc3 h6 33. Red1 Rf3 34. Qc8+ Kh7 35. Rc2 Qb6 36. Rxg2 Rf7 37. Qc2+ Kg8 38. Rdg1 g5 39. h4 Rg7 40. hxg5 hxg5 41. Qf2 Qxf2 42. Rxf2 Kh7 43. Rfg2 Kh6 44. Bc3 g4 45. Bd2+ Kh5 46. Rg3 Rf7 47. Kc2 Rf1 48. a4 Kg6 49. Rxf1 Kg7 50. Rfg1 Kg8 51. Rxg4+ Kh7 52. Rg6 Kh8 53. Rg7 1-0
+

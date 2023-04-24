@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vXOdzOpm"]
+[Date "2021.03.05"]
+[White "MAHONEY21"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.05"]
+[UTCTime "15:27:45"]
+[WhiteElo "2017"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Bc4 Nxc3 8. bxc3 e6 9. Nf3 Be7 10. O-O O-O 11. Bf4 Bf6 12. Rb1 Qa5 13. Qd3 b6 14. Bb3 Bb7 15. Bc2 g6 16. Be5 Bg7 17. Bxg7 Kxg7 18. Rb5 Ba6 19. c4 Bxb5 20. cxb5 Nb4 21. Qd2 Qa3 22. Bb3 Rad8 23. d5 Nxd5 24. Qd4+ Kg8 25. Ng5 Qc5 26. Qh4 Nf6 27. Nxe6 fxe6 28. Bxe6+ Kg7 0-1
+

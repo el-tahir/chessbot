@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XUUoPney"]
+[Date "2020.11.16"]
+[White "VG_Nagi"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "09:09:03"]
+[WhiteElo "1945"]
+[BlackElo "1961"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Bc4 O-O 8. O-O Bg4 9. h3 Bh5 10. c3 Nd7 11. Be2 Nb6 12. a4 c5 13. a5 Nd7 14. Qb3 Rb8 15. Be3 cxd4 16. Bxd4 Re8 17. Bd1 Nc5 18. Qc2 Bg6 19. Qd2 Ne4 20. Qc1 Qc7 21. Bxa7 Rbd8 22. Bb6 Qd7 23. Bxd8 Rxd8 24. Bc2 Nc5 25. Bxg6 hxg6 26. Qc2 Ne6 27. Rfd1 Qc6 28. Nd4 Nxd4 29. Rxd4 Bh2+ 30. Kxh2 Rxd4 31. Rd1 Qd6+ 32. Kg1 Rxd1+ 0-1
+

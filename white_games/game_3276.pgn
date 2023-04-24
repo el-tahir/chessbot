@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2tn1rZhm"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "Borovkov_Maxim"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "21:33:06"]
+[WhiteElo "1974"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Qe7 7. Bc4 d5 8. Bxd5 Nxd5 9. Nxd5 Qd8 10. Qf3 Be6 11. Nc3 Bb4 12. Be3 Bxc3+ 13. bxc3 O-O 14. h4 c5 15. h5 Ne7 16. h6 Ng6 17. hxg7 Kxg7 18. Qh5 Rh8 19. Bh6+ Kg8 20. f4 cxd4 21. f5 dxc3 22. fxe6 fxe6 23. O-O Qd4+ 24. Kh1 Qh4+ 25. Qxh4 Nxh4 26. Rf6 Nf5 27. Bg5 Re8 28. g4 Ng3+ 29. Kg2 Ne4 30. Bh4 Nxf6 31. Bxf6 Kf7 32. Bxh8 Rxh8 33. Rf1+ Ke7 34. Rf3 Rc8 35. Kf2 b5 36. Ke2 a5 37. a3 b4 38. axb4 axb4 39. Kd1 Rc4 40. g5 Re4 41. Rh3 Rxe5 42. Rxh7+ Kd6 43. Rb7 Kc5 44. g6 Rg5 45. Rc7+ Kd6 46. Rc4 Rxg6 47. Rxb4 Rg3 48. Rc4 e5 49. Ke2 Kd5 50. Ra4 e4 51. Ra5+ Kd4 52. Kf2 Rh3 53. Ra4+ Ke5 54. Ra3 Kf4 55. Kg2 Rf3 56. Kh2 Rg3 57. Ra6 Re3 58. Rf6+ 1-0
+

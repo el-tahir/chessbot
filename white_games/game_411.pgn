@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IQEwwv1Z"]
+[Date "2022.06.03"]
+[White "EltahirAmin"]
+[Black "Jaj12121"]
+[Result "0-1"]
+[UTCDate "2022.06.03"]
+[UTCTime "03:05:52"]
+[WhiteElo "2046"]
+[BlackElo "2120"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. Bg5 Be7 8. O-O-O O-O 9. Bc4 a6 10. Bb3 b5 11. h4 c5 12. Qe3 c4 13. f4 Bg4 14. Rd2 cxb3 15. axb3 b4 16. Nb1 Qc7 17. e5 Ne8 18. Qg3 Bf5 19. exd6 Nxd6 20. Bxe7 Qxe7 21. Rhd1 Ne4 22. Qe3 Rac8 23. Re2 Qc5 24. Qxc5 Rxc5 25. c3 bxc3 26. bxc3 Nxc3 27. Nxc3 Rxc3+ 28. Kb2 Rfc8 29. Rdd2 g6 30. Re8+ Rxe8 31. Kxc3 Re3+ 32. Kb4 Re4+ 33. Rd4 Rxd4+ 0-1
+

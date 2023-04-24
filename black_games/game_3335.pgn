@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wk5UAFmd"]
+[Date "2020.11.12"]
+[White "Sergio-Martinez"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "19:26:12"]
+[WhiteElo "1979"]
+[BlackElo "1949"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Bb4 6. Bd2 Ne7 7. a3 Ba5 8. b4 Bc7 9. Nf3 b6 10. h3 O-O 11. g4 Bg6 12. Bg2 Nd7 13. cxd5 cxd5 14. O-O Rc8 15. Rc1 Bb8 16. h4 h5 17. Ng5 Rc4 18. gxh5 Bd3 19. Re1 Rxd4 20. Be3 Rxh4 21. Qxd3 Rxh5 22. Bf3 Rh8 23. Kg2 Nxe5 24. Qe2 Nf5 25. Rh1 Nxe3+ 26. Qxe3 d4 27. Rxh8+ Kxh8 28. Rh1+ Kg8 29. Qe4 Qxg5+ 30. Kf1 f5 31. Qxd4 Nxf3 32. Qc4 Nd2+ 0-1
+

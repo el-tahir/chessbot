@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/civjlcfK"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "JdcCarrillo"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "17:18:57"]
+[WhiteElo "2038"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. d4 cxd4 5. cxd4 d6 6. Nc3 Bg7 7. Be3 Bg4 8. Be2 Nf6 9. Qd2 O-O 10. Rc1 Nd7 11. h3 Bxf3 12. Bxf3 e5 13. d5 Nd4 14. Bxd4 exd4 15. Ne2 Nb6 16. O-O Qf6 17. Rfd1 d3 18. Nc3 Nc4 19. Qxd3 Nxb2 20. Qb5 Nxd1 21. Rc2 Nxc3 0-1
+

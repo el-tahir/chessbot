@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dKCDI5he"]
+[Date "2020.12.13"]
+[White "DukeLurchem"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "15:38:12"]
+[WhiteElo "1826"]
+[BlackElo "1903"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. c4 d5 3. cxd5 Nf6 4. d3 cxd5 5. g3 Nc6 6. Bg2 Bg4 7. O-O Qd7 8. Nc3 Bh3 9. Ng5 Bxg2 10. Kxg2 e5 11. e4 d4 12. Ne2 Be7 13. Nf3 h5 14. Nd2 h4 15. Nc4 hxg3 16. Kxg3 Qh3# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V4ZHzB9n"]
+[Date "2020.11.26"]
+[White "EltahirAmin"]
+[Black "chessinsilent"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "19:58:37"]
+[WhiteElo "1917"]
+[BlackElo "2029"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nf3 d5 3. Bg5 h5 1-0
+

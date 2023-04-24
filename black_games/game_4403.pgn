@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mlQ7vZPk"]
+[Date "2020.05.13"]
+[White "RUSSIANLEO"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:11:56"]
+[WhiteElo "1987"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A18"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Bb4 4. e5 Ng8 5. d4 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8. Qg4 Ng6 9. Bg5 Qe8 10. f4 d6 11. Nf3 dxe5 12. fxe5 c5 13. Bd3 cxd4 14. cxd4 Nc6 15. O-O Qd7 16. h4 Ncxe5 17. Nxe5 Nxe5 18. dxe5 Qxd3 19. Rad1 Qxa3 20. Bh6 g6 21. Bxf8 Qxf8 22. h5 b6 23. Qf4 Bb7 24. Rd7 Bc6 25. Rxf7 Qc5+ 26. Kh1 a5 27. h6 Qxc4 1-0
+

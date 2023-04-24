@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DjN7iZyZ"]
+[Date "2020.12.23"]
+[White "mjhprep"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "20:41:22"]
+[WhiteElo "1966"]
+[BlackElo "1979"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d4 d5 3. e5 Nfd7 4. f4 e6 5. Bd3 c5 6. c3 Nc6 7. f5 cxd4 8. Nf3 dxc3 9. O-O Ndxe5 10. Nxe5 Nxe5 11. fxe6 Bxe6 12. Bb5+ Nc6 13. Nxc3 Bc5+ 14. Kh1 O-O 15. Qh5 Nd4 16. Bd3 g6 17. Qd1 Qh4 18. g3 Qh3 19. Bg5 Bg4 20. Qd2 Bf3+ 21. Rxf3 Nxf3 0-1
+

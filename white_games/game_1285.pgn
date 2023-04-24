@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oelyq7tX"]
+[Date "2021.03.05"]
+[White "EltahirAmin"]
+[Black "Ikebana"]
+[Result "1-0"]
+[UTCDate "2021.03.05"]
+[UTCTime "14:03:41"]
+[WhiteElo "2016"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e6 4. d4 Nf6 5. e5 Nd5 6. Bd3 cxd4 7. cxd4 Be7 8. O-O O-O 9. Nc3 d6 10. Nxd5 exd5 11. Re1 dxe5 12. dxe5 Be6 13. Bc2 Rc8 14. Qd3 g6 15. Bh6 Re8 16. Rad1 Bf5 17. Qd2 Bxc2 18. Qxc2 Nxe5 19. Qe2 Nxf3+ 20. Qxf3 d4 21. Re4 Bc5 22. Rf4 Rc7 23. Rf6 Rce7 24. h4 Re1+ 25. Rxe1 Rxe1+ 26. Kh2 Re7 27. h5 d3 28. Bd2 Re5 29. Rxf7 Rxh5+ 30. Kg1 Qe8 31. Rxb7 Rf5 32. Qxd3 Rxf2 33. Qc4+ Kh8 34. Bc3+ Rf6+ 35. Qxc5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ngki62hu"]
+[Date "2022.05.09"]
+[White "EltahirAmin"]
+[Black "avzoh"]
+[Result "1-0"]
+[UTCDate "2022.05.09"]
+[UTCTime "23:44:28"]
+[WhiteElo "2056"]
+[BlackElo "2065"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 e6 4. d4 h6 5. Bd3 Nf6 6. e5 Nfd7 7. O-O c5 8. Be3 cxd4 9. Bxd4 a6 10. Re1 Nc6 11. Qd2 Nxd4 12. Nxd4 Qc7 13. f4 Qb6 14. Bf1 Bc5 15. Rad1 Qa7 16. Kh1 Bxd4 17. Qxd4 Qxd4 18. Rxd4 Nc5 19. f5 O-O 20. g4 Bd7 21. f6 g6 22. Rf4 Rac8 23. Ne2 Ne4 24. Nd4 Rc7 25. c3 Rfc8 26. Bd3 Ng5 27. h4 Nh7 28. Ref1 Nf8 29. h5 Kh7 30. hxg6+ Nxg6 31. Bxg6+ Kxg6 32. Nf3 Rh8 33. Rg1 Rc6 34. g5 h5 35. Nh4+ Kh7 36. g6+ fxg6 37. Nxg6 Rg8 38. f7 Rxg6 39. Rxg6 Kxg6 40. f8=Q Bc8 41. Qf6+ Kh7 42. Qf7+ Kh6 43. Rh4 Kg5 44. Qxh5# 1-0
+

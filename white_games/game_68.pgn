@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/88NW4eMk"]
+[Date "2023.03.02"]
+[White "EltahirAmin"]
+[Black "pedro29865"]
+[Result "1-0"]
+[UTCDate "2023.03.02"]
+[UTCTime "00:46:26"]
+[WhiteElo "2001"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 d6 5. Be3 Bb6 6. Qd2 Nf6 7. Be2 Ng4 8. O-O Nxe3 9. fxe3 O-O 10. Rad1 f5 11. exf5 Bxf5 12. Kh1 Qd7 13. e4 Bg6 14. Qg5 Nd4 15. Nxd4 Bxd4 16. h4 Rf2 17. h5 Be8 18. Nd5 c6 19. Rxf2 Bxf2 20. Nf6+ Kf7 21. Nxd7 Bxd7 22. Rf1 1-0
+

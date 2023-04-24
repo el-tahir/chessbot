@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8KGxmflp"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "KnightHours"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:02:46"]
+[WhiteElo "2028"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 d6 5. Bg5 f6 6. Bh4 Nge7 7. Be2 Be6 8. O-O O-O 9. Qd2 Ng6 10. Kh1 Nxh4 11. Nxh4 Nd4 12. f4 f5 13. Nxf5 Bxf5 14. exf5 Nxf5 15. Ne4 Bb6 16. Bg4 Nd4 17. c3 Nc6 18. Rf3 exf4 19. Rxf4 Ne5 20. Raf1 Rxf4 21. Qxf4 Nxd3 22. Be6+ Kh8 23. Qg4 Ne5 24. Qh5 Qe7 25. Bb3 Rf8 26. Re1 Qd7 27. Ng5 Qf5 28. h3 g6 29. Qxh7# 1-0
+

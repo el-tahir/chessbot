@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zszaSukg"]
+[Date "2022.05.11"]
+[White "EltahirAmin"]
+[Black "ufwhataplay"]
+[Result "0-1"]
+[UTCDate "2022.05.11"]
+[UTCTime "04:35:11"]
+[WhiteElo "2121"]
+[BlackElo "2146"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B62"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Bb5 Bd7 8. O-O Be7 9. f3 O-O 10. Qd2 Qb6 11. Bxc6 bxc6 12. Rab1 e5 13. Na4 Qa6 14. Nf5 Bxf5 15. exf5 Qxa4 16. b3 Qd4+ 17. Qxd4 exd4 18. Rfe1 Rfe8 19. Re2 h6 20. Bh4 Nd5 21. Rbe1 Kf8 22. Bf2 c5 23. g4 Nf4 24. Re4 Nh3+ 25. Kg2 Nxf2 26. Kxf2 Bh4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/H1P9Fjrw"]
+[Date "2020.11.14"]
+[White "Inferno25"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "22:59:52"]
+[WhiteElo "1920"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. c3 Nc6 8. O-O cxd4 9. cxd4 Bb4 10. Bd2 Bxd2 11. Qxd2 Nge7 12. Nc3 Qb6 13. Rfd1 Nf5 14. Ne2 h5 15. b3 h4 16. h3 O-O-O 17. Rac1 Kb8 18. Qb2 Rc8 19. a3 f6 20. exf6 gxf6 21. Nf4 Rce8 22. b4 a6 23. Rc2 Rc8 24. Re2 Nd8 25. Nxe6 Nxe6 26. Qd2 Nfxd4 27. Nxd4 Nxd4 28. Qf4+ Ka8 29. Rxd4 Rc1+ 30. Kh2 Rc3 31. Rxd5 Rxa3 32. Rd4 Rg8 33. Rde4 Ka7 34. Qxh4 Qc6 35. Qf4 Ra4 36. g3 Ra1 37. Qe3+ b6 38. Re7+ Kb8 39. Qf4+ Kc8 40. Qf5+ Kb8 41. f3 Rh1+ 42. Kxh1 Qc1+ 43. Kg2 Qc8 44. Qxf6 Qd8 45. Qe5+ Kc8 46. Rc2+ 1-0
+

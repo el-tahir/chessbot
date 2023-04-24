@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NKait9oK"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "madisonr2p"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "14:00:13"]
+[WhiteElo "2053"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 e5 6. dxe5 Qxd1+ 7. Kxd1 Ng4 8. Nh3 Nxe5 9. Be2 Bc5 10. Re1 O-O 11. Bf4 Ng4 12. Bxg4 Bxg4+ 13. f3 Be6 14. c3 Nd7 15. Kc2 Nb6 16. Rad1 Nd5 17. Bc1 Rad8 18. Ng5 Bc8 19. N3e4 Bb6 20. h4 h6 21. Nh3 Bf5 22. Nf4 Bf2 23. Re2 Bg3 24. Nh5 Bxh4 25. Kb3 Be6 26. g3 Ne3+ 27. Ka3 Be7+ 28. b4 Nxd1 29. g4 a5 30. g5 hxg5 31. Bxg5 axb4+ 32. cxb4 Bxg5 33. b5 Rd3+ 34. Kb4 Be7+ 35. Ka5 Ra8+ 36. Kb6 cxb5 37. Rg2 g6 38. Nhf6+ Bxf6 39. Nxf6+ Kg7 40. Nh5+ Kf8 41. Nf4 Ne3 42. Rh2 Rb3 43. axb3 Ke7 44. Nd3 Nd5+ 45. Kc5 Rc8+ 46. Kd4 Rc3 47. Nc5 Rxc5 48. Kxc5 Ne3 49. Re2 Nf5 50. f4 Nd6 51. f5 1-0
+

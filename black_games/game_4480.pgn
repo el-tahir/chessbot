@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8DJUL4na"]
+[Date "2020.05.12"]
+[White "TiNours"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "12:39:54"]
+[WhiteElo "2034"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be6 7. Bxe6 fxe6 8. O-O c5 9. Ng5 Qb6 10. Nf7 Nf6 11. Nxh8 e5 12. Na3 Nc6 13. Rxf6 gxf6 14. Qh5+ Ke7 15. Qxh7+ Kd6 16. Nc4+ 1-0
+

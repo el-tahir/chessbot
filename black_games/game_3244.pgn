@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OUIuswq6"]
+[Date "2020.11.14"]
+[White "Jobran_Rayyan"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:16:19"]
+[WhiteElo "1948"]
+[BlackElo "1954"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. g5 e6 7. Nh3 c5 8. c3 Nc6 9. Bd3 Bxd3 10. Qxd3 cxd4 11. cxd4 Bb4+ 12. Nc3 Nge7 13. Nf4 Nf5 14. Be3 Qb6 15. O-O-O Rc8 16. Kb1 a5 17. a3 Bxa3 18. Qc2 Nb4 19. Nfxd5 exd5 20. Nxd5 Rxc2 21. Nxb6 Rxb2+ 22. Ka1 Nc2# 0-1
+

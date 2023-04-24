@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W2aVW7Ot"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "ankit175"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "18:35:05"]
+[WhiteElo "1955"]
+[BlackElo "1894"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 c6 8. Qf3 Qe7 9. O-O d5 10. exd6 Qxd6 11. Qxf7+ Kd8 12. Bg5+ Nf6 13. d5 c5 14. Nb5 Qe5 15. Bxf6+ gxf6 16. Rfe1 Qf4 17. Re8# 1-0
+

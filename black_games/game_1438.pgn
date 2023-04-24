@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sJAGqXCh"]
+[Date "2021.02.26"]
+[White "VitamineX"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2021.02.26"]
+[UTCTime "15:53:09"]
+[WhiteElo "1941"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. f3 Bd7 7. Bc4 e6 8. Bg5 Be7 9. N1e2 Nd5 10. Bxe7 Qxe7 11. Qd2 Na6 12. a3 Nac7 13. O-O-O b5 14. Bd3 b4 15. a4 c5 16. dxc5 Bxa4 17. Ne4 Nb5 18. Bxb5+ Bxb5 19. Nd6+ Kd7 20. Nxb5 Qxc5 21. Nbd4 Rhc8 22. Nb3 Qb5 23. Kb1 Qa4 24. Nf4 Ke7 25. Nxd5+ exd5 26. Qxd5 Kf8 27. Rhe1 Rd8 28. Qc5+ Kg8 29. Rxd8+ Rxd8 30. Qe7 Rf8 31. Re4 a5 32. Qc5 f5 33. Re5 Rd8 34. Rd5 Re8 35. Rd1 Ra8 36. Qd5+ Kf8 37. Qxa8+ Ke7 38. Qxa5 Qc6 39. Qe5+ Kf7 40. Qd5+ Qe6 41. Qxe6+ Kxe6 42. Kc1 Kf6 43. Kd2 g5 44. Ke3 h5 45. g3 Ke5 46. Nc5 f4+ 47. gxf4+ gxf4+ 48. Kd3 h4 49. Ne4 Kf5 50. c4 bxc3 51. bxc3 Ke6 52. c4 Kd7 53. Kd4 Kc7 54. Kd5 Kc8 55. Rb1 Kc7 56. Rb5 Kc8 57. Rc5+ Kd7 58. Rb5 Kc7 59. c5 Kc8 60. Nd6+ Kc7 61. Rb7+ Kd8 62. Kc6 h3 63. Kb6 1/2-1/2
+

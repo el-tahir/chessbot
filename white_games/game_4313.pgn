@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NOI21wG8"]
+[Date "2020.05.30"]
+[White "EltahirAmin"]
+[Black "Potrocar"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "23:19:43"]
+[WhiteElo "2011"]
+[BlackElo "1935"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. Be3 Nd7 5. Nc3 e5 6. Qd2 h6 7. Be2 a5 8. a3 b6 9. d5 Ngf6 10. O-O-O Nc5 11. Nh4 Ncxe4 12. Nxe4 Nxe4 13. Bb5+ Bd7 14. Qe2 O-O 15. Kb1 Nc5 16. Bxd7 Nxd7 17. Qd2 Kh7 18. g3 Nc5 19. f4 Ne4 20. Qd3 Nc5 21. Bxc5 bxc5 22. f5 Qf6 23. fxg6+ fxg6 24. Rhf1 Qg5 25. Nf3 Qf5 26. Qd2 Rab8 27. h4 e4 28. Ng5+ hxg5 29. Rxf5 Rxb2+ 30. Kc1 Rxf5 31. hxg5 Rb5 32. Rh1+ Kg8 33. Qe2 Rxd5 34. Qxb5 e3 35. Qe8+ Bf8 36. Qxg6+ Bg7 37. Qe8+ Bf8 38. Qe6+ Kg7 39. Qf6+ Kg8 40. Rh8# 1-0
+

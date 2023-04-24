@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TUMOe5Ky"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "ahmed4G"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:33:26"]
+[WhiteElo "1976"]
+[BlackElo "2012"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c6 4. Nf3 f5 5. exf5 exf5 6. Bd3 Nf6 7. Ne5 Be7 8. Qf3 g6 9. Bg5 O-O 10. O-O-O Ne4 11. h4 Nxc3 12. bxc3 Bxg5+ 13. hxg5 Qxg5+ 14. Kb1 Nd7 15. Rh2 Nxe5 16. dxe5 Be6 17. Rdh1 Rf7 18. Rh3 Qe7 19. Qe3 Qa3 20. f3 d4 21. cxd4 Bxa2+ 22. Ka1 Bb3+ 23. Kb1 Qa2+ 24. Kc1 Qa3+ 25. Kd2 Qb4+ 26. Ke2 Bc4 27. e6 Bxd3+ 28. cxd3 Re7 29. Qe5 Rae8 30. Rh6 Rxe6 31. Rxg6+ hxg6 32. Rh8+ Kf7 33. Rxe8 Rxe8 34. Qxe8+ Kxe8 35. Ke3 Qe1+ 36. Kf4 Qd2+ 37. Ke5 Qxd3 38. f4 Qe4+ 0-1
+

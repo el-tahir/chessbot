@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jpYISWMQ"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "MazinGol"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "11:13:51"]
+[WhiteElo "1978"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. c4 Qc7 6. Nc3 d6 7. Be3 e6 8. Be2 Nf6 9. O-O Be7 10. f4 O-O 11. f5 exf5 12. Nxf5 Bxf5 13. exf5 Ne5 14. Bg5 Rfd8 15. Bxf6 Bxf6 16. Nd5 Qc5+ 17. Kh1 Nxc4 18. Nxf6+ gxf6 19. Rc1 Qb4 20. Bxc4 1-0
+

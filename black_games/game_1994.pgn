@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fZNGrdLM"]
+[Date "2021.01.13"]
+[White "WaMu"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.13"]
+[UTCTime "14:44:09"]
+[WhiteElo "1901"]
+[BlackElo "1945"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. Bd3 Bxd3 7. Qxd3 e6 8. g5 c5 9. g6 f6 10. dxc5 Bxc5 11. Qb5+ Nd7 12. Nf3 Ne7 13. Qd3 Nxe5 14. Nxe5 fxe5 15. Qb5+ Qd7 16. Qxc5 Nxg6 17. Nc3 Rc8 18. Qe3 d4 19. Qg5 Nf4 20. Ne4 Rxc2 21. Bxf4 exf4 22. Qg6+ Kd8 23. Ng5 Qd5 24. O-O f3 25. Qxc2 Rf8 26. Rac1 Ke7 27. Qg6 Rf5 28. Rc7+ Kd6 29. Qxg7 Rxg5+ 30. hxg5 Qe4 31. Rd7+ Kc6 32. Rc1+ Kb5 33. Rxb7+ Ka4 34. Rxa7+ Kb5 35. Qd7+ Kb6 36. Qc7+ Kb5 37. Rc5+ Kb4 38. Qa5# 1-0
+

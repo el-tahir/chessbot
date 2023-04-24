@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yOhL7TY2"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "zizorex"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "19:13:07"]
+[WhiteElo "1917"]
+[BlackElo "1882"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. Nf3 O-O 7. Be2 Nc6 8. O-O b6 9. c3 Bb7 10. Bg5 h6 11. Bh4 g5 12. Bxg5 hxg5 13. Nxg5 Qd5 14. Nh3 Nxd4 15. f3 Nf5 16. Qe1 Nxg3 17. Qxg3+ Kh8 18. Rad1 Qc5+ 19. Kh1 Rg8 20. Qh4+ Nh7 21. Bd3 Rg7 22. Qh5 Qxh5 0-1
+

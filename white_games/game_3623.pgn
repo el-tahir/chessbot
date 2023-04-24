@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hDupJeqa"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "RufousHummingbird"]
+[Result "0-1"]
+[UTCDate "2020.11.06"]
+[UTCTime "17:38:26"]
+[WhiteElo "1961"]
+[BlackElo "1908"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. a3 c5 6. b4 cxd4 7. Qxd4 Nc6 8. Qg4 Ndxe5 9. Qg3 Ng6 10. Bd3 Bd6 11. Qe3 d4 12. Qd2 dxc3 13. Qxc3 Be5 0-1
+

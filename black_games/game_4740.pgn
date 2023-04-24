@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GjEFuor3"]
+[Date "2020.05.07"]
+[White "Kohly"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.07"]
+[UTCTime "19:51:36"]
+[WhiteElo "1989"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B11"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. Be2 e6 5. h3 Bh5 6. O-O Bd6 7. Nh2 Qc7 8. Bxh5 Bxh2+ 9. Kh1 Bd6 10. exd5 cxd5 11. d4 Nf6 12. Ne2 Nxh5 0-1
+

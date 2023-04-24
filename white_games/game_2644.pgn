@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ByWEsy1R"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "RazHecker"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "12:07:45"]
+[WhiteElo "1893"]
+[BlackElo "1878"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 cxd4 3. c4 dxe3 4. Bxe3 Nc6 5. Nf3 Nf6 6. Bd3 g6 7. Nc3 Bg7 8. O-O O-O 9. Qd2 Ng4 10. Bf4 e5 11. Bg5 f6 12. Bh4 Bh6 13. Qc2 Qe7 14. h3 Ne3 15. fxe3 Bxe3+ 16. Kh1 Qe6 17. Bf2 Bh6 18. Rae1 d6 19. Be3 Bg7 20. Nd5 f5 21. Ng5 Qe8 22. Be2 Qd7 23. h4 f4 24. Bc1 Nd4 25. Qd3 h6 26. Ne4 f3 27. Bxf3 Nxf3 28. Rxf3 Rxf3 29. Qxf3 b6 30. Nef6+ Bxf6 31. Qxf6 Bb7 32. Qxg6+ Kh8 33. Qxh6+ Kg8 34. Nf6+ Kf7 35. Nxd7 Ke7 36. Qg7+ Kd8 37. Bg5+ Kc7 38. Nxe5+ Kb8 39. Qd7 Bd5 40. Qxd6+ Kb7 41. Qxd5+ Ka6 42. Qb5+ Kb7 43. Nd7 a6 44. Qxb6+ Kc8 45. Qd8+ Kb7 46. Nc5+ Kc6 47. Qxa8+ Kxc5 48. Qxa6 Kd4 49. Rd1+ Ke4 50. Qe6# 1-0
+

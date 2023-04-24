@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KTLLvhlJ"]
+[Date "2022.07.27"]
+[White "tasos9"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.27"]
+[UTCTime "19:40:57"]
+[WhiteElo "1998"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nf3 Bb4+ 6. Nc3 Ne7 7. cxd5 Nxd5 8. Bd2 Nd7 9. a3 Ba5 10. b4 Bc7 11. Nxd5 cxd5 12. Bb5 O-O 13. O-O a6 14. Ba4 b5 15. Bc2 Bg6 16. Bxg6 hxg6 17. Bg5 Qe8 18. Rc1 Rc8 19. h3 Nb6 20. Qd3 Nc4 21. Nd2 Bd8 22. Bxd8 Qxd8 23. Nxc4 bxc4 24. Qf3 Qb6 25. Rc3 Qxd4 26. Rd1 Qxe5 27. Re3 Qf6 28. Qg3 Rb8 29. Rf3 Qb2 30. Re1 Rfc8 31. Rc3 d4 32. Rxc4 Rxc4 33. Qxb8+ Kh7 34. Re4 Qb1+ 35. Kh2 Qxe4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uCAWi3w2"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "Misfits138"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "10:49:32"]
+[WhiteElo "1968"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. Nf3 Bd6 7. fxe5 Nxe5 8. Ng3 Bg4 9. Be2 Bd7 10. O-O Qc7 11. Bf4 O-O-O 12. Nxe5 Bxe5 13. Bxe5 Qxe5 14. Nf5 Re8 15. c3 g6 16. cxd4 cxd4 17. Rc1+ Kb8 18. Ng3 f5 19. Bf3 f4 20. Ne2 g5 21. Bh5 Re6 22. Bg4 Rh6 23. Bxd7 f3 24. Ng3 Rd6 25. Bf5 h5 26. Qxf3 g4 27. Qf4 Qe7 28. Rc5 h4 29. Rc8# 1-0
+

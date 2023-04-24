@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AKkNoV49"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "Check71"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "11:43:11"]
+[WhiteElo "1987"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb8 7. e5 Ng8 8. d6 cxd6 9. exd6 Qf6 10. Nb5 Na6 11. Bc4 Qe6+ 12. Bxe6 fxe6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CgrVT2xG"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "mehdibidargermi"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "07:28:54"]
+[WhiteElo "2126"]
+[BlackElo "2217"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Bc4 Nf6 8. O-O O-O 9. h3 Ne5 10. Bb3 Be6 11. Bxe6 fxe6 12. Nxe6 Qd7 13. Nxf8 Rxf8 14. Nd5 Qb5 15. Nxf6+ Bxf6 16. Qd5+ Qxd5 17. exd5 Nc4 18. Rab1 Bxb2 19. a4 b6 20. Rfd1 Be5 21. Rb4 Rc8 22. f4 Nxe3 23. fxe5 Nxd1 24. Re4 Nc3 25. Re3 Nxd5 26. Re4 Rxc2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pf155htT"]
+[Date "2021.10.24"]
+[White "EltahirAmin"]
+[Black "PavelTankov"]
+[Result "0-1"]
+[UTCDate "2021.10.24"]
+[UTCTime "21:09:35"]
+[WhiteElo "2036"]
+[BlackElo "2040"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Nxd4 c5 6. Nf3 Nc6 7. Bc4 Bg4 8. O-O Be7 9. Qe2 O-O 10. Bg5 Nd4 11. Qd3 Bxf3 12. gxf3 Nh5 13. Bxe7 Qxe7 14. Kh1 Nf4 15. Qd2 Qh4 16. Be2 Nfxe2 17. Nxe2 Nxf3 18. Qf4 Qxf4 19. Nxf4 Rae8 20. Kg2 Nh4+ 21. Kh3 Rxe4 22. Kxh4 Rxf4+ 23. Kg3 Re4 24. Rfe1 Rfe8 0-1
+

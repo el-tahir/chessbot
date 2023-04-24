@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P1K1bnGK"]
+[Date "2021.01.29"]
+[White "EltahirAmin"]
+[Black "Misfits138"]
+[Result "0-1"]
+[UTCDate "2021.01.29"]
+[UTCTime "22:38:28"]
+[WhiteElo "2038"]
+[BlackElo "2042"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 e6 4. dxe6 Bxe6 5. Nf3 Nc6 6. Be2 Bc5 7. O-O Qe7 8. d3 O-O-O 9. Be3 Bxe3 10. fxe3 Bg4 11. Nd2 Qxe3+ 12. Kh1 Bxe2 13. Qxe2 Qh6 14. Qf3 Nd4 15. Qf2 Nxc2 16. Rac1 Nb4 17. Qxa7 Qxd2 18. Nb5 Na6 19. Qa8+ Kd7 20. Qxb7 Qa5 21. Rfe1 Rb8 22. Qd5+ Nxd5 0-1
+

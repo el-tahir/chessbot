@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DoKpzzxr"]
+[Date "2020.12.23"]
+[White "EltahirAmin"]
+[Black "njesoft"]
+[Result "1-0"]
+[UTCDate "2020.12.23"]
+[UTCTime "08:36:53"]
+[WhiteElo "1957"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 d4 4. Bc4 e6 5. d3 Ne7 6. Bg5 h6 7. Bf4 Ng6 8. Bg3 c5 9. Nbd2 Nc6 10. Ne4 Be7 11. h4 Rb8 12. h5 Nf8 13. a4 Nd7 14. Qe2 Nb6 15. Bb3 Na5 16. O-O Nxb3 17. cxb3 Nd5 18. Nfd2 O-O 19. Nc4 Bd7 20. f4 b5 21. axb5 Bxb5 22. Rxa7 Bh4 23. Ncd6 Bxg3 24. Nxg3 Bc6 25. f5 Qg5 26. Nge4 Qe3+ 27. Qxe3 Nxe3 28. Rf3 exf5 29. Nxc5 Bxf3 30. gxf3 Rfc8 31. Nxc8 Rxc8 32. b4 Rb8 33. Ra4 Kh7 34. Kf2 g6 35. hxg6+ Kxg6 36. f4 Nd1+ 37. Kg3 Nxb2 38. Ra6+ Kh5 39. Nd7 Rxb4 40. Nf6+ Kg6 41. Nd5+ Kg7 42. Nxb4 Nd1 43. Ra7 Ne3 44. Kh4 Kg6 45. Ra6+ Kg7 46. Nc6 Nd5 47. Nxd4 Nxf4 48. Nxf5+ Kf8 49. Rxh6 Nxd3 50. Rh8# 1-0
+

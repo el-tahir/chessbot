@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q3Bsllwa"]
+[Date "2020.12.23"]
+[White "EltahirAmin"]
+[Black "kabeloelaphant"]
+[Result "1-0"]
+[UTCDate "2020.12.23"]
+[UTCTime "08:46:00"]
+[WhiteElo "1968"]
+[BlackElo "1933"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 Qb6 7. Be3 Qxb2 8. Rc1 Nb4 9. Bc4 Nh6 10. O-O O-O 11. e5 Nf5 12. Bd2 a6 13. Rb1 Qa3 14. Ne4 Nc6 15. Bc3 d5 16. exd6 Nxd6 17. Nxd6 Qxd6 18. Rb6 Bg4 19. Qd3 Bxf3 20. Qxf3 Bxd4 21. Rd1 Ne5 22. Rxd6 Nxf3+ 23. gxf3 Bxc3 24. Rd7 e6 25. Rc7 b5 26. Bb3 Ba5 27. Rdd7 Bxc7 28. Rxc7 Rac8 29. Rxc8 Rxc8 30. h4 Kg7 31. Kg2 Kf6 32. Kg3 g5 33. f4 Rc3+ 34. Kg4 gxh4 35. Kxh4 Rf3 36. Kg4 Rxf2 37. a4 b4 38. Bd1 Rh2 39. Kg3 Rh1 40. Bf3 Rg1+ 41. Kh4 Rg8 42. Be4 b3 43. Bc6 b2 44. Be4 a5 45. Bb1 e5 46. Kh3 exf4 47. Kh2 f3 48. Be4 f2 49. Bd3 f1=Q 50. Bxf1 1-0
+

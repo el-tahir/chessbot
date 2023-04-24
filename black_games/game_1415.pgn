@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gWGaYRmt"]
+[Date "2021.02.27"]
+[White "anibalkarimenriquez"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "00:55:46"]
+[WhiteElo "1956"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Bf4 Nf6 5. Nc3 Nc6 6. e3 Bg4 7. Qb3 Qb6 8. Bb5 Rc8 9. Nf3 e6 10. O-O Be7 11. Bxc6+ bxc6 12. Qxb6 axb6 13. Ne5 c5 14. Nxg4 Nxg4 15. dxc5 bxc5 16. h3 Nf6 17. Rac1 Kd7 18. Na4 Rc6 19. Rfd1 Bd6 20. Bxd6 Kxd6 21. e4 Nxe4 22. f3 Nf6 23. a3 Ra8 24. Nc3 Rb8 25. Ne4+ Nxe4 26. fxe4 Rxb2 27. exd5 exd5 28. Rd3 Ra2 29. Rcd1 d4 30. Rb3 Ra6 31. Rdd3 Kd5 32. Rg3 c4 33. Rg5+ Ke4 34. Rg4+ Kf5 35. Rf3+ Ke5 36. Rxf7 d3 37. Rxc4 d2 38. Rd7 Ra1+ 39. Kh2 d1=Q 40. Rc5+ Ke6 41. Rxd1 Rxd1 42. Rc3 Ra1 43. Rg3 g6 44. Rg4 R1xa3 45. Rh4 Ra7 46. Re4+ Kf5 47. Re2 h6 48. Rf2+ Kg5 49. Rd2 R7a5 50. Rd3 Rxd3 0-1
+

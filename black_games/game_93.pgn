@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DlhygU79"]
+[Date "2023.03.01"]
+[White "alebaby"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.01"]
+[UTCTime "21:49:55"]
+[WhiteElo "1968"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. h3 O-O 8. Bd3 Nd7 9. O-O Nb6 10. c4 c5 11. d5 Bd7 12. b3 Qc8 13. Qc2 h6 14. Re1 Bxh3 15. Nh4 Qg4 16. Bf5 Qxh4 17. Bxh3 Rae8 18. Bd2 Nd7 19. Re3 Qf4 20. Rg3 Qd4 21. Be3 Qxa1+ 22. Bc1 Bxg3 0-1
+

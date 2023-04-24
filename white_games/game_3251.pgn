@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fSMCWNM7"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "hamedzmn"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "20:12:37"]
+[WhiteElo "1937"]
+[BlackElo "1879"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 f6 2. d4 Kf7 3. Ke2 c6 4. Ke3 e6 5. c4 d5 6. c5 dxe4 7. Kxe4 Bxc5 8. Be3 Qd5+ 9. Kd3 e5 10. Nc3 Qd8 11. d5 Bf5+ 12. Ke2 Bg4+ 13. f3 Bxe3 14. Kxe3 Bf5 15. Bc4 Qd6 16. dxc6+ Ke7 17. Qxd6+ Kxd6 18. cxb7 Ne7 19. bxa8=Q Nbc6 20. Qxh8 Nb4 21. Rd1+ Kc5 22. Qc8+ Nec6 23. Qxf5 1-0
+

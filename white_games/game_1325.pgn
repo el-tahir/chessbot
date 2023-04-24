@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M4CWxftL"]
+[Date "2021.03.02"]
+[White "EltahirAmin"]
+[Black "larinego"]
+[Result "0-1"]
+[UTCDate "2021.03.02"]
+[UTCTime "19:15:34"]
+[WhiteElo "2039"]
+[BlackElo "2084"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nf3 Nc6 5. Nxd5 Qxd5 6. d4 Bg4 7. Be2 O-O-O 8. c3 e5 9. Be3 exd4 10. Nxd4 Bxe2 11. Qxe2 Nxd4 12. Bxd4 Bc5 13. O-O-O Qg5+ 14. Kb1 Bxd4 15. cxd4 Rhe8 16. Qc4 Qxg2 17. Rhg1 Qe4+ 18. Ka1 g6 19. a4 Qd5 20. Qc3 Rd7 21. h4 Red8 22. Rg4 Kb8 23. Rg5 Qd6 24. Rc5 Qf6 25. f3 Rxd4 26. Rxd4 Qxd4 27. Rxc7 Qd1+ 28. Ka2 Qxa4+ 29. Kb1 Rd1+ 30. Qc1 Rxc1+ 0-1
+

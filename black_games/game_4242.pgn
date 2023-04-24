@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Gx8jmIW7"]
+[Date "2020.10.14"]
+[White "ZoKKi66"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "14:33:41"]
+[WhiteElo "1965"]
+[BlackElo "1993"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Nxf6+ Nxf6 7. Nf3 Bg4 8. O-O e6 9. h3 Bh5 10. c3 h6 11. Qb3 Rb8 12. Bf4 Bd6 13. Ne5 O-O 14. Rfe1 Qe7 15. g4 Bxe5 16. dxe5 Nd5 17. Bg3 Bg6 18. Bxg6 fxg6 19. c4 Nf4 20. Bxf4 Rxf4 21. Qd3 Rbf8 22. Re2 Rf3 23. Qxg6 Rxh3 24. f4 Qh4 25. Qxe6+ Kh8 26. Rd2 Rh1+ 27. Kg2 Qh3+ 28. Kf2 Rxf4+ 29. Ke2 Qf3# 0-1
+

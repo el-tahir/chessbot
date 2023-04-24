@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CWM2SFHu"]
+[Date "2020.10.30"]
+[White "bakic"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:34:13"]
+[WhiteElo "2067"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c4 cxd4 7. Nxd4 Bb4+ 8. Kf1 Ne7 9. Nc3 Nbc6 10. cxd5 Nxd5 11. Nxd5 Nxd4 12. Qxd4 O-O 13. Qxb4 Qxd5 14. Bf4 a5 15. Qb6 Qe4 16. Bg3 Ra6 17. Qe3 Qxe3 18. fxe3 Rb6 19. b3 Rc8 20. Bc4 Rb4 21. Ke2 a4 22. Rhd1 b5 23. a3 Bg4+ 24. Kf2 Rbxc4 25. bxc4 bxc4 26. Rd7 c3 27. Rc1 c2 28. Rd2 Rc3 29. Rdxc2 Rxc2+ 30. Rxc2 g6 31. h3 Bf5 32. Bf4 Bxc2 33. Ke1 Bb3 34. Kd2 Kf8 35. Kc3 Ke7 36. Kd4 Kd7 37. Bg5 Kc6 38. Be7 h5 39. h4 Kb5 40. Ke4 Kc4 41. Kf4 Kd3 42. Bc5 Kc4 43. Bd4 Kd3 44. Kg5 Ke4 45. Kf6 Kd3 46. Kxf7 Ke2 47. Kxg6 Kf2 48. Kxh5 Kxg2 49. Kg6 Kf3 50. h5 Bc2+ 51. Kg7 Ke4 52. h6 Kd5 53. h7 Bxh7 54. Kxh7 Ke4 55. Kg6 Kd5 56. Kf6 Kc6 57. Kxe6 Kc7 58. Ke7 Kc8 59. e6 Kc7 60. Kf8 Kd8 61. e7+ 1-0
+

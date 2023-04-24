@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cfevbc4E"]
+[Date "2021.11.19"]
+[White "el_asesino_cuba"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:16:37"]
+[WhiteElo "2127"]
+[BlackElo "2054"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. Be2 e6 8. cxd5 Nxd5 9. Nxd5 Qxd5 10. h3 Bh5 11. Be3 Bd6 12. O-O O-O 13. a3 Rad8 14. Qd2 Bb8 15. Rad1 Qd6 16. g3 Ne7 17. Bf4 Qd5 18. Ne5 Bg6 19. Nxg6 Nxg6 20. Bxb8 Rxb8 21. Qe3 Rfe8 22. Bf3 Qf5 23. Kh2 Rbc8 24. Rd2 e5 25. dxe5 Rxe5 26. Qd3 Qe6 27. Bxb7 Re8 28. Bg2 h5 29. Qd7 Qb6 30. b4 h4 31. Qg4 hxg3+ 32. Qxg3 a5 33. Rb2 a4 34. Rfb1 Qf6 35. b5 Rg5 36. Qf3 Qd6+ 37. Kg1 Nh4 38. Qc6 Rxg2+ 39. Qxg2 Nxg2 40. Kxg2 Qg6+ 41. Kf1 Rb8 42. b6 Qh5 43. b7 Qxh3+ 44. Ke1 Qe6+ 45. Kf1 Qh3+ 46. Ke1 Qxa3 47. Kd2 Qd6+ 48. Kc3 a3 49. Rb3 a2 50. Ra1 Qe5+ 51. Kb4 Qxa1 52. Kc4 Qc1+ 53. Rc3 Qxc3+ 54. Kxc3 a1=Q+ 55. Kc4 Rxb7 56. Kc5 Qa6 57. Kd5 Rb5+ 58. Ke4 Qa4+ 59. Kf3 Rb3+ 60. Kg2 Qa2 61. Kf1 Rb2 62. Kg2 Rxf2+ 63. Kg3 1/2-1/2
+

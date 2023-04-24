@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lrIPAdXn"]
+[Date "2021.11.22"]
+[White "elguayaco2540925"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.22"]
+[UTCTime "02:36:59"]
+[WhiteElo "1959"]
+[BlackElo "2072"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. O-O Nf6 6. d4 Bg4 7. Be3 e6 8. h3 Bh5 9. Nc3 Bd6 10. a3 a6 11. Ba4 Bc7 12. Bxc6+ bxc6 13. Na4 Qd6 14. Nc5 Bxf3 0-1
+

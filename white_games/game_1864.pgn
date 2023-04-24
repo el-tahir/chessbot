@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GQ8uzkEi"]
+[Date "2021.01.23"]
+[White "EltahirAmin"]
+[Black "jonbaraq"]
+[Result "0-1"]
+[UTCDate "2021.01.23"]
+[UTCTime "08:08:30"]
+[WhiteElo "1985"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 a6 6. Nf3 e6 7. Bd3 Be7 8. Be3 O-O 9. Qd2 Nbd7 10. h4 b5 11. a3 Ng4 12. Bf4 e5 13. Bg3 Bb7 14. d5 Rc8 15. Ng5 h6 16. f3 hxg5 17. fxg4 gxh4 18. Bf2 Bg5 19. Be3 Bxe3 20. Qxe3 g5 21. O-O-O Nc5 22. Bc2 f6 23. g3 hxg3 24. Qxg3 Rf7 25. Qh3 Kf8 26. Rdf1 Qb6 27. Nd1 b4 28. Qh6+ Ke7 29. Ne3 bxa3 30. Nf5+ Kd7 31. Qg6 Nd3+ 32. Kd1 Nxb2+ 33. Ke1 Qb4+ 34. Kf2 Rxc2+ 35. Kg1 Qc5+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QT7ZMVTX"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "magosian"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "00:03:38"]
+[WhiteElo "2078"]
+[BlackElo "2189"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nf6 3. Nf3 g6 4. d4 Bg7 5. Bd3 c6 6. O-O O-O 7. Bg5 Bg4 8. h3 Bxf3 9. Qxf3 Qa5 10. Bd2 Qb6 11. Rab1 Qxd4 12. Be3 Qb4 13. a3 Qa5 14. Na2 Qc7 15. b4 Nbd7 16. c4 Ne5 17. Bc2 Nxf3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FQM6kYUk"]
+[Date "2020.11.26"]
+[White "EltahirAmin"]
+[Black "ANGGORO1"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "19:31:40"]
+[WhiteElo "1903"]
+[BlackElo "1900"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Be6 4. d4 exd4 5. Nxd4 Nf6 6. Nxe6 fxe6 7. Bd3 Be7 8. O-O O-O 9. f4 Nc6 10. Be3 Nb4 11. Bc4 d5 12. exd5 exd5 13. Bb3 c6 14. a3 Na6 15. Qf3 Nc5 16. Ba2 Kh8 17. Rad1 Qb6 18. Qf2 Nfe4 19. Nxe4 Nxe4 20. Bxb6 Nxf2 21. Bxf2 Bf6 22. c3 Rae8 23. Rde1 Re4 24. Rxe4 dxe4 25. Re1 Re8 26. Bxa7 h6 27. Bb1 e3 28. Rxe3 Rd8 29. Bc2 Rd2 30. Re8# 1-0
+

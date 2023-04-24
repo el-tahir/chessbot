@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3pCAvO2D"]
+[Date "2021.02.06"]
+[White "EltahirAmin"]
+[Black "princefemi801"]
+[Result "0-1"]
+[UTCDate "2021.02.06"]
+[UTCTime "21:51:26"]
+[WhiteElo "1952"]
+[BlackElo "1849"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Ng1 Nf6 5. Nc3 Nxd5 6. Be2 Nxc3 7. dxc3 Bd6 8. Be3 O-O 9. Qd2 Nc6 10. O-O-O Be6 11. Nh3 Bxa2 12. b3 Ba3# 0-1
+

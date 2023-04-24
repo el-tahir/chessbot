@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L4X8RDRJ"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "momoxray"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "08:14:42"]
+[WhiteElo "1944"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. g3 d6 7. d4 Qf6+ 8. Kg2 Ng4 9. Qe1 Qxd4 10. Be2 Ne3+ 11. Bxe3 Qxe3 12. Bb5+ c6 13. Qxe3 cxb5 14. Nxb5 Bd7 15. Nxd6+ Kf8 16. Qf4 1-0
+

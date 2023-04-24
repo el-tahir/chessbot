@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Vs56V5bu"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "Rogpatll"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:10:26"]
+[WhiteElo "2063"]
+[BlackElo "2031"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d4 cxd4 5. Qxd4 a6 6. Bd3 Nc6 7. Qe3 e5 8. b3 Be7 9. Bb2 O-O 10. c4 Be6 11. O-O Rc8 12. Nbd2 h6 13. Nh4 Ng4 14. Qe2 Bxh4 15. f4 Qb6+ 16. Kh1 Nf2+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kyOm2A90"]
+[Date "2021.03.02"]
+[White "LunetaPark"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.02"]
+[UTCTime "04:42:37"]
+[WhiteElo "2066"]
+[BlackElo "2059"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. d3 Bg4 5. Nbd2 Qd7 6. O-O Bh3 7. Qe1 Bxg2 8. Kxg2 Na6 9. a3 h5 10. h4 O-O-O 11. b4 Nc7 12. Ne5 Qe8 13. Ndf3 Nd7 14. Bf4 f6 15. Nxd7 Rxd7 16. d4 Rg8 17. Qd2 Ne6 18. Be3 Qf7 19. b5 g5 20. bxc6 bxc6 21. Rab1 gxh4 22. Nxh4 Ng5 23. Qb4 Kc7 24. Qb8# 1-0
+

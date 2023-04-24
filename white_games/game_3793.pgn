@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Onmknj4D"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "DiableRouge_2"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "15:30:39"]
+[WhiteElo "2056"]
+[BlackElo "2054"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Bg4 7. Nc3 e6 8. h3 Bxf3 9. Qxf3 Ne7 10. Bg5 O-O 11. Bd3 Nbc6 12. O-O Qb6 13. Rab1 Nxd4 14. Qf4 Ndc6 15. h4 Bxe5 16. Qg4 Bg7 17. h5 f5 18. Qe2 Nd4 19. Qe1 Nec6 20. hxg6 hxg6 21. Na4 Qc7 22. Nc5 Kf7 23. Rc1 Rh8 24. g3 Nf3+ 0-1
+

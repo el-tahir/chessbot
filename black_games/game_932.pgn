@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Cwzc41Uh"]
+[Date "2021.11.08"]
+[White "Bauruzinho9"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "00:26:17"]
+[WhiteElo "2005"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 Nf6 4. dxc6 Nxc6 5. Nf3 Bg4 6. e3 e6 7. Bb5 Bb4+ 8. Bd2 Qb6 9. Bxc6+ bxc6 10. O-O O-O 11. Bxb4 Qxb4 12. b3 Rac8 13. Nbd2 Rfd8 14. Rc1 a5 15. h3 Bh5 16. Qc2 c5 17. dxc5 Bxf3 18. Nxf3 Ne4 19. Qc4 Nxc5 20. Qxb4 axb4 21. Nd4 Rd5 22. Rc4 h5 23. Rfc1 Kf8 24. Nc2 Ra8 25. Nxb4 Nd3 26. Nxd5 Nxc1 27. Nb6 Rb8 28. Nd7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IP1jkfji"]
+[Date "2021.10.20"]
+[White "Traktorbest"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.20"]
+[UTCTime "03:56:49"]
+[WhiteElo "2038"]
+[BlackElo "2036"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 Nd7 4. e5 Nb6 5. f4 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3 Ne7 9. O-O Nf5 10. b3 c5 11. c4 Be7 12. cxd5 Nxd5 13. Nc3 cxd4 14. Nxd4 Nxd4 15. Qxd4 Nxc3 16. Qxc3 Rc8 17. Qf3 Qd4+ 18. Be3 Qd5 19. Qxd5 exd5 20. f5 Bc5 21. Bxc5 Rxc5 22. f6 gxf6 23. exf6 d4 24. Rfe1+ Kd7 25. Re7+ Kc8 26. Rxf7 Rg8 27. Rxh7 Rc2 28. g3 d3 29. Rd1 d2 30. Kf1 Rc1 31. Ke2 Rf8 32. f7 Rc7 33. Rxd2 Rcxf7 34. Rxf7 Rxf7 35. Kd3 Rh7 36. h4 Rg7 37. Rg2 Kd7 38. g4 b5 39. h5 Rg5 40. Ke4 Ke6 41. Kf4 Rc5 42. Re2+ Kf6 43. Rd2 a5 44. Rd6+ Ke7 45. Ra6 b4 46. g5 Kf7 47. Ra7+ Ke6 48. h6 Rf5+ 49. Kg4 Rd5 50. Kh5 Kf5 51. Rf7+ Ke6 52. Rf2 Ke7 53. h7 Rd8 54. Kh6 Rd3 55. Kg7 Rd8 56. h8=Q 1-0
+

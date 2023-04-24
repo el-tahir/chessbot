@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VLNDNmdS"]
+[Date "2020.10.21"]
+[White "Shatrughan7777"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.21"]
+[UTCTime "05:24:06"]
+[WhiteElo "1851"]
+[BlackElo "1869"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 Nf6 4. dxc6 Nxc6 5. Nf3 Bg4 6. Nc3 e6 7. Bg5 Be7 8. Bxf6 Bxf6 9. e3 O-O 10. Be2 Rc8 11. O-O Qe7 12. h3 Bh5 13. g4 Bg6 14. Rc1 Rfd8 15. a3 e5 16. g5 Bxg5 17. Nxg5 Qxg5+ 18. Kh2 e4 19. Rg1 Qe7 20. Bh5 Qd6+ 21. Rg3 Ne7 22. Bxg6 Nxg6 23. Nxe4 Qe7 24. Rxc8 Rxc8 25. Nc5 Qf6 26. Rf3 Qh4 27. Qb3 Qe7 28. Qxb7 Qxb7 29. Nxb7 Rc2 30. b4 Ra2 31. e4 Nh4 32. Rg3 f5 33. e5 f4 34. Rg4 Rxf2+ 35. Kg1 Ra2 36. Rxh4 Rxa3 37. Rxf4 Rxh3 38. d5 Rd3 39. d6 Re3 40. Rf5 g6 41. d7 Rd3 1-0
+

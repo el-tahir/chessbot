@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hUiGtdrv"]
+[Date "2020.05.30"]
+[White "Bembengindonesia"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "11:39:08"]
+[WhiteElo "2028"]
+[BlackElo "2038"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. cxd5 Nxd5 6. Nc3 e6 7. Nxd5 Qxd5 8. Nf3 Bb4+ 9. Bd2 a5 10. Bd3 Bd7 11. O-O Bc6 12. a3 Bd6 13. Bc3 Nd7 14. Re1 h5 15. Be4 Qb5 16. Bxc6 Qxc6 17. Ne5 Nxe5 18. dxe5 Bc5 19. Qf3 Qxf3 20. gxf3 Ke7 21. Kg2 Rad8 22. Red1 Rh6 23. Bxa5 b6 24. Bc3 Rg6+ 25. Kf1 h4 26. b4 Bxf2 27. Kxf2 Rc8 28. Rd3 h3 29. Rg1 Rh6 30. Rxg7 Kf8 31. Rg1 Rb8 32. f4 b5 33. Rdg3 Ra8 34. Bd4 Ke7 35. Bc5+ Kd7 36. Rd3+ Kc6 37. Rg7 Rh4 38. Rxf7 Rg8 39. Rd6# 1-0
+

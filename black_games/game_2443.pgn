@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zCosazhs"]
+[Date "2020.12.19"]
+[White "SitdownKid"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "17:09:32"]
+[WhiteElo "1961"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 d5 2. Ba3 e5 3. Bxf8 Kxf8 4. d4 Nf6 5. dxe5 Ne4 6. Nf3 Nc6 7. e3 Bg4 8. h3 Bh5 9. e6 fxe6 10. Be2 Qd6 11. Nd4 Bxe2 12. Nxe2 Kf7 13. Nd4 Rhf8 14. O-O Kg8 15. Qh5 Nxd4 16. exd4 Qb4 17. Qg4 Rae8 18. c4 dxc4 19. bxc4 Nd6 20. c5 Nf5 21. a4 Qxd4 22. Na3 Qxg4 23. hxg4 Nd4 24. Rad1 e5 25. Rxd4 exd4 26. Nb5 d3 27. Rd1 Rd8 28. Nxc7 d2 29. Ne6 Rfe8 30. Nxd8 Re1+ 31. Kh2 Rxd1 32. Nxb7 Rh1+ 33. Kg3 d1=Q 34. c6 h5 35. f3 h4+ 36. Kf4 Qd4+ 37. Kg5 Qf6+ 38. Kh5 Qh6# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NOYYohdn"]
+[Date "2020.12.28"]
+[White "azd_junior"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.28"]
+[UTCTime "11:43:53"]
+[WhiteElo "2030"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A56"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. d4 c5 3. Nc3 d6 4. d5 Bg4 5. Nf3 e6 6. h3 Bh5 7. g4 Bg6 8. Nh4 Be7 9. Nxg6 hxg6 10. Bg5 Nxg4 11. Bxe7 Qxe7 12. e4 Ne5 13. Qa4+ Nbd7 14. O-O-O Qf6 15. Nb5 Qf4+ 16. Kb1 Qxe4+ 17. Ka1 Qxh1 18. Nc7+ Ke7 19. dxe6 fxe6 20. Nb5 Nf7 0-1
+

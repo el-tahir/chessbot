@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sMXqnZWl"]
+[Date "2020.11.07"]
+[White "LukaQ018"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "19:47:20"]
+[WhiteElo "1935"]
+[BlackElo "1931"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 Nf6 4. O-O e6 5. d4 d5 6. dxc5 Bxc5 7. c4 O-O 8. cxd5 Nxd5 9. Nc3 Nxc3 10. bxc3 Qe7 11. Bf4 Rd8 12. Qc2 Bd7 13. Ne5 Nxe5 14. Bxe5 Bc6 15. Bxc6 bxc6 16. Qe4 Qg5 17. Bf4 Qd5 18. Qe5 Bd6 19. Qxd5 cxd5 20. Bxd6 Rxd6 21. c4 dxc4 22. Rac1 Rc6 23. Rfd1 Rc7 24. Rd4 Rac8 25. Rcd1 Kf8 26. Kf1 Ke7 27. Rc1 e5 28. Rf4 exf4 29. gxf4 c3 30. e3 c2 31. Ke2 Rb8 32. Kd2 Rd8+ 33. Ke2 Rd1 34. Rxd1 cxd1=Q+ 35. Kxd1 Rb7 36. Kd2 Rb2+ 37. Ke1 Rxa2 38. Kf1 a5 39. Kg2 a4 40. Kf3 a3 41. Ke4 Rxf2 42. Kd3 a2 43. Kc3 a1=Q+ 44. Kc4 Rd2 45. Kb5 Qc1 46. Kb4 Rb2+ 47. Ka3 Qa1# 0-1
+

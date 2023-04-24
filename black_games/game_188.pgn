@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eCLFxYUG"]
+[Date "2022.11.07"]
+[White "Amon7"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.11.07"]
+[UTCTime "18:48:07"]
+[WhiteElo "1971"]
+[BlackElo "1990"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 d5 3. b3 Nf6 4. Bb2 Bg4 5. e3 Bxd1 6. Kxd1 Nbd7 7. Nf3 Qc7 8. d4 e6 9. Nbd2 Bd6 10. Ke2 e5 11. dxe5 Nxe5 12. Nd4 O-O 13. h3 c5 14. Nb5 Qc6 15. a4 a6 16. Nc3 d4 17. Bxc6 bxc6 18. Nce4 dxe3 19. Nxf6+ gxf6 20. fxe3 Rad8 21. Ne4 Be7 22. Bxe5 fxe5 23. Rad1 f5 24. Nc3 Kf7 25. Rxd8 Rxd8 26. Rd1 Rxd1 27. Nxd1 Ke6 28. Kf3 h6 29. Nf2 Kd5 30. Ke2 c4 31. g4 fxg4 32. Nxg4 h5 33. Nf2 cxb3 34. cxb3 Kc5 35. Kd3 Kb4 36. Kc2 a5 37. Nd3+ Ka3 38. Nxe5 c5 39. Nc4+ Kb4 40. Nb6 h4 41. Nd5+ 1-0
+

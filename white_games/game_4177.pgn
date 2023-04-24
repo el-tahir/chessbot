@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6JwaPlMN"]
+[Date "2020.10.15"]
+[White "EltahirAmin"]
+[Black "martelus"]
+[Result "1/2-1/2"]
+[UTCDate "2020.10.15"]
+[UTCTime "18:48:16"]
+[WhiteElo "1986"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 e6 4. f4 Ne7 5. Nf3 O-O 6. Bd3 Re8 7. Be3 d6 8. Qd2 Nd7 9. h4 f6 10. h5 Nf8 11. hxg6 hxg6 12. f5 exf5 13. Bh6 Bh8 14. Bxf8 Rxf8 15. Qh6 Bg7 16. Qh7+ Kf7 17. Bc4+ d5 18. Nxd5 Nxd5 19. Bxd5+ Qxd5 20. exd5 Bd7 21. O-O-O Rh8 22. Qxh8 Bxh8 23. Rh7+ Bg7 24. Re1 Re8 25. Rxe8 Bxe8 26. Nd2 g5 27. Nb3 Kg6 28. Rh1 Bf8 29. Nc5 Bxc5 30. dxc5 g4 31. g3 Kg5 32. Rh7 f4 33. gxf4+ Kxf4 34. Rxc7 g3 35. Rg7 Kf3 36. d6 g2 37. Kd2 Kf2 38. Rxg2+ Kxg2 39. Ke3 Kg3 40. Ke4 Kg4 41. b4 Bc6+ 42. Ke3 Kf5 43. c4 a6 44. Kf2 Ke4 45. b5 axb5 46. cxb5 Bxb5 47. c6 Bxc6 48. d7 Bxd7 49. a4 Bxa4 50. Ke1 b5 51. Kd2 b4 52. Kc1 b3 53. Kb2 f5 54. Ka1 f4 55. Kb2 f3 56. Ka1 f2 57. Kb1 f1=Q+ 58. Kb2 Qe2+ 59. Ka3 Qa2+ 60. Kb4 b2 61. Kc3 b1=Q 1/2-1/2
+

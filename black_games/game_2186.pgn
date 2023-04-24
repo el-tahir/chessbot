@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RifuwT6A"]
+[Date "2020.12.28"]
+[White "Jorgecardete"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "19:06:41"]
+[WhiteElo "1966"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B03"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3 Be7 9. O-O N8d7 10. a4 a5 11. Nc3 O-O 12. Nb5 Rc8 13. Na7 Rb8 14. Nb5 c6 15. Nxd6 Bxd6 16. exd6 Nf6 17. c5 Nbd5 18. Bd2 b6 19. Ne5 Rc8 20. Rac1 Nd7 21. f5 f6 22. fxe6 Nxe5 23. dxe5 fxe5 24. Rxf8+ Qxf8 25. Rf1 Qd8 26. e7 Nxe7 27. Bg5 bxc5 28. Bxe7 Qb6 29. Qc4+ Kh8 30. d7 Rg8 31. Qxg8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aDr5KRui"]
+[Date "2020.11.07"]
+[White "YuraRudenko1987"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "20:08:32"]
+[WhiteElo "1954"]
+[BlackElo "1930"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Bd3 e6 7. O-O Bd6 8. Qe1 Qc7 9. c3 Bxf4 10. Bxf4 Qxf4 11. Ne5 Qg5 12. Qg3 Nc6 13. Bb5 Qh5 14. h3 Bf5 15. Nxc6 bxc6 16. Bxc6+ Ke7 17. Bxa8 Rxa8 18. Nd2 Qh6 19. Nb3 Rc8 20. Rae1 Be4 21. Nc5 Nh5 22. Qe3 Qg6 23. Nxe4 dxe4 24. Qxe4 f5 25. Qb7+ Kd8 26. Qxa7 Rc7 27. Qb8+ Rc8 28. Qb6+ Rc7 29. Rxe6 Qf7 30. Qb8+ Rc8 31. Qd6+ Qd7 32. Qxd7+ Kxd7 33. Rb6 Ng3 34. Rf3 Ne4 35. Rxf5 Ra8 36. a3 Kc7 37. Re6 Nd2 38. Rf7+ Kd8 39. Ree7 Rc8 40. Rxg7 Ne4 41. Rxh7 Nf6 42. Rhg7 Rc6 43. Ref7 Ne8 44. Rg8 Re6 45. d5 Re7 46. Rxe7 Kxe7 47. c4 Nd6 48. c5 Ne4 49. b4 Kd7 50. d6 Nc3 51. Rg7+ Kc6 52. d7 Kc7 53. c6 Nd5 54. Rg8 Nf6 55. Rc8+ Kd6 56. d8=Q+ Ke5 57. c7 Ne4 58. Qe7+ Kf4 59. Rd8 Nc3 60. Rf8+ Kg3 61. Qg7+ Kh4 62. Rh8# 1-0
+

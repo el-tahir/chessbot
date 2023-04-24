@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bqhSio50"]
+[Date "2022.05.28"]
+[White "EltahirAmin"]
+[Black "klizt_blizt"]
+[Result "0-1"]
+[UTCDate "2022.05.28"]
+[UTCTime "13:29:13"]
+[WhiteElo "2022"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 f5 4. exf5 Nf6 5. d4 e4 6. Ng5 d5 7. Bb5 Bxf5 8. O-O Bd6 9. f3 O-O 10. fxe4 Bxe4 11. Ngxe4 Nxe4 12. Nxd5 Bxh2+ 13. Kxh2 Qxd5 14. Rxf8+ Rxf8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WKcJpsKG"]
+[Date "2020.11.17"]
+[White "FV_44"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "13:09:36"]
+[WhiteElo "1852"]
+[BlackElo "1984"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. b3 d5 3. Bb2 Nf6 4. e3 Bg4 5. f3 Bh5 6. g3 e6 7. Bg2 Bd6 8. c4 Qc7 9. Ne2 c5 10. O-O Nbd7 11. Nd2 O-O-O 12. e4 dxe4 13. fxe4 e5 14. d5 Bg6 15. Nc3 h5 16. Qe2 h4 17. Qf3 hxg3 18. Qxg3 a6 19. Bc1 Nh5 20. Qf3 Nf4 21. Rf2 f5 22. Nf1 fxe4 23. Nxe4 Bxe4 24. Qxe4 Nf6 25. Qf5+ Kb8 26. Bxf4 exf4 27. Re1 f3 28. Bxf3 Bxh2+ 29. Rxh2 Rhf8 30. Qd3 Qf4 31. Ree2 Ng4 32. Bxg4 Qxf1# 0-1
+

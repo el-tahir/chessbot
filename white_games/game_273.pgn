@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eLqi7jbr"]
+[Date "2022.09.12"]
+[White "EltahirAmin"]
+[Black "jc07"]
+[Result "0-1"]
+[UTCDate "2022.09.12"]
+[UTCTime "02:56:04"]
+[WhiteElo "2050"]
+[BlackElo "2151"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Bg4 4. d3 Nc6 5. h3 Bh5 6. Bf4 e5 7. Bg3 Bb4+ 8. c3 dxc3 9. Qb3 cxb2+ 0-1
+

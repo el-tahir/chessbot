@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/99M8Uzj3"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "CDarling18"]
+[Result "1-0"]
+[UTCDate "2021.01.20"]
+[UTCTime "03:43:09"]
+[WhiteElo "1950"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 c5 6. Nf3 cxd4 7. Nxd4 Nc6 8. Be3 e5 9. Nxc6 Qxd1+ 10. Rxd1 bxc6 11. Be2 Bb4+ 12. c3 Ba5 13. Bf3 Bb7 14. Nf5 O-O 15. Nd6 Bc8 16. Bxc6 Rb8 17. Rd2 Be6 18. a3 Rfd8 19. Bxa7 Rb3 20. Bc5 Bb6 21. Bxb6 Rxb6 22. Bf3 Rbxd6 23. Rxd6 Rxd6 24. Ke2 h6 25. Rd1 Rxd1 26. Kxd1 e4 27. Be2 Nd5 28. a4 Nf4 29. Bf1 Bd5 30. a5 Kf8 31. c4 Ba8 32. c5 Ke7 33. Kc2 Kd7 34. Kc3 Kc6 35. b4 Ne6 36. Kc4 Nc7 37. g3 f5 38. Bg2 Kd7 39. h4 g5 40. hxg5 hxg5 41. b5 Ne6 42. c6+ Kc7 43. Kd5 Nd8 44. Ke5 Bxc6 45. bxc6 Nxc6+ 46. Kxf5 Nxa5 47. Kxe4 Kd6 48. Kf5 Nc4 49. Kxg5 Ne5 50. f4 Nf7+ 51. Kf6 Nd8 52. g4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CYXB3MrD"]
+[Date "2020.11.04"]
+[White "PawnZ_2000"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "18:24:57"]
+[WhiteElo "1904"]
+[BlackElo "2056"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bg4 6. Nf3 e6 7. h3 Bh5 8. Be2 Bd6 9. O-O O-O 10. cxd5 exd5 11. Bg5 Nc6 12. Nxd5 Re8 13. Nxf6+ gxf6 14. Be3 Bc7 15. Rc1 Qd6 16. g3 Re6 17. Bf4 Qe7 18. Bxc7 Qxc7 19. Nh2 Bxe2 20. Qxe2 Rxe2 0-1
+

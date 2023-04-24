@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/coLsHOuK"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "Kisha7"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "15:42:42"]
+[WhiteElo "1913"]
+[BlackElo "1919"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Nf6 5. Nf3 Bd6 6. Bb5+ c6 7. Bd3 O-O 8. O-O Bg4 9. h3 Bh5 10. g4 Bg6 11. Bxg6 fxg6 12. Bg5 Nbd7 13. Qd2 Qc7 14. Rae1 Rae8 15. Ne2 Ne4 16. Qc1 Rxf3 0-1
+

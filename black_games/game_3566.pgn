@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DQwmOnlP"]
+[Date "2020.11.07"]
+[White "Amilcarcuba"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:37:11"]
+[WhiteElo "1902"]
+[BlackElo "1929"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c3 Nc6 6. Bd3 Bg4 7. O-O e6 8. Bg5 Be7 9. Nbd2 O-O 10. Qc2 h6 11. Bxf6 Bxf6 12. h3 Bxf3 13. Nxf3 Rc8 14. Qd2 e5 15. dxe5 Nxe5 16. Nxe5 Bxe5 17. f4 Bc7 18. f5 Qd6 19. f6 Qh2+ 20. Kf2 Bg3+ 21. Ke2 Qxg2+ 22. Ke3 Rce8+ 23. Kd4 Be5+ 24. Kc5 Rc8+ 25. Kb4 Qxd2 26. Ka3 Rc6 27. Bb5 Bxc3 28. Rad1 Qxb2+ 0-1
+

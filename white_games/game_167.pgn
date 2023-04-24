@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WWyG2HXv"]
+[Date "2023.01.30"]
+[White "EltahirAmin"]
+[Black "OmkarH"]
+[Result "1-0"]
+[UTCDate "2023.01.30"]
+[UTCTime "15:03:00"]
+[WhiteElo "1947"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B72"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. Qd2 Re8 9. O-O-O Nc6 10. Kb1 a6 11. Nb3 b5 12. Bh6 Bh8 13. h4 b4 14. Nd5 e6 15. Nxb4 Nxb4 16. Qxb4 Bd7 17. Rxd6 Nxe4 18. Qxe4 Qf6 19. Bc1 Rad8 20. Rhd1 Re7 21. Bxa6 Qxf2 22. Bb5 f5 23. Qd3 Bxb5 24. Rxd8+ Kg7 25. Qxb5 Rc7 26. R8d2 Qa7 27. Rd7+ Rxd7 28. Qxd7+ Qxd7 29. Rxd7+ Kf6 30. Rxh7 Bg7 31. Bh6 Bxh6 32. Rxh6 e5 33. h5 e4 34. Rxg6+ Ke5 35. h6 e3 36. Nc1 Ke4 37. h7 Kf4 38. h8=Q e2 39. Nxe2+ 1-0
+

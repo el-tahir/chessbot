@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vN45eSIm"]
+[Date "2020.11.05"]
+[White "KingHunter_14"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "11:28:15"]
+[WhiteElo "2067"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. c3 c5 6. Bf4 Nc6 7. Be2 cxd4 8. Nxd4 Bxe2 9. Qxe2 Bc5 10. Qg4 Bf8 11. Nd2 Nge7 12. N2b3 Ng6 13. Nxc6 bxc6 14. Bg3 c5 15. Qa4+ Qd7 16. Qxd7+ Kxd7 17. O-O-O Rb8 18. f4 Be7 19. Rd2 Rhc8 20. Rhd1 c4 21. Nd4 Bh4 22. f5 Bxg3 23. fxg6 Bxe5 24. Rf2 f6 25. gxh7 Rh8 26. Nf3 Bf4+ 27. Kc2 Rxh7 28. h3 Be3 29. Re2 Bf4 30. Rde1 e5 31. Rd1 Re8 32. Rxd5+ Kc6 33. Rd1 g5 34. b3 cxb3+ 35. axb3 Rb7 36. Rd3 Reb8 37. c4 a5 38. Nd2 a4 39. g3 axb3+ 40. Nxb3 e4 41. Rxe4 Be5 42. g4 Rb4 43. Nd2 Rb2+ 44. Kd1 Bf4 45. Ke2 Ra2 46. Re6+ Kc5 47. Rxf6 Rbb2 48. Rf5+ Kb4 49. Rfd5 Rxd2+ 50. Rxd2 Bxd2 51. Rxd2 Ra8 52. Rd3 Re8+ 53. Re3 Rd8 54. Kf3 Rd2 55. Re4 Rf2+ 56. Ke3 Rf3+ 0-1
+

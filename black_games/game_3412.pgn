@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NhB9Kppx"]
+[Date "2020.11.10"]
+[White "Evicros"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.10"]
+[UTCTime "13:04:52"]
+[WhiteElo "1867"]
+[BlackElo "1933"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nxe4 6. Bxe4 Nd7 7. Nf3 Nf6 8. Bd3 Bg4 9. h3 Bh5 10. Bg5 e6 11. Qd2 Be7 12. O-O-O Qb6 13. g4 Bg6 14. Ne5 Qxd4 15. Nxg6 hxg6 16. Be3 Qd5 17. Qc3 Qxa2 18. g5 Nd5 19. Qxg7 O-O-O 20. Bd4 Bxg5+ 21. Be3 Nxe3 22. Qxf7 Nf1+ 23. Rd2 Qa1# 0-1
+

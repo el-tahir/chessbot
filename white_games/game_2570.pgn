@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Qsxsak1K"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "kelsany123"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "10:55:16"]
+[WhiteElo "1935"]
+[BlackElo "1927"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 d5 3. c4 Nf6 4. Nc3 Bb4 5. Nf3 c6 6. a3 Ba5 7. b4 Bc7 8. cxd5 exd5 9. Bd3 O-O 10. O-O Bg4 11. Bb2 Qd6 12. g3 Nbd7 13. Be2 Rae8 14. b5 Bb8 15. a4 Nb6 16. Ba3 Qe6 17. Bxf8 Rxf8 18. Rc1 h5 19. Nh4 g5 20. Bxg4 hxg4 21. Ng2 Nc4 22. Re1 Kg7 23. e4 Qd7 24. e5 Ne4 25. Nxe4 dxe4 26. Rxc4 Rh8 27. Rxe4 Qd5 28. Qxg4 Qxc4 29. Qxg5+ Kf8 30. Qd8+ Kg7 31. Rg4+ Kh7 32. Qh4# 1-0
+

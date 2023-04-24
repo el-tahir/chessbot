@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nms3fX2O"]
+[Date "2022.05.10"]
+[White "jenmaxius"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "02:12:43"]
+[WhiteElo "2131"]
+[BlackElo "2091"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 Nf6 5. Nc3 Bg4 6. Nf3 e6 7. Bg5 Be7 8. Qd2 O-O 9. O-O-O Nbd7 10. h3 Bh5 11. e5 Nd5 12. Nxd5 cxd5 13. Bd3 Bxf3 14. Bxe7 Qxe7 15. gxf3 Rac8 16. Kb1 Nb6 17. c3 Nc4 18. Qf2 b5 19. a3 a5 20. f4 b4 21. axb4 axb4 22. f5 bxc3 23. f6 Qb4 24. fxg7 Na3+ 25. Ka1 Rfd8 26. Rhf1 cxb2+ 27. Qxb2 Qa4 28. Ka2 Nc4+ 0-1
+

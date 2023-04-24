@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S4wWlPC8"]
+[Date "2022.10.07"]
+[White "EltahirAmin"]
+[Black "grandpacer"]
+[Result "0-1"]
+[UTCDate "2022.10.07"]
+[UTCTime "17:38:49"]
+[WhiteElo "2014"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 a6 6. a3 c5 7. b4 cxd4 8. Qxd4 Nc6 9. Qf2 Be7 10. Nf3 f6 11. Be3 fxe5 12. fxe5 Ndxe5 13. Rd1 O-O 14. Be2 Nxf3+ 15. Bxf3 Ne5 16. O-O Nxf3+ 17. gxf3 Bf6 18. Ne2 e5 19. c3 Bh3 20. Rfe1 Bh4 21. Ng3 Qf6 22. Rxd5 Qxf3 23. Qxf3 Rxf3 24. Ne4 Bxe1 25. Ng3 Raf8 26. Kh1 Rxe3 27. Rd1 Bxg3 28. hxg3 Rxg3 29. Kh2 Rxc3 30. a4 Rf2+ 31. Kg1 Rg2+ 32. Kh1 Rb2 33. b5 Bg2+ 34. Kg1 axb5 35. a5 b4 36. a6 b3 37. a7 Ra2 38. Rd8+ Kf7 39. a8=Q Rxa8 40. Rxa8 b2 41. Rd8 b1=Q+ 42. Kxg2 Qb2+ 43. Rd2 Qxd2+ 44. Kf1 Rc1# 0-1
+

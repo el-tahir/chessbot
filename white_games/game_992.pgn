@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2nTtfP4d"]
+[Date "2021.10.28"]
+[White "EltahirAmin"]
+[Black "ODLINAV"]
+[Result "1-0"]
+[UTCDate "2021.10.28"]
+[UTCTime "20:21:17"]
+[WhiteElo "2043"]
+[BlackElo "2025"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d3 h6 5. Be3 Bb4 6. Be2 c5 7. O-O Ne7 8. a3 Ba5 9. Rb1 Bc7 10. b4 cxb4 11. axb4 O-O 12. Qd2 Nbc6 13. Bxh6 gxh6 14. Qxh6 f6 15. d4 Rf7 16. Bc4 d5 17. Nxd5 Qf8 18. Nxf6# 1-0
+

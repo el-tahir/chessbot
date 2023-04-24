@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nqaJmpYp"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "RunAwayYouNoobs"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "19:57:11"]
+[WhiteElo "1926"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 d6 3. c4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qd1 e6 7. Nf3 Be7 8. Be2 O-O 9. O-O a6 10. Bd2 Bd7 11. e4 Rc8 12. Rc1 d5 13. exd5 exd5 14. cxd5 Nb8 15. Qb3 b5 16. Bg5 Bf5 17. Rfd1 Bd6 18. Nd4 Bg6 19. Bd3 Bxd3 20. Rxd3 h6 21. Bh4 g5 22. Bg3 Bxg3 23. hxg3 Nxd5 24. Rcd1 Nxc3 25. bxc3 Qf6 26. Nf3 Nc6 27. Rd6 Qg7 28. Qd5 Na5 29. Nd4 Nc4 30. Nf5 Qxc3 31. Nxh6+ Kh7 32. Qf5+ Kh8 33. Nxf7+ Rxf7 34. Rh6+ Kg7 35. Rh7+ Kg8 36. Qxf7# 1-0
+

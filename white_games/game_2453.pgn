@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8v78xb13"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "LerikoTalikadze2014"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "15:32:28"]
+[WhiteElo "1987"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 g6 4. d4 Bg7 5. Bc4 a6 6. Ng5 e6 7. a4 b6 8. O-O Bb7 9. Re1 O-O 10. Bf4 Nbd7 11. h4 Nh5 12. Bh2 h6 13. Nxe6 fxe6 14. Bxe6+ Kh7 15. g4 Nf4 16. Qd2 Nxe6 17. g5 h5 18. f4 Nxd4 19. Rad1 c5 20. Qf2 Qc7 21. Nd5 Bxd5 22. exd5 Rae8 23. c3 Nf5 24. Kg2 b5 25. Bg1 c4 26. Qf3 Nc5 27. Bd4 Nd3 28. Re6 Rxe6 29. dxe6 Re8 30. Qe4 Qe7 31. Bf6 Qxe6 0-1
+

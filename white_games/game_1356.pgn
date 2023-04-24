@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YgBOUof3"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "FognusSarlsen"]
+[Result "0-1"]
+[UTCDate "2021.03.01"]
+[UTCTime "16:36:35"]
+[WhiteElo "2035"]
+[BlackElo "2029"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. d4 cxd4 5. cxd4 d6 6. Nc3 Bg4 7. Be3 exd4 8. Bxd4 Bxf3 9. gxf3 f6 10. Bc4 Qc7 11. h4 O-O-O 12. Rb1 Ne5 13. Be2 Kb8 14. Nd5 Qc8 15. Rc1 Qe6 16. Bc4 Nxc4 17. Rxc4 Ne7 18. Qb3 Nxd5 19. Bxa7+ Kxa7 20. Qa4+ Kb8 21. Kd2 Nb6 0-1
+

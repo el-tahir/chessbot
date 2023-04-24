@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PIT2UfYM"]
+[Date "2022.05.09"]
+[White "EltahirAmin"]
+[Black "KanstantinT"]
+[Result "0-1"]
+[UTCDate "2022.05.09"]
+[UTCTime "05:03:58"]
+[WhiteElo "2062"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 e4 3. c4 f5 4. Nc3 Nf6 5. f3 d5 6. Nge2 dxc4 7. Ng3 exf3 8. Qxf3 Bb4 9. Bxc4 g6 10. O-O Nc6 11. Bd2 Qe7 12. Rad1 Bd7 13. Rfe1 O-O-O 14. Bc1 Ne4 15. Ngxe4 fxe4 16. Qg3 Bxc3 17. bxc3 g5 18. Rf1 Rdf8 19. a4 h5 20. d5 Ne5 21. Be2 h4 22. Qe1 h3 23. g3 g4 24. Qd2 Nf3+ 25. Bxf3 exf3 26. d6 Qxd6 27. Qxd6 cxd6 28. Rxd6 Kc7 29. Rfd1 Rf7 30. Bb2 Re8 31. Kf2 Re4 32. c4 b6 33. Bd4 Bxa4 34. c5 Bc6 35. Bf6 b5 36. Bg5 a5 37. Bf4 Kb7 38. Ra1 a4 39. Rb1 Rf5 40. Rbd1 Rxc5 41. Rd7+ Bxd7 42. Rxd7+ Ka6 43. Rg7 Rc2+ 44. Kg1 Rb4 45. Rxg4 Rb1# 0-1
+

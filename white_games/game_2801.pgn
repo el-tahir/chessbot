@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LTDJKs0X"]
+[Date "2020.12.01"]
+[White "EltahirAmin"]
+[Black "Axekick"]
+[Result "1-0"]
+[UTCDate "2020.12.01"]
+[UTCTime "23:47:50"]
+[WhiteElo "1869"]
+[BlackElo "1868"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 Nf6 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Ke2 Bxf3+ 7. gxf3 Nc6 8. d3 Nd4+ 9. Ke3 e5 10. c3 Nf5+ 11. Ke2 Nh4 12. Kd2 Nxf3+ 13. Kc2 Nd4+ 14. cxd4 Qxh1 15. Be3 exd4 16. Bxd4 O-O-O 17. Bh3+ Kb8 18. Qxh1 1-0
+

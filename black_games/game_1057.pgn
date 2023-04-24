@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YIyb5yCW"]
+[Date "2021.10.18"]
+[White "LuisCorbetto"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.18"]
+[UTCTime "03:25:06"]
+[WhiteElo "1969"]
+[BlackElo "2005"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D13"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 Nf6 3. Nf3 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. a3 Qb6 7. e3 Bg4 8. Na4 Qc7 9. Be2 e5 10. Bd2 e4 11. Ng5 Bxe2 12. Qxe2 h6 13. Nh3 Bd6 14. Nc5 Bxc5 15. dxc5 Na5 16. Qb5+ Nc6 17. Nf4 g5 18. Ne2 Ng4 19. h3 Ne5 20. O-O a6 21. Qb3 Rd8 22. Bc3 O-O 23. Rad1 d4 24. Bxd4 Nxd4 25. Rxd4 Nd3 26. Nc1 Rxd4 27. exd4 Nf4 28. Qe3 b6 29. b4 a5 30. Qxe4 bxc5 31. dxc5 axb4 32. axb4 Kg7 33. Nd3 Ne6 34. Qe5+ Qxe5 35. Nxe5 Kf6 36. Nd7+ Ke7 37. Nxf8 Kxf8 38. Rd1 Ke7 39. Rd6 h5 40. Kh2 Nc7 41. Rb6 Nd5 42. Rb7+ Ke6 43. g4 h4 44. Kg2 Nf4+ 45. Kf3 Nd3 46. Ke4 Nf4 47. c6 Nd5 48. b5 Kd6 49. Rd7+ Kc5 50. Rxd5+ Kb6 51. Rxg5 f6 52. Rf5 Kc7 53. Rxf6 Kb6 54. Rf5 Kc7 55. g5 Kb6 56. g6 Ka5 57. g7 Kb6 58. g8=Q Kc7 59. b6+ Kxb6 60. c7 Kxc7 61. Qg7+ Kd8 62. Rf8# 1-0
+

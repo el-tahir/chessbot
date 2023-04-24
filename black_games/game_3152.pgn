@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bm2t87pJ"]
+[Date "2020.11.16"]
+[White "wolfi1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "14:21:38"]
+[WhiteElo "1933"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 Bg4 5. h3 Bh5 6. Be2 e6 7. Nbd2 Bd6 8. Bg5 Nbd7 9. O-O h6 10. Bh4 O-O 11. c3 Qc7 12. Bxf6 Nxf6 13. Ne1 Bg6 14. Bd3 Ne4 15. Bxe4 dxe4 16. Qc2 f5 17. f4 exf3 18. Nexf3 Rf6 19. e4 fxe4 20. Nxe4 Rf4 21. Nxd6 Bxc2 0-1
+

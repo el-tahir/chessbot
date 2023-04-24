@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KVESKfC6"]
+[Date "2020.12.07"]
+[White "chessbullies"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.07"]
+[UTCTime "17:19:45"]
+[WhiteElo "1905"]
+[BlackElo "1886"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. Ne2 Bg4 7. Nd2 e6 8. Nf1 Bd6 9. Nfg3 O-O 10. Bg5 h6 11. Bxf6 Qxf6 12. Qd2 Rfc8 13. Bc2 e5 14. dxe5 Qxe5 15. O-O-O b5 16. Qd3 g6 17. f3 Be6 18. h4 b4 19. h5 Qg5+ 20. Kb1 Bxg3 21. hxg6 Qxg6 22. Nxg3 Qxd3 23. Bxd3 bxc3 24. Rxh6 Nb4 25. Rdh1 Kg7 26. bxc3 Nxd3 27. Rh7+ Kf6 28. R1h6+ Ke7 29. Ne2 Bf5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x2mR4LPQ"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "arles1972"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "09:15:51"]
+[WhiteElo "1991"]
+[BlackElo "1992"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Nf3 e5 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb8 7. e5 Ng8 8. d6 cxd6 9. exd6 Qb6 10. Nb5 Na6 11. Bc4 Nf6 12. O-O h6 13. Re1+ Kd8 14. Be3 Qc6 15. b3 Ne4 16. Nxa7 Rxa7 17. Bxa7 Bxd6 18. Rxe4 Qxe4 19. Qxd6 Qc6 20. Bb6+ Nc7 21. Qb4 d5 22. Re1 dxc4 23. Qe7# 1-0
+

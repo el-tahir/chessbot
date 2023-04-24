@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BQ0OJsKb"]
+[Date "2020.10.24"]
+[White "Shah_555"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.24"]
+[UTCTime "09:17:43"]
+[WhiteElo "1930"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 Nf6 4. d4 cxd5 5. Nc3 Bg4 6. Bg5 Bxf3 7. Qxf3 e6 8. Bb5+ Nc6 9. O-O-O Be7 10. Rhe1 a6 11. Ba4 b5 12. Bb3 b4 13. Na4 Na5 14. Bxf6 Bxf6 15. Bxd5 O-O 16. Bb3 Nxb3+ 17. cxb3 Rc8+ 18. Kb1 Bxd4 19. Re4 e5 20. Rxe5 Qc7 21. Rd5 Qc2+ 22. Ka1 Qc1+ 23. Rxc1 Rxc1# 0-1
+

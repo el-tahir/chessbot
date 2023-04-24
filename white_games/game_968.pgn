@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KDs0q8P7"]
+[Date "2021.11.01"]
+[White "EltahirAmin"]
+[Black "Julian-Wtal"]
+[Result "1-0"]
+[UTCDate "2021.11.01"]
+[UTCTime "17:54:56"]
+[WhiteElo "2060"]
+[BlackElo "2076"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 g6 6. Be2 Bg7 7. O-O O-O 8. c3 Nbd7 9. d4 Qc7 10. Bg5 a5 11. Qd3 a4 12. a3 b5 13. Rae1 Ba6 14. Qd2 Nb6 15. Bh6 Nbd5 16. Bxg7 Kxg7 17. Ne5 Bc8 18. h4 h5 19. Nxh5+ Nxh5 20. Bxh5 gxh5 21. Qg5+ Kh7 22. Qxh5+ Kg7 23. Re3 Nxe3 24. fxe3 Rh8 25. Rxf7+ Kg8 26. Qg6# 1-0
+

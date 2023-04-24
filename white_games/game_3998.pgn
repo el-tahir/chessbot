@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/od7rKpxl"]
+[Date "2020.10.26"]
+[White "EltahirAmin"]
+[Black "muidrahman92"]
+[Result "0-1"]
+[UTCDate "2020.10.26"]
+[UTCTime "19:37:32"]
+[WhiteElo "1957"]
+[BlackElo "1977"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Bf5 3. Nf3 e6 4. Nc3 Nc6 5. Bg5 Be7 6. Bxe7 Ngxe7 7. e3 Nb4 8. Rc1 Qd7 9. a3 Na6 10. Bd3 O-O-O 11. Ne5 Qe8 12. cxd5 Bxd3 13. Qxd3 Nxd5 14. O-O f6 15. Nc4 h5 16. e4 Nf4 17. Qe3 e5 18. dxe5 fxe5 19. g3 Rd3 20. Qe1 Nh3+ 21. Kg2 Qe6 22. Nd5 Rxd5 23. exd5 Qd7 24. Qxe5 h4 25. Qe6 hxg3 26. Qg4 Qxg4 0-1
+

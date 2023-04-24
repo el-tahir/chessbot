@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RaKH3yml"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "derechess"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "11:45:59"]
+[WhiteElo "1979"]
+[BlackElo "2013"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C15"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. f3 dxe4 5. fxe4 Qh4+ 6. g3 Qxe4+ 7. Qe2 Bxc3+ 8. bxc3 Qxh1 9. Nf3 Nf6 10. Bf4 b6 11. O-O-O Bb7 12. Bg2 Bxf3 13. Bxf3 Qxd1+ 14. Kxd1 c6 15. Bxb8 Rxb8 16. Bxc6+ Ke7 17. d5 Rhd8 18. c4 Rd6 19. Kc1 Rbd8 20. g4 h6 21. h4 Kf8 22. g5 hxg5 23. hxg5 Ng8 24. Qf3 Ne7 25. Ba4 exd5 26. cxd5 Rxd5 27. Bb3 Rf5 28. Qh5 Ng6 29. Qg4 Rf4 30. Qg2 Re8 31. Qb7 Re7 32. Qb8+ Re8 33. Qd6+ Re7 34. Bd5 Rf2 35. Be4 Re2 36. Bxg6 fxg6 37. Qxg6 Kg8 38. Qh5 1-0
+

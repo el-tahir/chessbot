@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8NYxvFOW"]
+[Date "2021.01.10"]
+[White "EltahirAmin"]
+[Black "hipocampo69"]
+[Result "0-1"]
+[UTCDate "2021.01.10"]
+[UTCTime "07:50:12"]
+[WhiteElo "1907"]
+[BlackElo "1889"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 e5 3. d4 c6 4. Nf3 Qe7 5. Bc4 h6 6. Be3 Qf6 7. dxe5 dxe5 8. Qd2 Ne7 9. O-O-O Ng6 10. Nxe5 Nxe5 11. f4 Nxc4 12. e5 Qe7 13. Qd3 Nxe3 14. Qxe3 Nd7 15. Rhe1 Qc5 16. Qg3 Be7 17. Ne4 Qb4 18. Nd6+ Bxd6 19. exd6+ Kf8 20. Qh4 Nf6 21. d7 Bxd7 22. g4 Bxg4 23. Rd3 Re8 24. Red1 Bxd1 25. Rxd1 Ne4 26. Qh5 Nf2 27. Rd7 Re1+ 0-1
+

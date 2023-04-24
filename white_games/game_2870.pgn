@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ApnalaH8"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "Klyfusius"]
+[Result "1-0"]
+[UTCDate "2020.11.25"]
+[UTCTime "22:35:57"]
+[WhiteElo "1890"]
+[BlackElo "1834"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-124"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B07"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nd7 3. d4 e5 4. f4 Ngf6 5. Nf3 exd4 6. Nxd4 Be7 7. Bc4 c6 8. O-O Qc7 9. Be3 b6 10. Nce2 h6 11. Ng3 Bb7 12. e5 dxe5 13. fxe5 Nxe5 14. Bb3 O-O-O 15. a4 c5 16. a5 cxd4 17. Bxd4 Nc6 18. c3 Bc5 19. axb6 Qxb6 20. Kh1 Bxd4 21. cxd4 Rxd4 22. Qc2 Ng4 23. h3 Ne3 24. Qc3 Nxf1 25. Rxf1 f6 26. Nf5 Rd7 27. Ne3 Re7 28. Nd5 Qa5 29. Nxe7+ Kb8 30. Nxc6+ Bxc6 31. Qxa5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1vlA5b86"]
+[Date "2022.05.13"]
+[White "EltahirAmin"]
+[Black "AlonsoCalderon_PUCP"]
+[Result "1-0"]
+[UTCDate "2022.05.13"]
+[UTCTime "23:09:38"]
+[WhiteElo "2116"]
+[BlackElo "2110"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 c5 4. d4 cxd4 5. Nxd4 Nc6 6. exd5 exd5 7. Bb5 Qb6 8. Bxc6+ bxc6 9. Qe2+ Ne7 10. Nb3 Be6 11. O-O O-O-O 12. Rd1 c5 13. Na4 Qd6 14. Naxc5 Nc6 15. Qa6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ji0K9pN7"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "West-End-Draught"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "02:25:22"]
+[WhiteElo "2071"]
+[BlackElo "2086"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 c5 4. e5 Nc6 5. d4 b6 6. Bf4 a5 7. Bb5 Bd7 8. O-O Nxe5 9. Bxd7+ Nxd7 10. Re1 Be7 11. Nb5 Rc8 12. Qe2 Ngf6 13. Ng5 O-O 14. Qf3 cxd4 15. Nxd4 Ne4 16. Nxe4 dxe4 17. Qxe4 Nf6 18. Qe3 Nd5 19. Qg3 Bf6 20. Be3 Re8 21. c3 Nxe3 22. Rxe3 Qd5 23. Rf3 Bxd4 24. cxd4 Qxd4 25. Re1 Qxb2 26. Qf4 Re7 27. Qd6 Rce8 28. Rd3 Qb4 29. Qd8 Qxe1# 0-1
+

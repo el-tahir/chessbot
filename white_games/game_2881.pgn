@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pecYwhdi"]
+[Date "2020.11.25"]
+[White "EltahirAmin"]
+[Black "Orlando_CZ"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "12:23:54"]
+[WhiteElo "1896"]
+[BlackElo "1834"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Bb5 a6 7. Bxc6 bxc6 8. Nxe5 Nf6 9. O-O Qe7 10. d4 d5 11. Re1 Qd6 12. exd5 O-O 13. dxc6 Be6 14. Be3 Nd5 15. Nxd5 Bxd5 16. c4 Bxc6 17. c5 Bxc5 18. dxc5 Qxd1 19. Raxd1 Ba4 20. Rd4 Rae8 21. Bf4 f6 22. Nf3 Rxe1+ 23. Nxe1 Re8 24. Kf1 Bb5+ 25. Nd3 h5 26. f3 g5 27. Bxc7 Re3 28. Kf2 Rxd3 29. Rxd3 Bxd3 30. g3 Bb5 31. f4 gxf4 32. gxf4 Kf7 33. h4 f5 34. Ke3 Ke6 35. Kd4 Kd7 36. Kd5 Kxc7 37. Ke5 Bd3 38. Kd5 Be4+ 39. Kc4 Kc6 40. a4 Bd5+ 41. Kd4 Bb3 42. a5 Kb5 43. Kc3 Bd5 44. Kd4 Be4 45. Kc3 Bc6 46. Kb3 Bd5+ 47. Kc3 Ba2 48. Kb2 Bd5 49. Kc3 Bg8 50. c6 Kxc6 51. Kd4 Kb5 52. Kc3 Bc4 53. Kd4 Kxb4 54. Ke3 Kxa5 55. Kd4 Kb4 56. Ke5 a5 57. Kxf5 Bd3+ 58. Kg5 a4 59. Kxh5 a3 60. f5 a2 61. f6 a1=Q 62. f7 Qh8+ 63. Kg5 Qg7+ 64. Kh5 Qxf7+ 65. Kg4 Qf5+ 66. Kg3 Be4 67. h5 Qf3+ 68. Kh4 Qg2 69. h6 Bf3 70. h7 Qg4# 0-1
+

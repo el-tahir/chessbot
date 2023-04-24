@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RcCqvkbB"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "miguel712"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "17:42:46"]
+[WhiteElo "1949"]
+[BlackElo "1943"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nc6 6. Be3 cxd4 7. Nxd4 Nxd4 8. Bxd4 e5 9. Be3 Qxd1+ 10. Kxd1 Bf5 11. Na3 O-O-O+ 12. Ke1 Kb8 13. Rd1 Rxd1+ 14. Kxd1 Nf6 15. Bc4 Bxa3 16. bxa3 Rd8+ 17. Ke2 Ne4 18. Bxf7 Nxc3+ 19. Kf3 e4+ 20. Kf4 g6 21. g4 Ne2+ 22. Ke5 Bxg4 23. Kxe4 Nc3+ 24. Kf4 Bf5 25. Rc1 Ne2+ 26. Ke5 Nxc1 27. Bf4 Nd3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6DbtuQ0w"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "sanya20204"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "02:35:30"]
+[WhiteElo "2061"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. f3 e5 2. e4 Nf6 3. Ne2 d5 4. d3 dxe4 5. fxe4 Bc5 6. Ng3 O-O 7. Qf3 Bg4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kNCfXTtE"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "Pazianottochess"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "21:41:52"]
+[WhiteElo "1962"]
+[BlackElo "1954"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. d4 dxe4 4. Ne5 Bd6 5. Bf4 Nf6 6. Nc3 Nbd7 7. Bb5 a6 8. Ba4 b5 9. Bb3 Bb7 10. Qe2 O-O 11. a3 Qe7 12. O-O-O Rfd8 13. h4 Rac8 14. h5 c5 15. g4 cxd4 16. Rxd4 Bxe5 17. Bxe5 Nxe5 18. Rhd1 Rxd4 19. Rxd4 Nexg4 0-1
+

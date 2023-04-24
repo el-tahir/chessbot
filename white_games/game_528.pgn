@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gUhFc7FD"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "fuerzagorda"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "02:34:38"]
+[WhiteElo "2102"]
+[BlackElo "2206"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Ng3 e5 5. Nf3 e4 6. Ng5 Qd5 7. d3 exd3 8. Bxd3 Qxg2 9. Bf4 Bd6 10. Qe2+ Kd8 11. O-O-O Bxf4+ 12. Kb1 Qxh1 13. Bb5+ Qd5 14. Nxf7# 1-0
+

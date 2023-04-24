@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WfFo1C7k"]
+[Date "2021.11.19"]
+[White "nesaking"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "03:20:29"]
+[WhiteElo "1996"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 e6 5. Nbd2 Bd6 6. c4 O-O 7. c5 Bxf4 8. exf4 Re8 9. Bd3 Nbd7 10. O-O b6 11. b4 a5 12. a3 Ba6 13. Bxa6 Rxa6 14. Re1 Qa8 15. Qe2 Qa7 16. Nb3 Ra8 17. cxb6 Nxb6 18. Nc5 Nc4 19. Nxa6 Qxa6 20. bxa5 Qxa5 21. Ne5 Qc7 22. Nxc4 dxc4 23. Qxc4 Qxf4 24. Qxc6 Rd8 25. a4 h5 26. a5 Ng4 27. h3 Qxf2+ 28. Kh1 Ne3 29. a6 Rd5 30. Rxe3 Qxe3 31. a7 g6 32. a8=Q+ Kg7 33. Qxd5 exd5 34. Qxd5 1-0
+

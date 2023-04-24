@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZUaPHcm9"]
+[Date "2023.02.26"]
+[White "Humble_Beast"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.26"]
+[UTCTime "22:07:04"]
+[WhiteElo "1939"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. Re1 Nf6 6. d3 e6 7. Ne5 d5 8. Nxc6 bxc6 9. Bb3 Bd6 10. Bg5 h5 11. c4 Bxh2+ 12. Kh1 Bd6 13. cxd5 cxd5 14. Bxd5 Rb8 15. Bxf6 Qxf6 16. Bc6+ Kf8 17. Nc3 Qxf2 18. Qf3 Rxb2 19. Qxf2 Rxf2 20. Rab1 Ba6 21. Ne4 Bxd3 22. Nxf2 Bxb1 23. Rxb1 Ke7 24. Ne4 Be5 25. Rb7+ Kd8 26. Nxc5 Rh6 27. Rxa7 Kc8 28. Bb7+ Kb8 29. Ra8+ Kc7 30. Bf3 h4 31. Na6+ Kb6 32. Nb4 h3 33. Nd3 h2 34. Nxe5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f7Z4hfqn"]
+[Date "2021.03.04"]
+[White "EltahirAmin"]
+[Black "Sergio13a"]
+[Result "0-1"]
+[UTCDate "2021.03.04"]
+[UTCTime "21:24:29"]
+[WhiteElo "2039"]
+[BlackElo "2029"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C15"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. exd5 exd5 5. Nf3 Ne7 6. Bd3 O-O 7. Bxh7+ Kxh7 8. Ng5+ Kg6 9. h4 Bxc3+ 10. bxc3 f5 11. h5+ Kf6 12. h6 g6 13. Nh7+ Kf7 14. Nxf8 Qxf8 15. h7 Qh8 16. Ba3 Nbc6 17. Qf3 Be6 18. Kd2 Re8 19. Rab1 b6 20. Rbe1 Na5 21. Qe3 Nc4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FS5rYzqt"]
+[Date "2020.12.28"]
+[White "sirpeibol89"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "14:02:44"]
+[WhiteElo "1977"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 Bf5 6. d4 c5 7. Nf3 Nc6 8. Bb5 Rc8 9. d5 a6 10. dxc6 axb5 11. cxb7 Rb8 12. a4 Rxb7 13. axb5 Rxb5 14. O-O Qb6 15. Be3 e6 16. Ra8+ Kd7 17. exd6 Bxd6 18. Rxh8 Rb2 19. Ne5+ Ke7 20. Nc4 1-0
+

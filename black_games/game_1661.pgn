@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/blMg2qXi"]
+[Date "2021.02.16"]
+[White "serg480"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.16"]
+[UTCTime "15:21:32"]
+[WhiteElo "2007"]
+[BlackElo "1995"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. f4 Nf6 5. Qf3 Bg4 6. Qf2 Qc7 7. h3 Bh5 8. g4 Bg6 9. d3 h6 10. Be2 e5 11. f5 Bh7 12. Nc3 Bd6 13. Nb5 Qa5+ 14. Nc3 Qc7 15. O-O-O Rc8 16. Nb5 Qd7 17. Nxd6+ Qxd6 18. h4 c4 19. dxc4 d4 20. exd4 e4 21. d5 Nb4 22. a3 Na6 23. g5 hxg5 24. hxg5 Nd7 25. Bxg7 Qxa3+ 26. Bb2 Qf8 27. Bg4 f6 28. g6 Bxg6 29. Rxh8 Qxh8 30. fxg6 Qh6+ 31. Qd2 Qxg6 32. Bxd7+ Kxd7 33. Qf4 Rf8 34. Ne2 Nb4 35. Nd4 Qg2 36. Qf5+ Kd8 37. Ne6+ Ke7 38. Rd2 Qg1+ 39. Rd1 Qe3+ 40. Kb1 Qe2 41. Rc1 Rf7 42. Bxf6+ Rxf6 43. Qh7+ Rf7 44. Qh4+ Rf6 45. Nd4 Kd6 46. Nxe2 Kc5 47. Nc3 Kb6 48. Nxe4 Ka6 49. Nxf6 b6 50. Nd7 Kb7 51. Nc5+ bxc5 52. Qe7+ Ka6 53. Qd6+ Ka5 54. Qc6 a6 55. Qb5+ axb5 0-1
+

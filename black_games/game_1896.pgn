@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ROaXwGKz"]
+[Date "2021.01.22"]
+[White "G-Energy"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "08:47:33"]
+[WhiteElo "2004"]
+[BlackElo "1952"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Be7 7. c3 O-O 8. Bd3 Bg4 9. h3 Nd7 10. hxg4 Nb6 11. Qc2 g6 12. Bh6 Re8 13. O-O-O Rc8 14. Kb1 c5 15. dxc5 Rxc5 16. Be3 Ra5 17. Nd4 Qd5 18. Nb3 Ra4 19. Bb5 Qxb5 20. Nd4 Qd5 21. Nb3 Qb5 22. Nd4 Qa6 23. a3 Nc4 24. Kc1 Rxa3 25. Nb3 Ra4 26. Rd4 Ra2 0-1
+

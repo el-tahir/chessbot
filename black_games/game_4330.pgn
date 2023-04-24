@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FN78txaz"]
+[Date "2020.05.30"]
+[White "Chillammo"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "10:44:08"]
+[WhiteElo "2118"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Nf3 Bb4+ 7. Bd2 a5 8. Bd3 O-O 9. O-O d6 10. Nc3 Bg4 11. Qc2 Nd7 12. a3 Bc5+ 13. Kh1 Qe7 14. Rae1 f6 15. e5 fxe5 16. Bxh7+ Kh8 17. Nd5 Qd8 18. Qg6 Nf6 19. Nxf6 Qxf6 20. fxe5 Qxg6 21. Bxg6 Nxe5 22. Nxe5 Rxf1+ 23. Rxf1 dxe5 24. h3 Be2 25. Rf7 Bxc4 26. Rxc7 b6 27. b4 axb4 28. axb4 Ra1+ 29. Kh2 Bd6 30. Rxc4 e4+ 31. g3 Ra8 32. Rxe4 Kg8 33. Re8+ Rxe8 34. Bxe8 Kf8 35. Bg6 Ke7 36. Bf5 Kf6 37. Bd3 Ke5 38. Bc4 Kd4 39. Bf7 Kd3 40. Bg5 Bxb4 41. h4 Bd6 42. Be8 Kc4 43. Kh3 b5 44. Bf7+ Kc3 45. Bf4 Be7 46. Be5+ Kc2 47. Bxg7 b4 48. h5 b3 49. h6 Bf8 50. Bxf8 b2 51. h7 b1=Q 52. Bg6+ 1-0
+

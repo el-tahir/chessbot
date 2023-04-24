@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nau23jQs"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "magicrsn"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:29:18"]
+[WhiteElo "1971"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. e5 Nc6 5. d4 cxd4 6. Nxd4 Bd7 7. f4 Bc5 8. Be3 Nxd4 9. Bxd4 Bxd4 10. Qxd4 Ne7 11. Bd3 Nc6 12. Qf2 O-O 13. O-O-O a5 14. Nb5 Nb4 15. Be2 Nxa2+ 16. Kb1 Nb4 17. Nd6 Qc7 18. c3 Nc6 19. Qh4 a4 20. Rd3 a3 21. Rh3 h6 22. g4 axb2 23. g5 Qa5 24. Kxb2 Qa2+ 25. Kc1 Qa1+ 26. Kd2 Qxh1 27. gxh6 g6 28. Qf6 Ra2+ 29. Ke3 Qg2 30. Qg7# 1-0
+

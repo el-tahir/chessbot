@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V0uaT7QZ"]
+[Date "2020.07.23"]
+[White "montseny58"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.07.23"]
+[UTCTime "20:41:09"]
+[WhiteElo "1732"]
+[BlackElo "2046"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Bg4 6. Bf4 e6 7. e3 Bd6 8. Bb5+ Nc6 9. Qa4 Rc8 10. Bxd6 Qxd6 11. Ne5 Bf5 12. Rc1 O-O 13. Nxc6 bxc6 14. Ba6 Rc7 15. O-O Re8 16. Qa5 Ree7 17. Ne2 h5 18. Nf4 h4 19. h3 g5 20. Nd3 g4 21. Ne5 gxh3 22. Kh2 hxg2 23. Kxg2 h3+ 24. Kh1 Ng4 25. f4 f6 26. Rf3 fxe5 27. fxe5 Be4 28. exd6 Bxf3+ 29. Kg1 h2+ 30. Kf1 h1=Q# 0-1
+

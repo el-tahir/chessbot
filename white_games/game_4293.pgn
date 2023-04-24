@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/npdWAICP"]
+[Date "2020.08.05"]
+[White "EltahirAmin"]
+[Black "Kumskiy"]
+[Result "0-1"]
+[UTCDate "2020.08.05"]
+[UTCTime "18:28:17"]
+[WhiteElo "2014"]
+[BlackElo "2004"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. O-O Nf6 6. b5 Na5 7. Bb3 d6 8. Re1 Bg4 9. Bb2 Qd7 10. c4 O-O-O 11. Nc3 h5 12. Na4 Kb8 13. Nxb6 axb6 14. Re3 h4 15. Bc3 h3 16. g3 g6 17. d4 exd4 18. Bxd4 Rhe8 19. Bxf6 Rc8 20. Qf1 Qe6 21. Bc3 f5 22. exf5 Qxf5 23. Rae1 Rxe3 24. Rxe3 Bxf3 25. Bxa5 bxa5 26. Rxf3 Qxf3 27. Qxh3 Re8 28. Qf1 Re4 29. Bd1 Qc3 30. Qh3 Re1+ 31. Kg2 Rxd1 32. b6 cxb6 33. Qh8+ Qxh8 0-1
+

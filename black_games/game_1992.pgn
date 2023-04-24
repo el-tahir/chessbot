@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P3WATBYs"]
+[Date "2021.01.13"]
+[White "YuriGor"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.13"]
+[UTCTime "19:35:12"]
+[WhiteElo "1946"]
+[BlackElo "1944"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Bg5 Nc6 6. Qb3 e6 7. Rc1 Nxd4 8. Qa4+ Nc6 9. e4 Bd7 10. e5 Nxe5 11. Qb3 Rb8 12. Nb5 Nc6 13. Qg3 Be7 14. Nc7+ Kf8 15. Bd3 Rc8 16. Nb5 Ne8 17. Nh3 Bxg5 18. Nxg5 h6 19. Nxf7 Kxf7 20. O-O Qf6 21. f4 Nd6 22. Nxd6+ Ke7 23. f5 e5 24. Nxc8+ Rxc8 25. Rfe1 Bxf5 26. Rxc6 Rxc6 27. Rxe5+ Re6 28. Rxf5 Qxb2 29. Qc7+ Ke8 30. Qc8+ Ke7 31. Qf8+ Kd7 32. Rf7+ Kc6 33. Qc8+ Kd6 34. Rd7+ Ke5 35. Qc7+ Kd4 36. Qf4+ Kxd3 37. Rxd5+ Kc3 38. Qf3+ Kc4 39. Qd3+ Kb4 40. Rb5+ Ka4 41. Qc4+ Ka3 42. Ra5# 1-0
+

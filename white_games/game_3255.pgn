@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/liioJTsF"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "Kunoo_5"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "19:46:25"]
+[WhiteElo "1937"]
+[BlackElo "1928"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nf3 Nxc3 5. bxc3 g6 6. d4 Bg7 7. Bc4 c6 8. Bf4 O-O 9. Qd2 Nd7 10. O-O Nf6 11. Bh6 e6 12. Bxg7 Kxg7 13. Ne5 Qa5 14. f4 Nd7 15. Qf2 Nxe5 16. fxe5 Qxc3 17. Qf6+ Kg8 18. Rab1 Qxc4 0-1
+

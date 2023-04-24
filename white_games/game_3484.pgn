@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yBeI9Hfv"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "tsnaz3000"]
+[Result "1-0"]
+[UTCDate "2020.11.08"]
+[UTCTime "12:44:55"]
+[WhiteElo "1992"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 Ne7 3. d4 Ng6 4. Be3 b6 5. Bd3 Bb7 6. f4 Nh4 7. Qe2 Nc6 8. Nf3 Nb4 9. Bf2 Nxg2+ 10. Kf1 Nxf4 11. Qe3 Nfxd3 12. cxd3 Nc2 13. Qc1 Nxa1 14. Qxa1 g6 15. Ne5 Bg7 16. Bg3 d6 17. Nc4 Qf6+ 18. Ke2 Qxd4 19. Qf1 O-O-O 20. Qxf7 Rdf8 21. Qxe6+ Kb8 22. Rc1 d5 23. Nxd5 Rc8 24. Ne5 Qxb2+ 25. Kd1 Bxd5 26. Qxd5 Bh6 27. Nd7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gyM3d19a"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "gilgamis"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "11:39:16"]
+[WhiteElo "1944"]
+[BlackElo "1910"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Ne4 5. Nxe4 dxe4 6. Ne2 c5 7. c3 Qb6 8. Ng3 Nc6 9. Nxe4 cxd4 10. Be2 dxc3 11. Nxc3 Nxe5 12. O-O Be7 13. Be3 Qxb2 14. Bd4 Nc6 15. Nb5 Nxd4 16. Nc7+ Kf8 17. Bh5 Rb8 18. Rb1 Qc3 19. Qg4 g6 20. Rfc1 gxh5 21. Qxh5 Qd3 22. Rd1 Qe4 23. Qh6+ Kg8 24. Re1 Qg6 25. Qe3 Nf5 26. Qxa7 Nh4 27. g3 Nf3+ 28. Kf1 Nxe1 29. Qxb8 Qxb1 30. Qxc8+ Kg7 31. Qd7 Bf6 32. Nxe6+ Kg6 33. Nf4+ Kg5 34. h4+ Kh6 35. Qf5 Qxf5 0-1
+

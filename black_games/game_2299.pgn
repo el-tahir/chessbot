@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vJugfnzv"]
+[Date "2020.12.24"]
+[White "Drdrunkstien_updated"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "07:06:19"]
+[WhiteElo "1983"]
+[BlackElo "1988"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A22"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 e5 3. d4 exd4 4. Qxd4 Nc6 5. Qd1 Bc5 6. Bg5 O-O 7. e3 Re8 8. Bd3 d6 9. Nf3 Bg4 10. Bc2 Qe7 11. Qd3 g6 12. Bd1 Nb4 13. Qd2 Rad8 14. O-O d5 15. cxd5 Qd6 16. h3 Bc8 17. e4 c6 18. e5 Rxe5 19. Nxe5 Qxe5 20. Bxf6 Qxf6 21. a3 Nxd5 22. Nxd5 Rxd5 23. Qh6 Rd4 24. Bf3 Rh4 25. Qc1 Bxh3 26. Qc3 Qg5 27. Rad1 Rf4 28. Rfe1 Rxf3 29. Re8+ Bf8 30. g3 Rxc3 31. Rdd8 Rc1+ 32. Kh2 Qh6 33. Rb8 Bg4+ 34. Kg2 Qh1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E1O45fgs"]
+[Date "2020.10.30"]
+[White "pion-jablay"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.30"]
+[UTCTime "08:33:13"]
+[WhiteElo "2091"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O h6 8. Bg5 hxg5 9. Nxg5 Bxe2 10. Qxe2 Nc6 11. Rae1 Qc7 12. Nxe6 Qxh2# 0-1
+

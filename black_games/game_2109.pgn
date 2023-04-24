@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BOHS1BbA"]
+[Date "2020.12.30"]
+[White "Shriku10"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "14:30:13"]
+[WhiteElo "1946"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 Bg4 4. f4 Bxd1 0-1
+

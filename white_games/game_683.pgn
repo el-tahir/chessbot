@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AyglXaiJ"]
+[Date "2022.01.03"]
+[White "EltahirAmin"]
+[Black "izmirUnited"]
+[Result "1-0"]
+[UTCDate "2022.01.03"]
+[UTCTime "17:18:14"]
+[WhiteElo "2101"]
+[BlackElo "2075"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. exd5 exd5 5. d4 Nc6 6. Be2 Nf6 7. O-O Be7 8. dxc5 O-O 9. Re1 Bxc5 10. Bg5 d4 11. Nb1 h6 12. Bh4 Bf5 13. Nbd2 Nb4 14. Rc1 Nxa2 15. Ra1 Nb4 16. Rc1 Rc8 17. Nb3 b6 18. Nfxd4 Bxd4 19. Nxd4 Bh7 20. c3 Nbd5 21. Bd3 Bxd3 22. Qxd3 Nf4 23. Qg3 N4h5 24. Qf3 Qd5 25. Qxd5 Nxd5 26. Re5 Nhf4 27. g3 f6 28. Rf5 g6 29. Rxf4 Nxf4 30. gxf4 g5 31. fxg5 fxg5 32. Bg3 Rce8 33. Kf1 Re7 34. h4 Rfe8 35. hxg5 hxg5 36. Nf3 g4 37. Nd4 Rh7 38. Kg2 a5 39. Ra1 Ra8 40. Ra4 Rb7 41. Rc4 b5 42. Rc5 b4 43. Ne6 Re7 44. Rg5+ Kf7 45. Nd4 bxc3 46. bxc3 a4 47. Be5 a3 48. Rg7+ Kf8 49. Nc6 Ke8 50. Rxe7+ Kf8 51. c4 Kg8 52. Ba1 a2 53. Rg7+ Kf8 54. Ne5 Ke8 55. Rh7 Rb8 56. Rh8+ Ke7 57. Rxb8 Kd6 58. Ra8 Kc5 59. Rxa2 Kb4 60. Re2 Kc5 61. Kg3 Kb4 62. Kxg4 Kc5 63. f4 Kb4 64. f5 Kc5 65. f6 Kb4 66. c5 Kxc5 67. Nd7+ 1-0
+

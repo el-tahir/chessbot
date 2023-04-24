@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OnT2AB0m"]
+[Date "2022.05.04"]
+[White "Chepekale"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2022.05.04"]
+[UTCTime "04:53:25"]
+[WhiteElo "2127"]
+[BlackElo "2047"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. Ne5 Bd7 7. Nxd7 Qxd7 8. O-O a6 9. Ba4 e6 10. c3 Bd6 11. Kh1 O-O 12. f4 Ne4 13. Bc2 f5 14. Nd2 Qe7 15. Nf3 Rac8 16. Ne5 Nxe5 17. fxe5 Bb8 18. Qf3 Ba7 19. Bf4 Bxd4 20. Bxe4 fxe4 21. Qg4 Ba7 22. Bg5 Qc7 23. Bf6 Rf7 24. Qxe6 gxf6 25. Rxf6 Rf8 26. Raf1 Kg7 27. Qg4+ Kh8 28. Qg5 Bb8 29. R1f5 Rxf6 30. exf6 Qf7 31. h4 Qg6 32. g4 Qxg5 33. hxg5 Kg8 34. Rxd5 Kf7 35. Kg2 Kg6 36. Kh3 Bf4 37. Kh4 e3 38. Rd1 Bxg5+ 39. Kg3 Kxf6 40. Kf3 Kg6+ 41. Ke4 Rf2 42. Re1 e2 43. Kd3 Kf6 44. Rxe2 Rxe2 45. Kxe2 Ke5 46. Kd3 Kf4 47. b4 Kxg4 48. c4 Bd8 49. a4 h5 50. Ke2 Kg3 51. Kf1 Be7 52. Kg1 Bxb4 53. Kh1 h4 54. a5 h3 55. c5 h2 56. c6 bxc6 1/2-1/2
+

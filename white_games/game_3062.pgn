@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NNhrxbm8"]
+[Date "2020.11.19"]
+[White "EltahirAmin"]
+[Black "zionis"]
+[Result "0-1"]
+[UTCDate "2020.11.19"]
+[UTCTime "11:19:46"]
+[WhiteElo "1964"]
+[BlackElo "1993"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 cxd4 5. c3 Nc6 6. cxd4 Bb4+ 7. Nc3 Qa5 8. Bd2 Bd7 9. Be2 Nge7 10. O-O O-O 11. a3 Bxc3 12. Bxc3 Qb6 13. Rc1 Ng6 14. h4 f5 15. h5 Nf4 16. h6 Nxe2+ 17. Qxe2 Rf7 18. Ng5 Re7 19. Qh5 Rf8 20. Rcd1 g6 21. Qh4 a5 22. g3 Bc8 23. g4 Bd7 24. gxf5 Rxf5 25. f4 Nxe5 26. Qg4 Nxg4 0-1
+

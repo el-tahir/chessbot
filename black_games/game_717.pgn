@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YeEg4NxX"]
+[Date "2021.11.21"]
+[White "Vegetariannism"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.21"]
+[UTCTime "22:21:37"]
+[WhiteElo "2077"]
+[BlackElo "2070"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. Bg5 e6 7. c3 Be7 8. Nbd2 h6 9. Bh4 Nd7 10. Bg3 Bf6 11. a4 Nb6 12. a5 Nd7 13. b4 Qe7 14. a6 b6 15. b5 Na5 16. O-O O-O 17. Rc1 Bg5 18. Nxg5 Qxg5 19. Nf3 Qf6 20. Bb1 Nc4 21. Qd3 Qg6 22. Qxg6 fxg6 23. Bxg6 Nf6 24. Ne5 Nd2 25. Rfe1 Nfe4 26. Bh4 Rf4 27. g3 Rf3 28. Kg2 Nxc3 29. Nxf3 Nxf3 30. Kxf3 Nxb5 31. Red1 Bxa6 32. Ra1 Bb7 33. Ke3 Rc8 34. Rdc1 Rf8 35. Rab1 Nd6 36. g4 Nc4+ 37. Ke2 a6 38. Rxc4 dxc4 39. Rxb6 Bf3+ 40. Ke3 c3 41. Rxe6 c2 42. Bxc2 Bd5 43. Re7 Bc4 44. Bg6 Bd5 45. Bg3 Rf3+ 46. Ke2 Rf8 47. Be5 Bc4+ 48. Ke3 Re8 49. Rxg7+ Kf8 50. Rc7 Bb5 51. Kf4 Rxe5 52. dxe5 Be8 53. e6 Bxg6 0-1
+

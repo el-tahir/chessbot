@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LnghG8My"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "DivingWithWhales"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "14:52:30"]
+[WhiteElo "2005"]
+[BlackElo "2009"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. Nc3 d6 2. e4 g6 3. f4 Bg7 4. Nf3 f5 5. d4 Nc6 6. Bc4 h6 7. O-O e6 8. Re1 Qf6 9. e5 dxe5 10. dxe5 Qd8 11. Qe2 Bd7 12. Be3 a6 13. Rad1 Qe7 14. Nd4 Rd8 15. Rd2 g5 16. Red1 h5 17. b4 gxf4 18. Bxf4 Nxd4 19. Rxd4 Qxb4 20. Bxe6 Qc5 21. Bxd7+ Rxd7 22. Na4 Qa7 23. Be3 Rxd4 24. Bxd4 Qb8 25. Nc5 Ke7 26. Qf3 b6 27. Nd3 Nh6 28. Nf4 Ng4 29. Ng6+ Ke6 30. Nxh8 Qxh8 31. h3 Nxe5 32. Bxe5 Bxe5 33. Qc6+ Bd6 34. Qf3 Kf6 35. Qc3+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Q4DyZg9q"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "Quisqueyano"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "21:55:38"]
+[WhiteElo "2057"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 b6 4. d4 exd4 5. Nxd4 Bb7 6. Be3 Nge7 7. Bc4 Ng6 8. Qf3 Nce5 9. Qe2 Nxc4 10. Qxc4 Ne5 11. Qe2 a6 12. f4 Ng6 13. Rd1 d6 14. O-O Be7 15. Nf5 O-O 16. Bd4 Bf6 17. e5 dxe5 18. fxe5 Be7 19. e6 f6 20. Bxf6 Bc5+ 21. Kh1 Qxf6 22. Nh6+ gxh6 23. Rxf6 Rxf6 24. Ne4 Bxe4 25. Qxe4 Re8 26. h3 Rfxe6 27. Qd3 a5 28. Qc4 Kg7 29. Qc3+ Kf7 30. Rd7+ R8e7 31. Qf3+ Kg7 32. Rxe7+ Rxe7 33. Qc3+ Kf7 34. a3 Bd6 35. g4 Ne5 36. Qb3+ Kg6 37. Qd5 Kf6 38. c4 Kg5 39. Qe4 Kh4 40. Kg2 Ng6 41. Qf5 Nf4+ 42. Kf3 Kxh3 43. Qf6 Kh2 44. Qxh6+ Kg1 45. Qh4 Bc5 46. Qg3+ Kh1 47. Qxf4 Re3+ 48. Kf2 Re4+ 49. Kf3 Rxf4+ 50. Kxf4 Bd4 51. g5 Bxb2 52. g6 Bxa3 53. gxh7 Bb2 54. h8=Q+ 1-0
+

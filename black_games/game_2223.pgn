@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BoWqEvq2"]
+[Date "2020.12.27"]
+[White "kagang1956"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:42:59"]
+[WhiteElo "2002"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Qb3 Nb6 9. d5 Nb8 10. Ne5 Bd7 11. d6 e6 12. Nxd7 N8xd7 13. Bb5 Bxd6 14. Be3 O-O 15. O-O-O Qe7 16. Ne4 Rac8+ 17. Kb1 Be5 18. f4 Bf6 19. g4 g6 20. Bxd7 Nxd7 21. Rxd7 Kg7 22. Rxe7 Bxe7 23. Bd4+ Kg8 24. Nf6+ Bxf6 25. Bxf6 Rc7 26. Qh3 1-0
+

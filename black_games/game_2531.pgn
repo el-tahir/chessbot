@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vA46lwNa"]
+[Date "2020.12.17"]
+[White "htrebbi"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.17"]
+[UTCTime "16:40:50"]
+[WhiteElo "1939"]
+[BlackElo "1956"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 Bg4 5. Bf4 e6 6. e3 Bd6 7. Bg3 O-O 8. Be2 Na6 9. c5 Bc7 10. Ne5 Bxe2 11. Qxe2 Qe8 12. O-O b6 13. Qxa6 bxc5 14. Qxc6 Qe7 15. Qa4 cxd4 16. exd4 Rab8 17. Nc6 1-0
+

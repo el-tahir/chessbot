@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/V8y9MdnF"]
+[Date "2022.06.02"]
+[White "EltahirAmin"]
+[Black "Sangokuley"]
+[Result "0-1"]
+[UTCDate "2022.06.02"]
+[UTCTime "18:43:10"]
+[WhiteElo "2035"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. d4 cxd4 5. Nd5 Nf6 6. Nxf6+ Qxf6 7. Bb5 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 a6 10. Bd3 O-O 11. O-O d6 12. c3 dxc3 13. Qxc3 h6 14. Rac1 Bg4 15. Nd2 Nd4 16. Nb3 Be2 17. Rfe1 Nf3+ 18. gxf3 Qg5+ 19. Kh1 Bxf3# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HNsvKleD"]
+[Date "2021.01.14"]
+[White "EltahirAmin"]
+[Black "igorboroda"]
+[Result "1-0"]
+[UTCDate "2021.01.14"]
+[UTCTime "07:44:45"]
+[WhiteElo "1938"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nc3 Nc6 4. Bc4 d6 5. O-O Nge7 6. Re1 O-O 7. Ne2 Be6 8. Bxe6 fxe6 9. c3 Ng6 10. d4 exd4 11. cxd4 Bb6 12. Qb3 Qe7 13. Bg5 Qd7 14. Rad1 Kh8 15. Ng3 e5 16. Be3 Qg4 17. h3 Qd7 18. Ng5 Nf4 19. Nf5 h6 20. Ne6 Rxf5 21. exf5 Nd8 22. Bxf4 exf4 23. Re4 Nxe6 24. fxe6 Qe7 25. Rxf4 a5 26. a4 Re8 27. d5 Qg5 28. Rg4 Qf5 29. Qc3 Qxf2+ 30. Kh1 Re7 31. Qf3 Qc2 32. Qf8+ Kh7 33. Rf1 Qe2 34. Rff4 1-0
+

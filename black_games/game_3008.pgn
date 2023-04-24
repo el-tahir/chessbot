@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lpGvsMEB"]
+[Date "2020.11.21"]
+[White "Soroushnh"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.21"]
+[UTCTime "10:31:42"]
+[WhiteElo "1914"]
+[BlackElo "1921"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. d3 c6 2. Bf4 d5 3. e4 dxe4 4. Nc3 exd3 5. Bxd3 Nf6 6. Nf3 Bg4 7. Qe2 e6 8. O-O-O Qb6 9. Kb1 Be7 10. h3 Bxf3 11. gxf3 Nbd7 12. Rhg1 Rg8 13. Ne4 Nd5 14. Bd2 O-O-O 15. Ng3 Bf6 16. b3 Nc3+ 17. Bxc3 Bxc3 18. Qe3 Qb4 19. Bc4 Qa3 20. Qxc3 Nb6 21. Rxd8+ Rxd8 22. Bd3 Nd5 23. Qb2 Qc5 24. Ne4 Qf8 25. Re1 f5 26. Nc3 Qb4 27. Rxe6 Nxc3+ 28. Kc1 Qd4 29. Kd2 Ne4+ 30. Kc1 Nxf2 31. Qxd4 Rxd4 32. Bxf5 Kc7 33. Re7+ Kb6 34. Rxg7 Rd5 35. Bg4 a5 36. Rxh7 a4 37. Kb2 Ka5 38. a3 b5 39. b4+ Kb6 40. Re7 Rd2 41. Re3 Nd1+ 42. Kc1 Rxc2+ 43. Kxc2 Nxe3+ 44. Kd3 Nd5 45. Ke4 Kc7 46. h4 Kd8 47. h5 Ke8 0-1
+

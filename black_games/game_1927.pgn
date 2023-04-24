@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LmJXTvOc"]
+[Date "2021.01.20"]
+[White "Borisovich007"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "14:06:17"]
+[WhiteElo "1840"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. c4 Nf6 5. cxd5 Nxd5 6. Bc4 Nb6 7. Bb3 Nc6 8. Nc3 Bg4 9. d4 e6 10. h3 Bh5 11. Qd3 Be7 12. Bf4 Bg6 13. Qe3 O-O 14. O-O Bd6 15. Bxd6 Qxd6 16. Nb5 Qe7 17. Rad1 a6 18. Nc3 Rad8 19. Ne5 Nxe5 20. dxe5 Nd5 21. Nxd5 exd5 22. Bxd5 Rfe8 23. f4 Qb4 24. f5 Bh5 25. Rd2 Qb5 26. g4 Rxd5 27. Rxd5 Qxd5 28. gxh5 Rxe5 29. Qf4 h6 30. Rf2 Re1+ 31. Kh2 Qh1+ 32. Kg3 Rg1+ 33. Kh4 Re1 34. Qg3 Re4+ 35. Rf4 Re2 36. Rg4 g5+ 37. Rxg5+ hxg5+ 38. Qxg5+ Kf8 39. Qd8+ Re8 40. Qd6+ Kg8 41. Qf4 Re4 0-1
+

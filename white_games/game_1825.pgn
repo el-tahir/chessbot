@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JbaxGAb0"]
+[Date "2021.01.27"]
+[White "EltahirAmin"]
+[Black "ujai"]
+[Result "1-0"]
+[UTCDate "2021.01.27"]
+[UTCTime "07:17:58"]
+[WhiteElo "2022"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nc6 4. d4 cxd4 5. cxd4 Bd7 6. Nc3 g6 7. Bc4 Bg7 8. Be3 Nf6 9. Ng5 e6 10. f4 a6 11. a4 h6 12. Nf3 d5 13. exd5 exd5 14. Bd3 O-O 15. h4 Ng4 16. Bg1 Re8+ 17. Kd2 Nb4 18. Bb1 Rc8 19. Ne5 h5 20. a5 Nxe5 21. fxe5 Bg4 22. Qf1 Bh6+ 23. Be3 Bxe3+ 24. Kxe3 Nc6 25. Qf4 Nxd4 26. Qxd4 Qc7 27. Kd2 Rxe5 28. Re1 Rce8 29. Ba2 Qd8 30. Rxe5 Rxe5 31. Qxe5 Qxh4 32. Re1 Qf2+ 33. Ne2 d4 34. Qe8+ Kh7 35. Qxf7+ Kh6 36. Qxf2 Bf5 1-0
+

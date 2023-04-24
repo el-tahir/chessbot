@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k4l51mzr"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "Rodrillesky"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "10:53:28"]
+[WhiteElo "2000"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 e6 5. Be2 Be7 6. O-O Nf6 7. Bg5 O-O 8. Nc3 Nbd7 9. Qd2 a6 10. Rae1 b5 11. Ne5 Bb7 12. f4 Ne4 13. Nxe4 dxe4 14. Bxe7 Qxe7 15. Bg4 f5 16. Bh3 Rad8 17. c3 g6 18. g4 Nxe5 19. fxe5 Qg7 20. g5 Rf7 21. Kh1 Rdf8 22. Rf4 Bd5 23. a3 Rc7 24. Bf1 Qe7 25. Rh4 Kg7 26. Re3 f4 27. Reh3 e3+ 28. Qg2 Bxg2+ 29. Bxg2 Rh8 30. Rxf4 Qxg5 31. Rff3 e2 0-1
+

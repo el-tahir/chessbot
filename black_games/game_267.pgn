@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BzzfELnI"]
+[Date "2022.09.18"]
+[White "JHDMontoya"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.09.18"]
+[UTCTime "23:14:49"]
+[WhiteElo "1984"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c6 2. b3 d5 3. Bb2 Nf6 4. Qf3 Nbd7 5. Be2 Qc7 6. Qg3 Qxg3 7. fxg3 e5 8. Nf3 Bd6 9. O-O O-O 10. Nc3 b6 11. Nd1 Bb7 12. Nh4 Ne4 13. Bc3 f5 14. Bf3 Nef6 15. Nxf5 Bc7 16. Be2 Ne4 17. Bd3 Ng5 18. h4 Ne6 19. g4 Rf7 20. Ng3 Raf8 21. Rxf7 Rxf7 22. Nf2 e4 23. Be2 Bxg3 0-1
+

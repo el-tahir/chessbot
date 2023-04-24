@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zoluFBqD"]
+[Date "2020.12.20"]
+[White "saulitoxcarlsen"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.20"]
+[UTCTime "21:11:53"]
+[WhiteElo "2005"]
+[BlackElo "1992"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 Nc6 5. Nf3 Bg4 6. Be2 e6 7. Nbd2 Qb6 8. Qc1 Rc8 9. dxc5 Bxc5 10. O-O Nh5 11. b4 Nxf4 12. bxc5 Nxe2+ 0-1
+

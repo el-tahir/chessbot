@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JieFHESW"]
+[Date "2021.03.05"]
+[White "poisoned_pawn22"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.05"]
+[UTCTime "22:30:28"]
+[WhiteElo "2044"]
+[BlackElo "2046"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 Bg4 5. Be2 e6 6. Nbd2 Bd6 7. Ne5 Bxe2 8. Qxe2 O-O 9. O-O Nbd7 10. Nxf7 Rxf7 11. Bxd6 Qb6 12. Rab1 c5 13. dxc5 Nxc5 14. Bxc5 Qxc5 15. c3 Raf8 16. Qd3 Qd6 17. e4 Ng4 18. Qg3 Qxg3 19. hxg3 Rxf2 20. Rxf2 Rxf2 21. Nb3 dxe4 22. Nd4 e3 23. Nxe6 Kf7 24. Ng5+ Kg6 25. Nf3 Kf5 26. a3 Ke4 27. b3 Kd3 28. c4 Kc2 29. Rf1 Rxf1+ 30. Kxf1 Kd1 31. b4 Ne5 32. Nxe5 e2+ 0-1
+

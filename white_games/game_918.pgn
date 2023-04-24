@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/41j0bwU8"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "LIBREROII"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:26:46"]
+[WhiteElo "2048"]
+[BlackElo "2089"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bb5 Qc7 5. Bxc6 dxc6 6. Nxe5 Qxe5 7. O-O Nf6 8. f4 Qd4+ 9. Kh1 Be7 10. e5 Ng4 11. Qf3 O-O 12. h3 Nh6 13. d3 Nf5 14. g4 Nh6 15. Be3 Qd8 16. f5 Bg5 17. f6 Bxe3 18. Qxe3 Be6 19. Qg5 Bd5+ 20. Kh2 Nf5 21. gxf5 1-0
+

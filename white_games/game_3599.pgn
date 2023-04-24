@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/FpgPjxTV"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "gwadajames"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "11:31:37"]
+[WhiteElo "1974"]
+[BlackElo "1993"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 e6 6. a3 c5 7. b4 cxd4 8. Qxd4 Nc6 9. Qf2 Be7 10. Nf3 O-O 11. Bd3 a6 12. h4 b5 13. Bxh7+ Kh8 14. Ng5 d4 15. Nce4 Bb7 16. Qf3 Ndxe5 17. Qh5 d3 18. Bg6+ Kg8 19. Qh7# 1-0
+

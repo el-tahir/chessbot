@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9Tb225Ao"]
+[Date "2022.06.05"]
+[White "EltahirAmin"]
+[Black "MRaihanBatam"]
+[Result "1-0"]
+[UTCDate "2022.06.05"]
+[UTCTime "15:00:55"]
+[WhiteElo "2032"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb8 7. e5 Ng8 8. d6 cxd6 9. exd6 Nc6 10. Nb5 Qa5+ 11. Bd2 Qb6 12. Nc7+ Kd8 13. Nxa8 Qd4 14. Nc7 Qxd6 15. Nb5 Qe5+ 16. Be2 Qxb2 17. O-O Bc5 18. Bc3 1-0
+

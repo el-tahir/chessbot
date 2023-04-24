@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C7X7gCtN"]
+[Date "2020.10.17"]
+[White "EltahirAmin"]
+[Black "Mohamedabdelazem"]
+[Result "0-1"]
+[UTCDate "2020.10.17"]
+[UTCTime "14:13:46"]
+[WhiteElo "1913"]
+[BlackElo "1898"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 Nf6 4. Nf3 e6 5. d4 d5 6. e5 Ng8 7. Bd3 cxd4 8. Nb5 Bc5 9. a3 a6 10. b4 axb5 11. bxc5 Nge7 12. Bxb5 Nf5 13. g4 Qa5+ 14. Bd2 Qxb5 15. gxf5 Qxc5 16. fxe6 Bxe6 17. O-O d3+ 18. Kh1 dxc2 19. Qe1 Bf5 20. Qg3 O-O 21. Rg1 g6 22. Nh4 Be4+ 23. Ng2 Nd4 24. h3 Nb3 25. Bc1 Nxa1 26. Kh2 Nb3 27. h4 h5 28. Qxb3 Qf2 29. Qg3 Qxg3+ 30. Kxg3 Rac8 31. Ne3 Rc3 32. Rg2 Rfc8 33. Kf2 Rd3 34. Rg1 Rcc3 35. Ke2 d4 36. Nxc2 Rxc2+ 37. Kf1 Rd1# 0-1
+

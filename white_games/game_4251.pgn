@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cBinY45o"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "Iraqiguru1"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "11:01:57"]
+[WhiteElo "1987"]
+[BlackElo "1962"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 Nc6 6. Na3 e5 7. Nc2 Nf6 8. Ne3 Qd7 9. b3 Be7 10. Bb2 e4 11. Ng1 Bxe2 12. Nxe2 O-O 13. O-O Ne5 14. d4 exd3 15. Ng3 b5 16. Nef5 c4 17. bxc4 bxc4 18. Qc1 Bc5 19. Qg5 Ng6 20. h4 Rfe8 21. h5 Re5 22. hxg6 fxg6 23. Nh6+ gxh6 24. Qxe5 Ng4 25. Qxc5 Rf8 26. Qxc4+ Qf7 27. Qxf7+ Rxf7 28. Rad1 h5 29. c4 h4 30. Ne4 Rb7 31. Ba1 Rb4 32. f3 Ne3 33. Kf2 Nxf1 34. Kxf1 Rxc4 35. Bf6 Rc2 36. Rxd3 Rxa2 37. Rd7 h3 38. gxh3 a5 39. Ng5 h6 40. Rg7+ Kf8 41. Rf7+ Ke8 42. Re7+ Kd8 43. Nf7+ Kc8 44. Nd6+ Kb8 45. Rc7 1-0
+

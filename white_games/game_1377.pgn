@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SI2V4wj8"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "eslam-elnaidany"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "00:45:48"]
+[WhiteElo "2042"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nf3 Bg7 3. Nc3 d6 4. d4 Nd7 5. Bc4 e5 6. Ng5 Nh6 7. Be3 exd4 8. Bxd4 Qxg5 9. Bxg7 Qxg2 10. Rf1 Ne5 11. Bxh8 Nf3+ 12. Ke2 Bg4 13. Ke3 Ne5 14. Be2 O-O-O 15. f3 Bh5 16. Rf2 Qh3 17. Kd2 Qh4 18. Ke1 f6 19. Qd2 Rxh8 20. Qxh6 Qh3 21. Qe3 g5 22. Kd2 b6 23. Rd1 g4 24. Kc1 gxf3 25. Ba6+ Kd7 26. Nd5 f5 27. Nf6+ Ke7 28. Nxh5 Qxh5 29. exf5 Qxf5 30. Rdf1 Qe6 31. Rxf3 Nxf3 32. Qxe6+ Kxe6 33. Rxf3 Ke5 34. Rf7 Rg8 35. b3 Kd4 36. Rxc7 Rg1+ 37. Kb2 Rg2 38. Rxh7 Rxh2 39. Rxh2 Kc5 40. Rh7 b5 41. Rxa7 Kb6 42. Bxb5 Kxa7 43. Bc4 Kb6 44. a4 Kc5 45. Kc3 Kb6 46. a5+ Kc5 47. b4+ Kc6 48. Kb3 1-0
+

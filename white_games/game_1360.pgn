@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8z0bwbyw"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "fadihodroj1971"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "15:22:47"]
+[WhiteElo "2048"]
+[BlackElo "2014"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Nh6 8. Qf3 c6 9. Bxh6 d5 10. exd6 Qf6 11. Qxf6 gxf6 12. Bxf8 Rxf8 13. O-O-O Kd7 14. Ne4 b6 15. d5 cxd5 16. Bxd5 f5 17. Bxa8 1-0
+

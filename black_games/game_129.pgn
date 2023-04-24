@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZKeidrYv"]
+[Date "2023.02.21"]
+[White "Younesmat"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2023.02.21"]
+[UTCTime "19:10:14"]
+[WhiteElo "2004"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e6 4. Be3 Be7 5. f3 Bd7 6. Qd2 O-O 7. O-O-O b6 8. Kb1 c5 9. g4 b5 10. Nxb5 a6 11. Nc3 cxd4 12. Bxd4 Nc6 13. Be3 Qc7 14. h4 Rfb8 15. Ka1 Ra7 16. h5 Rab7 17. Rb1 Nb4 18. g5 Ne8 19. g6 fxg6 20. hxg6 hxg6 21. Qh2 Bf6 22. Bd3 Bxc3 23. Ne2 Qa5 24. Nxc3 Rc7 25. a3 Qc5 26. Bxc5 Rxc5 27. axb4 Rxb4 28. e5 Ra5+ 29. Na2 Rba4 30. Bc4 Rxc4 31. b3 Rd4 32. Kb2 Rxe5 33. Rbd1 Rxd1 34. Rxd1 a5 35. Rxd6 Nxd6 36. Qxe5 Nf5 37. Qxa5 Kf7 38. Nc3 Nd4 39. Ne4 Nxf3 40. Qc7 Ke7 41. Nc5 Ne5 42. Qxe5 Be8 43. Qxg7+ Bf7 44. Nd3 Ke8 45. Qh6 Ke7 46. Qg5+ Kf8 47. Qe3 Kg7 48. Ne5 Kf6 49. Nxf7 Ke7 50. Qf4 e5 51. b4 exf4 52. Ng5 f3 53. Nxf3 g5 54. Nxg5 Kd6 55. Nf3 Kc6 1/2-1/2
+

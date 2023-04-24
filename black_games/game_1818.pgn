@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pOLK32db"]
+[Date "2021.01.27"]
+[White "veteran_2014"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.27"]
+[UTCTime "17:58:13"]
+[WhiteElo "2042"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Bf4 Nc6 6. c3 Bg4 7. Qb3 Qc8 8. Nd2 e6 9. Ngf3 Be7 10. O-O O-O 11. Rfe1 b6 12. Ne5 Bh5 13. a4 Na5 14. Qc2 Bg6 15. Bg5 Re8 16. f4 Qb7 17. f5 exf5 18. Bxf5 Bd6 19. Ndf3 Nc4 20. Bxf6 gxf6 21. Nd7 Kg7 22. b3 Ne3 23. Rxe3 Rxe3 24. Nh4 Rae8 25. Rf1 Re2 26. Qc1 Qa6 27. Qd1 Qb7 28. Qd3 R8e3 29. Qb1 Rxc3 30. Bxg6 hxg6 31. Nxf6 Qe7 32. Ng4 Qxh4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jYRcbgyN"]
+[Date "2022.05.01"]
+[White "Coperio"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2022.05.01"]
+[UTCTime "14:28:56"]
+[WhiteElo "2069"]
+[BlackElo "2063"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. c3 e6 5. Bb5 Qd7 6. Nf3 a6 7. Ba4 b5 8. Bc2 Nge7 9. O-O Bxc2 10. Qxc2 Nf5 11. Bf4 f6 12. Re1 Be7 13. g4 Nh6 14. Bxh6 gxh6 15. Nbd2 Rg8 16. h3 h5 17. Qxh7 O-O-O 18. Kf1 hxg4 19. hxg4 Rxg4 20. exf6 Bxf6 21. Qh6 Be7 22. Rxe6 Rdg8 23. Rxc6 Qf5 24. Qe6+ Qxe6 25. Rxe6 Kd7 26. Rae1 Bg5 27. Rxa6 Bxd2 28. Ne5+ Ke7 29. Nxg4+ Bxe1 30. Kxe1 Rxg4 31. Ra5 c6 32. a4 bxa4 33. Rxa4 Re4+ 34. Kd2 Rf4 35. Ke2 Re4+ 36. Kf3 Re2 37. Rb4 Rd2 38. Ke3 Rd1 39. Rb7+ Kd6 40. f4 c5 41. dxc5+ Kxc5 42. Rb4 Re1+ 43. Kf3 Rd1 44. Rd4 Rf1+ 45. Kg4 Rb1 46. Rd2 Kd6 47. Re2 Ra1 48. f5 Ra8 49. f6 Rf8 50. Kg5 Kc5 51. Kg6 Rg8+ 52. Kh7 Ra8 53. f7 Ra7 54. Kg7 d4 55. Kg8 Ra8+ 56. f8=Q+ Rxf8+ 57. Kxf8 d3 58. Rd2 Kc4 59. b3+ Kxc3 60. Rxd3+ Kxd3 61. b4 Kc4 62. b5 Kxb5 1/2-1/2
+

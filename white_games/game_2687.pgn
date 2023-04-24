@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GpYFaJ4f"]
+[Date "2020.12.12"]
+[White "EltahirAmin"]
+[Black "Queen-Bou"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "10:07:46"]
+[WhiteElo "1918"]
+[BlackElo "1870"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 Qxd5 4. d4 Qa5 5. Bd2 Qd8 6. Nf3 Bg4 7. Bc4 Nf6 8. O-O e6 9. Qe2 Bxf3 10. Qxf3 Qxd4 11. Bb3 Qxd2 12. Rad1 Qg5 13. Qd3 Be7 14. Ne4 Nxe4 15. Qxe4 O-O 16. f4 Qf5 17. Qf3 g6 18. g4 Qc5+ 19. Kh1 Na6 20. f5 exf5 21. gxf5 Rad8 22. f6 Rxd1 23. Rxd1 Bd6 24. Qh3 Be5 25. Rf1 h5 26. Qg2 Qd6 27. Qxg6+ 1-0
+

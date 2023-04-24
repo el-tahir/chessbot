@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q0twcnCf"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "iamitess"]
+[Result "1-0"]
+[UTCDate "2023.03.08"]
+[UTCTime "03:10:14"]
+[WhiteElo "1981"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 e5 7. Ndb5 Bf8 8. Nd5 1-0
+

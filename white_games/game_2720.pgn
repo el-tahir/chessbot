@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xPwiiTbv"]
+[Date "2020.12.09"]
+[White "EltahirAmin"]
+[Black "lucijosi59"]
+[Result "1-0"]
+[UTCDate "2020.12.09"]
+[UTCTime "12:37:52"]
+[WhiteElo "1911"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. Nxe5 Bxc3 5. dxc3 d6 6. Nf3 Nxe4 7. Bd3 Nf6 8. O-O h6 9. Re1+ Be6 10. Nd4 O-O 11. Nxe6 fxe6 12. Rxe6 Nc6 13. Qf1 Ne5 14. Bd2 Qd7 15. Rxe5 dxe5 16. Rd1 e4 17. Bc4+ Rf7 18. Bxh6 Qe7 19. Bxf7+ Qxf7 20. Bg5 Ng4 21. Qe2 Re8 22. Qxg4 e3 23. Bxe3 Qxa2 24. h3 Qxb2 25. Rd7 Qxc3 26. Bd4 Re1+ 27. Kh2 Rh1+ 28. Kxh1 Qe1+ 29. Kh2 c5 30. Qxg7# 1-0
+

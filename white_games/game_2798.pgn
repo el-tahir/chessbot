@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pdqGJ0cV"]
+[Date "2020.12.02"]
+[White "EltahirAmin"]
+[Black "Shodiq_Kedung"]
+[Result "0-1"]
+[UTCDate "2020.12.02"]
+[UTCTime "20:47:10"]
+[WhiteElo "1864"]
+[BlackElo "1807"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 Qf6 6. Be3 c6 7. Bd3 Na6 8. O-O Nb4 9. Bc4 Be6 10. Nxe6 fxe6 11. Bxc5 dxc5 12. a3 Na6 13. Bxa6 bxa6 14. Qd6 Ne7 15. Rad1 O-O 16. Qxc5 Rfd8 17. f3 Rxd1 18. Rxd1 e5 19. Rd7 Ng6 20. Rd6 Qf4 21. Ne2 Qh4 22. Qxc6 Qe1# 0-1
+

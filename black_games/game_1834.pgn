@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/idIcOXMf"]
+[Date "2021.01.24"]
+[White "Gustavo_cabello6377"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.24"]
+[UTCTime "22:17:50"]
+[WhiteElo "1992"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. f4 Nf6 5. Nf3 Nc6 6. c3 Bg4 7. Be2 e6 8. O-O Bd6 9. Ne5 Bxe2 10. Qxe2 Qc7 11. Nd2 a6 12. g4 h6 13. Rf2 O-O-O 14. Rg2 Rdf8 15. b4 Nd7 16. a4 f6 17. Ng6 e5 18. Nxh8 Rxh8 19. fxe5 fxe5 20. Nf3 Re8 21. b5 exd4 22. Qxe8+ 1-0
+

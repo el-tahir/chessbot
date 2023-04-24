@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NYOyHawB"]
+[Date "2020.12.24"]
+[White "ClearlyNotWeak"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "06:48:36"]
+[WhiteElo "2006"]
+[BlackElo "1985"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 c6 3. Nf3 d5 4. exd5 cxd5 5. h3 Bg4 6. d4 Bh5 7. Bd3 e6 8. O-O Bd6 9. Bg5 Nc6 10. Nb5 Bb8 11. Nc3 Nxd4 12. g4 Nxf3+ 13. Qxf3 Qc7 14. Bxf6 Qh2# 0-1
+

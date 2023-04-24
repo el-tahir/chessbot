@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RrEBxv88"]
+[Date "2021.10.11"]
+[White "Repent_and_live"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "04:28:41"]
+[WhiteElo "2077"]
+[BlackElo "2081"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. c3 e6 5. d4 c5 6. Bd3 Ne7 7. Nf3 Nbc6 8. Be3 Bxd3 9. Qxd3 Nf5 10. Bf2 cxd4 11. cxd4 Bb4+ 12. Nc3 O-O 13. O-O Rc8 14. Rac1 Qa5 15. a3 Bxc3 16. Rxc3 Nce7 17. Rfc1 Rxc3 18. Rxc3 Rc8 19. b4 Rxc3 20. Qxc3 Qb6 21. g4 Nh6 22. h3 g6 23. Kg2 Kg7 24. Bh4 Nc6 25. Bf6+ Kf8 26. Ng5 Qxd4 27. Qc1 Kg8 28. b5 Qc4 29. Qxc4 dxc4 30. bxc6 bxc6 31. Ne4 Kf8 32. Kf3 Ng8 33. Bd8 Ke8 34. Ba5 Ne7 35. Nf6+ Kf8 36. Nxh7+ Kg7 37. Nf6 Nd5 38. g5 c3 39. Ke2 Nxf4+ 40. Kd1 Nxh3 41. Bxc3 Nxg5 42. Ke2 Nh3 43. Kf3 Ng5+ 44. Kf4 Kh6 45. Bd2 Nh3+ 46. Kg4+ g5 47. Kxh3 Kg6 48. Kg4 a6 49. Bxg5 c5 50. Ne4 f5+ 51. exf6 Kf7 52. Nxc5 a5 53. a4 1-0
+

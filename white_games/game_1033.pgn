@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2pUV0mDZ"]
+[Date "2021.10.21"]
+[White "EltahirAmin"]
+[Black "Facundovico"]
+[Result "1-0"]
+[UTCDate "2021.10.21"]
+[UTCTime "21:08:54"]
+[WhiteElo "2053"]
+[BlackElo "2016"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bc4 Nf6 5. d3 d6 6. Be3 Bb6 7. O-O Be6 8. Ng5 Bxc4 9. dxc4 h6 10. Nh3 O-O 11. Qe2 Nd4 12. Bxd4 Bxd4 13. Kh1 Qe7 14. f4 Rad8 15. fxe5 Bxe5 16. Rad1 Bxc3 17. bxc3 Qxe4 18. Qd2 Rde8 19. Rf4 Qg6 20. Rdf1 Nd7 21. Nf2 Ne5 22. h3 Qe6 23. Ng4 Ng6 24. Rf6 Qe2 25. Nxh6+ Kh7 26. Qxe2 Rxe2 27. Nxf7 Rxc2 28. Ng5+ Kg8 29. Rf7 Rxf7 30. Nxf7 Rxc3 31. Ng5 Rxc4 32. Rf7 Ne5 33. Re7 Rc2 34. Re8# 1-0
+

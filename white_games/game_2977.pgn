@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/F2LrbaKs"]
+[Date "2020.11.22"]
+[White "EltahirAmin"]
+[Black "jirikkk"]
+[Result "0-1"]
+[UTCDate "2020.11.22"]
+[UTCTime "08:33:39"]
+[WhiteElo "1949"]
+[BlackElo "1990"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. Be2 c5 6. h3 Bh5 7. Bg5 Qb6 8. b3 Bxf3 9. Bxf3 cxd4 10. O-O Nc6 11. Bf4 Nge7 12. g4 Ng6 13. Bh2 Ncxe5 14. Nd2 Nxf3+ 15. Nxf3 Bc5 16. h4 Bd6 17. Bxd6 Qxd6 18. Qxd4 O-O 19. h5 Ne7 20. c4 Rfd8 21. c5 Qc7 22. b4 Nc6 23. Qd3 Ne5 24. Nxe5 Qxe5 25. f4 Qe4 26. Qg3 Qxb4 27. f5 Qxc5+ 28. Kh1 Qc4 29. fxe6 fxe6 30. h6 Qe4+ 31. Qg2 Qxg2+ 32. Kxg2 gxh6 33. Rf6 Rd6 34. Rxh6 Kg7 35. Rh3 e5 36. Rah1 h6 37. g5 Rg6 38. Kf2 Rf8+ 39. Rf3 Rxf3+ 40. Kxf3 0-1
+

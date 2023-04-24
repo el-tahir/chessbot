@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LPg5rMIS"]
+[Date "2021.10.13"]
+[White "QazaqEagle"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.13"]
+[UTCTime "17:02:30"]
+[WhiteElo "2027"]
+[BlackElo "2043"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d6 3. c4 Nf6 4. Nc3 Qa5 5. Bd2 Qc7 6. Nf3 Bg4 7. Be2 e6 8. h3 Bh5 9. Nh4 Bxe2 10. Qxe2 Be7 11. Nf3 Nbd7 12. b4 O-O 13. g4 d5 14. e5 Ne8 15. c5 Qc8 16. g5 b6 17. h4 bxc5 18. bxc5 Rb8 19. Rb1 Nc7 20. h5 Qa6 21. Qxa6 Nxa6 22. g6 fxg6 23. hxg6 Rxb1+ 24. Nxb1 Rxf3 25. gxh7+ Kh8 26. Ke2 Rf7 27. Nc3 Ndxc5 28. dxc5 Bxc5 29. f3 Rf5 30. f4 Nb4 31. Na4 Be7 32. a3 Na6 33. Rb1 Kxh7 34. Rb7 Bxa3 35. Rxa7 Nc5 36. Nxc5 Bxc5 37. Rc7 Bg1 38. Rxc6 Kh6 39. Rxe6+ Kh5 40. Rd6 d4 41. Kd3 g5 42. fxg5 Rxe5 43. g6 Rg5 44. Bxg5 Kxg5 45. g7 1-0
+

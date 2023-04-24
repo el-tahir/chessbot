@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tLWVn6jE"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "Boite_a_Meuh"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "18:37:19"]
+[WhiteElo "1951"]
+[BlackElo "1954"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A05"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nf3 Nxe4 3. d4 d5 4. Bd3 Bf5 5. Qe2 Nc6 6. O-O e6 7. c3 Bd6 8. Nbd2 O-O 9. Nxe4 Bxe4 10. Bxe4 dxe4 11. Qxe4 Qf6 12. Bg5 Qg6 13. Qxg6 hxg6 14. Rae1 Ne7 15. c4 Nf5 16. g4 Nh6 17. c5 Nxg4 18. cxd6 cxd6 19. Rc1 Rac8 20. Rxc8 Rxc8 21. Rc1 Rxc1+ 22. Bxc1 Kf8 23. Kg2 Ke7 24. Kg3 Nf6 25. Bg5 Kd7 26. Bxf6 gxf6 27. Kf4 Kc6 28. h4 Kd5 29. Ke3 e5 30. dxe5 fxe5 31. Ng5 f5 32. f3 Kc5 33. Nf7 d5 34. Nxe5 d4+ 35. Kd3 Kd5 36. Nxg6 1-0
+

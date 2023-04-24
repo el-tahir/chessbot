@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8eydzJCY"]
+[Date "2021.11.16"]
+[White "Delon7"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.16"]
+[UTCTime "22:25:00"]
+[WhiteElo "2029"]
+[BlackElo "2055"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d6 3. d4 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. Nxd7 Bxd7 7. Bc4 Bg4 8. Qd3 e6 9. O-O Bd6 10. f3 h5 11. fxg4 hxg4 12. g3 Nh5 13. Nc3 c5 14. Ne4 Bc7 15. Nxc5 Rb8 16. d5 e5 17. Re1 f6 18. Qg6+ Ke7 19. Ne6 1-0
+

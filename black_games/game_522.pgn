@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CCFSkJ70"]
+[Date "2022.05.10"]
+[White "tabandeh7"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "03:06:32"]
+[WhiteElo "2035"]
+[BlackElo "2117"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. Bg5 d5 3. c3 Nf6 4. e3 e6 5. Bd3 Be7 6. Nf3 Nbd7 7. O-O Nb6 8. Bc2 Bd7 9. Nbd2 O-O 10. Nb3 Ne8 11. Bxe7 Qxe7 12. Qd3 f5 13. Ne5 Nf6 14. Nc5 Be8 15. f4 Nbd7 16. Rf3 Nxc5 17. dxc5 Ne4 18. b4 a5 19. Raf1 axb4 20. cxb4 Rxa2 21. Rh3 Bg6 22. Qb3 Rfa8 23. Bxe4 fxe4 24. Nxg6 hxg6 25. Qd1 Rb2 26. Qg4 Raa2 27. Rg3 Qf6 28. h4 Rxb4 29. h5 gxh5 30. Qxh5 d4 31. Qe8+ Qf8 32. Qxe6+ Qf7 33. Qc8+ Qf8 34. Qe6+ Qf7 35. Qc8+ Qf8 36. Qg4 dxe3 37. Rxe3 Qxc5 38. Re1 Rb3 39. Qe6+ Kh7 40. Qxb3 Ra3 41. Qd1 Rxe3 42. Kh1 Rd3 43. Qg4 Rd6 44. g3 Rh6+ 45. Kg2 Qc2+ 46. Re2 Qd3 47. Qf5+ Kg8 48. Qc8+ Kh7 49. Qf5+ Kh8 50. Qf8+ Kh7 51. Qf5+ Rg6 52. Qh5+ Rh6 53. Qf5+ Kg8 54. Qc8+ Kf7 55. Qxb7+ Ke6 56. Qxc6+ Kf5 57. Qc5+ Kg4 58. Qf2 Qf3+ 59. Qxf3+ exf3+ 60. Kf2 fxe2 61. Kxe2 Rh3 62. f5 Kxf5 63. Kf2 Kg4 64. Ke2 Rxg3 65. Kf2 Rf3+ 66. Ke2 g5 67. Ke1 Kg3 68. Ke2 g4 69. Ke1 Kg2 70. Ke2 g3 71. Ke1 Kg1 72. Ke2 Rf2+ 73. Ke3 g2 74. Ke4 Kf1 75. Ke5 g1=Q 76. Ke4 Rf3 77. Ke5 Qg4 0-1
+

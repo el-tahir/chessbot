@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/00rgam1H"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "PauloSergioPM"]
+[Result "1-0"]
+[UTCDate "2021.11.08"]
+[UTCTime "01:43:55"]
+[WhiteElo "2058"]
+[BlackElo "2026"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nxc6 bxc6 8. Bc4 Nf6 9. O-O Be7 10. f4 Bg4 11. Qe1 d5 12. exd5 cxd5 13. Be2 d4 14. fxe5 Bxe2 15. Qxe2 Ng8 16. Rad1 Bc5 17. Qf3 Rb8 18. Qxf7# 1-0
+

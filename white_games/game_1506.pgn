@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HOZ6FZCY"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "MichalOrczyk"]
+[Result "1-0"]
+[UTCDate "2021.02.24"]
+[UTCTime "17:37:51"]
+[WhiteElo "2006"]
+[BlackElo "2080"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. Be2 Ne7 7. Rf1 O-O 8. Kg1 f5 9. d4 N5g6 10. e5 d6 11. Bc4+ d5 12. Bd3 c6 13. Qh5 Be6 14. Bg5 Qd7 15. Rf2 Rf7 16. Raf1 Raf8 17. Rf3 h6 18. Bd2 b5 19. Ne2 c5 20. c3 c4 21. Bc2 a5 22. Nf4 Nxf4 23. Bxf4 g5 24. Bxg5 hxg5 25. Qxg5+ Rg7 26. Qh6 Rg6 27. Qe3 Kf7 28. Rh3 Rfg8 29. g3 Ke8 30. Rf4 Rg4 31. Rh7 Qc8 32. a4 b4 33. Rxg4 fxg4 34. Qh6 Nf5 35. Qh5+ Kd8 36. Bxf5 Bxf5 37. Qh4+ Ke8 38. Qe7# 1-0
+

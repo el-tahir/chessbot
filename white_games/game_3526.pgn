@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bT0JbqBY"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Pastra"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "19:27:40"]
+[WhiteElo "1948"]
+[BlackElo "1946"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Bc4 Nf6 8. Qd2 O-O 9. O-O-O a6 10. h4 Ne5 11. Bb3 b5 12. f4 Neg4 13. f5 b4 14. Nd5 Nxe4 15. Qd3 Nxe3 16. Qxe4 Nxd1 17. Nxe7+ Kh8 18. Ndc6 Qd7 19. Ba4 Bxb2+ 20. Kxd1 Bb7 21. Qxb4 Bxc6 22. Qxb2+ f6 23. Nxc6 Qxf5 24. Nb4 Rac8 0-1
+

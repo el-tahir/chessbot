@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CaYdQwXX"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "HaiK4I"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "23:35:52"]
+[WhiteElo "1953"]
+[BlackElo "1945"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d6 3. Nc3 g6 4. h4 h6 5. Nf3 Bg7 6. Be3 c6 7. d5 Nf6 8. e5 Nxd5 9. Nxd5 cxd5 10. exd6 Qxd6 11. Rb1 Nc6 12. b4 Bd7 13. b5 Ne7 14. Bd3 b6 15. Bd2 Rc8 16. Bb4 Bc3+ 17. Kf1 Bxb4 0-1
+

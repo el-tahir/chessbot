@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SqGelZVf"]
+[Date "2021.02.26"]
+[White "YouKnowNothingHG"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.26"]
+[UTCTime "16:21:06"]
+[WhiteElo "2007"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nf3 e6 5. Bg5 Be7 6. h4 h6 7. Bxe7 Nxe7 8. h5 c5 9. c3 Nbc6 10. a3 Qb6 11. Qc1 Rc8 12. Nbd2 cxd4 13. c4 O-O 14. g4 Be4 15. c5 Qa5 16. b4 Qa4 17. Nxe4 dxe4 18. Ng5 Nxe5 19. Nxe4 Nf3+ 20. Ke2 Qb3 21. Rb1 d3+ 22. Kxf3 d2+ 23. Qc3 Qxb1 24. Nxd2 Qa2 25. Bc4 Nd5 26. Qd4 Qxa3+ 27. Kg2 Qxb4 28. g5 Qxc5 29. Qg4 hxg5 30. h6 Qc6 31. Qxg5 Ne3+ 32. Kh2 Qg2+ 33. Qxg2 Nxg2 34. h7+ Kh8 35. Kxg2 Rc5 36. Rc1 Rg5+ 37. Kf1 Kxh7 38. Bd3+ g6 39. Rc7 Ra5 40. Rxb7 Ra1+ 41. Ke2 Rd8 42. Bc4 Kg7 43. Bxe6 Kf6 44. Rxf7+ Kxe6 45. Rf3 Re8 46. Re3+ Kf7 47. Rxe8 Kxe8 48. Nc4 Ra2+ 49. Kf3 a5 50. Kg2 a4 51. Ne5 a3 52. Nc4 Ra1 53. Nxa3 Rxa3 54. f3 Ra5 55. Kg3 Kf7 56. f4 Kf6 57. Kg4 Ra4 58. Kf3 Kf5 59. Kg3 Rxf4 60. Kg2 g5 61. Kg1 g4 62. Kg2 Kg5 63. Kg1 Kh4 64. Kg2 Rf3 65. Kg1 Kh3 0-1
+

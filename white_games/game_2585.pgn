@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qh05Tp67"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "Denis19831"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "08:39:37"]
+[WhiteElo "1921"]
+[BlackElo "1885"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qb6 11. Nb5 Kd8 12. Bc4 a6 13. Nc7 Rb8 14. Qe2 Nf6 15. Nd5 Nxd5 16. Bxd5 Qxd6 17. Bxf7 Qe7 18. Be3 Qxf7 19. Bb6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gxw2GBV4"]
+[Date "2020.11.01"]
+[White "EltahirAmin"]
+[Black "KingXI"]
+[Result "0-1"]
+[UTCDate "2020.11.01"]
+[UTCTime "17:16:00"]
+[WhiteElo "1981"]
+[BlackElo "1968"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 g6 4. Ne2 Bg7 5. d4 cxd4 6. Nexd4 Nf6 7. Bd3 O-O 8. Bg5 h6 9. Bf4 e5 10. Qd2 exf4 11. Qxf4 Bg4 12. h3 Bxf3 13. gxf3 Qb6 14. Nb3 Nbd7 15. h4 Nh5 16. Qd2 Ne5 17. Be2 a5 18. f4 a4 19. Nd4 Qxd4 20. Qxd4 Nf3+ 21. Bxf3 Bxd4 22. O-O-O Bxf2 23. Bxh5 gxh5 24. Rxd6 Kh7 25. Rh2 Be3+ 26. Kd1 Bxf4 0-1
+

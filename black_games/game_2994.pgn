@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/u3LnvENe"]
+[Date "2020.11.22"]
+[White "jishnudevan"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.22"]
+[UTCTime "07:18:42"]
+[WhiteElo "1895"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nxe4 6. Bxe4 Nd7 7. Nf3 Nf6 8. Bd3 Bg4 9. Bg5 e6 10. h3 Bh5 11. Qe2 Be7 12. O-O-O Qa5 13. Kb1 b5 14. g4 Bg6 15. Ne5 Bxd3 16. Qxd3 Rc8 17. f4 O-O 18. h4 c5 19. dxc5 Rxc5 20. h5 Rfc8 21. Bxf6 Bxf6 22. g5 Bxe5 23. fxe5 Rd5 24. Qg3 Qc7 25. Qg2 Rc5 26. Rc1 Qxe5 27. g6 Qd5 28. gxf7+ Kxf7 29. Rhf1+ Kg8 30. Qh3 Re8 31. h6 gxh6 32. Qxh6 Qd7 33. Rg1+ Kh8 34. Rcf1 Rg8 35. Qf6+ Rg7 36. Qf8+ 1-0
+

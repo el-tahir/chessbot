@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cyAXImTA"]
+[Date "2021.11.09"]
+[White "EltahirAmin"]
+[Black "RichTum007"]
+[Result "0-1"]
+[UTCDate "2021.11.09"]
+[UTCTime "03:52:39"]
+[WhiteElo "2072"]
+[BlackElo "2208"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 Bg7 5. d5 Nd4 6. Bc4 d6 7. Be3 Bg4 8. h3 Nxf3+ 9. gxf3 Bd7 10. h4 h5 11. a4 a6 12. a5 b6 13. f4 b5 14. Be2 b4 15. Nb1 Bxb2 16. Ra2 Bg7 17. Nd2 Nf6 18. f3 O-O 19. Nc4 Bb5 20. e5 dxe5 21. fxe5 Nxd5 22. Bxc5 Nc3 23. Qxd8 Rfxd8 24. Ra1 Nxe2 25. Kxe2 0-1
+

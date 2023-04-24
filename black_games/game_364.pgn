@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jnbSVQSu"]
+[Date "2022.07.24"]
+[White "GorokhovArtem"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2022.07.24"]
+[UTCTime "18:49:04"]
+[WhiteElo "1987"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 b5 4. d3 Bg4 5. f3 Bh5 6. Nc3 b4 7. Qa4+ Qd7 8. Qxb4 e6 9. Qb7 Bc5 10. Qxa8 O-O 11. Qb7 exd5 12. Nxd5 Re8+ 13. Ne2 Qe6 14. Nxf6+ gxf6 15. Bd2 Nc6 16. O-O-O Bg6 17. Nf4 Qd6 18. Nxg6 hxg6 19. Qb3 Rb8 20. Qc3 Bd4 21. Qc2 Rxb2 22. Qxb2 Bxb2+ 23. Kxb2 Nd4 24. Bc3 c5 25. Re1 Kg7 26. Be2 Nxe2 27. Rxe2 Qxd3 28. Rhe1 Qxc4 29. Re4 Qb5+ 30. Kc2 a5 31. a4 Qc6 32. Bxa5 c4 33. Ra1 Qd5 34. Bc3 Qd3+ 35. Kb2 g5 36. Rc1 Kg6 37. a5 f5 38. Re5 Qd6 39. Rb5 Qxh2 40. Rc2 Qc7 41. a6 Qc6 42. Rb4 Qxa6 43. Kc1 Qe6 44. Kd2 f4 45. Kd1 Qe3 46. Rd2 Qxc3 47. Rbb2 Qe3 48. Rbc2 c3 49. Re2 Qg1+ 50. Re1 Qd4+ 51. Kc1 f5 52. Rd1 Qe3+ 53. Kb1 g4 54. Rd6+ Kg5 55. Rd1 gxf3 56. Rdc1 fxg2 57. Rxg2+ Kf6 58. Rgc2 Ke5 59. Rxc3 Ke4 60. Rxe3+ fxe3 61. Re1 f4 62. Kc1 Kf3 63. Kd1 Kf2 64. Re2+ Kf3 65. Ke1 Ke4 66. Kf1 f3 67. Rc2 e2+ 68. Kf2 Kf4 69. Rc3 Ke4 70. Rxf3 e1=Q+ 71. Kxe1 Kxf3 1/2-1/2
+

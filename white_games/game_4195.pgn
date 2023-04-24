@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4rYOXAhD"]
+[Date "2020.10.15"]
+[White "EltahirAmin"]
+[Black "PeaceMakesPlenty"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "12:23:24"]
+[WhiteElo "1969"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. f4 g6 6. Nf3 Bg7 7. Bc4 O-O 8. O-O Nc6 9. Qe3 Ng4 10. Qe2 Nd4 11. Nxd4 Bxd4+ 12. Kh1 a6 13. f5 Ne5 14. Bb3 Kg7 15. Qd2 Nc6 16. Qh6+ Kg8 17. Nd5 Bg7 18. Qh4 Re8 19. Bh6 Bxb2 20. Rae1 Nd4 21. fxg6 hxg6 22. Nxe7+ Rxe7 23. Bxf7+ Rxf7 24. Qxd8+ 1-0
+

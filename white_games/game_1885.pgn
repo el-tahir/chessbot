@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Iji8LUnm"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "Dasi12"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "22:00:11"]
+[WhiteElo "1961"]
+[BlackElo "1940"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Bc4 d6 5. O-O Bg4 6. Re1 Nd4 7. Be2 Nxe2+ 8. Qxe2 Ne7 9. d3 O-O 10. Bg5 h6 11. Bh4 g5 12. Bg3 f5 13. h3 Bh5 14. Qd2 f4 15. Bh2 Nc6 16. Ne2 Bxf3 17. gxf3 Qd7 18. Kg2 Kh7 19. c3 Rg8 20. d4 exd4 21. cxd4 Bb4 22. Nc3 h5 23. Qd3 Kh6 24. a3 Ba5 25. h4 g4 26. Bxf4+ Kg7 27. Bg5 gxf3+ 28. Qxf3 Raf8 29. Qxh5 Nxd4 30. Qh6+ Kf7 31. Qf6+ Ke8 32. Qxd4 Bb6 33. Qd2 Rxf2+ 34. Qxf2 Bxf2 35. Kxf2 Qg4 36. Nd5 Rf8+ 37. Nf6+ Kd8 38. Rg1 Rxf6+ 39. Bxf6+ 1-0
+

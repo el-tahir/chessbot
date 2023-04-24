@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JQhC6KkR"]
+[Date "2021.10.21"]
+[White "EltahirAmin"]
+[Black "Negan75"]
+[Result "1-0"]
+[UTCDate "2021.10.21"]
+[UTCTime "17:06:23"]
+[WhiteElo "2047"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 dxe4 5. Ng5 e3 6. Bxe3 h6 7. Nf3 Bb4 8. Qd3 Nd5 9. Bd2 Bxc3 10. Bxc3 Nxc3 11. bxc3 Bd7 12. Ne5 Bc6 13. Be2 Bxg2 14. Rg1 Bd5 15. Rxg7 Nd7 16. Nxf7 Qf6 17. Qg3 Rf8 18. Bh5 Ke7 19. Ne5+ Kd8 20. Nxd7 c5 21. Nxf6 Rxf6 1-0
+

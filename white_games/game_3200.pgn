@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0XQWWyqN"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "brucepeng"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "08:46:04"]
+[WhiteElo "1957"]
+[BlackElo "1959"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 a6 2. Nf3 b5 3. d4 Bb7 4. Bd3 e6 5. Bg5 Be7 6. h4 h6 7. Be3 d6 8. c4 bxc4 9. Bxc4 d5 10. exd5 exd5 11. Bd3 Nf6 12. Nc3 Nbd7 13. Qb3 Rb8 14. Qc2 Rc8 15. Qb3 Ba8 16. Na4 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Bxc5 Rxc5 20. Be2 O-O 21. O-O d4 22. Bxa6 d3 23. Bxd3 Bxf3 24. gxf3 Nh5 25. Qb4 Rd5 26. Be4 Rd4 27. Qc5 Nf4 28. Qe5 Qxh4 29. Bf5 Qg5+ 30. Bg4 Qxe5 0-1
+

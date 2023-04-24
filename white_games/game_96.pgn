@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ncKXohVN"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "YairPG"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "15:35:22"]
+[WhiteElo "1941"]
+[BlackElo "1934"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B35"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Bc4 Nf6 8. Qd2 Ng4 9. O-O-O Nxe3 10. fxe3 h5 11. h4 Bd7 12. Rdf1 e6 13. Ndb5 O-O 14. Nxd6 a6 15. Nxb7 Qc7 16. Nc5 Rad8 17. Nxa6 Qa7 18. Qe2 Ne5 19. Bb3 Rb8 20. Rd1 Bc8 21. Nxb8 Qxb8 22. Rd2 Ng4 23. Rhd1 Bb7 24. Rd7 Bh6 25. R1d3 Ba6 26. Kb1 Bxd3 27. cxd3 Nxe3 28. Qf3 Ng4 29. Ne2 Qc8 30. Rd4 Bg7 31. Rc4 Qd8 32. d4 Qxh4 33. a3 Qe1+ 34. Ka2 Qd2 35. d5 exd5 36. Rc2 Qe1 37. Bxd5 Qa5 38. Nf4 Rb8 39. Nxg6 Qa7 40. Nf4 Qd4 41. Bxf7+ Kh8 42. Ng6+ Kh7 43. e5 Nxe5 44. Qxh5+ Bh6 45. Qxe5 Qxe5 46. Nxe5 Kg7 47. Bb3 1-0
+

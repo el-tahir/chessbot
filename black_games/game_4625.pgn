@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZLjgUy8n"]
+[Date "2020.05.10"]
+[White "Wassmann"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.10"]
+[UTCTime "17:21:26"]
+[WhiteElo "1926"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 Nf6 5. c3 Bg4 6. Ne2 e6 7. d4 Bd6 8. O-O O-O 9. f3 Bh5 10. Nf4 Qc7 11. g3 Nc6 12. Nxh5 Nxh5 13. f4 Rfe8 14. Qxh5 a5 15. Nd2 a4 16. Bc2 g6 17. Qh6 Nxd4 18. Bxg6 hxg6 19. cxd4 Qc2 20. Nf3 Rac8 21. Ng5 1-0
+

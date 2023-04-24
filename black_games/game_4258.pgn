@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PALUnzya"]
+[Date "2020.10.14"]
+[White "delger"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.14"]
+[UTCTime "10:27:02"]
+[WhiteElo "1972"]
+[BlackElo "1978"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f3 d5 3. exd5 cxd5 4. d4 Nf6 5. c3 Bf5 6. Bd3 Bxd3 7. Qxd3 e6 8. Ne2 Bd6 9. O-O Bc7 10. Bf4 Nc6 11. Nd2 O-O 12. b4 Nh5 13. Bg3 Nxg3 14. Nxg3 Ne7 15. a4 Ng6 16. Nb3 Nf4 17. Qd2 Qh4 18. Nc5 Qg5 19. Nxb7 Nh3+ 20. Kh1 Qxd2 0-1
+

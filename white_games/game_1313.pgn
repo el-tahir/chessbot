@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XmoscAGP"]
+[Date "2021.03.03"]
+[White "EltahirAmin"]
+[Black "bluesky646"]
+[Result "1-0"]
+[UTCDate "2021.03.03"]
+[UTCTime "19:24:46"]
+[WhiteElo "2020"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be6 4. d4 exd4 5. Nxd4 Qd7 6. f4 c5 7. Nf3 Bg4 8. Be2 Nf6 9. O-O Nc6 10. Be3 O-O-O 11. a3 h5 12. Rb1 Bxf3 13. Bxf3 Ng4 14. Bf2 Be7 15. b4 cxb4 16. axb4 g5 17. b5 Nb8 18. Nd5 Nf6 19. Qd4 Nxd5 20. Qxd5 Qc7 21. Bxa7 g4 22. b6 Qc6 23. Qf5+ Nd7 24. Be2 g3 25. hxg3 Rdg8 26. Bb5 Qc5+ 27. Qxc5+ Nxc5 28. e5 Rxg3 29. exd6 Bxd6 30. Rf3 Rhg8 31. Bf1 Rxf3 32. Rd1 Rxf1+ 33. Rxf1 Ne4 34. f5 f6 35. Rf3 Rg3 36. Rd3 Be5 37. Rxg3 Nxg3 38. Kf2 Nxf5 39. Kf3 Nd4+ 40. Ke4 Nxc2 41. Kf3 h4 42. Kf2 h3 43. Kg1 hxg2 44. Kxg2 1-0
+

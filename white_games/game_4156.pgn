@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OI0tHuYO"]
+[Date "2020.10.17"]
+[White "EltahirAmin"]
+[Black "AntonioFernandez13"]
+[Result "0-1"]
+[UTCDate "2020.10.17"]
+[UTCTime "11:43:40"]
+[WhiteElo "1914"]
+[BlackElo "1923"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be7 6. Be3 O-O 7. Qd2 a6 8. O-O-O b5 9. f3 b4 10. Ncb5 axb5 11. g4 Rxa2 12. c3 c5 13. Nb3 c4 14. Nd4 b3 0-1
+

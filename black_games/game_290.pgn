@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gvk7pqr9"]
+[Date "2022.07.30"]
+[White "Accumulator7"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.30"]
+[UTCTime "15:26:35"]
+[WhiteElo "1988"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Bg4 4. Qb3 Bc8 5. cxd5 g6 6. e4 Bg7 7. Nf3 O-O 8. Bd3 c6 9. dxc6 Nxc6 10. Be3 e6 11. O-O Qe7 12. Rac1 Rb8 13. Rfe1 Ng4 14. h3 Nxe3 15. fxe3 Rd8 16. Na4 Bd7 17. Nc5 Bc8 18. Qa4 b6 19. Qxc6 bxc5 20. b3 cxd4 21. exd4 Bb7 22. Qc7 Qa3 23. Rc2 Rdc8 24. Qf4 Rd8 25. Ng5 Rf8 26. Nxf7 Bxd4+ 27. Kh1 Qe7 28. Nh6+ Kg7 29. Rc7 Rxf4 30. Rxe7+ Kxh6 31. Rc1 Bxe4 32. Bxe4 Rxe4 33. Rcc7 Re1+ 0-1
+

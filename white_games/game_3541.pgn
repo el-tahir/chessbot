@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/76GoSxlH"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Toyyers"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "18:10:18"]
+[WhiteElo "1966"]
+[BlackElo "1935"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Qb6 6. Nd6+ Bxd6 7. Qxd6 Nd4 8. Qxe5+ Ne6 9. Nc3 f6 10. Qg3 Ne7 11. Bd3 O-O 12. O-O d6 13. Rb1 Qc7 14. Nd5 Nxd5 15. exd5 Nc5 16. Bf4 Rd8 17. Be2 Ne4 18. Qf3 Bf5 19. Bd3 Re8 20. Rfe1 g5 21. Bg3 Nd2 22. Qxf5 Nxb1 23. Re6 Rxe6 24. Qxe6+ Qf7 25. Qf5 Re8 26. h3 Nd2 27. Bxd6 h5 28. h4 gxh4 29. Qf4 Qxd5 30. Qxd2 Qxa2 31. Qh6 Qf7 32. Bg6 Re1+ 33. Kh2 Qd7 34. Qf8# 1-0
+

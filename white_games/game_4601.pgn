@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/P9mDNrBU"]
+[Date "2020.05.10"]
+[White "EltahirAmin"]
+[Black "kleberdomus"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "21:44:46"]
+[WhiteElo "1916"]
+[BlackElo "1885"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 Bf5 5. Be3 h6 6. Nxe4 Nxe4 7. dxe4 Qxd1+ 8. Kxd1 Bxe4 9. Nc3 Bf5 10. Bc4 e6 11. Ke2 Bd6 12. Rad1 Nc6 13. Nb5 O-O-O 14. Nxa7+ Nxa7 15. Bxa7 b6 16. Ba6+ Kd7 17. Bb5+ Kc8 18. Ba6+ Kd7 19. Bb5+ Ke7 20. Bc6 e5 21. Rhe1 Bd7 22. Bf3 Ra8 23. Bxa8 Rxa8 24. Bxb6 cxb6 25. a3 Rc8 26. Rd2 Bf5 27. Red1 Rxc2 28. h3 Rxd2+ 29. Rxd2 Be6 30. g4 Bc4+ 31. Kf3 Ke6 32. Ke4 g6 33. h4 f5+ 34. gxf5+ gxf5+ 35. Kf3 Bd5+ 36. Ke2 Be7 37. h5 e4 38. b4 Ke5 39. b5 Bc4+ 40. Ke3 Bxb5 41. Rb2 Bc5+ 42. Kd2 Bd3 43. Rb3 Bxf2 0-1
+

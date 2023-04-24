@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pc6hl4rL"]
+[Date "2022.06.05"]
+[White "L12345123"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.06.05"]
+[UTCTime "14:27:36"]
+[WhiteElo "2051"]
+[BlackElo "2037"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. d3 d5 2. Nf3 c5 3. e3 Nc6 4. b3 e5 5. Bb2 Bd6 6. Nbd2 Nf6 7. e4 Bg4 8. Be2 O-O 9. O-O d4 10. Nc4 Bc7 11. a3 Qe7 12. Re1 Nd7 13. Qd2 f5 14. exf5 Bxf5 15. Bd1 Rf6 16. Qg5 Raf8 17. Nfd2 Rg6 18. Qxe7 Nxe7 19. b4 Bh3 20. g3 Nd5 21. bxc5 Nxc5 22. Nxe5 Re6 23. Bxd4 Nd7 24. Ndf3 Bg4 25. Nxg4 1-0
+

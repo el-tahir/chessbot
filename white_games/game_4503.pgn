@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8x42Jooh"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "Annapurni"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "10:58:03"]
+[WhiteElo "2000"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 d5 5. exd5 Qxd5 6. Bb5 Bd7 7. Be3 a6 8. Ba4 b5 9. Bb3 c4 10. Bc2 Nf6 11. a3 Bd6 12. Nbd2 a5 13. Nf1 b4 14. axb4 O-O 15. bxa5 Nxa5 16. Ng3 Nb3 17. Bxb3 cxb3 18. Rxa8 Rxa8 19. Bc1 Bb5 20. Ne2 Qe4 21. Kf1 Ra1 22. Nd2 Bxe2+ 23. Qxe2 Rxc1+ 0-1
+

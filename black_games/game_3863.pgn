@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IH5lZWyv"]
+[Date "2020.11.01"]
+[White "Rotaro99"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.01"]
+[UTCTime "12:43:42"]
+[WhiteElo "1947"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 d5 2. Bb2 c5 3. g3 Nc6 4. Bg2 Nf6 5. Nf3 Bg4 6. O-O e6 7. d4 h5 8. h4 Ne4 9. dxc5 g5 10. Nxg5 Rg8 11. Nxe4 dxe4 12. Qxd8+ Rxd8 13. e3 Nb4 14. Na3 Rd2 15. Bxe4 Bxc5 16. Bh7 Rf8 17. Bg7 Nxc2 18. Nxc2 1-0
+

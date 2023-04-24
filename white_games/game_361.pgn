@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s33UJL2k"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "JohtoBoi"]
+[Result "1-0"]
+[UTCDate "2022.07.24"]
+[UTCTime "19:40:10"]
+[WhiteElo "1997"]
+[BlackElo "1984"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. e6 fxe6 6. Be2 g6 7. h4 e5 8. h5 exd4 9. Qxd4 e5 10. Qd3 g5 11. h6 Qf6 12. Bh5+ Kd8 13. Qg3 Rg8 14. Bg4 Bd6 15. Rh5 Be7 16. Nh3 e4 17. Bxd7 Bd6 18. Bf4 Bxf4 19. Nxf4 Bxd7 20. Nh3 g4 21. Nf4 Na6 22. O-O-O Qd6 23. Qe3 Qe7 24. Ncxd5 cxd5 25. Rhxd5 Nb4 26. Rxd7+ Qxd7 27. Rxd7+ Kxd7 28. Qd4+ Nd5 1-0
+

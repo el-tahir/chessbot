@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8mXLI8Mu"]
+[Date "2020.05.12"]
+[White "Robbertus"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "14:02:24"]
+[WhiteElo "1988"]
+[BlackElo "1985"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. Bd3 Bxd3 7. Qxd3 cxd4 8. Nxd4 Bb4+ 9. c3 Bc5 10. Be3 Ne7 11. Nb5 Qb6 12. Bxc5 Qxc5 13. Nd6+ Kf8 14. Nxb7 Qb6 15. Nd6 Qxb2 16. O-O Qxa1 17. Qb5 Nbc6 18. f5 Rb8 19. fxe6 Rxb5 20. Rxf7+ Kg8 21. Ne8 Rxb1+ 22. Kf2 Rf1+ 23. Kg3 Rxf7 0-1
+

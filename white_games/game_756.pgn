@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/H4V1zFrD"]
+[Date "2021.11.20"]
+[White "EltahirAmin"]
+[Black "velemag"]
+[Result "0-1"]
+[UTCDate "2021.11.20"]
+[UTCTime "21:16:24"]
+[WhiteElo "2036"]
+[BlackElo "2073"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8. Bd3 Bg4 9. O-O e6 10. h3 h5 11. Be2 Bxf3 12. Bxf3 Bd6 13. Bg5 Qc7 14. Re1 Bf4 15. Bxf6 gxf6 16. Bxh5 O-O-O 17. c3 Rdg8 18. Qf3 Rg5 19. Re4 e5 20. dxe5 fxe5 21. Bg4+ f5 22. Rd1 fxg4 23. hxg4 Qh7 24. Kf1 Rhg8 25. g3 Bxg3 26. fxg3 Qh3+ 27. Ke2 Rxg4 28. Rxg4 Qxg4 29. Qxg4+ Rxg4 30. Kf3 Rg5 31. Re1 Kd7 32. g4 Ke6 33. Re4 Rg7 34. b4 Rf7+ 35. Kg3 Rd7 36. Re2 Rd3+ 37. Kh4 Rxc3 38. g5 Kf7 39. Rxe5 Rc4+ 40. Kh5 Rc2 41. g6+ Kg7 42. Re7+ Kf6 43. g7 Rh2+ 44. Kg4 Rg2+ 0-1
+

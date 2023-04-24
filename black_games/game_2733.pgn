@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G3jQ1UiD"]
+[Date "2020.12.07"]
+[White "GhostOfTheShell"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.07"]
+[UTCTime "16:42:27"]
+[WhiteElo "1897"]
+[BlackElo "1880"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bb5 Bg4 7. Be3 a6 8. Ba4 e6 9. h3 Bh5 10. O-O Bd6 11. Re1 O-O 12. Bg5 h6 13. Bh4 Be7 14. Bg3 Rc8 15. Bb3 Qb6 16. Na4 Qa7 17. c3 b5 18. Nc5 Bxc5 19. dxc5 Qxc5 20. Qd3 Bg6 21. Qe2 Ne4 22. Bh4 Na5 23. Bc2 Nc4 24. b3 Ncd6 25. Bxe4 Nxe4 26. Rac1 Bh7 27. Ne5 g5 28. Nd7 Qa7 29. Nxf8 Rxf8 30. Bg3 Nxg3 31. Qg4 Ne4 32. h4 Qxf2+ 33. Kh1 Bf5 34. Qf3 Qxh4+ 35. Kg1 Ng3 36. c4 Be4 37. Qf6 Qh1+ 38. Kf2 Qxg2+ 39. Ke3 Nf5+ 40. Qxf5 Bxf5 41. Kd4 Qxa2 42. Kc5 Qxb3 43. cxb5 Qxb5+ 44. Kd6 Rd8+ 45. Ke5 Qb8+ 46. Kf6 Rf8 47. Rc6 Qd8+ 0-1
+

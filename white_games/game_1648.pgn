@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rZJnu144"]
+[Date "2021.02.16"]
+[White "EltahirAmin"]
+[Black "SalomonSH2"]
+[Result "0-1"]
+[UTCDate "2021.02.16"]
+[UTCTime "17:13:35"]
+[WhiteElo "1994"]
+[BlackElo "2049"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 b6 5. Bc2 Bb7 6. Qe2 e6 7. O-O Nbd7 8. d4 Be7 9. Bg5 h6 10. Bh4 e5 11. Nbd2 Rc8 12. Rad1 cxd4 13. Bb3 dxc3 14. bxc3 Nc5 15. Nxe5 dxe5 16. Nc4 Qc7 17. Bc2 O-O 18. f4 Nfxe4 19. Bxe7 Qxe7 20. Nxe5 Nxc3 21. Qg4 Nxd1 22. Qf5 g6 23. Nxg6 fxg6 24. Qxg6+ Qg7 25. Qxg7+ Kxg7 26. Rxd1 Rxf4 27. g3 Rc4 28. Bf5 Ne4 29. Rd7+ Kf6 30. Bxe4 Bxe4 31. Rxa7 Rc1+ 32. Kf2 R8c3 33. Rb7 R1c2+ 34. Ke1 Ra3 35. Rxb6+ Kg5 36. Kd1 Raxa2 37. Rb5+ Kg4 38. h4 Ra1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OFLnAqp8"]
+[Date "2020.10.15"]
+[White "Ciberespacio"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "14:25:09"]
+[WhiteElo "1959"]
+[BlackElo "1986"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O a6 8. Ne5 Bxe2 9. Qxe2 h6 10. Qf3 Nc6 11. Be3 Qb6 12. Rab1 Bd6 13. a3 O-O 14. Na4 Qc7 15. Nxc6 bxc6 16. b4 Bxh2+ 17. Kh1 Bd6 18. Nc5 Qe7 19. g3 a5 20. c3 axb4 21. axb4 Ra2 22. Qd1 Bxc5 23. bxc5 Ne4 24. Rb3 Qc7 25. Qb1 Rfa8 26. Rb7 Nxg3+ 27. Kg2 Qd8 28. Kxg3 Ra1 29. Qd3 Qf6 30. Rbb1 R1a3 31. Rbc1 e5 32. Qe2 e4 33. Qg4 Ra2 34. Rg1 g5 35. Rcf1 Kh7 36. Rh1 Kg7 37. Qh5 Rh8 38. Rh2 Ra3 39. Rfh1 Rxc3 40. Kg2 Rc2 41. Kf1 Rb2 42. Bxg5 Qxd4 43. Bxh6+ Kg8 44. Rg2+ Kh7 45. Be3# 1-0
+

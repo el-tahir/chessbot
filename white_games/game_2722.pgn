@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f68UVj9M"]
+[Date "2020.12.09"]
+[White "EltahirAmin"]
+[Black "Flg100"]
+[Result "1-0"]
+[UTCDate "2020.12.09"]
+[UTCTime "11:24:30"]
+[WhiteElo "1897"]
+[BlackElo "1923"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Bf5 4. Ng3 Bg6 5. Nf3 Nf6 6. Be2 e6 7. O-O Bd6 8. b3 O-O 9. Bb2 Nbd7 10. Re1 Ne4 11. d4 Nxg3 12. hxg3 Nf6 13. c4 Ne4 14. Bd3 Qe7 15. Bxe4 1-0
+

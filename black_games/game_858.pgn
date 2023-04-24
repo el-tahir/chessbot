@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kPGM0M43"]
+[Date "2021.11.10"]
+[White "LEARNING101ANDSOME"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "22:26:23"]
+[WhiteElo "2069"]
+[BlackElo "2060"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. e3 d5 3. Bd3 Nf6 4. c4 Bg4 5. f3 Bh5 6. cxd5 cxd5 7. Nc3 e6 8. Nge2 Bb4 9. Bd2 Nc6 10. O-O O-O 11. a3 Bd6 12. Nb5 Bb8 13. Rc1 a6 14. Nbc3 Qd6 15. Na2 Qxh2+ 16. Kf2 e5 17. Rh1 e4 18. Rxh2 Bxh2 19. fxe4 dxe4 20. Bc4 Ng4+ 21. Kf1 Rad8 22. g3 Rd6 23. Kg2 Rf6 24. Qh1 Rf2+ 25. Kh3 Ne7 26. Rf1 Rxf1 27. Qxf1 Ng6 28. Nf4 Nxf4+ 29. Qxf4 Rc8 30. b3 b5 31. Qf5 Rc6 32. Qxh5 Rh6 33. Kxg4 Rxh5 34. Kxh5 bxc4 35. bxc4 Bxg3 36. Kg4 Bd6 37. c5 Bc7 38. Nc3 Kf8 39. Nxe4 Ke7 40. Bb4 g6 41. Kf3 f5 42. Nc3 Ke6 43. d5+ Ke5 44. d6 Bd8 45. c6 a5 46. c7 1-0
+

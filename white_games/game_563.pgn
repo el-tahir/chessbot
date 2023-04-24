@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rdf3lOCv"]
+[Date "2022.05.08"]
+[White "EltahirAmin"]
+[Black "Bumble-B"]
+[Result "0-1"]
+[UTCDate "2022.05.08"]
+[UTCTime "05:40:57"]
+[WhiteElo "2075"]
+[BlackElo "2040"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D12"]
+[Termination "Normal"]
+
+1. e3 d5 2. d4 c6 3. Nf3 Bf5 4. c4 Nf6 5. Nc3 Nbd7 6. Be2 e6 7. O-O Be7 8. b3 O-O 9. Bb2 h6 10. Qd2 a6 11. Rac1 Rc8 12. Rfd1 b5 13. cxd5 cxd5 14. Bd3 Bxd3 15. Qxd3 Qa5 16. e4 dxe4 17. Nxe4 Qxa2 18. Ba1 Qa5 19. Nxf6+ Nxf6 20. Ne5 Qb6 21. g4 Bd6 22. f4 Bxe5 23. fxe5 Nxg4 24. Qe4 h5 25. h3 Nh6 26. Kh2 Nf5 27. d5 Qf2+ 28. Qg2 Qxg2+ 29. Kxg2 Ne3+ 0-1
+

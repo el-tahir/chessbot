@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Zc22PLKs"]
+[Date "2020.11.12"]
+[White "EltahirAmin"]
+[Black "Bradley_Levla"]
+[Result "1-0"]
+[UTCDate "2020.11.12"]
+[UTCTime "16:49:47"]
+[WhiteElo "1927"]
+[BlackElo "1873"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. Nf3 Bg4 7. Ng3 Bxf3 8. Qxf3 Qh4 9. fxe5 Nxe5 10. Qf5 Bd6 11. Bg5 Nxd3+ 12. cxd3 Bxg3+ 13. Kd2 Bf4+ 14. Bxf4 Qxf4+ 15. Qxf4 1-0
+

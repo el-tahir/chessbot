@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yqneS5d3"]
+[Date "2023.02.27"]
+[White "adeliciousbass"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.27"]
+[UTCTime "08:59:59"]
+[WhiteElo "1992"]
+[BlackElo "1941"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Bg5 d5 3. c4 Nf6 4. Nc3 e6 5. f3 Be7 6. e4 dxe4 7. fxe4 O-O 8. Nf3 Nfd7 9. Bxe7 Qxe7 10. Bd3 Nf6 11. O-O Nbd7 12. e5 Ne8 13. Ne4 b6 14. Nfg5 h6 15. Qh5 f6 16. exf6 Nexf6 17. Nxf6+ Nxf6 18. Qg6 hxg5 19. Rxf6 Qxf6 20. Qh7+ Kf7 21. Rf1 Ke7 22. Rxf6 Rxf6 23. Qxg7+ Rf7 24. Qxg5+ Kd6 25. c5+ bxc5 26. Qxc5+ Kc7 27. Qe5+ Kb6 28. b4 Bb7 29. Qa5# 1-0
+

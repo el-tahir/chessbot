@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0ieErbNd"]
+[Date "2021.11.11"]
+[White "EltahirAmin"]
+[Black "Butterdose"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.11"]
+[UTCTime "12:58:14"]
+[WhiteElo "2055"]
+[BlackElo "2014"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 a6 6. Bd3 b5 7. O-O Bb7 8. f4 Nd7 9. f5 e5 10. Nf3 Be7 11. Be3 h6 12. Qd2 Ngf6 13. a3 Rc8 14. Nh4 Nc5 15. Rf3 Nfxe4 16. Nxe4 Nxe4 17. Bxe4 Bxe4 18. Rg3 Bxh4 19. Rxg7 Bf6 20. Rg4 Bxf5 21. Rg3 Ke7 22. Bxh6 Rxc2 23. Qd5 Rxh6 24. Rf1 Be6 25. Qe4 Qb6+ 26. Kh1 d5 27. Qxc2 Qd4 28. Qc7+ Bd7 29. Rgf3 Qh4 30. h3 Rg6 31. Rxf6 Rxf6 32. Qxe5+ Be6 33. Rc1 Qf4 34. Rc7+ Kf8 35. Qc3 Qf1+ 36. Kh2 Qf4+ 37. Kh1 d4 38. Qc5+ Kg7 39. Qc6 Qf1+ 40. Kh2 Qf4+ 41. Kh1 Bc4 42. Qf3 Qxf3 43. gxf3 Rxf3 44. Kg2 Rf6 45. Ra7 b4 46. axb4 d3 47. Rd7 Re6 48. Kf2 Re2+ 49. Kf1 Rxb2 50. b5 axb5 51. h4 d2+ 52. Kg2 d1=Q+ 53. Kg3 Qxd7 54. h5 Kh6 55. Kh4 Rb3 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hoFmNkzy"]
+[Date "2020.05.07"]
+[White "EltahirAmin"]
+[Black "M_hani"]
+[Result "1-0"]
+[UTCDate "2020.05.07"]
+[UTCTime "19:52:26"]
+[WhiteElo "2009"]
+[BlackElo "2090"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 d6 5. bxc5 Bg4 6. cxd6 cxd6 7. O-O Nf6 8. Bb2 Nxe4 9. Re1 Ng5 10. Be2 Be6 11. d4 Nxf3+ 12. Bxf3 Qb6 13. Ba3 Nxd4 14. Nc3 Rc8 15. Nd5 Bxd5 16. Bxd5 Rxc2 17. Qh5 O-O 18. Be4 f5 19. Bxc2 Nxc2 20. Rab1 Qa6 21. Rec1 Nxa3 22. Rb3 Nb5 23. Rh3 h6 24. Qg6 d5 25. Qxa6 b6 26. Qxb5 1-0
+

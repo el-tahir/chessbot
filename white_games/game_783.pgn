@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gRcMprWZ"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "saajen"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:35:31"]
+[WhiteElo "2053"]
+[BlackElo "2059"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. O-O a6 9. f4 b5 10. Bb3 b4 11. e5 dxe5 12. fxe5 Ng4 13. Nd5 e6 14. h3 Nxe5 15. Nxb4 Bb7 16. Qe2 Nbc6 17. Nbxc6 Bxc6 18. Rad1 Qc7 19. Bf4 Qb6 20. Bxe5 Bxe5 21. Qxe5 Rad8 22. Kh1 a5 23. Nxc6 Qxc6 1-0
+

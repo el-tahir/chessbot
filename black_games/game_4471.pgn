@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EeaACZ7P"]
+[Date "2020.05.12"]
+[White "KATAMBRA"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "13:55:24"]
+[WhiteElo "1966"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Ne2 d5 3. exd5 cxd5 4. d4 Nf6 5. Ng3 Bg4 6. Be2 Bxe2 7. Qxe2 Nc6 8. c3 e6 9. O-O Be7 10. Nd2 O-O 11. Nf3 Qb6 12. a3 Rad8 13. Bg5 Rfe8 14. Ne5 Nxe5 15. dxe5 Nd7 16. Bxe7 Rxe7 17. Nh5 Qc7 18. Rfe1 Nc5 19. Qe3 Ree8 20. Qg5 g6 21. Nf6+ Kf8 22. Nxh7+ Kg7 23. Nf6 Rh8 24. Re3 Ne4 25. Nxe4 dxe4 26. Rxe4 Qd7 27. Qf6+ Kg8 28. Rd4 Qxd4 29. cxd4 Rxd4 30. h3 Rh5 31. Rc1 Rf5 32. Rc8+ 1-0
+

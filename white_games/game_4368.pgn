@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LNvhj5Eb"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "Milan1951"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "14:14:17"]
+[WhiteElo "1985"]
+[BlackElo "2009"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 d5 3. d4 dxe4 4. Ne5 Bg7 5. Bc4 Bxe5 6. dxe5 Qd2+ 7. Qxd2 1-0
+

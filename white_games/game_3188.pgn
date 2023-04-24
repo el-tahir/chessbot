@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dS0wj7j7"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "nitro_skull"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "11:59:00"]
+[WhiteElo "1966"]
+[BlackElo "1967"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. d4 cxd4 5. cxd4 g6 6. Nc3 Nc6 7. Be3 Bg7 8. Qd2 Bg4 9. Be2 Rc8 10. h3 Bd7 11. O-O a6 12. Rac1 b5 13. Rfd1 b4 14. Nd5 Nxe4 15. Qd3 Bf5 16. Qxa6 Bd7 17. Bb5 e6 18. Nxb4 Nxb4 19. Bxd7+ Kxd7 20. Ne5+ dxe5 21. dxe5+ Nd5 22. Bb6 Rxc1 23. Rxc1 Qxb6 24. Qc4 Qxf2+ 25. Kh2 Qg3+ 26. Kg1 Qe3+ 27. Kh2 Qxc1 28. Qxc1 Bxe5+ 29. Kg1 Rc8 30. Qe1 f5 31. g4 Bxb2 32. Qb1 Rc1+ 0-1
+

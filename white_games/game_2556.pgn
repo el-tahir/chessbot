@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/APYHVa48"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "jrodriguez0488"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "15:04:14"]
+[WhiteElo "1947"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. Nc3 Bb7 3. Nf3 e6 4. d4 Nf6 5. Bd3 Bb4 6. Be3 Bxc3+ 7. bxc3 Bxe4 8. Qe2 Bxd3 9. Qxd3 O-O 10. O-O d6 11. a4 c5 12. Ng5 cxd4 13. Bxd4 e5 14. Be3 e4 15. Qe2 Nd5 16. Nxe4 Nc6 17. Bg5 Qe8 18. Qd3 Qe6 19. Rfe1 f6 20. Nxf6+ Nxf6 21. Rxe6 1-0
+

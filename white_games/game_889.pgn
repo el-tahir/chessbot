@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qHFOzyQS"]
+[Date "2021.11.09"]
+[White "EltahirAmin"]
+[Black "BENTOH"]
+[Result "1-0"]
+[UTCDate "2021.11.09"]
+[UTCTime "03:47:21"]
+[WhiteElo "2061"]
+[BlackElo "2034"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 h5 4. d4 e6 5. Bg5 Ne7 6. Bc4 c6 7. d5 cxd5 8. exd5 f6 9. Be3 e5 10. d6 Nf5 11. Qd5 Nxd6 12. Qxd6 Nc6 13. Nb5 a6 14. Nc7+ Qxc7 15. Qxc7 d5 16. Qxg7 1-0
+

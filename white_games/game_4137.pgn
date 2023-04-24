@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oZwQeMsL"]
+[Date "2020.10.19"]
+[White "EltahirAmin"]
+[Black "Kalkanlufer"]
+[Result "0-1"]
+[UTCDate "2020.10.19"]
+[UTCTime "19:39:03"]
+[WhiteElo "1871"]
+[BlackElo "1899"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 e6 3. Nf3 g6 4. c4 Bg7 5. Nc3 Ne7 6. Bg5 O-O 7. Qd2 f6 8. Bh6 Rf7 9. h4 f5 10. h5 fxe4 11. Nxe4 c6 12. Nfg5 Rf5 13. hxg6 Nxg6 14. Bxg7 Kxg7 15. Rxh7+ Kg8 16. Bd3 d5 17. cxd5 cxd5 18. Nf6+ Qxf6 19. Bxf5 Qxf5 20. Rc7 Nc6 21. O-O-O Nd8 22. Rh1 b6 23. Rhh7 Ba6 24. Qb4 Qxg5+ 25. Kb1 Bd3+ 26. Ka1 Nf4 27. Qd6 Bxh7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vvDwkzje"]
+[Date "2020.06.09"]
+[White "EltahirAmin"]
+[Black "aln276"]
+[Result "0-1"]
+[UTCDate "2020.06.09"]
+[UTCTime "08:25:48"]
+[WhiteElo "2038"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. f3 Nc6 7. Be3 Qa5 8. Qd2 Bxc3 9. bxc3 b6 10. Bb5 Ba6 11. Bxc6 dxc6 12. Nxc6 Qb5 13. Nd4 Qb2 14. Kf2 O-O 15. Rhb1 Qa3 16. Rb3 Qd6 17. Bg5 Qxh2 18. Rh1 Qxh1 19. Bxf6 gxf6 20. Ne2 Rfd8 21. Qf4 Bxe2 0-1
+

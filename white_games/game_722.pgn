@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AQ1mfVQd"]
+[Date "2021.11.21"]
+[White "EltahirAmin"]
+[Black "MichaelFreitag"]
+[Result "1-0"]
+[UTCDate "2021.11.21"]
+[UTCTime "21:56:45"]
+[WhiteElo "2062"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c3 e6 3. d4 d5 4. Bd3 a6 5. Nf3 Nd7 6. Bg5 Be7 7. h4 h6 8. Be3 dxe4 9. Bxe4 Ngf6 10. Bd3 Nd5 11. Nbd2 Nxe3 12. fxe3 Qc7 13. Qe2 Qg3+ 14. Qf2 Qxf2+ 15. Kxf2 f6 16. Bg6+ Kd8 17. h5 Kc7 18. e4 Nb6 19. e5 f5 20. Ke3 Nd5+ 21. Kf2 Nf4 22. Rhg1 Nd3+ 23. Ke3 Nxb2 24. a4 Nd3 25. Kxd3 1-0
+

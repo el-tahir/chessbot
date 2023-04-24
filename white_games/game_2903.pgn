@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lpSf7WHg"]
+[Date "2020.11.24"]
+[White "EltahirAmin"]
+[Black "zagit"]
+[Result "0-1"]
+[UTCDate "2020.11.24"]
+[UTCTime "12:34:50"]
+[WhiteElo "1881"]
+[BlackElo "1889"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be6 6. Nxe6 fxe6 7. Bd3 Nf6 8. Qf3 Qd7 9. a4 Nd4 10. Qg3 O-O-O 11. Be3 c5 12. Nb5 e5 13. Nxa7+ Kb8 14. Nb5 Nh5 15. Qh4 g6 16. Bxd4 cxd4 17. Be2 Be7 18. Qh3 Qxh3 19. gxh3 Nf4 20. Bf1 Rc8 21. Kd2 Rhf8 22. a5 d5 23. exd5 Nxd5 24. Bg2 Bb4+ 25. c3 dxc3+ 26. bxc3 Nxc3 27. Ke3 Nxb5 28. a6 Rc3+ 29. Ke4 Rf4+ 30. Kxe5 Bd6+ 31. Kd5 Rc5+ 32. Ke6 Re5+ 33. Kd7 Rf7+ 34. Kd8 Bc7# 0-1
+

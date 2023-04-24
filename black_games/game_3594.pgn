@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LoNwv7Mj"]
+[Date "2020.11.07"]
+[White "Brojerd"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "12:20:12"]
+[WhiteElo "2019"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Nf3 c5 7. c3 Nc6 8. Nbd2 cxd4 9. cxd4 Bb4 10. O-O Nge7 11. Nb3 O-O 12. Bd2 Bxd2 13. Qxd2 Qb6 14. Rac1 f6 15. Rfe1 f5 16. Nc5 Nd8 17. Nd7 Qa6 18. Nxf8 Kxf8 19. a3 Ndc6 20. Ng5 Nd8 21. Nxh7+ Kg8 22. Ng5 Nf7 23. Nxf7 Kxf7 24. Qg5 1-0
+

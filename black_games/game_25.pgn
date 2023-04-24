@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3RW9Llk0"]
+[Date "2023.03.10"]
+[White "Ludwich777"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.03.10"]
+[UTCTime "22:57:58"]
+[WhiteElo "2063"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A16"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. d4 Bg4 5. f3 Bh5 6. e4 Nb6 7. Nh3 c5 8. d5 e6 9. Nf4 exd5 10. Nxh5 d4 11. Na4 Bd6 12. Ng3 Qh4 13. Nxb6 axb6 14. f4 O-O 15. Qf3 Nc6 16. Bc4 Nb4 17. O-O g5 18. fxg5 1-0
+

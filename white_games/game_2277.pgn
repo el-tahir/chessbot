@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MyZ7JtUB"]
+[Date "2020.12.24"]
+[White "EltahirAmin"]
+[Black "user214214215"]
+[Result "1-0"]
+[UTCDate "2020.12.24"]
+[UTCTime "12:50:14"]
+[WhiteElo "1942"]
+[BlackElo "1998"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nc3 d5 3. d4 a6 4. f3 h6 5. Bd3 b5 6. a3 e6 7. Nge2 c5 8. b3 cxd4 9. Nxd4 Bc5 10. Nce2 dxe4 11. fxe4 Nf6 12. Bb2 O-O 13. O-O Qb6 14. Kh1 Bb7 15. Qe1 Nbd7 16. Qg3 Rad8 17. e5 Nh7 18. Rf4 Nxe5 19. Raf1 Nxd3 20. cxd3 Ng5 21. h4 Nh7 22. Nxe6 g6 23. Nxf8 Rxf8 24. h5 g5 25. Rf5 Bd6 26. Qg4 Bc8 27. Nd4 Bc5 28. Ne6 Bxe6 29. Qe4 Bxf5 30. Qxf5 Qe6 31. Qxc5 Nf6 32. Qd4 Qe2 33. Qxf6 Qxf1+ 34. Qxf1 f6 35. Qf5 1-0
+

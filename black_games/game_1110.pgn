@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nt1tRT80"]
+[Date "2021.10.15"]
+[White "Dmitriigreb"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.15"]
+[UTCTime "06:28:45"]
+[WhiteElo "2035"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D01"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bf4 e6 4. Nf3 c5 5. dxc5 Bxc5 6. e3 Nc6 7. Bb5 a6 8. Bxc6+ bxc6 9. O-O O-O 10. h3 Nh5 11. Bh2 Bd6 12. Ne5 Nf6 13. Nxc6 Bxh2+ 14. Kxh2 Qd6+ 15. Kg1 Qxc6 16. Qf3 Bb7 17. Rad1 Rad8 18. Ne2 Ne4 19. Nd4 Qd6 20. c3 e5 21. Nf5 Qf6 22. a3 g6 23. Nh6+ Kg7 24. Ng4 Qxf3 25. gxf3 Ng5 26. Nxe5 Nxh3+ 27. Kg2 Ng5 28. f4 d4+ 29. Kg3 Ne4+ 30. Kh2 dxe3 31. fxe3 Rxd1 32. Rxd1 h5 33. Rd7 Ba8 34. Ra7 Nc5 35. b4 Nd3 36. Nxd3 Rd8 37. Ne5 Rd2+ 38. Kg3 Rg2+ 39. Kh3 Be4 40. Nxf7 h4 41. Nd6+ Kh6 42. Nxe4 Re2 43. Kxh4 Rh2+ 44. Kg3 Re2 45. Kf3 Rh2 46. Rxa6 1-0
+

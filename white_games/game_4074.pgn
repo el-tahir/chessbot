@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qy7C3YJl"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "Rainmik"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "02:12:45"]
+[WhiteElo "1918"]
+[BlackElo "1914"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C33"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. Bc4 Bc5 5. Nf3 d6 6. d4 Bb4 7. Bxf4 O-O 8. O-O Bxc3 9. bxc3 Nxe4 10. Qd3 Bf5 11. Qe3 Nc6 12. Bd3 Re8 13. g4 Bxg4 14. Bxe4 Bf5 15. Nd2 Qh4 16. Qf3 Ne7 17. Rae1 Bxe4 18. Nxe4 Ng6 19. Bg5 Rxe4 20. Bxh4 Rxh4 21. Qxf7+ Kh8 22. Re8+ Rxe8 23. Qxe8+ Nf8 24. Qxf8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N2opwtRG"]
+[Date "2021.03.06"]
+[White "EltahirAmin"]
+[Black "Meridabike"]
+[Result "1-0"]
+[UTCDate "2021.03.06"]
+[UTCTime "03:37:06"]
+[WhiteElo "2051"]
+[BlackElo "2051"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bd3 O-O 6. Be3 Ng4 7. Qd2 Nxe3 8. fxe3 Bg4 9. O-O-O Bxf3 10. gxf3 Nc6 11. h4 e5 12. h5 exd4 13. exd4 Nxd4 14. hxg6 hxg6 15. Qh2 f6 16. Bc4+ Rf7 17. Rxd4 Kf8 18. Bxf7 Kxf7 19. Rg1 c5 20. Rd2 b5 21. Qh5 1-0
+

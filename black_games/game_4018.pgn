@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bvbnQNM6"]
+[Date "2020.10.26"]
+[White "Sanda81"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.26"]
+[UTCTime "13:23:48"]
+[WhiteElo "1980"]
+[BlackElo "1968"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. h4 Qc7 10. Be2 Re8 11. c3 Nd7 12. Re1 Rad8 13. Bd2 c5 14. Qa4 a6 15. dxc5 Nxc5 16. Qxg4 Ne4 17. Bh6 Bf8 18. Bf4 Qc5 19. Be3 Qa5 20. Nd4 g6 21. a3 f5 22. Qh3 Qb6 23. Nxf5 Qxb2 24. Nh6+ Kg7 25. Ng4 Nxc3 26. Bf3 Bd6 27. Bd4+ Kg8 28. Nf6+ Kf8 29. Nxe8 Rxe8 30. Rxe8+ Kxe8 31. Re1+ Kd8 32. Bf6+ Kc7 33. Bd5 Nxd5 34. Bxb2 Nf4 35. Qc3+ Kd7 36. Rd1 Ne2+ 37. Kf1 Nxc3 38. Bxc3 Ke6 39. a4 b5 40. a5 b4 41. Bd4 f5 42. Bb6 b3 43. Rd3 b2 44. Rb3 Ba3 45. Bd4 Kd5 46. Bxb2 Bc5 47. Rb8 g5 48. Ke2 gxh4 49. Kd3 h3 50. gxh3 Bd6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dydvs9Ta"]
+[Date "2021.02.27"]
+[White "saltyclown"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "00:04:20"]
+[WhiteElo "1970"]
+[BlackElo "2019"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d6 3. d4 Nf6 4. Nc3 Qa5 5. Bd3 Bg4 6. f3 Bh5 7. Ne2 e5 8. O-O Be7 9. Ng3 Bg6 10. Bd2 Qc7 11. Rc1 O-O 12. d5 c5 13. f4 exf4 14. Bxf4 Nbd7 15. Nf5 Rfe8 16. Qe1 Bf8 17. g4 Nxg4 18. Qg3 Nge5 19. Bb1 Nxc4 20. h4 Nde5 21. h5 Bxh5 22. Nxg7 Bxg7 23. Kh1 Bg6 24. Rg1 Re7 25. Bg5 Ree8 26. Nb5 Qd7 27. Nc3 b5 28. Ne2 Nxb2 29. Nf4 Nbc4 30. Rc2 a5 31. Rh2 Na3 32. Qh4 Nxb1 33. Nxg6 fxg6 34. Qxh7+ Kf7 35. Rxb1 Rh8 36. Rf1+ Ke8 37. Qxh8+ Bxh8 38. Rxh8# 1-0
+

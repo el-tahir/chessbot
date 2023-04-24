@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QphcozD5"]
+[Date "2020.05.11"]
+[White "EatingTheEarth"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2020.05.11"]
+[UTCTime "14:47:00"]
+[WhiteElo "1928"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Bf4 d5 3. e3 Nf6 4. Nf3 Bf5 5. Nbd2 e6 6. a3 Bd6 7. Bxd6 Qxd6 8. c4 O-O 9. b4 b6 10. c5 bxc5 11. dxc5 Qc7 12. Nd4 Bg6 13. N2f3 e5 14. Nb3 Nbd7 15. Be2 Rfd8 16. O-O Nf8 17. h3 Ne6 18. a4 d4 19. exd4 exd4 20. Bd3 Nf4 21. Bxg6 Nxg6 22. Nbxd4 Qf4 23. Ra2 Rd5 24. Qa1 Rad8 25. Nxc6 R8d7 26. b5 Rxc5 27. Rd1 Rcd5 28. Rxd5 Rxd5 29. Re2 h6 30. Nxa7 Ne4 31. Qe1 Nc5 32. Re8+ Kh7 33. Re2 Qxa4 34. Nc6 Qxb5 35. Ncd4 Qc4 36. Nf5 Rxf5 37. Ne5 Qd4 38. Nxg6 fxg6 39. Rd2 Qf4 40. Qc1 Ne4 41. Rc2 Nxf2 42. Qxf4 Nxh3+ 43. gxh3 Rxf4 44. Rg2 Rh4 45. Kh2 g5 46. Rg3 Kg6 47. Kg2 Kf5 48. Kf3 g6 49. Kg2 h5 50. Kf2 g4 51. hxg4+ Rxg4 52. Rxg4 Kxg4 53. Kg2 g5 54. Kh2 h4 55. Kg2 Kh5 56. Kh2 g4 57. Kg2 Kg5 58. Kh2 g3+ 59. Kg2 Kg4 60. Kg1 h3 61. Kh1 Kh4 62. Kg1 h2+ 63. Kh1 Kg4 64. Kg2 Kf4 65. Kh1 Ke3 66. Kg2 Ke2 67. Kh1 Ke3 68. Kg2 Kf4 69. Kh1 Kg5 70. Kg2 Kh4 71. Kh1 g2+ 72. Kxg2 h1=Q+ 73. Kxh1 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VJYH1fMf"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "Olotropico"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "15:11:28"]
+[WhiteElo "1956"]
+[BlackElo "1987"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. d3 e6 5. Nc3 Be7 6. Be2 O-O 7. O-O exd3 8. Bxd3 h6 9. Nge4 Nbd7 10. f4 b6 11. Qf3 Rb8 12. g4 Bb7 13. g5 Nxe4 14. Nxe4 Nc5 15. Nf6+ Bxf6 16. Qh5 Bd4+ 17. Rf2 Bxf2+ 18. Kxf2 Be4 19. gxh6 Bxd3 20. hxg7 Kxg7 21. Be3 Bg6 22. Rg1 Rh8 23. Qe5+ Qf6 24. Qxc7 Rbc8 25. Qd6 Ne4+ 0-1
+

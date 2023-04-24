@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/S9JnsvKB"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "rotti41"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "16:29:51"]
+[WhiteElo "1984"]
+[BlackElo "1984"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 b5 7. Nb3 Bb7 8. Bf4 e5 9. Be3 Nf6 10. Bg2 b4 11. Nd5 Nxd5 12. exd5 d6 13. O-O Be7 14. Qd2 a5 15. a3 a4 16. Nc1 bxa3 17. Rxa3 O-O 18. Rc3 Qa5 19. Be4 Ba6 20. Rd1 Nd7 21. f4 Rfc8 22. Rxc8+ Rxc8 23. Qxa5 1-0
+

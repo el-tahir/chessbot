@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ro2CbVIl"]
+[Date "2023.03.14"]
+[White "EltahirAmin"]
+[Black "MrLHarlemEastSA"]
+[Result "0-1"]
+[UTCDate "2023.03.14"]
+[UTCTime "02:37:58"]
+[WhiteElo "2012"]
+[BlackElo "2002"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B90"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nf3 Be7 8. a4 O-O 9. O-O Bg4 10. h3 Bxf3 11. Qxf3 Nc6 12. Be3 Nb4 13. Rfd1 Rc8 14. a5 Qd7 15. Ra4 Rfd8 16. Rxb4 d5 17. Nxd5 Nxd5 18. exd5 Bxb4 19. Qe4 g6 20. Qxb4 Qxd5 21. Qe4 Qxe4 22. Bxe4 Rxd1+ 23. Kh2 Re1 24. Bxb7 Rxc2 25. Bxa6 Rxe3 26. fxe3 Rxb2 27. Bc8 Rb8 28. Bd7 Ra8 29. Kg3 Rxa5 30. Kf3 f5 31. g4 fxg4+ 32. Bxg4 Kg7 33. Ke4 Kf6 34. Kf3 Ra7 35. Bc8 Rc7 36. Ba6 Rc6 37. Be2 Rc5 38. Ke4 h5 39. h4 Ra5 40. Kd3 Ra4 41. Bf3 Rxh4 42. Bd5 Rb4 43. e4 Rd4+ 44. Ke3 g5 45. Kf3 h4 46. Kg4 Ke7 47. Kxg5 Rxd5 48. exd5 h3 49. Kh4 h2 50. Kg5 h1=Q 51. Kf5 Kd6 0-1
+

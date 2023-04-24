@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QG8jjs9g"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "entoni77"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "08:57:44"]
+[WhiteElo "1981"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 b6 3. d4 Bb7 4. Bd3 Be7 5. c4 c5 6. Nc3 cxd4 7. Nxd4 Nc6 8. Be3 Nxd4 9. Bxd4 Nf6 10. O-O Qb8 11. f3 O-O 12. a4 Rd8 13. e5 Ne8 14. Bc2 d5 15. Qd3 g6 16. cxd5 Bxd5 17. Nxd5 Rxd5 18. Qe4 Qd8 19. Rad1 Rc8 20. Bc3 Rxd1 21. Rxd1 Qc7 22. h4 Qc4 23. Qe3 Qxh4 24. Rd7 Bc5 25. Bd4 Bxd4 26. Rxd4 Qg3 27. Bb1 Ng7 28. Rg4 Nf5 29. Bxf5 Rc1+ 30. Qxc1 Qxe5 31. Bb1 h5 32. Qc8+ Kg7 33. Qc3 Qxc3 34. bxc3 hxg4 35. fxg4 Kf6 36. Kf2 Ke5 37. Kf3 Kd5 38. Kf4 Kc4 39. Kg5 Kxc3 40. Kf6 Kb4 41. Bc2 Kc3 42. Bd1 Kd2 43. Bb3 Kc3 44. Bd1 Kd2 45. Bf3 Kc3 46. Kxf7 e5 47. Kxg6 Kd4 48. Kf5 e4 49. Bxe4 Kc5 50. g5 Kb4 51. g6 Kxa4 52. g7 b5 53. g8=Q b4 54. Qc4 a5 55. Bc2+ Ka3 56. g4 a4 57. Qb3+ axb3 58. Bxb3 Kxb3 59. g5 Kc2 60. g6 b3 61. g7 b2 62. g8=Q b1=Q 63. Qg2+ Kd1+ 64. Kf4 Kc1 65. Qf1+ Kb2 66. Qb5+ Ka1 67. Qa4+ Qa2 68. Qd4+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LHyk5iM4"]
+[Date "2021.10.18"]
+[White "EltahirAmin"]
+[Black "anujrajgupta"]
+[Result "1-0"]
+[UTCDate "2021.10.18"]
+[UTCTime "03:30:36"]
+[WhiteElo "1999"]
+[BlackElo "1960"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qb6 6. Nb3 Bb4 7. Be3 Qc7 8. Bd3 Bxc3+ 9. bxc3 Qxc3+ 10. Bd2 Qc7 11. O-O Nf6 12. f4 Nc6 13. f5 h5 14. fxe6 dxe6 15. Bg5 Ng4 16. g3 Qb6+ 17. Kg2 f6 18. Qf3 Rf8 19. h3 Nge5 20. Qxh5+ Kd8 21. Rad1 Qb4 22. Bc4+ Bd7 23. Bxe6 Qxe4+ 24. Kh2 Qe2+ 25. Qxe2 Kc7 26. Bxd7 Nxd7 27. Bf4+ Kc8 28. Qe6 Ne5 29. Nc5 Rd8 30. Bxe5 fxe5 31. Rxd7 Rxd7 32. Qxd7+ Kb8 33. Qxb7# 1-0
+

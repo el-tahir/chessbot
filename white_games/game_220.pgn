@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/E1BeKKSc"]
+[Date "2022.10.15"]
+[White "EltahirAmin"]
+[Black "Kipettrovitchi"]
+[Result "0-1"]
+[UTCDate "2022.10.15"]
+[UTCTime "06:26:10"]
+[WhiteElo "2012"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. O-O Be7 8. d4 cxd4 9. Nxd4 Nf6 10. Bg5 O-O 11. Qd3 Nc6 12. Nf5 Rad8 13. Nxe7+ Qxe7 14. Rfe1 Qd6 15. Rad1 Nb4 16. Qd4 Nxc2 17. Qxa7 Nxe1 18. Rxe1 d4 19. Bxf6 Qxf6 20. Ne4 Qe5 21. Qxb7 Rfe8 22. f3 f5 23. Qb3+ Kh8 0-1
+

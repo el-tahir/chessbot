@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/I0S6fyZK"]
+[Date "2020.10.31"]
+[White "EltahirAmin"]
+[Black "WizarsToucanLLC"]
+[Result "1-0"]
+[UTCDate "2020.10.31"]
+[UTCTime "18:26:01"]
+[WhiteElo "1957"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3 Be7 5. e5 Nfd7 6. f4 c5 7. Nf3 Nc6 8. O-O Qb6 9. dxc5 Bxc5+ 10. Kh1 Qa5 11. Bd2 Bb4 12. a3 Bxc3 13. Bxc3 Qb6 14. Qe2 a5 15. Rad1 Nc5 16. Bb5 Ne4 17. Be1 O-O 18. Bd3 Qxb2 19. Bd2 Bd7 20. g4 Nd4 21. Nxd4 Qxd4 22. f5 Rac8 23. f6 gxf6 24. exf6 Bc6 25. g5 Nc3 26. Qh5 Ne4 27. Qh6 1-0
+

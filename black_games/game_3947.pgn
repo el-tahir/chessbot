@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/f7ZXM29Q"]
+[Date "2020.10.29"]
+[White "vatsnitish"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.29"]
+[UTCTime "17:30:09"]
+[WhiteElo "1994"]
+[BlackElo "2006"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O 8. O-O Bg4 9. h3 Bh5 10. c3 Nd7 11. Re1 Nb6 12. Be3 Qc7 13. Qd2 Rad8 14. Rad1 c5 15. Qc1 cxd4 16. Nxd4 Bg6 17. b3 Nd5 18. Nb5 Qb8 19. Nxd6 Rxd6 20. Bd4 Rfd8 21. Bf3 Ra6 22. Qb2 Rad6 23. Bxd5 Rxd5 24. Re7 Re8 25. Rde1 Rxe7 26. Rxe7 Qa8 27. Qe2 Rd8 28. Qc4 Qc8 29. Qb4 b6 30. Qa3 a6 31. Re1 Qb7 32. Re7 Qc6 33. Qxa6 Qd6 34. Re1 Qf4 35. Qxb6 Rb8 36. Qa7 Rf8 37. b4 Qd2 38. Rf1 Bd3 39. Ra1 Re8 40. a4 Re1+ 41. Rxe1 Qxe1+ 42. Kh2 h6 43. Qb8+ Kh7 44. Qf4 Qe6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YGSAwszx"]
+[Date "2022.05.25"]
+[White "Tooweaktooslow79"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.05.25"]
+[UTCTime "18:13:54"]
+[WhiteElo "1990"]
+[BlackElo "2040"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bc4 O-O 8. O-O Bg4 9. c3 Nd7 10. Bb3 Nb6 11. Bc2 Nd5 12. Qd3 g6 13. Bh6 Re8 14. Rae1 Qc7 15. h3 Bxf3 16. Qxf3 f5 17. Bb3 Nf6 18. Rxe8+ Rxe8 19. Bd2 Ne4 20. Be3 c5 21. dxc5 Bxc5 22. Bxc5 Qxc5 23. Rd1 Kg7 24. Rd7 Re7 25. Rxe7 Qxe7 26. Qe3 Qd6 27. f3 Nc5 28. Qd4+ Qxd4+ 29. cxd4 Nxb3 30. axb3 Kf6 31. Kf2 Ke6 32. Ke3 Kd5 33. Kd3 h5 34. g3 a5 35. Kc3 b5 36. b4 axb4+ 37. Kxb4 Kxd4 38. Kxb5 Kd3 39. b4 Ke3 40. Kc5 Kxf3 41. g4 Kg3 42. gxf5 gxf5 43. b5 f4 44. b6 f3 45. b7 f2 46. b8=Q+ Kxh3 47. Qf4 Kg2 48. Qe4+ Kg1 49. Qe3 Kg2 50. Qe2 Kg1 51. Qe3 h4 52. Qg5+ Kf1 53. Qxh4 Ke1 54. Qe4+ Kf1 55. Qf3 Kg1 56. Qe3 f5 57. Kd5 f4 58. Qd4 f3 59. Ke4 Kg2 60. Qd2 Kg1 61. Qe3 Kg2 62. Qd2 Kg1 63. Qg5+ Kh2 64. Qh4+ Kg2 65. Qg4+ Kh1 66. Qh3+ Kg1 67. Qg3+ Kf1 68. Qxf3 Ke1 69. Qg3 Ke2 70. Qe3+ Kf1 71. Kf3 Kg1 72. Qxf2+ Kh1 73. Qg2# 1-0
+

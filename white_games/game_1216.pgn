@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/XLc1w75o"]
+[Date "2021.04.17"]
+[White "EltahirAmin"]
+[Black "RangerOfTheWind"]
+[Result "1-0"]
+[UTCDate "2021.04.17"]
+[UTCTime "17:02:57"]
+[WhiteElo "2101"]
+[BlackElo "1746"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D01"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Nbd7 4. e3 e6 5. Nf3 Be7 6. Bd3 h6 7. Bh4 g5 8. Bg3 b6 9. Ne5 Bb7 10. Bb5 c6 11. Bxc6 Bxc6 12. Nxc6 Qc7 13. Nxe7 Kxe7 1-0
+

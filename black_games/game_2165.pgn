@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wSirfFD9"]
+[Date "2020.12.29"]
+[White "skambidt"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.29"]
+[UTCTime "15:43:59"]
+[WhiteElo "1977"]
+[BlackElo "1958"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 Ne4 4. Nxe4 dxe4 5. f3 exf3 6. Nxf3 c6 7. e4 Qc7 8. Bc4 Bg4 9. Kf1 e6 10. h3 Bh5 11. g4 Bg6 12. Kg2 Bxe4 13. Rf1 Be7 14. Bxe7 Qxe7 15. Bd3 Bd5 16. c4 Bxf3+ 17. Qxf3 Nd7 18. Rae1 h6 19. d5 cxd5 20. cxd5 e5 21. Rxe5 Nxe5 22. Bb5+ Kf8 23. Qf5 f6 24. Bd7 Qxd7 25. Qxe5 Re8 26. Rxf6+ gxf6 27. Qe6 Rxe6 0-1
+

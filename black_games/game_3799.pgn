@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mvwTTs1D"]
+[Date "2020.11.03"]
+[White "West-End-Draught"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.03"]
+[UTCTime "00:39:16"]
+[WhiteElo "2044"]
+[BlackElo "2045"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. g3 d5 3. cxd5 Nxd5 4. Bg2 Nc6 5. e4 Nf6 6. Nc3 Bg4 7. f3 Bh5 8. Nge2 e5 9. a3 Qd7 10. b4 Nd4 11. O-O c5 12. Kh1 Rc8 13. bxc5 Bxc5 14. Nxd4 exd4 15. Nd5 Nxd5 16. exd5 O-O 17. g4 Bg6 18. f4 f5 19. g5 Rfe8 20. d3 Re7 21. Bb2 Rce8 22. Bf3 Bf7 23. Qb3 Re3 24. Rad1 Rxf3 0-1
+

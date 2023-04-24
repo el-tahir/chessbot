@@ -1,0 +1,19 @@
+[Event "Koltanowski"]
+[Site "https://lichess.org/BSsEBcOA"]
+[Date "2020.05.15"]
+[White "Mogtba"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.15"]
+[UTCTime "23:35:04"]
+[WhiteElo "1780"]
+[BlackElo "2036"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "60+10"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. Nc3 a6 5. a4 Be7 6. O-O Nf6 7. d4 cxd4 8. Nxd4 O-O 9. Nxc6 bxc6 10. e5 Nd5 11. Nxd5 cxd5 12. Bd3 Qc7 13. Qh5 g6 14. Qe2 Rd8 15. h4 Bxh4 16. c3 d6 17. Bf4 dxe5 18. Bxe5 Qe7 19. c4 Bf6 20. Bxf6 Qxf6 21. cxd5 Rxd5 22. Bc4 Rg5 23. Qe4 Rb8 24. b3 Bb7 25. f4 Bxe4 26. fxg5 Qxg5 27. Rf2 Rd8 28. Raf1 Rd2 29. Rxd2 Qxd2 30. Rf2 Qe1+ 31. Rf1 Qe3+ 32. Rf2 h5 33. Kf1 Bd3+ 34. Kg1 Bxc4 35. bxc4 Qc1+ 36. Kh2 Qxc4 37. Ra2 Qxa2 0-1
+

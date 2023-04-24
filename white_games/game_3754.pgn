@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BjMaOPsh"]
+[Date "2020.11.03"]
+[White "EltahirAmin"]
+[Black "pcantunes"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "23:17:03"]
+[WhiteElo "2049"]
+[BlackElo "2059"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Nc3 c6 5. d4 f5 6. Be2 Nf6 7. O-O Bd6 8. Bg5 O-O 9. Qd2 Qb6 10. Na4 Qc7 11. Rae1 Ne4 12. Qc1 Nd7 13. Nc3 Ndf6 14. Bd3 Bd7 15. h3 Rae8 16. Re2 h6 17. Bxf6 Rxf6 18. Rfe1 Ref8 19. Nh4 g5 20. Nf3 Kg7 21. g4 fxg4 22. Nxe4 dxe4 23. Nxg5 exd3 24. Re7+ Bxe7 25. Rxe7+ R8f7 26. Nxf7 Rxf7 27. Rxf7+ Kxf7 28. cxd3 Kg6 29. h4 Qd6 30. Qe3 Qf6 31. b4 Bf5 32. Qe8+ Qf7 33. Qe3 Kh5 34. Qg3 Qf6 35. Qf4 Kxh4 36. Kh2 Kh5 37. a4 Kg6 38. b5 cxb5 39. axb5 h5 40. f3 gxf3 41. Qxf3 Bg4 42. Qe4+ Kg5 43. Qxb7 Qf4+ 44. Kg1 Qxd4+ 45. Kg2 Qxd3 46. Qg7+ Kf5 47. Qh7+ 1-0
+

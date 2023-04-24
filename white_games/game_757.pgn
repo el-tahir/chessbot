@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UaKua2tk"]
+[Date "2021.11.20"]
+[White "EltahirAmin"]
+[Black "evergol1"]
+[Result "0-1"]
+[UTCDate "2021.11.20"]
+[UTCTime "21:11:47"]
+[WhiteElo "2041"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. a3 Bxc3 5. dxc3 d6 6. Bc4 Bg4 7. O-O Nf6 8. Qd3 O-O 9. Ng5 h6 10. h3 Bd7 11. Nf3 Be6 12. Be3 Bxc4 13. Qxc4 a6 14. a4 Qe7 15. Rad1 Rad8 16. Rd2 Qe6 17. Qe2 Qa2 18. Bxh6 gxh6 19. Qe3 Nh7 20. Qxh6 Qe6 21. Qe3 Qf6 22. Nh2 Qg5 23. f4 exf4 24. Rxf4 Ne5 25. Rd5 Kh8 26. Qf2 f6 27. Rf5 Qc1+ 28. Nf1 c6 29. Rd2 Rg8 30. Kh1 Rg5 31. Kh2 Rdg8 32. g4 Rxf5 33. exf5 d5 34. Ng3 Ng5 35. Nh5 Qxd2 0-1
+

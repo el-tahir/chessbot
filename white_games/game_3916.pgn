@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DDvxvdHD"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "neristoin"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "16:30:46"]
+[WhiteElo "2018"]
+[BlackElo "2151"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nf3 e5 3. d4 Nd7 4. Bd3 Ngf6 5. O-O Be7 6. Nc3 O-O 7. Be3 c6 8. Qd2 Qc7 9. Kh1 1-0
+

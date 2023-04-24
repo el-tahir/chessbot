@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nmGW4J9i"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "kayjo"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "23:44:55"]
+[WhiteElo "1984"]
+[BlackElo "2012"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. Qb3 Na5 7. Bxf7+ Kf8 8. Qa4 c6 9. Nxe5 Nf6 10. Bb3 b5 11. Qd4 Nxb3 12. axb3 c5 13. Qe3 Bb7 14. O-O d6 15. Nd3 Bxe4 16. Nf4 Bf5 17. Re1 h6 18. Bb2 Kg8 19. c4 Kh7 20. Qxe7 Re8 21. Bxf6 Rxe7 22. Bxe7 Qd7 23. Nc3 b4 24. Ncd5 Re8 25. h3 Kg8 26. g4 Bh7 27. Re2 Kf7 28. Rae1 g5 29. Ng2 a5 30. Re3 a4 31. bxa4 Qxa4 32. Rf3+ Kg7 33. Bf6+ Kg6 34. Rxe8 Qxe8 35. Nde3 Qa4 36. Be7 Qa1+ 37. Kh2 Qe5+ 38. Kg1 Qxe7 39. Kh2 Qe5+ 40. Kg1 Qa1+ 41. Ne1 Qe5 42. Kg2 Qa1 43. Kg3 Qe5+ 44. Kg2 b3 45. Kf1 b2 46. Ke2 1-0
+

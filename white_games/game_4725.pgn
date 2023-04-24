@@ -1,0 +1,19 @@
+[Event "Blitz Warm-up Arena May '20"]
+[Site "https://lichess.org/1riF7di0"]
+[Date "2020.05.09"]
+[White "EltahirAmin"]
+[Black "TheHumanMachine"]
+[Result "0-1"]
+[UTCDate "2020.05.09"]
+[UTCTime "18:29:21"]
+[WhiteElo "2018"]
+[BlackElo "2186"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e6 3. Nf3 d5 4. exd5 exd5 5. d4 Be7 6. Bd3 O-O 7. O-O Bg4 8. Bg5 c6 9. Be2 Nbd7 10. h3 Bh5 11. Qd3 Bg6 12. Qe3 Ne4 13. Bd3 f5 14. Bxe7 Qxe7 15. Ne5 Nxe5 16. dxe5 Rad8 17. f3 d4 18. Qe2 Ng3 19. Qf2 Nxf1 20. Qxf1 dxc3 21. bxc3 Qxe5 22. Re1 Qxc3 23. Bc4+ Kh8 24. Bb3 b5 25. Re7 Qc5+ 26. Kh2 Qxe7 27. Qf2 a5 28. a4 bxa4 29. Bxa4 Qd6+ 30. Kg1 f4 31. Bb3 c5 32. Bc4 Qd4 33. Qxd4 Rxd4 34. Bd3 Bxd3 35. cxd3 Re8 36. Kf2 0-1
+

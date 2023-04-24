@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/itMGipyR"]
+[Date "2020.11.13"]
+[White "RasAxel"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "11:11:15"]
+[WhiteElo "1960"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Be3 Nd7 6. Nf3 exd4 7. Qxd4 Bc5 8. Qxg7 Bxe3 9. Qxh8 Nf6 10. Bd3 Kf8 11. Nbd2 Qb6 12. O-O-O Be6 13. Kb1 Ke7 14. e5 Nd5 15. Nb3 a5 16. a4 Ngf6 17. exf6+ Nxf6 18. Qxa8 Bxb3 19. cxb3 Qxb3 20. Bc2 Qb4 21. Qd8+ Ke6 22. Nd4+ Ke5 23. Nb3 Nd5 24. Qh8+ Ke6 25. Rhe1 Kd7 26. Bf5+ Kc7 27. Qe5+ Kb6 28. Rxe3 Nc7 29. Qd4+ c5 30. Qxb4+ cxb4 31. Rd7 Nd5 32. Rxd5 Kc6 33. Rd7 b5 34. Rxf7 bxa4 35. Nd4+ Kc5 36. Nc2 Kc4 37. Rc7+ Kb5 38. Re5+ Kb6 39. Rd7 b3 40. Rd6+ Kc7 41. Rd7+ Kc8 42. Red5 bxc2+ 43. Kxc2 a3 44. Rxa5 axb2 45. Kxb2 h6 46. Re5 h5 47. Re8# 1-0
+

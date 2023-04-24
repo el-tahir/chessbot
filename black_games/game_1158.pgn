@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yvxr9TZj"]
+[Date "2021.10.12"]
+[White "Rower84"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.12"]
+[UTCTime "04:50:30"]
+[WhiteElo "2074"]
+[BlackElo "2086"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 cxd4 5. Qxd4 Nf6 6. Bc4 e6 7. Bg5 Be7 8. Nc3 O-O 9. O-O Qc7 10. Bb3 Rd8 11. e5 Nd5 12. Bxd5 Bxg5 13. Be4 d6 14. Nb5 Qb6 15. Qxb6 axb6 16. Nxd6 Be7 17. Nxb7 Rd2 18. Nd6 Rb8 19. Bd3 f6 20. f4 Kf8 21. Rf2 Rxf2 22. Kxf2 Bd7 23. Rd1 Ra8 24. a3 Ra5 25. Nc4 Rb5 26. b3 Bc6 27. a4 Rd5 28. Ke2 Bc5 29. Bxh7 fxe5 30. Rxd5 Bxd5 31. Nxe5 Bxg2 32. Nd7+ Kf7 33. Nxc5 bxc5 34. Kd3 g6 35. Kc4 Kg7 36. Kxc5 Kxh7 37. b4 g5 38. fxg5 e5 39. b5 e4 40. Kd4 Kg7 41. a5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BEgZ1nf2"]
+[Date "2021.01.05"]
+[White "EltahirAmin"]
+[Black "ziad333amer"]
+[Result "0-1"]
+[UTCDate "2021.01.05"]
+[UTCTime "16:00:31"]
+[WhiteElo "1941"]
+[BlackElo "1976"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. Bg5 c6 6. Bc4 Be7 7. Qd2 O-O 8. O-O-O b5 9. Bd3 b4 10. Ne2 a5 11. h4 Ng4 12. Rdf1 f6 13. Bc4+ d5 14. exd5 Nb6 15. d6+ Nxc4 16. dxe7 Qxe7 17. Qd3 Be6 18. Ng3 fxg5 19. hxg5 g6 20. b3 Na3 21. Nxe5 Nxf2 22. Rxf2 Rxf2 23. Ne4 Rxc2+ 24. Kd1 Rxa2 25. Nf6+ Kf8 26. Rxh7 Bf5 27. Nxg6+ Bxg6 28. Qxg6 Qe2+ 29. Kc1 Ra1+ 0-1
+

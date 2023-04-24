@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8HVpjYaX"]
+[Date "2022.04.30"]
+[White "Lzhe_Alekhin"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.04.30"]
+[UTCTime "04:26:53"]
+[WhiteElo "2086"]
+[BlackElo "2092"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 Bg4 6. Nc3 e6 7. cxd5 Nxd5 8. Bb5+ Nc6 9. Ne5 Bxd1 10. Nxc6 bxc6 11. Bxc6+ Ke7 12. Kxd1 Rc8 13. Ba4 Nxc3+ 0-1
+

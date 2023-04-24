@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7GmjT7Zi"]
+[Date "2020.11.26"]
+[White "PullMyDevilTrigger"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "19:26:07"]
+[WhiteElo "1915"]
+[BlackElo "1909"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c4 Nd7 6. Nc3 Ne7 7. a4 Rc8 8. c5 b6 9. b4 a5 10. Ba3 Ng6 11. Ba6 Rb8 12. Bd3 Bxd3 13. Qxd3 bxc5 14. bxc5 Be7 15. O-O O-O 16. Rab1 Qc7 17. Nd2 Ndxe5 18. dxe5 Nxe5 19. Qd4 Ng6 20. Nf3 e5 21. Qg4 e4 22. Nd4 Ne5 23. Qf4 f5 24. Ne6 Nf3+ 25. gxf3 Qxf4 26. Nxf4 Rxb1 27. Rxb1 g5 28. Ne6 Rf6 29. Nxg5 Rg6 30. f4 h6 31. h4 hxg5 32. hxg5 d4 33. Ne2 d3 34. Ng3 Kf7 35. Nxf5 Bxg5 36. Rb7+ Ke6 37. Nd4+ Kd5 38. Rd7+ Kc4 39. fxg5 Rxg5+ 40. Kf1 Rh5 41. Nxc6 Kb3 42. Bc1 Kc2 43. Be3 Kb3 44. Nxa5+ Kxa4 45. Nb7 Rh1+ 46. Kg2 Rd1 47. c6 Rc1 48. c7 Rc2 49. Nc5+ Rxc5 50. Bxc5 Kb5 51. c8=Q Kc4 52. Be3+ Kb3 53. Rb7+ 1-0
+

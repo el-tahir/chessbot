@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hsrxl1J1"]
+[Date "2021.10.17"]
+[White "EltahirAmin"]
+[Black "jorgebarbarito"]
+[Result "0-1"]
+[UTCDate "2021.10.17"]
+[UTCTime "16:49:21"]
+[WhiteElo "2022"]
+[BlackElo "2043"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 d6 4. d4 Nc6 5. Be3 e5 6. dxe5 Nxe5 7. Nxe5 Bxe5 8. Bc4 Be6 9. Bxe6 fxe6 10. f4 Bg7 11. Qg4 Qd7 12. O-O-O e5 13. Qxd7+ Kxd7 14. fxe5 Bxe5 15. Rhf1 Nf6 16. Bg5 Rhf8 17. Bxf6 Rxf6 18. Rxf6 Bxf6 19. Rf1 Ke6 0-1
+

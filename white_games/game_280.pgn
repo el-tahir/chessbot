@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bcb2sUXm"]
+[Date "2022.08.30"]
+[White "EltahirAmin"]
+[Black "M_hani"]
+[Result "0-1"]
+[UTCDate "2022.08.30"]
+[UTCTime "20:59:27"]
+[WhiteElo "2027"]
+[BlackElo "2124"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. d3 d6 5. Bg5 f6 6. Bh4 h5 7. Bg3 g5 8. h4 g4 9. Nd2 Nh6 10. Nb3 Bb6 11. Qd2 f5 12. exf5 Nxf5 13. O-O-O Be6 14. f3 Nxg3 15. fxg4 Nxh1 16. g5 Ng3 17. Ne4 Kd7 18. Nf6+ Kc8 19. a4 a5 20. d4 Bxb3 21. cxb3 Nxd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/J1g4PVcA"]
+[Date "2021.01.14"]
+[White "Fatchuri"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.14"]
+[UTCTime "09:11:21"]
+[WhiteElo "1954"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O h5 5. c3 e6 6. Qb3 Qd7 7. Ne5 1-0
+

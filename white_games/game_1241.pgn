@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XnM84yOb"]
+[Date "2021.03.07"]
+[White "EltahirAmin"]
+[Black "danksen"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "15:44:35"]
+[WhiteElo "2058"]
+[BlackElo "2062"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 e6 3. Nc3 Nf6 4. dxe6 Bxe6 5. Nf3 Nbd7 6. d4 Bb4 7. Bd2 Qe7 8. Be2 O-O-O 9. O-O h6 10. Re1 g5 11. Bc4 a6 12. d5 Bxc3 13. Bxc3 Nb6 14. Qe2 Nbxd5 15. Bxd5 Nxd5 16. Bxh8 Rxh8 17. Rad1 Nf4 18. Qe4 Qc5 19. Qd4 Qf5 20. Qxh8# 1-0
+

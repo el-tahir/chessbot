@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a9DI1BdC"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "pasifranti"]
+[Result "0-1"]
+[UTCDate "2020.11.02"]
+[UTCTime "12:15:44"]
+[WhiteElo "1991"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Be7 6. O-O O-O 7. Bg5 Bg4 8. Nbd2 Nbd7 9. h3 Bh5 10. c3 Bg6 11. Qc2 c5 12. Rae1 c4 13. Bxg6 fxg6 14. Ne5 Nxe5 15. Rxe5 Qd6 16. Rfe1 Rae8 17. Re6 Qd7 18. Nf3 Ne4 19. Bxe7 Rxe7 20. Rxe7 Qxe7 21. Re2 Qf6 22. b3 b5 23. a4 a6 24. axb5 axb5 25. bxc4 bxc4 26. Qa4 Nxc3 27. Qc2 Nxe2+ 28. Qxe2 Ra8 29. Qb2 h6 30. Qb5 Qf5 31. Ne5 Ra1+ 32. Kh2 Qf4+ 33. g3 Qxf2# 0-1
+

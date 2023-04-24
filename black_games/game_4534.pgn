@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vj5nuWeT"]
+[Date "2020.05.11"]
+[White "leonajdorf"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "20:11:29"]
+[WhiteElo "1972"]
+[BlackElo "1976"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D01"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 Bf5 4. f3 a6 5. g4 Bg6 6. h4 h6 7. e3 e6 8. Bd3 Bxd3 9. Qxd3 c5 10. Nge2 Nc6 11. a3 Bd6 12. Bxd6 Qxd6 13. Nf4 e5 14. dxe5 Nxe5 15. O-O-O Nxd3+ 16. Nxd3 O-O 17. g5 hxg5 18. hxg5 Nd7 19. Nf4 d4 20. Nce2 Ne5 21. exd4 cxd4 22. Rxd4 Qc6 23. Nd5 Nxf3 24. Ne7# 1-0
+

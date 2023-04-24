@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TyZjUSCw"]
+[Date "2021.10.14"]
+[White "Celemochum"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "01:25:43"]
+[WhiteElo "2112"]
+[BlackElo "2045"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Normal"]
+
+1. g3 c6 2. Bg2 d5 3. Nf3 Nf6 4. O-O Bg4 5. h3 Bh5 6. d3 Nbd7 7. c4 e5 8. cxd5 Nxd5 9. Nc3 Nxc3 10. bxc3 Bd6 11. Rb1 Rb8 12. Qa4 O-O 13. Qxa7 Bc5 14. Qa4 f5 15. Re1 b5 16. Qb3+ Bf7 17. Qb2 Qa5 18. Bd2 Ba3 19. Qc2 Nc5 20. c4 Qc7 21. cxb5 cxb5 22. Bb4 Bxb4 23. Rxb4 Ne6 24. Qxc7 Nxc7 25. Nxe5 Bxa2 26. Rc1 Ne6 27. Nc6 Rbe8 28. Rxb5 f4 29. Bd5 Bxd5 30. Rxd5 fxg3 31. fxg3 Ng5 32. Rxg5 Rxe2 33. Ne7+ Kf7 34. Nf5 Kf6 35. Rxg7 Kxf5 36. Rf1+ Ke6 37. Rxf8 Re3 1-0
+

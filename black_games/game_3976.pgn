@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9H012AZb"]
+[Date "2020.10.28"]
+[White "Harry_g_80103"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "11:39:47"]
+[WhiteElo "1990"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4 Nf6 8. Qe2 e6 9. O-O Bd6 10. c3 c5 11. Re1 O-O 12. d4 Re8 13. dxc5 Bxc5 14. Bg5 Bd7 15. Rad1 Qe7 16. b4 Bb6 17. a4 a5 18. Bxf6 Qxf6 19. Rxd7 axb4 20. cxb4 Rxa4 21. Rxb7 Ba7 22. Bb5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3vIQ57Qz"]
+[Date "2020.12.16"]
+[White "GrapefruitMoon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "11:27:57"]
+[WhiteElo "1954"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Be2 O-O 8. O-O Bg4 9. b3 Nd7 10. Bb2 c5 11. c4 cxd4 12. Nxd4 Bxe2 13. Qxe2 Re8 14. Qf3 Ne5 15. Qxb7 Bc5 16. Rad1 Qa5 17. Qd5 Rad8 18. Nc6 Nxc6 19. Qxc6 Qxa2 20. Rxd8 Rxd8 21. Bxf6 gxf6 22. Qxc5 Qxb3 23. h3 Kg7 24. Re1 Rd1 25. Rxd1 Qxd1+ 26. Kh2 Qb3 27. Qc8 f5 28. c5 Kf6 29. Qd8+ Ke6 30. Qd6# 1-0
+

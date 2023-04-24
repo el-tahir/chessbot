@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mEO7tiaY"]
+[Date "2020.12.30"]
+[White "Alibov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "21:39:00"]
+[WhiteElo "1951"]
+[BlackElo "1972"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. b3 Bxf3 8. Qxf3 e6 9. Be3 Bb4 10. Bd2 Qa5 11. Be2 Nxd4 12. Qd3 Nxe2 13. Kxe2 Rc8 14. a3 Be7 15. b4 dxc4 16. Qg3 Qd8 17. Rad1 O-O 18. Bh6 1-0
+

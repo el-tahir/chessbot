@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SQbrHCnZ"]
+[Date "2022.07.25"]
+[White "EltahirAmin"]
+[Black "Matveev_Evgeniy1993"]
+[Result "1-0"]
+[UTCDate "2022.07.25"]
+[UTCTime "04:56:22"]
+[WhiteElo "1995"]
+[BlackElo "2011"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 e5 4. Nf3 Nc6 5. Bb5 Bd7 6. d3 f5 7. Ng3 Bd6 8. Bg5 Nf6 9. Qd2 h6 10. Bxf6 Qxf6 11. O-O-O O-O-O 12. Rhe1 Rhe8 13. Kb1 a6 14. Ba4 g5 15. d4 e4 16. Ng1 Bf4 17. Qe2 Nxd4 18. Bxd7+ Rxd7 19. Qc4 Qb6 20. N1e2 Nxe2 21. Rxd7 Kxd7 22. Rxe2 Kc8 23. Nxf5 Rd8 24. a3 Rd1+ 25. Ka2 Be5 26. Qg8+ Rd8 27. Ne7+ Kb8 28. Qxd8+ Ka7 29. c4 a5 30. Qd5 Bd6 31. Nc8+ Kb8 32. Nxb6 1-0
+

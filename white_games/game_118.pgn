@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rr1souyv"]
+[Date "2023.02.23"]
+[White "EltahirAmin"]
+[Black "tino888"]
+[Result "0-1"]
+[UTCDate "2023.02.23"]
+[UTCTime "05:05:08"]
+[WhiteElo "1955"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. N1c3 Be7 7. Bg5 O-O 8. Bd3 a6 9. Na3 b5 10. Nab1 b4 11. Ne2 d5 12. exd5 Nxd5 13. h4 Bxg5 14. hxg5 g6 15. Qd2 Nd4 16. Ng3 Nf4 17. Kf1 Nxd3 18. cxd3 Bb7 19. Qe3 Nc2 20. Qxe5 Qxd3+ 21. Ne2 Qd1# 0-1
+

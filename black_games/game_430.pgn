@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ducuRyFZ"]
+[Date "2022.06.01"]
+[White "Motochess"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.01"]
+[UTCTime "00:01:36"]
+[WhiteElo "2058"]
+[BlackElo "2013"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. d4 Nf6 8. Qf4 e6 9. c3 Bd6 10. Ne5 O-O 11. h4 Nd5 12. Qg3 f6 13. f4 fxe5 14. fxe5 Be7 15. Bd3 c5 16. Bd2 cxd4 17. cxd4 Nb4 18. Bb1 Qxd4 19. Bc3 Qb6 20. a3 Nd5 21. Qd3 Qe3+ 22. Kd1 Qxd3+ 23. Bxd3 Nxc3+ 24. bxc3 Bd7 0-1
+

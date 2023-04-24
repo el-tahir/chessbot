@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ifD4iGrc"]
+[Date "2021.02.10"]
+[White "EltahirAmin"]
+[Black "hechon06"]
+[Result "1-0"]
+[UTCDate "2021.02.10"]
+[UTCTime "12:35:28"]
+[WhiteElo "1949"]
+[BlackElo "1979"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bc5 4. Be2 d6 5. O-O O-O 6. d3 a5 7. Be3 Nbd7 8. Qd2 Bb6 9. Nh4 c6 10. f4 exf4 11. Bxb6 Qxb6+ 12. Kh1 g5 13. Nf5 Qxb2 14. h4 Nc5 15. hxg5 Bxf5 16. gxf6 Bg6 17. Qxf4 Qxc3 18. Qh6 Ne6 19. Bg4 Kh8 20. Bxe6 Rg8 21. Bf5 Qxf6 22. g4 Qc3 23. Rab1 b5 24. Rf2 Qd4 25. Rh2 Rg7 26. Rf1 Qb2 27. Bxg6 fxg6 28. Rhf2 Rag8 29. Rf7 a4 30. g5 Rxf7 31. Rxf7 Rg7 32. Rf8+ Rg8 33. Rf7 Rg7 34. Rf2 Qc1+ 35. Kg2 Qe3 36. Qh3 Qxg5+ 37. Qg3 Qh5 38. Rf8+ 1-0
+

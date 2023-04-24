@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9Fpa1GWJ"]
+[Date "2020.11.02"]
+[White "daniilas"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "15:19:39"]
+[WhiteElo "2014"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 Nc6 5. Nd2 Bg4 6. Be2 Bxe2 7. Nxe2 e6 8. Bg3 Bd6 9. O-O O-O 10. dxc5 Bxc5 11. Nb3 Bd6 12. Ned4 Rc8 13. Nxc6 bxc6 14. Qe2 Ne4 15. Nd2 f5 16. Nxe4 fxe4 17. c4 Bxg3 18. fxg3 Qb6 19. b3 d4 20. exd4 Qxd4+ 21. Kh1 e5 22. Rad1 Qb6 23. Qxe4 Qc7 24. Rde1 a5 25. h3 Rcd8 26. Rxf8+ Rxf8 27. Qxe5 Rf1+ 28. Kh2 Qxe5 29. Rxe5 Rf2 30. Rxa5 Kf7 31. b4 Rb2 32. b5 cxb5 33. cxb5 Ke7 34. a4 Kd7 35. Ra7+ Kd6 36. Rxg7 Ra2 37. Rg4 Kc5 38. Rf4 Kb6 39. g4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sAaoF2Lp"]
+[Date "2022.11.11"]
+[White "EltahirAmin"]
+[Black "BauernWeisheit"]
+[Result "1-0"]
+[UTCDate "2022.11.11"]
+[UTCTime "15:36:29"]
+[WhiteElo "1978"]
+[BlackElo "1999"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 d5 6. Be3 dxe4 7. Nxe4 Nxd4 8. Bxd4 Nf6 9. Nxf6+ gxf6 10. Qf3 Be7 11. O-O-O Bd7 12. Bc4 Rg8 13. Rhe1 f5 14. Qxb7 Rb8 15. Qf3 Bg5+ 16. Kb1 Qa5 17. Bb3 Qb4 18. Be5 Rc8 19. Qd3 Bc6 20. Bd6 Qb5 21. Bc4 Qb6 22. Ba3 Be4 23. Qd7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tp83dgIZ"]
+[Date "2022.12.04"]
+[White "KIKERAYO"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.12.04"]
+[UTCTime "18:31:47"]
+[WhiteElo "1927"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Time forfeit"]
+
+1. d4 c5 2. e3 cxd4 3. exd4 Nf6 4. Ne2 d5 5. Ng3 Nc6 6. Be2 Qc7 7. c3 h5 8. h4 e6 9. Bg5 Be7 10. Na3 Bxa3 11. bxa3 Qe7 12. Qc1 Bd7 13. O-O Rc8 14. a4 a5 15. Rb1 Rb8 16. Qd2 O-O 17. Qd1 g6 18. Bxh5 gxh5 19. Nxh5 Qd6 20. Bxf6 e5 21. f4 e4 22. f5 Kh7 23. Rb2 Rg8 24. Qc1 Ne7 25. Bxe7 Qxe7 26. f6 Qe6 27. Rbf2 Qg4 28. Nf4 Qxh4 29. Nxd5 Bc6 30. Ne7 e3 31. Qxe3 Rbe8 32. c4 Rg3 33. Nf5 Rgxe3 34. Nxh4 Bxa4 35. d5 R8e4 36. Nf5 Rc3 37. Nd6 Rg4 38. Nxf7 Rcxc4 39. Ne5 Rge4 40. Nxc4 Rxc4 41. f7 Rc8 42. f8=Q Rxf8 43. Rxf8 Kg6 44. R1f6+ Kg5 45. d6 Bc6 46. Rf2 Kg4 47. Rg8+ Kh5 48. Rg3 1-0
+

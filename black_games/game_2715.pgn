@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oSOweRba"]
+[Date "2020.12.09"]
+[White "barrakuda219"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.09"]
+[UTCTime "13:01:44"]
+[WhiteElo "1925"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. d5 Nf6 3. dxc6 Nxc6 4. Bg5 d6 5. Bxf6 exf6 6. Nc3 Be7 7. Nf3 O-O 8. e4 Re8 9. Bd3 Bg4 10. Qd2 Ne5 11. O-O-O Bxf3 12. gxf3 Nxf3 13. Qe3 Ne5 14. Rhg1 Qb6 15. Qg3 Ng6 16. h4 h5 17. Be2 Qa5 18. a3 Rac8 19. Nd5 Qc5 20. Rd2 Bf8 21. Bxh5 Rxe4 22. Bxg6 fxg6 23. Qxg6 Rd4 24. Nxf6+ Kh8 25. Qh7# 1-0
+

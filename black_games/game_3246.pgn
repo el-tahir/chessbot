@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/GdGTTSdw"]
+[Date "2020.11.14"]
+[White "alexch73"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:09:41"]
+[WhiteElo "1946"]
+[BlackElo "1942"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B17"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Nbd7 6. d4 Nb6 7. c3 Bg4 8. Bd3 e6 9. h3 Bh5 10. Nxh5 Nxh5 11. O-O Bd6 12. Ne5 Nf6 13. f4 c5 14. Bb5+ Nbd7 15. Qa4 a6 16. Bxd7+ Nxd7 17. Nxd7 Qxd7 18. Qxd7+ Kxd7 19. dxc5 Bxc5+ 20. Kh2 Rhd8 21. f5 exf5 22. Rxf5 Ke6 23. Rf1 f6 24. Bf4 Rd3 25. Rae1+ Kf7 26. Bc1 Rad8 27. g4 Bd6+ 28. Kg2 Rg3+ 29. Kh1 Rxh3+ 30. Kg2 Rh2+ 31. Kf3 Re8 32. Rxe8 Kxe8 33. Rf2 Rh1 34. Re2+ Kf7 35. Bf4 Rf1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/h3Pnmd7V"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "yardianoke"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "09:23:19"]
+[WhiteElo "2036"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 a6 7. Na3 Be6 8. Nd5 Bxd5 9. exd5 Nb8 10. c4 f5 11. Bd3 e4 12. Be2 g6 13. Rb1 Bg7 14. h4 Nf6 15. Bg5 Nbd7 16. b4 O-O 17. b5 axb5 18. Nxb5 Rxa2 19. Nxd6 Ne5 20. Nxb7 Qa8 21. d6 Rxe2+ 22. Kxe2 Nxc4 23. Bxf6 Qa2+ 24. Kf1 Bxf6 25. Qd5+ Kg7 26. Qd1 Nd2+ 27. Kg1 Nxb1 28. Kh2 Nc3 29. Qf1 Be5+ 30. g3 f4 31. d7 fxg3+ 32. Kh3 Bc7 33. Qc1 Qe6+ 34. Kg2 Rxf2+ 35. Kg1 Ne2# 0-1
+

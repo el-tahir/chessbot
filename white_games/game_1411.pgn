@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Dw1J5WQu"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "Aleksandr_Loshakov"]
+[Result "1/2-1/2"]
+[UTCDate "2021.02.27"]
+[UTCTime "11:10:35"]
+[WhiteElo "2010"]
+[BlackElo "2099"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Be2 O-O 8. Qd2 d5 9. exd5 Nxd5 10. h4 Nxe3 11. fxe3 h5 12. O-O-O Ne5 13. Rhg1 Bg4 14. Rdf1 Rc8 15. Rf4 Bxe2 16. Ncxe2 Ng4 17. c3 e5 18. Rxg4 hxg4 19. Nc2 Qxd2+ 20. Kxd2 Rcd8+ 21. Kc1 Bh6 22. Rf1 Bxe3+ 23. Nxe3 f5 24. c4 Rc8 25. b3 Kg7 26. Nd5 Rh8 27. g3 b5 28. Ne3 Rhd8 29. Rd1 Rxd1+ 30. Kxd1 bxc4 31. Nxc4 Kh6 32. Nxe5 Re8 33. Nf7+ Kg7 34. Ng5 Re5 35. Nf4 Re3 36. Nge6+ Kf7 37. Ng5+ Kg7 38. Nfe6+ Kf6 39. Kd2 Rxg3 40. Nf4 Rg1 41. Kc3 Ra1 42. Kb2 Rh1 43. Ng2 Rh2 44. Kc3 Rxg2 45. Kb4 f4 46. Kc3 f3 47. Kd3 Kf5 48. Ke3 Re2+ 49. Kd3 Kf4 50. a4 g3 51. Nxf3 Kxf3 52. b4 g2 53. b5 g1=Q 54. a5 Qc5 55. h5 Qxb5+ 56. Kd4 Qxh5 57. Kc4 Qxa5 58. Kb3 Re5 59. Kc4 Rb5 60. Kd4 Rb4+ 61. Kd3 Qa3+ 62. Kd2 1/2-1/2
+

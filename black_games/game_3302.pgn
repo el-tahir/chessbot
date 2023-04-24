@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/253mZHYq"]
+[Date "2020.11.13"]
+[White "htrebbi"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.13"]
+[UTCTime "10:56:26"]
+[WhiteElo "1998"]
+[BlackElo "1995"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Bg4 5. e3 e6 6. h3 Bh5 7. g4 Bg6 8. Bd3 Bd6 9. c5 Bc7 10. Qc2 b6 11. b3 bxc5 12. dxc5 a5 13. Bb2 Na6 14. Na4 Nb4 0-1
+

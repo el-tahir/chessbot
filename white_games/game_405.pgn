@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ExAa5LCN"]
+[Date "2022.06.04"]
+[White "EltahirAmin"]
+[Black "GAUTAD_PE"]
+[Result "1-0"]
+[UTCDate "2022.06.04"]
+[UTCTime "15:24:59"]
+[WhiteElo "2037"]
+[BlackElo "2037"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 g5 2. Nc3 Bg7 3. d4 c5 4. d5 h6 5. Be3 d6 6. Nge2 Nf6 7. Qd2 Ng4 8. h4 Nxe3 9. Qxe3 Qb6 10. O-O-O g4 11. f4 Nd7 12. Ng3 h5 13. Nf5 Bf8 14. e5 dxe5 15. fxe5 e6 16. dxe6 fxe6 17. Nd6+ Bxd6 18. Rxd6 Qb4 19. Rxe6+ Kd8 20. Bd3 Qd4 21. Qxd4 cxd4 22. Nb5 Nc5 23. Rd6+ Ke7 24. Rxd4 Nxd3+ 25. Rxd3 Bf5 26. Rc3 Rac8 27. Rxc8 Rxc8 28. c3 1-0
+

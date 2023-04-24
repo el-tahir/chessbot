@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Nphbd9pV"]
+[Date "2020.11.23"]
+[White "EltahirAmin"]
+[Black "vitswanathan"]
+[Result "1-0"]
+[UTCDate "2020.11.23"]
+[UTCTime "12:22:06"]
+[WhiteElo "1929"]
+[BlackElo "1929"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 f6 6. Nf3 Bg4 7. Ng3 Ne7 8. Be2 exf4 9. Bxf4 Ng6 10. Bd2 Bd6 11. Nf5 Bxf5 12. exf5 Ne7 13. Nh4 Qc7 14. Bh5+ g6 15. fxg6 hxg6 16. Bxg6+ Nxg6 17. Nxg6 Rxh2 18. Rxh2 Bxh2 19. Qe2+ Kd8 20. O-O-O Nd7 21. Qe7+ Kc8 22. Qe8+ Qd8 23. Ne7+ Kc7 24. Qxd8+ Rxd8 25. Rh1 Bd6 26. Nd5+ Kc6 27. Nf4 Bxf4 28. Bxf4 Ne5 29. Rh6 Rf8 30. Bxe5 Kd5 31. Rxf6 Rg8 32. Bf4 Rd8 33. g3 b5 34. Rf5+ Kc6 35. Rf6+ Kd5 36. Rd6+ Rxd6 37. Bxd6 Kxd6 38. Kd2 c4 39. dxc4 bxc4 40. c3 d3 41. b3 Kc5 42. bxc4 Kxc4 43. a3 a5 44. g4 a4 45. g5 Kb3 46. g6 Kxa3 47. Kxd3 Kb2 48. g7 a3 49. g8=Q a2 50. Qg2+ Ka1 51. Qxa2+ Kxa2 52. c4 Ka3 53. Kd4 Ka4 54. Kd5 Ka5 55. c5 Ka6 56. Kd6 Kb7 57. Kd7 Kb8 58. c6 Ka7 59. c7 Kb6 60. c8=Q Ka7 61. Kd6 Kb6 62. Qc1 Kb7 63. Qc4 Kb6 64. Kd7 Ka5 65. Qb3 Ka6 66. Kc7 Ka7 67. Qb7# 1-0
+

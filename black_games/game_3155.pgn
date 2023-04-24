@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xF5zvu5u"]
+[Date "2020.11.16"]
+[White "kreshnik2"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.16"]
+[UTCTime "09:22:38"]
+[WhiteElo "1945"]
+[BlackElo "1967"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng5 Bg4 6. Be2 Bxe2 7. Nxe2 e6 8. O-O Be7 9. Ng3 O-O 10. Be3 Nbd7 11. c3 c5 12. Qc2 cxd4 13. Bxd4 Rc8 14. Rad1 h6 15. N5e4 Nd5 16. Nh5 N7f6 17. Nexf6+ Bxf6 18. Bxf6 gxf6 19. Qe4 Kh8 20. c4 Rxc4 21. Qxc4 Qb6 22. Qh4 Rg8 23. Nxf6 Nxf6 24. Qxf6+ Rg7 1-0
+

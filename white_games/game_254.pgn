@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8ekkD87l"]
+[Date "2022.09.27"]
+[White "EltahirAmin"]
+[Black "Thutmaia"]
+[Result "1-0"]
+[UTCDate "2022.09.27"]
+[UTCTime "05:55:10"]
+[WhiteElo "2043"]
+[BlackElo "2027"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 c6 5. d4 Nf6 6. Bd3 Bg4 7. O-O Nbd7 8. h3 Bh5 9. Be2 e6 10. Be3 Bd6 11. Qd2 O-O-O 12. Ng5 Bg6 13. Bd3 Bb8 14. Bxg6 hxg6 15. Nxf7 Qc7 16. f4 Nd5 17. Nxd8 Kxd8 18. Nxd5 exd5 19. Rac1 Nf6 20. Qe2 g5 21. c4 dxc4 22. Rxc4 Nd5 23. Qf3 Rf8 24. Qxd5+ cxd5 25. Rxc7 Bxc7 26. fxg5 Rxf1+ 27. Kxf1 Kd7 28. Kf2 Kc6 29. g3 Kb5 30. Bf4 Bd8 31. Be5 g6 32. h4 Kc4 33. Bf6 Bc7 34. g4 Kd3 35. h5 gxh5 36. gxh5 Kc2 37. h6 Kxb2 38. h7 b5 39. h8=Q Kxa2 40. Qe8 Bb6 41. Qxb5 Bxd4+ 42. Bxd4 1-0
+

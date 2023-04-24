@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tNqlo3TT"]
+[Date "2020.05.17"]
+[White "EltahirAmin"]
+[Black "kaspatout"]
+[Result "0-1"]
+[UTCDate "2020.05.17"]
+[UTCTime "10:56:48"]
+[WhiteElo "2025"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nxd4 6. Qxd4 Nf6 7. Bg5 Be7 8. O-O-O O-O 9. h3 a6 10. g4 b5 11. f4 b4 12. Ne2 a5 13. f5 Ba6 14. fxe6 dxe6 15. Qe5 Qb6 16. h4 Nxg4 17. Qf4 Bxg5 18. hxg5 Qe3+ 19. Kb1 Bxe2 20. Qxe3 Nxe3 21. Bxe2 Nxd1 22. Rxd1 Rad8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gA6U7zdk"]
+[Date "2020.10.21"]
+[White "EltahirAmin"]
+[Black "raed_safadi"]
+[Result "1-0"]
+[UTCDate "2020.10.21"]
+[UTCTime "16:18:28"]
+[WhiteElo "1869"]
+[BlackElo "1864"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B70"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 g6 6. Bg5 Bg7 7. Qd2 a6 8. Bh6 O-O 9. Bxg7 Kxg7 10. h4 h5 11. f3 b5 12. Be2 Nbd7 13. Rg1 Ne5 14. g4 hxg4 15. fxg4 Nexg4 16. O-O-O b4 17. Nd5 Nxe4 18. Qxb4 Ngf6 19. h5 Nxd5 20. Nf5+ Bxf5 21. Qd4+ Nef6 22. hxg6 fxg6 23. Bd3 Bxd3 24. Qxd3 Qe8 25. Rg5 Nf4 26. Qg3 Ne4 27. Qg4 Nxg5 28. Qxg5 Rc8 29. Rh1 Ne2+ 30. Kb1 Rh8 31. Re1 Nd4 32. Rxe7+ Qxe7 33. Qxe7+ Kg8 34. a3 Nf5 35. Qe6+ Kg7 36. Qd7+ Kh6 37. b4 Rhd8 38. Qb7 a5 39. Qh1+ Kg7 40. Qb7+ Kh6 41. b5 Rc5 42. b6 Rb5+ 43. Kc1 Re8 44. Qc6 Re1+ 45. Kd2 Rbe5 46. Qg2 R1e2+ 47. Qxe2 Rxe2+ 48. Kxe2 Nd4+ 49. Kd3 Nc6 50. Kc4 g5 51. Kb5 Nb8 52. b7 g4 53. Kb6 g3 54. Kc7 Na6+ 55. Kb6 Nb8 56. Ka7 Nc6+ 57. Ka8 1-0
+

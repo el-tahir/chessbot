@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/5rVVzWXC"]
+[Date "2021.01.14"]
+[White "EltahirAmin"]
+[Black "ethanhondou"]
+[Result "1-0"]
+[UTCDate "2021.01.14"]
+[UTCTime "15:59:57"]
+[WhiteElo "1931"]
+[BlackElo "1362"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nf3 e5 3. d4 Nc6 4. Bb5 Bd7 5. d5 Nb4 6. Bxd7+ Qxd7 7. a3 Na6 8. c4 Nf6 9. Nc3 Be7 10. h4 O-O 11. Bg5 c6 12. Qd2 cxd5 13. cxd5 Nc5 14. Qc2 b6 15. b4 Na6 16. O-O Ng4 17. Bxe7 Qxe7 18. Rac1 Nc7 19. Nd1 Ne8 20. Ne3 Nxe3 21. fxe3 Nf6 22. Nh2 h6 23. Qf2 Nxe4 24. Qf5 Nd2 25. Rf2 Nb3 26. Rcf1 f6 27. g4 Rac8 28. Nf3 Rc1 29. Qd3 Rxf1+ 30. Rxf1 e4 31. Qxb3 exf3 32. Rxf3 g5 33. h5 Qe5 34. Kg2 f5 35. gxf5 Rxf5 36. Qd3 Rxf3 37. Qg6+ Kf8 38. Qxh6+ Ke8 39. Kxf3 Qf5+ 40. Ke2 Qxd5 41. Qh8+ Kd7 42. Qg7+ Kc6 43. h6 Qg2+ 44. Kd3 d5 45. Qf6+ Kb5 46. Qd4 Qh3 47. Qxd5+ Ka4 48. Qxg5 Kxa3 49. b5 Qd7+ 50. Ke2 a6 51. bxa6 Qa4 52. Qe7+ Kb2 53. Qe5+ Kc1 54. Qc3+ Kb1 55. h7 Qxa6+ 56. Qd3+ Qxd3+ 57. Kxd3 b5 58. h8=Q b4 59. Qd4 b3 60. e4 Ka2 61. e5 b2 62. Qxb2+ Kxb2 63. e6 Kb3 64. e7 Kb2 65. e8=Q Kb3 66. Qc8 Kb2 67. Qc4 Kb1 68. Qc2+ Ka1 69. Qh2 Kb1 70. Kc3 Kc1 71. Qh1# 1-0
+

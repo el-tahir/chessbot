@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xnsQV4SD"]
+[Date "2020.05.10"]
+[White "jhonrobledo"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "02:07:19"]
+[WhiteElo "1929"]
+[BlackElo "1945"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 Nf6 4. Ne2 e6 5. d4 cxd4 6. Nxd4 Be7 7. O-O O-O 8. Be3 d5 9. exd5 Nxd5 10. Nxc6 bxc6 11. Bd4 c5 12. Bc3 a5 13. Qg4 Nxc3 14. Bxa8 Nxb1 15. Raxb1 Ba6 16. c4 Qxa8 17. f4 Bf6 18. b3 Bd4+ 19. Rf2 Qe4 20. Qf3 Qxb1+ 21. Kg2 Bxf2 22. Qxf2 Rd8 0-1
+

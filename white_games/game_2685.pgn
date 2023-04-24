@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UmDPRQ9z"]
+[Date "2020.12.12"]
+[White "EltahirAmin"]
+[Black "psnikonorov"]
+[Result "1/2-1/2"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:38:34"]
+[WhiteElo "1929"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. Be3 Nc6 7. Bb5 Qb6 8. Bxc6 bxc6 9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Rb1 Ba6 12. Ng1 Rd8 13. Nge2 Ne4 14. O-O 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3Jhsq4OS"]
+[Date "2022.05.10"]
+[White "astralboy"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:18:05"]
+[WhiteElo "2103"]
+[BlackElo "2131"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. Bf4 e6 8. cxd5 Nxd5 9. Nxd5 Qxd5 10. Be2 Bd6 11. O-O Bxf4 12. Rc1 Bxc1 13. Qxc1 O-O 14. Qc2 Rac8 15. h4 Nxd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bI1LicHh"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "Roemer"]
+[Result "1-0"]
+[UTCDate "2020.11.15"]
+[UTCTime "14:41:56"]
+[WhiteElo "1945"]
+[BlackElo "1945"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. Nc3 g6 3. d4 Nf6 4. Nf3 Bg7 5. Be3 O-O 6. Qd2 Nc6 7. Bh6 Bd7 8. Bxg7 Kxg7 9. h4 h5 10. Be2 Bg4 11. O-O-O e5 12. d5 Ne7 13. Rdg1 Rg8 14. Ng5 Bxe2 15. Qxe2 Qd7 16. f3 Nh7 17. g4 Nxg5 18. hxg5 hxg4 19. fxg4 Rh8 20. Qf3 Rxh1 21. Rxh1 Ng8 22. Qh3 Kf8 23. Rf1 c6 24. Qh7 a6 25. Qxg6 Re8 26. Qh7 Re7 27. g6 f6 28. Qh8 Rg7 29. Rxf6+ Ke8 30. Re6+ Kd8 31. Qh4+ Kc7 32. g5 Kb8 33. Na4 Ka7 34. Qf2+ c5 35. Qf8 b5 36. Rxd6 Qe7 37. Qxg7 1-0
+

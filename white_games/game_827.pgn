@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CSqz6AHP"]
+[Date "2021.11.16"]
+[White "EltahirAmin"]
+[Black "michas79"]
+[Result "1-0"]
+[UTCDate "2021.11.16"]
+[UTCTime "18:23:26"]
+[WhiteElo "2045"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. Nf3 h6 4. d3 d6 5. Be3 a6 6. Be2 Nc6 7. O-O Bg4 8. Qd2 e5 9. h3 Bxf3 10. Bxf3 Nce7 11. b4 c6 12. a4 f5 13. exf5 Nxf5 14. b5 Nxe3 15. Qxe3 e4 16. Qxe4+ Qe7 17. Qxg6+ Qf7 18. Rfe1+ Kf8 19. Qxd6+ Ne7 20. Bh5 Qf6 21. Re6 Qg5 22. Rae1 Bxc3 23. Rxe7 Be5 24. R7xe5+ Kg7 25. Re7+ Kf8 26. Re8+ Kg7 27. R1e7+ 1-0
+

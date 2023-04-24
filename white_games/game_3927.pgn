@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m6ydz4lB"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "Madu1"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "15:54:21"]
+[WhiteElo "2036"]
+[BlackElo "2054"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. O-O h6 8. Re1 O-O 9. Be3 b6 10. Qd2 Ng4 11. Bf4 Ndf6 12. h3 Nxe4 13. Bxe4 g5 14. Bxa8 gxf4 15. hxg4 Bd6 16. Ne5 Ba6 17. Be4 f5 18. gxf5 exf5 19. Bd3 Bb7 20. Qxf4 Qg5 21. Qxg5+ hxg5 22. Re3 f4 23. Rh3 c5 24. Nd7 Rf7 25. Ne5 Re7 26. Ng6 Re8 27. Rh8+ 1-0
+

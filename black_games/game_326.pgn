@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UNPhPX55"]
+[Date "2022.07.27"]
+[White "s_axmann"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.27"]
+[UTCTime "18:29:03"]
+[WhiteElo "2101"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. h3 Bh5 6. Be2 c5 7. c3 Nc6 8. Be3 cxd4 9. cxd4 Nge7 10. Nbd2 Nf5 11. Nf1 Bb4+ 12. Bd2 Nfxd4 13. Nxd4 Bxe2 14. Qxe2 Nxd4 15. Qd3 Bxd2+ 16. Nxd2 Nc6 17. O-O Nxe5 18. Qb5+ Nc6 19. Rac1 O-O 20. Qxb7 Ne5 21. f4 Rb8 22. Qxa7 Nd3 23. Rc7 Rxb2 24. Nb3 Qh4 25. f5 Qg3 0-1
+

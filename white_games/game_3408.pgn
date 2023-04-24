@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DozuDi0a"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "Emilio321"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "13:16:43"]
+[WhiteElo "1933"]
+[BlackElo "1847"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-33"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qb6 11. Nb5 a6 12. Nc7+ Kd8 13. Nxa8 Qa7 14. Nc7 Qb6 15. f5 Ne5 16. Bf4 Nc6 17. Qe2 Nd4 18. Qe8# 1-0
+

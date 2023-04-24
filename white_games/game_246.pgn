@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AOIEas2u"]
+[Date "2022.10.04"]
+[White "EltahirAmin"]
+[Black "IYAN-R"]
+[Result "0-1"]
+[UTCDate "2022.10.04"]
+[UTCTime "01:31:03"]
+[WhiteElo "2041"]
+[BlackElo "2029"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 Nf6 3. Nd2 a6 4. a4 b6 5. Bd3 d5 6. e5 Nfd7 7. f4 g6 8. c3 c5 9. Ngf3 Nc6 10. Nb3 c4 11. Bc2 cxb3 12. Bxb3 h5 13. h4 Ne7 14. Ng5 a5 15. Qd3 Ba6 16. Qb1 Nf5 17. Bc2 b5 18. Bxf5 gxf5 19. g4 hxg4 20. h5 b4 21. Be3 bxc3 22. bxc3 Rb8 23. Qc2 Qb6 24. Kf2 Qb2 25. Rhc1 Bh6 26. Ra2 Qxc2+ 27. Rcxc2 Bxg5 28. fxg5 Rxh5 29. Kg3 Rh3+ 30. Kf4 Rf3# 0-1
+

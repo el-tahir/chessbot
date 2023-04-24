@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cYLjFthi"]
+[Date "2021.10.21"]
+[White "EltahirAmin"]
+[Black "CAMARODIN"]
+[Result "1-0"]
+[UTCDate "2021.10.21"]
+[UTCTime "15:40:33"]
+[WhiteElo "2036"]
+[BlackElo "2023"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+
+1. e3 d5 2. d4 Nc6 3. Nf3 Nf6 4. c4 e6 5. Nc3 Bd6 6. c5 Be7 7. Rb1 O-O 8. b4 Re8 9. b5 Nb8 10. Bd3 c6 11. a4 Bf8 12. Bc2 e5 13. Nxe5 Nbd7 14. Nf3 Qa5 15. Qd3 g6 16. Bd2 Qd8 17. O-O Nb8 18. Ne5 Nbd7 19. f4 Nxe5 20. fxe5 Nh5 21. Rf2 Bf5 22. Rxf5 gxf5 23. Qxf5 Bg7 24. Qxh7+ Kf8 25. Qxh5 Re6 26. Rf1 Qe7 27. Bg6 Kg8 28. Qh7+ Kf8 29. Bf5 Rh6 30. Qxh6 Bxh6 31. Ne2 Qh4 32. Nf4 Kg7 33. Rf3 Rh8 34. Rg3+ Kf8 35. Rh3 Qg5 36. Be6 Qg7 37. Rf3 Bxf4 38. Rxf4 Qh6 39. Bh3 Rg8 40. Be1 Qg5 41. Bh4 Qh6 42. e6 Qh5 43. Rxf7+ Ke8 44. Re7+ Kf8 45. Rf7+ Ke8 46. Rf4 Qd1+ 47. Kf2 Qd2+ 48. Kf3 Qd1+ 49. Kf2 Qd2+ 50. Kg1 Qd1+ 51. Rf1 Qd3 52. Bf2 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dSq1HI84"]
+[Date "2022.09.18"]
+[White "EltahirAmin"]
+[Black "Samuelabiolarobinson"]
+[Result "1-0"]
+[UTCDate "2022.09.18"]
+[UTCTime "03:58:26"]
+[WhiteElo "2039"]
+[BlackElo "2039"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B16"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 h6 5. Nf3 Nd7 6. Bd3 Ngf6 7. Qe2 Nxe4 8. Qxe4 Nf6 9. Qe2 Bg4 10. h3 Bxf3 11. Qxf3 Qxd4 12. Be3 Qxb2 13. O-O Qa3 14. Rfb1 Nd5 15. Rxb7 Nxe3 16. Qxc6+ Kd8 17. Qd7# 1-0
+

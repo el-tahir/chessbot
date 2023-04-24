@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mzQ04oSN"]
+[Date "2021.02.24"]
+[White "bigfootjohn"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.24"]
+[UTCTime "00:46:15"]
+[WhiteElo "1962"]
+[BlackElo "1991"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. Nc3 dxe4 4. Bd2 exd3 5. Bxd3 Nf6 6. Nf3 Bg4 7. Qe2 e6 8. O-O-O Bb4 9. Rhe1 O-O 10. Bg5 Be7 11. Bxh7+ Nxh7 12. Rxd8 Bxg5+ 13. Kb1 Rxd8 14. h3 Bxf3 15. Qxf3 Nd7 16. Ne4 Bh6 17. g4 Ndf6 18. h4 Nxe4 19. Qxe4 g6 20. a3 Rd5 21. h5 g5 22. c4 Rd2 23. Qe3 Rad8 24. Qxa7 Bg7 25. Qxb7 Rxb2+ 26. Kc1 Rxb7 0-1
+

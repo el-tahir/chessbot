@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/BbAeykpA"]
+[Date "2020.11.21"]
+[White "ShuuichiAkai"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.21"]
+[UTCTime "17:04:17"]
+[WhiteElo "1150"]
+[BlackElo "1927"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A02"]
+[Termination "Normal"]
+
+1. f4 c6 2. e4 d5 3. d3 e6 4. g3 Bd6 5. b4 Nf6 6. a3 h5 7. c3 h4 8. Bd2 hxg3 9. Qc1 gxh2 10. Rxh2 Rh3 11. Rxh3 e5 12. Rh1 dxe4 13. dxe4 Nxe4 14. Be3 Qc7 15. Ra2 exf4 16. Re2 fxe3 17. Rxe3 Bg3+ 18. Kd1 f5 19. Rxg3 Qxg3 20. Ne2 Qf3 21. Rh3 Qxf1+ 22. Kc2 Qxe2+ 23. Nd2 Be6 24. Rf3 Nd7 25. Qf1 O-O-O 26. Qxe2 Nxd2 27. Kxd2 Ne5+ 28. Ke1 Nxf3+ 29. Qxf3 g5 30. c4 g4 31. Qf2 Bxc4 32. Qh2 Rd3 33. b5 cxb5 34. a4 g3 35. Qh3 g2 36. Qxg2 Re3+ 37. Kf2 Re2+ 38. Kf1 Rxg2+ 39. Kxg2 bxa4 40. Kg3 a3 41. Kf2 a2 42. Ke1 a1=Q+ 43. Kd2 f4 44. Kc2 f3 45. Kd2 f2 46. Ke3 f1=Q 47. Ke4 Qad1 48. Ke3 Qfe1+ 49. Kf4 Qde2 50. Kf5 Q2f1+ 51. Kg6 Qef2 52. Kg5 Q2g1+ 53. Kh6 Qfg2 54. Kh5 Q2h1# 0-1
+

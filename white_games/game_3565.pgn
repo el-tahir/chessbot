@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kVpi0obM"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "CivilBoy68"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:39:34"]
+[WhiteElo "1934"]
+[BlackElo "1894"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 d6 3. c4 h5 4. Nc3 g5 5. e4 f5 6. Be3 f4 7. Bd2 Bg7 8. Bd3 Bxd4 9. Nge2 Bg7 10. b4 a6 11. a4 b6 12. b5 a5 13. Qc2 Rh6 14. e5 Ne7 15. exd6 Qxd6 16. O-O-O Qa3+ 17. Kb1 Nd7 18. Bc1 Qb4+ 19. Bb2 Nc5 20. Na2 Qxa4 21. Qxa4 Nxa4 22. Bxg7 Rg6 23. Bxg6+ Nxg6 24. Bf6 Kf7 25. Bxg5 Ne5 26. Bxf4 Nxc4 27. Bxc7 Ra7 28. Bg3 Na3+ 29. Kc1 Nxb5 30. Nd4 Na3 31. Rhe1 Rc7+ 32. Kd2 Rd7 33. Ke2 Nc4 34. Kf1 Nab2 35. Ke2 Rxd4 36. Rxd4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SV6OKPGF"]
+[Date "2022.10.09"]
+[White "EltahirAmin"]
+[Black "sibarita123"]
+[Result "1/2-1/2"]
+[UTCDate "2022.10.09"]
+[UTCTime "22:23:09"]
+[WhiteElo "2015"]
+[BlackElo "2020"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. Ng5 h6 5. exd5 hxg5 6. dxe6 Bxe6 7. Qf3 c6 8. d4 Be7 9. Bxg5 Nd5 10. Bxe7 Qxe7 11. Ne4 Nd7 12. O-O-O N7f6 13. Nc5 O-O-O 14. Bc4 Bg4 15. Qa3 Bxd1 16. Qxa7 Qc7 17. Rxd1 Qb8 18. Qa3 Rxh2 19. Re1 Rxg2 20. Bf1 Rxf2 21. Bh3+ Kc7 22. Qg3+ Kb6 23. Qxf2 Qf4+ 24. Qxf4 Nxf4 25. Bf1 Rxd4 26. Nd3 Nxd3+ 27. Bxd3 g6 28. Re7 Rd7 29. Re1 Nd5 30. Kd2 f5 31. Rg1 Nf4 32. Ke3 Nxd3 33. cxd3 Rd6 34. Kf4 Rxd3 35. Rxg6 Rd5 36. Rg5 Kc5 37. Rxf5 Rxf5+ 38. Kxf5 Kc4 39. Ke6 b5 40. Ke5 c5 41. Kd6 b4 42. b3+ Kb5 43. Kd5 Kb6 44. Kc4 Kc6 45. Kd3 Kd5 46. Ke3 c4 47. bxc4+ Kxc4 48. Kd2 b3 49. axb3+ Kxb3 1/2-1/2
+

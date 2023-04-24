@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QmAQpvJx"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "HarrisonWells96"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "14:56:59"]
+[WhiteElo "2003"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. Be3 b6 8. Qd2 Bb7 9. Neg5 h6 10. Nh3 c5 11. Nf4 cxd4 12. Nxd4 Nc5 13. O-O-O e5 14. Nf5 exf4 15. Bxf4 O-O 16. Rhe1 Nxd3+ 17. cxd3 Rc8+ 18. Kb1 Re8 19. Ne3 a5 20. Nf5 Bb4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O1ZDPGSk"]
+[Date "2020.05.10"]
+[White "EdwardMoukangwe"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.10"]
+[UTCTime "12:16:02"]
+[WhiteElo "1981"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Bg4 6. h3 Bh5 7. Nc3 e6 8. Be2 Bb4 9. O-O O-O 10. a3 Ba5 11. b4 Bc7 12. c5 Nc6 13. Bg5 b6 14. Ne5 Bxe2 15. Qxe2 Nxd4 16. Qe3 Nc2 17. Nc6 Nxe3 18. Nxd8 Nxf1 19. Nc6 Nd2 20. Bxd2 bxc5 21. bxc5 Rac8 22. Ne7+ Kh8 23. Nxc8 Rxc8 24. Rb1 Ba5 25. Rb5 Bxc3 26. Bxc3 h6 27. Bxf6 gxf6 28. Kf1 Kg7 29. Ke2 Kg6 30. Kd3 Kf5 31. Kd4 Rc7 32. Rb3 h5 33. Rf3+ Kg5 34. Rg3+ Kf5 35. Rf3+ Kg6 36. Rg3+ Kh6 37. Rb3 h4 38. g3 hxg3 39. Rxg3 f5 40. Rc3 Kg5 41. Ke5 f4 42. Kd6 Rb7 43. c6 Rb8 44. c7 Rh8 45. c8=Q Rxc8 46. Rxc8 Kf5 47. Rf8 f6 48. Ke7 Ke4 49. Rxf6 e5 50. Kd6 d4 51. Re6 d3 52. Rxe5+ Kf3 53. Kc5 d2 54. Rd5 Ke2 55. Kb5 f3 56. Ka6 d1=Q 57. Rxd1 Kxd1 58. Kxa7 Ke2 59. a4 Kxf2 60. a5 Kg2 61. a6 f2 62. Kb6 f1=Q 63. a7 Qb1+ 64. Ka6 Kxh3 65. a8=Q Qa1+ 66. Kb7 Qb1+ 67. Ka7 Qa2+ 68. Kb7 Qb3+ 69. Ka7 Qa4+ 0-1
+

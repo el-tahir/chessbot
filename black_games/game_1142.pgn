@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BANEuYiC"]
+[Date "2021.10.13"]
+[White "baroma06"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.13"]
+[UTCTime "03:44:22"]
+[WhiteElo "2047"]
+[BlackElo "2054"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. Nf3 c5 4. Bg5 e6 5. e3 Be7 6. Ne5 Nc6 7. Bb5 Bd7 8. Nxd7 Qxd7 9. Qf3 cxd4 10. exd4 a6 11. Bxc6 bxc6 12. O-O O-O 13. h3 c5 14. Rfe1 cxd4 15. Ne2 Qa4 16. c3 dxc3 17. Nxc3 Qd7 18. Rad1 Ne8 19. Bxe7 Qxe7 20. Nxd5 Qc5 21. Nf4 Nf6 22. h4 Rfd8 23. h5 Nxh5 24. Nxh5 Qxh5 25. Qxh5 1-0
+

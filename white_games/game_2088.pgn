@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qmA9KNAj"]
+[Date "2021.01.01"]
+[White "EltahirAmin"]
+[Black "Zwayne031"]
+[Result "1-0"]
+[UTCDate "2021.01.01"]
+[UTCTime "09:55:01"]
+[WhiteElo "1963"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Be7 5. Nf3 Nd7 6. Bc4 Ngf6 7. Qe2 b6 8. Nfg5 h6 9. Bxe6 fxe6 10. Nxe6 Kf7 11. Nxd8+ 1-0
+

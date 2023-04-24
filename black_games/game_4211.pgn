@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cCIs79OC"]
+[Date "2020.10.15"]
+[White "winielicaballero"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.15"]
+[UTCTime "08:48:24"]
+[WhiteElo "1996"]
+[BlackElo "1983"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. O-O Bg4 5. d3 e6 6. b3 Bc5 7. Ba3 Bxa3 8. Nxa3 Qe7 9. Nb1 O-O 10. c4 Nbd7 11. Qc1 Rac8 12. h3 Bh5 13. g4 Bg6 14. Nh4 b5 15. Qa3 b4 16. Nxg6 hxg6 17. Qxa7 c5 18. cxd5 Ra8 19. d6 Qxd6 20. Bxa8 Qe5 21. Nd2 Qxe2 22. Ne4 Qxd3 23. Nxf6+ Nxf6 24. Bg2 1-0
+

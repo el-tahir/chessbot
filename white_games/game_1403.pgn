@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xRwzJX5E"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "jerry1234"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "14:17:20"]
+[WhiteElo "2000"]
+[BlackElo "1987"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 g6 4. d4 cxd4 5. cxd4 d5 6. e5 Bg7 7. Nc3 Bg4 8. Be2 e6 9. h3 Bxf3 10. Bxf3 Nh6 11. Be3 Nf5 12. Bf4 O-O 13. Be3 a6 14. Qd2 f6 15. Bg4 Nxe3 16. fxe3 fxe5 17. Bxe6+ Kh8 18. O-O-O exd4 19. exd4 Nxd4 20. Bxd5 Qxd5 21. Nxd5 Rac8+ 22. Nc3 Nb5 23. Kc2 Nd4+ 24. Kb1 b5 25. Rhf1 Rfd8 26. Qf4 b4 27. Ne4 Rc2 28. Rxd4 Bxd4 29. Kxc2 1-0
+

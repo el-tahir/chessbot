@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lWdmiVJ4"]
+[Date "2020.10.30"]
+[White "EltahirAmin"]
+[Black "VadyaShar"]
+[Result "1-0"]
+[UTCDate "2020.10.30"]
+[UTCTime "17:43:47"]
+[WhiteElo "2014"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 g6 4. d4 Bg7 5. Be3 O-O 6. Qd2 Bg4 7. h3 Bxf3 8. gxf3 Nc6 9. O-O-O Nd7 10. Bh6 Nxd4 11. Bxg7 Nxf3 12. Qe3 Kxg7 13. Qxf3 Ne5 14. Qe3 a6 15. f4 Nd7 16. f5 b5 17. h4 Nc5 18. h5 b4 19. Nd5 c6 20. hxg6 hxg6 21. Qh6+ 1-0
+

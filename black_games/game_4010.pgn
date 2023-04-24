@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4BtHSDJy"]
+[Date "2020.10.26"]
+[White "GamerBoy87"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "16:29:16"]
+[WhiteElo "1990"]
+[BlackElo "1982"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A11"]
+[Termination "Normal"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. g3 e6 6. Bg2 Bd6 7. Nf3 O-O 8. O-O Nc6 9. Qb3 b6 10. Bg5 Ba6 11. Rfe1 h6 12. Bxf6 Qxf6 13. e4 dxe4 14. Nxe4 Qe7 15. d5 exd5 16. Qxd5 Bb7 17. Qxd6 Qe8 18. Nf6+ gxf6 19. Rxe8 Rfxe8 20. Qxf6 Nb4 21. Ng5 hxg5 22. Bxb7 Rac8 1-0
+

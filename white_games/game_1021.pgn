@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RqTRIgZq"]
+[Date "2021.10.23"]
+[White "EltahirAmin"]
+[Black "MDGStream"]
+[Result "0-1"]
+[UTCDate "2021.10.23"]
+[UTCTime "21:08:23"]
+[WhiteElo "2072"]
+[BlackElo "1996"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Ng3 Bg4 5. Nf3 Bxf3 6. Qxf3 Nc6 7. Bc4 Ne5 8. Qe2 Nxc4 9. Qxc4 e6 10. O-O Bd6 11. d4 O-O 12. Bg5 h6 13. Be3 Bxg3 14. hxg3 Ne4 15. Rad1 c6 16. Qd3 Qd5 17. c4 Qf5 18. d5 exd5 19. cxd5 cxd5 20. Qxd5 Qxd5 21. Rxd5 b6 22. Re5 Nf6 23. Rd1 Ng4 24. Re4 Nxe3 25. Rxe3 Rad8 26. Red3 Rxd3 27. Rxd3 a5 28. Rd6 Rb8 29. a4 Kf8 30. Kf1 Ke7 31. Rc6 b5 32. axb5 Rxb5 33. Ra6 Rxb2 34. Rxa5 g6 35. f4 h5 36. f5 g5 37. Kg1 Kf6 38. Kh2 Rf2 39. Kh3 Rxf5 40. Ra6+ Kg7 41. g4 hxg4+ 42. Kxg4 Rd5 43. g3 f6 44. Kh5 Rd7 45. Kg4 Kg6 46. Kf3 Rd4 47. g4 Rb4 48. Rd6 Rb3+ 49. Ke4 Rg3 50. Kd5 Rxg4 0-1
+

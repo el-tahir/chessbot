@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/opKamoTO"]
+[Date "2021.01.28"]
+[White "EltahirAmin"]
+[Black "redfklf"]
+[Result "1-0"]
+[UTCDate "2021.01.28"]
+[UTCTime "15:52:45"]
+[WhiteElo "2041"]
+[BlackElo "2000"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Be7 7. Bd3 Nd7 8. f4 Qc7 9. g4 Ngf6 10. g5 Ng8 11. h4 b5 12. a3 Bb7 13. h5 Nc5 14. Be2 Bf8 15. Bf3 Ne7 16. Qe2 Rb8 17. f5 e5 18. f6 exd4 19. fxe7 Qxe7 20. Bxd4 Qxg5 21. e5 Qg3+ 22. Kd1 d5 23. Bxc5 Bxc5 24. e6 O-O 25. h6 Qf2 26. Qd3 Qxf3+ 27. Qxf3 d4 28. Qg4 g6 29. Qg5 f6 30. Qxc5 dxc3 31. e7 Rf7 32. Re1 Bf3+ 33. Kc1 cxb2+ 34. Kxb2 Re8 35. Re6 f5 36. Rae1 Be4 37. Rd1 g5 38. Rd8 Rxe7 39. Rxe8+ 1-0
+

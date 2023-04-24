@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VlWWWbHf"]
+[Date "2021.10.14"]
+[White "EltahirAmin"]
+[Black "MathImportant"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "18:05:43"]
+[WhiteElo "2015"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d5 3. exd5 Nf6 4. Bc4 Bc5 5. Nge2 O-O 6. O-O Bg4 7. Kh1 Nbd7 8. Qe1 Nb6 9. Bb3 Nbxd5 10. Nxd5 Nxd5 11. d4 Bxe2 12. Qxe2 exd4 13. Qh5 Nf6 14. Qxc5 d3 15. Bg5 h6 16. Bh4 g5 17. Bg3 d2 18. Rad1 b6 19. Qf5 Kg7 20. h4 Re8 21. hxg5 Ne4 22. Qxf7+ Kh8 23. g6 Ng5 24. g7+ Kh7 25. g8=Q# 1-0
+

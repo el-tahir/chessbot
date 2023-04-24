@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hj7R5Y75"]
+[Date "2020.05.12"]
+[White "EltahirAmin"]
+[Black "dolito1"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "17:19:34"]
+[WhiteElo "1976"]
+[BlackElo "1918"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C51"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb6 8. O-O Qf6 9. e5 Qg6 10. Ba3 Nge7 11. Bd3 Qg4 12. Nc3 Nxd4 13. Nxd4 Qxd4 14. Bxe7 Kxe7 15. Ne4 Re8 16. Rc1 Kf8 17. Rc4 Qxe5 18. Re1 d5 19. Qf3 dxc4 20. Bxc4 Be6 21. Bb5 Re7 22. g3 Qxb5 0-1
+

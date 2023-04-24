@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hjxl63Nx"]
+[Date "2020.11.16"]
+[White "EltahirAmin"]
+[Black "Onkel_Pitsch"]
+[Result "0-1"]
+[UTCDate "2020.11.16"]
+[UTCTime "14:17:37"]
+[WhiteElo "1953"]
+[BlackElo "1966"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 c5 4. Be3 Qa5 5. Nf3 Nf6 6. Bc4 Nc6 7. O-O O-O 8. Qd2 Ng4 9. Bg5 d6 10. h3 Nf6 11. d5 Nb4 12. a3 Na6 13. e5 dxe5 14. Nxe5 Nc7 15. Bh6 Qb6 16. Rab1 Qd6 17. Bxg7 Kxg7 18. f4 a6 19. g4 b5 20. Ba2 c4 21. g5 Nfxd5 22. Nxd5 Qxd5 23. Qe3 Bb7 24. Qg3 Qh1+ 25. Kf2 Qe4 26. b3 Qxc2+ 27. Kg1 Qxa2 28. bxc4 Be4 29. Rbc1 Ne6 30. c5 Rac8 31. c6 Qd5 32. Rfd1 Qa2 33. Qc3 Qg2# 0-1
+

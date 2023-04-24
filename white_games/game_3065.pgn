@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vvTZHYYY"]
+[Date "2020.11.18"]
+[White "EltahirAmin"]
+[Black "chessbona"]
+[Result "0-1"]
+[UTCDate "2020.11.18"]
+[UTCTime "21:54:57"]
+[WhiteElo "1969"]
+[BlackElo "1967"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Be2 Bd6 6. O-O O-O 7. Bg5 Re8 8. Nc3 c6 9. Qd2 Bg4 10. h3 Bh5 11. Rae1 Nbd7 12. Bd3 Qc7 13. Ne2 Bxf3 14. gxf3 h6 15. Ng3 hxg5 16. Qxg5 Bxg3 17. fxg3 c5 18. h4 cxd4 19. h5 Nf8 20. h6 g6 21. Qxf6 Qxg3+ 22. Kh1 Qh3+ 23. Kg1 Qxh6 24. Rxe8 Rxe8 25. Qxd4 Ne6 26. Qxd5 Nf4 27. Qd7 Nh3+ 28. Kg2 Nf4+ 29. Kg3 Qg5+ 30. Kf2 0-1
+

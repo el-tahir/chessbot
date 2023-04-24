@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uvUwFR63"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "josegregorio"]
+[Result "1-0"]
+[UTCDate "2020.05.13"]
+[UTCTime "14:14:45"]
+[WhiteElo "1991"]
+[BlackElo "2023"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B38"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Qb6 7. Nxc6 Qxc6 8. Nc3 Bxc3+ 9. bxc3 Qxe4 10. Bd3 Qc6 11. O-O Nf6 12. Bh6 d6 13. Qe2 Ng4 14. Bg5 O-O 15. h3 Ne5 16. Be4 Qxc4 17. Qe3 Rb8 18. Kh1 Qc7 19. f4 Nc4 20. Qd4 e5 21. fxe5 dxe5 22. Qxa7 f5 23. Bd5+ Kg7 24. Qe3 Bd7 25. Bh6+ Kh8 26. Qg5 Bc6 27. Bxc4 Bxg2+ 28. Qxg2 Qxc4 29. Bxf8 Rxf8 30. Qxb7 e4 31. Qe7 Rb8 32. Qe5+ Kg8 33. Qxb8+ Kg7 34. Rab1 e3 35. Rb7+ Kf6 36. Qh8+ Kg5 37. Qd8+ Kh6 38. Qf8+ Kg5 39. Rg1+ Kf4 40. Qd6+ Kf3 41. Qg3+ Ke2 42. Re1+ Kd3 43. Qxe3+ Kc2 44. Qc1+ Kd3 45. Rd7+ 1-0
+

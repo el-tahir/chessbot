@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DYd7bycp"]
+[Date "2022.06.01"]
+[White "EltahirAmin"]
+[Black "spiderrook"]
+[Result "1/2-1/2"]
+[UTCDate "2022.06.01"]
+[UTCTime "22:58:28"]
+[WhiteElo "2025"]
+[BlackElo "1961"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 h6 6. d4 Bd6 7. Be3 b6 8. Bd3 Bb7 9. Qe2 Nbd7 10. O-O-O Qe7 11. Rhe1 Bd5 12. Kb1 a5 13. c4 Bb7 14. Nh4 a4 15. Nh5 O-O 16. Bc2 Bb4 17. Bd2 Bxd2 18. Rxd2 a3 19. b3 Qb4 20. Qd3 c5 21. Rde2 cxd4 22. Qxd4 Rfd8 23. Nxf6+ Nxf6 24. Qf4 b5 25. g4 Qc3 26. Qc1 Nxg4 27. Bh7+ Kxh7 28. Qxc3 Nf6 29. Qc2+ Kg8 30. Rd2 Rdc8 31. c5 b4 32. f4 Ra5 33. Rc1 Be4 34. Rd3 Raxc5 35. Qxc5 Rxc5 36. Rxc5 Bxd3+ 37. Kc1 Nd5 38. f5 Nc3 39. Rxc3 bxc3 40. fxe6 fxe6 41. Nf3 g5 42. Ne5 Bf5 43. b4 Kf8 44. b5 Ke7 45. b6 Kd8 46. Nf7+ Kc8 47. Nxh6 Kb7 48. Nxf5 Kxb6 49. Kc2 exf5 50. Kxc3 Kb5 51. h3 f4 52. Kd3 Kc5 53. Ke4 Kc4 54. Kf3 Kc3 55. h4 Kb2 56. hxg5 Kxa2 57. g6 Kb1 58. g7 a2 59. g8=Q a1=Q 60. Qb3+ Qb2 61. Qxb2+ Kxb2 62. Kxf4 1/2-1/2
+

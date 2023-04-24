@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/05DCKtEX"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "PauloHaddad"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:36:36"]
+[WhiteElo "2005"]
+[BlackElo "2051"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 d6 8. Qf3 Be6 9. Bb5+ c6 10. Bd3 dxe5 11. O-O Bd6 12. Ne4 exd4 13. Re1 Nf6 14. Bg5 Be7 15. Re2 Ne5 16. Qf4 Nxd3 17. cxd3 Nd5 18. Qg3 Bxg5 19. Nxg5 Qf6 20. Nxe6 fxe6 21. Qd6 Rd8 22. Rxe6+ Ne7 23. Rxf6 Rxd6 24. Rxd6 c5 25. Re1 Rf8 26. Rde6 Rf7 27. f3 Kd7 28. R6e5 b6 29. Kf2 Nd5 30. Rxd5+ Kc6 31. Rde5 Kd6 32. Re6+ Kd7 33. Kg3 g6 34. Kg4 h6 35. f4 h5+ 36. Kf3 g5 37. h3 Rxf4+ 38. Ke2 Kxe6 39. Kd2+ Kd7 40. Re4 Rf6 41. Ke2 Kd6 42. g3 Re6 43. Kf3 Rf6+ 44. Ke2 Kd5 45. a4 Re6 46. b3 Rxe4+ 47. dxe4+ Kxe4 0-1
+

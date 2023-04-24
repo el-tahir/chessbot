@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SkLdmoEy"]
+[Date "2023.02.27"]
+[White "TrumpetingOrangutang"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.02.27"]
+[UTCTime "21:51:56"]
+[WhiteElo "1920"]
+[BlackElo "1930"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A34"]
+[Termination "Normal"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 e6 5. e4 d5 6. exd5 exd5 7. cxd5 Nb4 8. d4 Nbxd5 9. dxc5 Nxc3 10. Qxd8+ Kxd8 11. bxc3 Bxc5 12. Bg5 Re8+ 13. Ne2 Bd7 14. Bxb7 Rb8 15. Bf3 Bb5 16. O-O-O+ Kc8 17. Nd4 Ba3+ 18. Kb1 Bd3+ 19. Ka1 Bb2# 0-1
+

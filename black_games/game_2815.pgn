@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WmX6pYOT"]
+[Date "2020.11.28"]
+[White "MountainMan22"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.28"]
+[UTCTime "22:42:13"]
+[WhiteElo "1910"]
+[BlackElo "1890"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. Bc4 e5 5. c3 exf3 6. Nxf3 exd4 7. O-O Nf6 8. Qb3 Qc7 9. Re1+ Be7 10. Ne5 O-O 11. Nxf7 dxc3 12. Be6 Qb6+ 13. Qxb6 axb6 14. Bxc8 Rxc8 15. Rxe7 Nd5 16. Rxb7 Na6 17. Nxc3 Nxc3 18. bxc3 b5 19. Nd6 Rd8 20. Bf4 Nc5 21. Rc7 Nd3 22. Bg3 Ra3 23. h3 Rxc3 24. Rd1 Nc5 25. Be5 Rc2 26. Rxg7+ Kf8 27. Rf7+ Kg8 28. Rdf1 1-0
+

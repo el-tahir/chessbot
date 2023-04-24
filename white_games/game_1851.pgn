@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PVdFbuKm"]
+[Date "2021.01.23"]
+[White "EltahirAmin"]
+[Black "GambaImba"]
+[Result "0-1"]
+[UTCDate "2021.01.23"]
+[UTCTime "12:18:08"]
+[WhiteElo "1973"]
+[BlackElo "1994"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Nf6 3. Nc3 d5 4. e5 Nfd7 5. d4 Be7 6. Bd3 c5 7. h4 cxd4 8. Nb5 Nc6 9. Nd6+ Bxd6 10. exd6 Nde5 11. Bf4 Nxd3+ 12. Qxd3 O-O 13. Ng5 f5 14. O-O-O e5 15. Bg3 Qxd6 16. f4 e4 17. Qb3 h6 18. c3 d3 19. c4 Na5 20. Qc3 Nxc4 21. Kb1 Bd7 22. b3 Na3+ 23. Kb2 Rac8 24. Qa5 Rc2+ 25. Ka1 Qf6+ 0-1
+

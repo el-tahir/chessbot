@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jYPRtuEa"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "mcello"]
+[Result "0-1"]
+[UTCDate "2020.11.04"]
+[UTCTime "12:39:36"]
+[WhiteElo "2042"]
+[BlackElo "2021"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. f3 Bb4 5. Be3 dxe4 6. Bc4 exf3 7. Nxf3 Nd5 8. Qe2 Nxc3 9. bxc3 Bxc3+ 10. Kf2 Bxa1 11. Rxa1 O-O 12. Bd3 Nc6 13. Bxh7+ Kxh7 14. Ng5+ Kg8 15. Qh5 Re8 16. Qxf7+ Kh8 17. Qh5+ Kg8 18. Qf7+ Kh8 19. Qg6 Qf6+ 20. Qxf6 gxf6 21. Ne4 Kg7 22. h4 Nb4 23. h5 Nxc2 24. h6+ Kg6 25. Rh1 Nxe3 26. Kxe3 f5 27. Nf2 Rh8 28. Nh3 Rxh6 29. Nf4+ Kh7 30. Rc1 c6 31. Kf3 Bd7 32. g4 fxg4+ 33. Kxg4 Rg8+ 34. Kf3 Rf6 35. Ke4 Rg4 36. Rf1 Rfxf4+ 37. Rxf4 Rxf4+ 38. Kxf4 Kg6 39. Ke5 Kf7 40. a4 Ke7 41. a5 a6 42. Ke4 Kd6 43. Kd3 Kd5 44. Kc3 Be8 45. Kd3 Bg6+ 46. Ke3 Bf5 47. Kf4 Kxd4 0-1
+

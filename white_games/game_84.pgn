@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2QugnK4e"]
+[Date "2023.03.01"]
+[White "EltahirAmin"]
+[Black "maktal69"]
+[Result "1-0"]
+[UTCDate "2023.03.01"]
+[UTCTime "22:30:13"]
+[WhiteElo "1957"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. Nc3 e5 3. Nf3 Bb4 4. d4 exd4 5. Nxd4 Qf6 6. Nxc6 Bxc3+ 7. bxc3 Qxc3+ 8. Bd2 Qxc6 9. Bd3 d6 10. O-O Nf6 11. f4 O-O 12. e5 dxe5 13. fxe5 Ne4 14. Bc1 Qc5+ 15. Kh1 Nf2+ 16. Rxf2 Qxf2 17. Bb2 Be6 18. Qh5 g6 19. Qh6 c5 20. Rf1 Qxf1+ 21. Bxf1 Rad8 22. Be2 c4 23. h4 b5 24. h5 b4 25. Bc1 b3 26. axb3 cxb3 27. cxb3 Rc8 28. Bg5 f5 29. Bf6 Rf7 30. hxg6 hxg6 31. Qxg6+ Kf8 32. Qh6+ Kg8 33. Qh8# 1-0
+

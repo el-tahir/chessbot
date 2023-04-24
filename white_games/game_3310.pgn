@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fzwbF6yw"]
+[Date "2020.11.13"]
+[White "EltahirAmin"]
+[Black "Yaroshenko-2020"]
+[Result "1-0"]
+[UTCDate "2020.11.13"]
+[UTCTime "09:30:11"]
+[WhiteElo "2005"]
+[BlackElo "2037"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nc3 e5 3. d4 Bd6 4. d5 Nce7 5. Nge2 Nf6 6. f4 exf4 7. Nxf4 Ng6 8. Nxg6 hxg6 9. Bg5 Qe7 10. Bd3 Qe5 11. Be3 a6 12. Qf3 Rxh2 13. O-O-O b5 14. g4 Bb7 15. Rxh2 Qxh2 16. Rh1 Qe5 17. Rh8+ Bf8 18. Bf4 Qd4 19. Bxc7 Qg1+ 20. Nd1 d6 21. Bxd6 Nd7 22. e5 O-O-O 23. Bxf8 Nxe5 24. Qf4 Nxd3+ 25. cxd3 Bxd5 26. Bxg7 Rxh8 27. Bxh8 Bxa2 28. Bd4 Qg2 29. Qe4 Qxe4 30. dxe4 Be6 31. Ne3 Kd7 32. g5 Kc6 33. Kc2 a5 34. Nd1 b4 35. Ne3 Kb5 36. b3 a4 37. Nd5 axb3+ 38. Kxb3 Bg4 39. Nxb4 Bf3 40. e5 1-0
+

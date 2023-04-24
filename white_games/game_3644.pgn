@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dxztmweg"]
+[Date "2020.11.06"]
+[White "EltahirAmin"]
+[Black "ali313only"]
+[Result "1-0"]
+[UTCDate "2020.11.06"]
+[UTCTime "12:40:23"]
+[WhiteElo "1958"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. Nf3 Bg4 7. Ng3 Bd6 8. fxe5 Nxe5 9. Be2 Bxf3 10. Bxf3 Ne7 11. O-O N7g6 12. c3 Qc7 13. Nf5 O-O 14. Nxd6 Qxd6 15. cxd4 cxd4 16. Bg5 f6 17. Bd2 Rac8 18. Qb3+ Kh8 19. Rac1 Rb8 20. Bb4 Qa6 21. Bxf8 Rxf8 22. Rc7 Rb8 23. Bh5 Nxd3 24. Bxg6 hxg6 25. Qf7 Ne5 26. Qxg7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vUcKbo9V"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "meho23"]
+[Result "1-0"]
+[UTCDate "2021.02.25"]
+[UTCTime "19:38:47"]
+[WhiteElo "2024"]
+[BlackElo "2021"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Ng6 7. Bd3 Nf6 8. Rf1 d6 9. Kg1 Bg4 10. Qe1 O-O 11. Bg5 Qd7 12. Bxf6 gxf6 13. Rxf6 c6 14. Qg3 Be6 15. Raf1 a6 16. e5 dxe5 17. dxe5 Qd4+ 18. Kh1 Qxe5 19. Rxg6+ hxg6 20. Qxe5 1-0
+

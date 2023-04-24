@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Yuf9k1eM"]
+[Date "2020.11.04"]
+[White "Armel2020"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.04"]
+[UTCTime "00:05:57"]
+[WhiteElo "2054"]
+[BlackElo "2059"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. f4 h6 4. e5 Bf5 5. Nf3 e6 6. Be2 Bc5 7. d4 Bb6 8. c3 c5 9. O-O Nc6 10. Kh1 Nge7 11. Na3 Qc7 12. Nb5 Qb8 13. Nd6+ Kf8 14. Be3 cxd4 15. cxd4 Bc7 16. Nb5 a6 17. Nc3 Qa7 18. Rc1 g6 19. Bg1 Kg7 20. Qe1 Rh7 21. Qh4 Bb6 22. Rfd1 Rc8 23. Qf6+ Kf8 24. Nh4 Ng8 25. Nxg6+ Ke8 26. Qh4 Bxg6 27. Na4 Bxd4 28. Bxd4 Nxd4 29. Rxc8+ Kd7 30. Qd8# 1-0
+

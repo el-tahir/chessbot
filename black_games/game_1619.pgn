@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Lm14ygeh"]
+[Date "2021.02.19"]
+[White "Compay93"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.19"]
+[UTCTime "17:58:02"]
+[WhiteElo "1873"]
+[BlackElo "1955"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Nc6 6. O-O e6 7. Ne5 Bd7 8. Nxd7 Qxd7 9. Bg5 Be7 10. Nc3 O-O 11. h3 a6 12. Bxc6 bxc6 13. Bxf6 Bxf6 14. Ne2 Rab8 15. b3 Qd6 16. c3 c5 17. Rc1 Rfc8 18. dxc5 Rxc5 19. c4 d4 20. Nc3 Qc6 21. Na4 Rg5 22. f3 e5 23. Qd3 Re8 24. Rce1 Be7 25. Re4 Bc5 26. Rfe1 Bd6 27. h4 Rg6 28. c5 Bb8 29. Rxd4 exd4 30. Rxe8+ Qxe8 31. Qxd4 Qe1# 0-1
+

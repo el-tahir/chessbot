@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MA9xZv0W"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "Potrocar"]
+[Result "1/2-1/2"]
+[UTCDate "2022.05.10"]
+[UTCTime "03:44:38"]
+[WhiteElo "2135"]
+[BlackElo "2134"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 g6 3. d4 Bg7 4. Bd3 h6 5. Be3 Nd7 6. Nf3 e5 7. Qd2 Ne7 8. O-O-O Nc6 9. d5 Ne7 10. h4 a5 11. g4 b6 12. Nh2 Nc5 13. f4 exf4 14. Bxf4 Nxd3+ 15. cxd3 c6 16. Rhe1 cxd5 17. exd5 Qc7 18. Kb1 Bd7 19. Ne4 Be5 20. Bxe5 dxe5 21. d6 Qc6 22. Nf6+ Kf8 23. dxe7+ Kxe7 24. Nxd7 Qxd7 25. Rxe5+ Kf8 26. Qc3 Rc8 27. Qa3+ Kg7 28. Nf3 Rhe8 29. Rxe8 Rxe8 30. Qc3+ f6 31. g5 hxg5 32. hxg5 Qf5 33. gxf6+ Qxf6 34. Qxf6+ Kxf6 35. d4 g5 36. Nxg5 Kxg5 37. d5 Rd8 38. Kc2 Kf5 39. Kb3 Ke5 40. Ka4 Kd6 41. Kb5 Rb8 42. a3 Rb7 43. b4 axb4 44. axb4 Rb8 45. Ra1 Kxd5 46. Ra6 Rc8 47. Rxb6 Rc1 48. Ka6 Ra1+ 49. Kb7 Rb1 50. b5 Kc5 51. Ka6 Ra1+ 52. Kb7 Rb1 53. Ka6 Ra1+ 54. Kb7 Rh1 55. Ka7 Ra1+ 56. Ra6 Rb1 57. b6 Kc6 58. Ka8 Rxb6 59. Rxb6+ Kxb6 1/2-1/2
+

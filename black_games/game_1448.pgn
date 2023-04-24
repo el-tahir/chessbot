@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RgoOTT4M"]
+[Date "2021.02.25"]
+[White "bronco1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "20:00:54"]
+[WhiteElo "1998"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Bd3 O-O 8. Nf3 c5 9. dxc5 Bc7 10. O-O Nc6 11. h3 Re8 12. Bb5 Bd7 13. Qd2 Qe7 14. Rfe1 Qf8 15. Rad1 Rad8 16. Qc3 Ba5 17. b4 Bxb4 18. Qb3 Bxe1 19. Rxe1 a6 20. Bxc6 Bxc6 21. Nd4 Qxc5 22. Nf3 Qd5 23. Qb2 Qh5 24. Nd4 Rxd4 25. Qxd4 Qg6 26. g3 Qh5 27. h4 Qf3 28. Kf1 h6 29. Qd1 Bb5+ 30. Kg1 Rxe3 31. Qd8+ Kh7 32. Rxe3 Qg4 33. Qd2 Bc6 34. Qe2 Qh3 35. Qd3+ g6 36. Re4 Bxe4 37. Qxe4 Qf5 38. Qxf5 gxf5 39. Kg2 Kg6 40. Kf3 Kh5 41. Kf4 Kg6 42. c4 h5 43. a4 a5 44. c5 Kh6 45. Kxf5 Kg7 46. f3 Kf8 47. Kxf6 Kg8 48. g4 hxg4 49. fxg4 Kf8 50. g5 Kg8 51. h5 Kf8 52. g6 fxg6 0-1
+

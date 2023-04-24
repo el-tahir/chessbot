@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JJXetTma"]
+[Date "2022.06.01"]
+[White "andgordey"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.06.01"]
+[UTCTime "01:11:08"]
+[WhiteElo "2067"]
+[BlackElo "2025"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+
+1. Nf3 c6 2. g3 d5 3. Bg2 Nd7 4. O-O e5 5. c4 Ngf6 6. d3 Bd6 7. Nc3 O-O 8. Bg5 d4 9. Ne4 Be7 10. Nxf6+ Bxf6 11. Bxf6 Qxf6 12. b4 Nb6 13. a4 Bg4 14. a5 Nd7 15. b5 Nc5 16. a6 bxa6 17. bxc6 Bxf3 18. Bxf3 Rac8 19. Ra5 Qd6 20. Bd5 Rfe8 21. e3 dxe3 22. fxe3 Ne6 23. Rxa6 Rc7 24. d4 exd4 25. exd4 Ree7 26. Qb1 Re8 27. Qe4 Rce7 28. c5 Qc7 29. Qe5 Qxe5 30. dxe5 Nd4 31. e6 fxe6 32. Bxe6+ Nxe6 33. Rxa7 Nxc5 0-1
+

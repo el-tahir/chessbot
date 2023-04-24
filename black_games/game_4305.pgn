@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/danmOfyN"]
+[Date "2020.06.10"]
+[White "waldorg"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.06.10"]
+[UTCTime "10:29:19"]
+[WhiteElo "2021"]
+[BlackElo "2032"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. c3 O-O 8. Nf3 Re8+ 9. Be3 Bg4 10. O-O Bc7 11. h3 Bh5 12. Be2 Qd6 13. g3 Nd7 14. Bf4 Qe6 15. Bxc7 Qxe2 16. Qxe2 Rxe2 17. g4 Bg6 18. b3 Rae8 19. Rfe1 Bd3 20. Kg2 Nb6 21. Rxe2 Rxe2 22. Re1 Nd5 23. Bb8 a6 24. Rxe2 Bxe2 25. c4 Nc3 26. a4 Bd1 27. Nd2 Kf8 28. Bd6+ Ke8 29. f4 Kd7 30. Bb4 Na2 31. Ba5 Nc1 32. b4 Bxa4 33. Kf3 Nb3 34. Bb6 Nxd2+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kWEiefeG"]
+[Date "2020.12.04"]
+[White "vroomstar"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.04"]
+[UTCTime "10:59:07"]
+[WhiteElo "1879"]
+[BlackElo "1838"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. h3 Be7 8. Be2 O-O 9. O-O b6 10. Bg5 Bb7 11. Rc1 Rc8 12. Qb3 dxc4 13. Bxc4 Nxd4 14. Nxd4 Qxd4 15. Be2 Qe5 16. Be3 Bd6 17. g3 Rxc3 18. Qxc3 Qe4 19. f3 Qf5 20. Kg2 Nh5 21. g4 Qg6 22. Bd3 f5 23. Kf2 Ng3 24. Rg1 Ne4+ 25. fxe4 fxe4+ 26. Ke2 exd3+ 27. Qxd3 Bf3+ 28. Kd2 Bb4+ 29. Rc3 Qf6 30. Bd4 e5 31. Qc4+ Kh8 32. Qxb4 exd4 33. Rd3 Qf4+ 34. Kc2 Qh2+ 35. Rd2 Be4+ 36. Kb3 Rf3+ 37. Ka4 Bc6+ 38. Qb5 Bxb5+ 39. Kxb5 Qxd2 0-1
+

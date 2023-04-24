@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UnOOdQaG"]
+[Date "2020.11.25"]
+[White "Mekuzy"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.25"]
+[UTCTime "22:06:55"]
+[WhiteElo "1890"]
+[BlackElo "1890"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c4 Nc6 6. cxd5 Bg4 7. f3 Nxd4 8. fxg4 Qxd5 9. Nf3 Nxg4 10. Nxd4 O-O-O 11. Qxg4+ Kb8 12. O-O e5 13. Qe4 Qd6 14. Nf5 Qb6+ 15. Kh1 h5 16. Nc3 h4 17. h3 f6 18. Rb1 g6 19. Ne3 Bc5 20. Ned5 Qe6 21. Re1 Bd6 22. Qxg6 Rdg8 23. Qxf6 Qd7 24. Be3 Rf8 25. Qg6 Rhg8 26. Qe4 Qg7 27. Bf1 Qg6 28. Qxg6 Rxg6 29. Ne4 Bc7 30. Ne7 Rg7 31. Nd5 Rd7 32. Nb4 a6 0-1
+

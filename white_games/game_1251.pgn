@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Wr2Rrbhb"]
+[Date "2021.03.07"]
+[White "EltahirAmin"]
+[Black "Musbern"]
+[Result "1-0"]
+[UTCDate "2021.03.07"]
+[UTCTime "14:55:12"]
+[WhiteElo "2081"]
+[BlackElo "2083"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. d3 Nc6 6. Bf4 f5 7. Qd2 fxe4 8. dxe4 Nf6 9. e5 Ne4 10. Qc1 Qa5+ 11. Nd2 Nxd2 12. Bxd2 Qc7 13. f4 c4 14. Ng3 Bc5 15. c3 O-O 16. Bxc4 dxc3 17. Qxc3 Bb4 18. Qc2 Bxd2+ 19. Qxd2 Rd8 20. Qc2 Qb6 21. a3 Nd4 22. Qc3 Bd7 23. O-O-O Bb5 24. Ba2 Rac8 25. Bxe6+ Nxe6 26. Rxd8+ Rxd8 27. Kb1 Bd3+ 28. Ka1 Nxf4 29. Rd1 Ba6 30. Rxd8+ Qxd8 31. Ne4 Ne6 32. Nd6 h6 33. Qb3 Qd7 34. Qf3 b6 35. Ka2 Bc4+ 36. Nxc4 Qf7 37. Qxf7+ Kxf7 38. Kb3 Ke7 39. Kb4 Nd4 40. Ne3 a6 41. b3 a5+ 42. Kc3 Ne2+ 43. Kd3 Nf4+ 44. Ke4 Ne6 45. Nd5+ Kd7 46. b4 Kc6 47. bxa5 bxa5 48. Ne7+ 1-0
+

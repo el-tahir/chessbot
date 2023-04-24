@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cnbqwiy3"]
+[Date "2020.11.19"]
+[White "bareta"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.19"]
+[UTCTime "20:40:30"]
+[WhiteElo "1862"]
+[BlackElo "1935"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. Be3 Bg4 7. c3 e6 8. Nbd2 Bd6 9. h3 Bh5 10. Be2 O-O 11. Ng5 Bxe2 12. Qxe2 h6 13. Ngf3 Re8 14. O-O e5 15. Qd1 exd4 16. Nxd4 Rc8 17. Nxc6 bxc6 18. Nb3 Bc7 19. Bxa7 Qd6 20. g3 Ne4 21. Qf3 Re6 22. Bd4 c5 23. Be3 Rf6 24. Qg4 Re8 25. f4 Rg6 26. Qf3 Rxg3+ 27. Qxg3 Nxg3 28. Rf3 Nf5 29. Bxc5 Qg6+ 30. Kf2 Nh4 31. Rg3 Qc2+ 32. Kg1 Bxf4 33. Rg4 Nf3+ 34. Kf1 Qe2# 0-1
+

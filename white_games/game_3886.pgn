@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jXS3H3OJ"]
+[Date "2020.10.31"]
+[White "EltahirAmin"]
+[Black "mostafa2018"]
+[Result "0-1"]
+[UTCDate "2020.10.31"]
+[UTCTime "11:34:04"]
+[WhiteElo "1980"]
+[BlackElo "1960"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. Bd2 a6 8. Ne2 Re8 9. c4 Bg4 10. b4 e5 11. Ng3 exd4 12. exd4 Nxd4 13. Bc3 Nd7 14. h3 Bxf3 15. gxf3 Nb6 16. Ne4 Qh4 17. Qd2 Nxf3+ 0-1
+

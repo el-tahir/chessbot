@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/adO23sLH"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "PHANJAMES"]
+[Result "1-0"]
+[UTCDate "2021.01.20"]
+[UTCTime "11:59:50"]
+[WhiteElo "1962"]
+[BlackElo "1953"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d3 e5 5. Be2 Be7 6. Bg5 O-O 7. Qd2 Be6 8. h4 a6 9. h5 b5 10. h6 g6 11. Nd1 Nc6 12. Ne3 d5 13. exd5 Nxd5 14. Nxd5 Bxd5 15. O-O-O f6 16. Be3 Bxa2 17. b3 Bxb3 18. cxb3 a5 19. Qc3 Nd4 20. Bxd4 cxd4 21. Qb2 a4 22. b4 a3 23. Qb3+ Kh8 24. Kb1 a2+ 25. Ka1 Qd6 26. Rd2 Qxb4 27. Qxb4 Bxb4 28. Rxa2 Bc3+ 29. Kb1 Rxa2 30. Kxa2 Ra8+ 31. Kb3 b4 1-0
+

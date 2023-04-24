@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NzyvsN4J"]
+[Date "2020.11.15"]
+[White "EltahirAmin"]
+[Black "UnderGround4080"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "05:56:58"]
+[WhiteElo "1956"]
+[BlackElo "1950"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B22"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nc3 Bb4 6. Nf3 Nge7 7. a3 Bxc3+ 8. bxc3 O-O 9. Bd3 h6 10. Bf4 d6 11. Qd2 f5 12. g4 fxe4 13. Bxe4 d5 14. Bc2 e5 15. Bxh6 gxh6 16. Qxh6 Rf7 17. g5 Nf5 18. Bxf5 Bxf5 19. g6 Rg7 20. Rg1 Qf6 21. Nh4 exd4 22. Nxf5 Qxf5 23. O-O-O dxc3 24. Rg5 Qf4+ 25. Kc2 Qxf2+ 26. Kxc3 Ne7 27. Rd2 Rc8+ 28. Kb2 Qxd2+ 0-1
+

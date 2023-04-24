@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KZTtbDrF"]
+[Date "2021.01.12"]
+[White "charlesccna"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.12"]
+[UTCTime "19:18:16"]
+[WhiteElo "1896"]
+[BlackElo "1904"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Nf6 7. O-O Be7 8. Nxd4 O-O 9. e5 Ng4 10. e6 f5 11. Nxf5 Bc5+ 12. Kh1 Qxd1 13. Rxd1 Bxe6 14. Bxe6+ Kh8 15. Rf1 Na6 16. h3 Nf2+ 17. Kh2 g6 18. Ng3 Bd6 19. Re1 Rae8 20. Nc3 Nc5 21. Bh6 Nxe6 22. Bxf8 Bxf8 23. Re2 Bc5 24. Rae1 Kg7 25. Rxe6 Rf8 26. R1e5 Bd4 27. Re7+ Rf7 28. Rxf7+ Kxf7 29. Re2 b5 30. Nce4 Nxe4 31. Rxe4 Bb6 32. c3 a5 33. Ne2 a4 34. Nd4 a3 35. Nxc6 axb2 36. Rb4 Ke6 37. Rxb2 Kd5 38. Nb4+ Kc4 39. a3 Kxc3 40. Rf2 Bxf2 41. Nd5+ Kb3 42. Nc7 b4 43. Nb5 bxa3 44. Nxa3 Kxa3 45. g3 h5 46. Kg2 Bd4 47. Kf3 g5 48. g4 h4 49. Ke4 Bb2 50. Kf5 Bc1 51. Kg6 Bf4 52. Kf5 Kb3 53. Ke4 Kc3 54. Kf3 Kd2 55. Kf2 Kd1 56. Kf3 Ke1 57. Kg2 Ke2 58. Kg1 Kf3 0-1
+

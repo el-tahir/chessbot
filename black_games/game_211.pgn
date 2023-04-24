@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tq72dZ9P"]
+[Date "2022.10.22"]
+[White "HocusPocus1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.22"]
+[UTCTime "20:45:07"]
+[WhiteElo "2045"]
+[BlackElo "2029"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Termination "Normal"]
+
+1. d4 c5 2. dxc5 Nf6 3. c3 e6 4. Nd2 Bxc5 5. Nb3 Bb6 6. g3 Ng4 7. e3 h5 8. Bg2 Qf6 9. Nf3 Nc6 10. Nbd4 Nce5 11. O-O O-O 12. Nxe5 Nxe5 13. Nf3 Ng4 14. Nd4 d5 15. h3 Nh6 16. Qxh5 e5 17. Nf3 e4 18. Nd4 Bxd4 19. exd4 Bf5 20. g4 Bg6 21. g5 Bxh5 22. gxf6 b5 23. fxg7 Kxg7 24. f3 exf3 25. Bxf3 Bxf3 26. Rxf3 Kh7 27. Rf6 Rg8+ 28. Kh2 Rg7 29. Rxh6+ Kg8 30. Bf4 1-0
+

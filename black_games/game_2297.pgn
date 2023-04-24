@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vHgd8YC3"]
+[Date "2020.12.24"]
+[White "CarlosOrtega1976"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.24"]
+[UTCTime "07:15:51"]
+[WhiteElo "2047"]
+[BlackElo "2000"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 Bf5 5. Nxd5 Qxd5 6. c4 Qd8 7. Nf3 e6 8. Bd3 Bb4+ 9. Bd2 Bxd3 10. Bxb4 Bxc4 11. Ne5 Ba6 12. Qf3 Qf6 13. Qxf6 gxf6 14. Ng4 Nc6 15. Nxf6+ Kd8 16. Bc3 Ke7 17. O-O-O Rad8 18. d5 exd5 19. Nxd5+ Rxd5 20. Rxd5 Rg8 21. Re1+ Kf8 22. g3 f5 23. Rd7 1-0
+

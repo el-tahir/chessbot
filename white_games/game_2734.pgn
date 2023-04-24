@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mchpQKv3"]
+[Date "2020.12.07"]
+[White "EltahirAmin"]
+[Black "Vitak1941"]
+[Result "1-0"]
+[UTCDate "2020.12.07"]
+[UTCTime "16:23:07"]
+[WhiteElo "1874"]
+[BlackElo "1877"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 Nf6 5. Bd3 cxd4 6. cxd4 d5 7. e5 Ne4 8. Bxe4 dxe4 9. Ng5 Bf5 10. Be3 h6 11. Nh3 Bxh3 12. gxh3 Qd7 13. Qg4 O-O-O 14. Qxe4 Nxd4 15. Nc3 e6 16. O-O-O Bc5 17. Ne2 Nxe2+ 18. Kb1 Qxd1+ 19. Rxd1 Rxd1+ 20. Kc2 Rhd8 21. Bxc5 R8d2+ 22. Kb3 Nc1+ 23. Kc4 Rd5 24. Bxa7 b5+ 25. Kb4 Nd3+ 26. Ka5 Kb7 27. Be3 Ra1 28. a3 Nxb2 29. Qf3 Nc4+ 30. Kb4 Rb1+ 31. Kc3 Nxa3 32. Qxf7+ Ka6 33. Qa7# 1-0
+

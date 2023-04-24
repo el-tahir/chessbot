@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1QKMXUfB"]
+[Date "2022.10.25"]
+[White "EltahirAmin"]
+[Black "Iyad15"]
+[Result "0-1"]
+[UTCDate "2022.10.25"]
+[UTCTime "06:48:26"]
+[WhiteElo "2012"]
+[BlackElo "2017"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 c5 4. Nf3 Nc6 5. Be2 Nge7 6. O-O Ng6 7. Bg5 Qb6 8. dxc5 Bxc5 9. Na4 Qb4 10. Nxc5 Qxc5 11. exd5 exd5 12. Re1 Be6 13. Bd3 O-O 14. h4 Qb4 15. h5 Nf4 16. Bxf4 Qxf4 17. g3 Qh6 18. Nh4 Qf6 19. Qe2 Nd4 20. Qe3 Nc6 21. Nf5 Qxb2 22. Reb1 Qe5 23. Rxb7 Qxe3 24. fxe3 Bxf5 25. Bxf5 a6 26. e4 dxe4 27. Bxe4 Ne5 28. a4 a5 29. Re1 Nc4 30. Bd5 Nd6 31. Rb6 Nf5 32. g4 Nd4 33. Re4 Nxc2 34. Re7 Nb4 35. Bb3 Rad8 36. Rbb7 Nd5 37. Rxf7 Rxf7 38. Rxf7 Kxf7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DkoomMDu"]
+[Date "2020.11.09"]
+[White "EltahirAmin"]
+[Black "JP60"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "18:38:21"]
+[WhiteElo "1934"]
+[BlackElo "1971"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nf6 3. d3 g6 4. Be2 Bg7 5. Be3 c6 6. Qd2 Ng4 7. Bxg4 Bxg4 8. h3 Be6 9. Bh6 O-O 10. Bxg7 Kxg7 11. h4 h5 12. f3 Qc8 13. O-O-O b5 14. g4 hxg4 15. fxg4 Bxg4 16. Rf1 Bh5 17. Nf3 Nd7 18. Ng5 Ne5 19. d4 Nc4 20. Qf2 f6 21. Nf3 Qg4 22. Nd2 Nxd2 23. Kxd2 b4 24. Nd1 Qxe4 25. Re1 Qd5 26. Rxe7+ Rf7 27. Rhe1 Rf8 28. c3 bxc3+ 29. Nxc3 c5 30. Nxd5 1-0
+

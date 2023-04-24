@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/5bjmJVkw"]
+[Date "2020.12.24"]
+[White "EltahirAmin"]
+[Black "Hershey_paw"]
+[Result "0-1"]
+[UTCDate "2020.12.24"]
+[UTCTime "08:12:54"]
+[WhiteElo "1972"]
+[BlackElo "1973"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Bd3 b6 6. Nf3 Bb7 7. Qe2 Nc6 8. c3 Be7 9. Bg5 h6 10. h4 hxg5 11. Nfxg5 Nxe4 12. Nxe4 Rxh4 13. O-O-O f5 14. Ng3 Bg5+ 15. Kb1 Qf6 16. Nxf5 Rxh1 17. Rxh1 O-O-O 18. Ne3 Rf8 19. f3 e5 20. Nd5 Qe6 21. Bc4 Na5 22. Nxb6+ Qxb6 23. Bd3 exd4 24. Rh7 dxc3 25. b3 Bf6 26. Bf5+ Kb8 27. Rh1 Ba6 28. Qc2 Nc4 29. Ka1 Na3 30. Qe4 c2+ 0-1
+

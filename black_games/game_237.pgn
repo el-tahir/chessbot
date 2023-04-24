@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NySkYg18"]
+[Date "2022.10.08"]
+[White "camarareis"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.08"]
+[UTCTime "22:42:28"]
+[WhiteElo "2006"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B33"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Be3 Qxb2 7. Na4 Qa3 8. Nxc6 Qxa4 9. Nd4 Nxe4 10. Bd3 Nc3 11. Qd2 Nd5 12. O-O e6 13. c4 Nxe3 14. fxe3 Qb4 15. Qf2 Qe7 16. Nb5 Qf6 17. Nc7+ Kd8 18. Nxa8 Qxf2+ 19. Rxf2 f6 20. Rc2 b6 21. Be4 Bc5 22. Kf2 d6 23. a4 Ba6 24. a5 Kd7 25. axb6 Bc8 26. Rxa7+ Ke8 27. Bc6+ Kf8 28. Rc7 Ba6 29. b7 Ba7 30. Rc8+ Kf7 31. Rxh8 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wVQq4hcO"]
+[Date "2023.01.31"]
+[White "Supercerebraco"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.01.31"]
+[UTCTime "05:46:05"]
+[WhiteElo "1983"]
+[BlackElo "1933"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A56"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 Nf6 3. c4 d6 4. Nc3 e6 5. e4 Be7 6. Nf3 O-O 7. Bd3 a6 8. O-O Bd7 9. Re1 exd5 10. exd5 Re8 11. Bg5 h6 12. Bh4 g5 13. Nxg5 hxg5 14. Bxg5 Kg7 15. h4 Rh8 16. Qd2 Ng4 17. Rxe7 1-0
+

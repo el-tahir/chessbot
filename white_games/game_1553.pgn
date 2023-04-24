@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TwBunIcM"]
+[Date "2021.02.22"]
+[White "EltahirAmin"]
+[Black "sperMATozoide"]
+[Result "0-1"]
+[UTCDate "2021.02.22"]
+[UTCTime "18:26:57"]
+[WhiteElo "1949"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B27"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 c5 4. Bd3 cxd4 5. Nbd2 Nc6 6. Nb3 d6 7. Bg5 h6 8. Bh4 g5 9. Bg3 e5 10. Qd2 Nge7 11. O-O-O O-O 12. Nxg5 hxg5 13. Qxg5 Ng6 14. Qd2 f5 15. Bc4+ Kh7 16. h4 Bh6 17. f4 Nxf4 18. Kb1 fxe4 19. Qe1 Nxg2 20. Qxe4+ Bf5 21. Qxg2 Nb4 22. Bd3 e4 23. Bxe4 Qf6 24. Rhf1 Qg6 25. Bxf5 Rxf5 26. Qxb7+ Bg7 27. Qxb4 Rxf1 28. Rxf1 Qxg3 29. Nxd4 Qxh4 30. c3 Re8 31. Qxd6 Qe4+ 32. Kc1 Bh6+ 33. Kd1 Qd3# 0-1
+

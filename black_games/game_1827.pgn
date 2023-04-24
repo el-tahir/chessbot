@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vqLEVRKm"]
+[Date "2021.01.27"]
+[White "nightbird357"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.27"]
+[UTCTime "00:41:09"]
+[WhiteElo "2006"]
+[BlackElo "2011"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. h3 c5 9. c3 Nc6 10. O-O b6 11. Be4 Bb7 12. Re1 Re8 13. Qc2 Rc8 14. Bxh7+ Kh8 15. Bf5 Rc7 16. Rxe8+ Qxe8 17. Qe4 Ne5 18. Qh4+ Kg8 19. dxe5 fxe5 20. Qh7+ Kf8 21. Qh8+ Ke7 22. Qxe8+ Kxe8 23. Be3 g6 24. Bc2 f5 25. Rd1 Ke7 26. Bg5+ Ke6 27. Nd2 Be7 28. Bxe7 Kxe7 29. Nc4 e4 30. Ne3 b5 31. Nd5+ Bxd5 32. Rxd5 Ke6 33. Rd1 b4 34. cxb4 cxb4 35. Bb3+ Kf6 36. Rd4 Rc1+ 37. Kh2 Rb1 38. Rxb4 Rxb2 39. Rb7 Rxf2 40. Rxa7 e3 41. Bc4 f4 42. Ra6+ Ke5 43. Kg1 Rc2 44. Bb3 Rb2 45. Re6+ Kd4 46. Kf1 g5 47. Rg6 Kd3 48. Rd6+ Ke4 49. Rg6 Kf5 0-1
+

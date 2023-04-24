@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ubWIsyqS"]
+[Date "2020.05.11"]
+[White "EltahirAmin"]
+[Black "hythamnajarr"]
+[Result "1-0"]
+[UTCDate "2020.05.11"]
+[UTCTime "20:29:22"]
+[WhiteElo "1972"]
+[BlackElo "2053"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Bc5 6. Nb3 Qb6 7. Nxc5 Qxc5 8. exd5 Nf6 9. dxe6 Bxe6 10. Bd3 O-O 11. O-O Nc6 12. Be3 Qh5 13. Qxh5 Nxh5 14. Rad1 Rad8 15. Rfe1 h6 16. Be2 Nf6 17. Rd3 Ne5 18. Rxd8 Rxd8 19. Rd1 Rxd1+ 20. Bxd1 b6 21. Kf1 Bc4+ 22. Be2 Bxe2+ 23. Kxe2 Kf8 24. f4 Nc4 25. Bc1 Ke7 26. b3 Nd6 27. g3 Nf5 28. Kf3 Nd4+ 29. Ke3 Nxc2+ 30. Kd3 Nb4+ 31. Kc4 Nc6 32. Kb5 Kd6 33. f5 Kd7 34. Bf4 Nd5 35. Nxd5 Nd4+ 36. Ka6 Nxf5 37. Kxa7 Kc6 38. Nxb6 Ne7 39. h4 f6 40. Nc4 g5 41. hxg5 fxg5 42. Be5 Nf5 43. g4 Ne7 44. Bg7 Ng8 45. a4 h5 46. gxh5 g4 47. Be5 Nh6 48. Bg3 Kd5 49. a5 Nf5 50. Kb7 Nxg3 51. a6 Nf5 52. a7 g3 53. a8=Q g2 54. Kb6+ Kd4 55. Qxg2 Ne7 56. Qg7+ Kd5 57. Qxe7 Kd4 58. h6 1-0
+

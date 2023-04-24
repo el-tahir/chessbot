@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UaulLDC5"]
+[Date "2022.07.24"]
+[White "dandelions_54"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2022.07.24"]
+[UTCTime "16:53:10"]
+[WhiteElo "2034"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. dxe4 Nd7 7. f4 Nf6 8. h3 Qc7 9. Nf3 b6 10. c4 Bb7 11. e5 Nd7 12. g4 O-O-O 13. Bg2 e6 14. Be3 Bc5 15. O-O-O Bxe3+ 16. Qxe3 Nc5 17. Qa3 Rxd1+ 18. Rxd1 Rd8 19. Qxa7 Rxd1+ 20. Kxd1 Qd7+ 21. Kc1 Qd3 22. Qxb6 Qe3+ 23. Kd1 Qd3+ 24. Nd2 Na6 25. Bxc6 Bxc6 26. Qxc6+ Nc7 27. Qd6 Qxh3 28. Qf8+ Kb7 29. Qxf7 Qxg4+ 30. Kc2 Qf5+ 31. Qxf5 exf5 32. Nf3 Ne6 33. Ng5 Nxf4 34. Nxh7 Kc6 35. b4 Ng2 36. Kd3 g6 37. a4 Nf4+ 38. Ke3 Ne6 39. b5+ Kc5 40. Kd3 Nc7 41. a5 Nxb5 42. cxb5 Kxb5 43. e6 f4 44. e7 f3 45. e8=Q+ Kxa5 46. Qxg6 f2 47. Qg2 f1=Q+ 48. Qxf1 Ka4 49. Kc4 Ka3 50. Kc3 Ka4 51. Qc4+ Ka5 1/2-1/2
+

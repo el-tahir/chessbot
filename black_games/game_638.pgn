@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e9pXlrDT"]
+[Date "2022.04.28"]
+[White "DogWB"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "21:26:55"]
+[WhiteElo "2036"]
+[BlackElo "2114"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Qb3 Nxc3 9. bxc3 Bc8 10. Be3 e6 11. Be2 Bd6 12. O-O O-O 13. Bd3 Qe7 14. Qc2 h6 15. Rab1 b6 16. Rfe1 Bb7 17. Nd2 Rac8 18. Ne4 Bb8 19. Rb5 Qh4 20. g3 Qh5 21. Rxh5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8yvPCU03"]
+[Date "2021.01.21"]
+[White "EltahirAmin"]
+[Black "agbleon"]
+[Result "0-1"]
+[UTCDate "2021.01.21"]
+[UTCTime "14:14:18"]
+[WhiteElo "1960"]
+[BlackElo "1924"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C44"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. d4 exd4 5. cxd4 Bb4+ 6. Nc3 d6 7. a3 Ba5 8. b4 Bb6 9. a4 a6 10. b5 axb5 11. Bxb5 Bd7 12. O-O Nge7 13. Ba3 Bg4 14. h3 Bxf3 15. Qxf3 O-O 16. d5 Ne5 17. Qg3 N7g6 18. Kh1 f5 19. f4 Nd7 20. Bb2 Bd4 21. Rad1 Bxc3 22. Bxc3 Nc5 23. e5 Ne4 24. Qe3 dxe5 25. fxe5 Qg5 26. Qxg5 Nxg5 27. Bc4 Rxa4 28. Rd4 Kh8 29. d6 cxd6 30. exd6 Ne4 31. d7 Rd8 32. Rf3 Ne5 33. Rxe4 fxe4 34. Rg3 Rxc4 35. Bxe5 Rxd7 36. Ra3 Rc1+ 37. Kh2 Rc8 38. Kg3 h6 39. Kf4 Re7 40. Kxe4 Rc4+ 0-1
+

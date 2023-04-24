@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KbSfoG72"]
+[Date "2021.11.03"]
+[White "kkjj"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.03"]
+[UTCTime "03:57:15"]
+[WhiteElo "1982"]
+[BlackElo "2012"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 0-1
+

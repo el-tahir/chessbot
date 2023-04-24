@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/enmpZMPo"]
+[Date "2021.01.24"]
+[White "EltahirAmin"]
+[Black "barkinguney"]
+[Result "1-0"]
+[UTCDate "2021.01.24"]
+[UTCTime "22:22:16"]
+[WhiteElo "1995"]
+[BlackElo "1977"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Nd5 d6 7. Bb2 Nge7 8. d4 exd4 9. Nxd4 O-O 10. Be2 Be6 11. Nxb6 axb6 12. O-O Nxd4 13. Qxd4 f6 14. f4 Nc6 15. Qe3 Bf7 16. Rf3 Qe7 17. Rg3 Bg6 18. f5 Be8 19. Bc4+ Bf7 20. Bd3 Be8 21. Rf1 Ne5 22. Rf4 Nxd3 23. cxd3 Rf7 24. Rfg4 Bc6 25. Qh6 Kh8 26. Rxg7 Rxg7 27. Rxg7 Qxg7 28. Bxf6 Qxf6 29. Qxf6+ Kg8 30. Qe7 Rxa3 31. f6 1-0
+

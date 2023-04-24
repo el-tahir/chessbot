@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9O9IjoLt"]
+[Date "2021.10.14"]
+[White "EltahirAmin"]
+[Black "Dikanakanturan"]
+[Result "1-0"]
+[UTCDate "2021.10.14"]
+[UTCTime "01:20:22"]
+[WhiteElo "2039"]
+[BlackElo "2028"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B46"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 g6 7. Be2 Bg7 8. Qd2 Nf6 9. h4 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. h5 Nxd4 13. Bxd4 Bxd4 14. Qxd4 Rg8 15. h6 Be6 16. O-O-O Qa5 17. Kb1 Rc8 18. Bf3 Rc4 19. Qa7 Ke7 20. Qxb7+ Rc7 21. Qb3 Rgc8 22. c3 d4 23. Qb4+ Qxb4 24. cxb4 Rd8 25. Rd2 Bf5+ 26. Ka1 d3 27. a3 Rc2 28. Rhd1 Rdc8 29. Ka2 Be6+ 30. Kb1 Bf5 31. g4 Be6 32. Rxd3 Rxf2 33. a4 Rcc2 34. R1d2 Rcxd2 35. Rxd2 Rxd2 36. b5 Bb3 37. Kc1 Rc2+ 38. Kb1 axb5 39. axb5 Rc5 40. Be2 Rg5 41. Kc1 Kd6 42. Kd2 Kc7 43. Kc3 Kb6 44. Kxb3 Rc5 45. Kb4 f5 46. gxf5 gxf5 47. b3 f4 48. Ka4 Rc1 49. b4 Ra1+ 50. Kb3 1-0
+

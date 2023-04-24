@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Y2X46BMN"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "abdullah1981"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "13:09:11"]
+[WhiteElo "1893"]
+[BlackElo "1834"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d5 4. Bd3 dxe4 5. Bxe4 Nc6 6. Be3 Bg4 7. c3 e5 8. d5 Nce7 9. h3 Bxf3 10. Bxf3 Nf6 11. c4 O-O 12. Nc3 c6 13. dxc6 Nxc6 14. Bxc6 bxc6 15. Qxd8 Rfxd8 16. Rd1 Rdb8 17. Kd2 Rxb2+ 18. Ke1 Nh5 19. Rd6 e4 20. Nxe4 Rb1+ 21. Rd1 Rb2 22. Rd2 Rab8 23. Ke2 Rxd2+ 24. Kxd2 Rb2+ 25. Kd3 Rxa2 26. Rb1 Be5 27. Rb8+ Kg7 28. Rb7 Nf6 29. Ng5 h5 30. Nxf7 Bb2 31. Ne5+ Kg8 32. Nxg6 c5 33. Bh6 Bd4 34. Rg7# 1-0
+

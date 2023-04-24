@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/hwKReTso"]
+[Date "2021.06.10"]
+[White "EltahirAmin"]
+[Black "RangerOfTheWind"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "07:05:03"]
+[WhiteElo "2101"]
+[BlackElo "1780"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. d4 f5 3. Bg5 Nf6 4. e3 Nbd7 5. c4 h6 6. Bh4 g5 7. Bg3 g4 8. Ne5 Nxe5 9. Bxe5 Bg7 10. Nc3 e6 11. b4 Bd7 12. a4 Qe7 13. Qb3 O-O-O 14. Nb5 Bxb5 15. axb5 Kb8 16. Qa4 a6 17. bxa6 b6 18. Qc6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vu2ZbaZZ"]
+[Date "2020.05.11"]
+[White "Sotoca"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.11"]
+[UTCTime "19:44:17"]
+[WhiteElo "1961"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Termination "Time forfeit"]
+
+1. c4 Nf6 2. b3 d5 3. cxd5 Nxd5 4. Bb2 Bf5 5. d3 Bg6 6. e4 Nb6 7. f4 h6 8. f5 Bh7 9. Nf3 Nc6 10. d4 e6 11. fxe6 fxe6 12. Nbd2 Bb4 13. Bd3 Qe7 14. O-O O-O-O 15. Rc1 Ba3 16. Bxa3 Qxa3 17. Qc2 Qe7 18. Bb5 Nxd4 19. Nxd4 Rxd4 20. Qc3 Rhd8 21. Nf3 R4d7 22. Bxd7+ Rxd7 23. e5 c6 24. Rfd1 Nd5 25. Qc5 Qxc5+ 26. Rxc5 Be4 27. Nd4 Ne3 28. Rd2 Nxg2 0-1
+

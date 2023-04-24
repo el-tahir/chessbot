@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mnvCFEDO"]
+[Date "2021.11.10"]
+[White "heroofhasting"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.10"]
+[UTCTime "05:28:36"]
+[WhiteElo "2046"]
+[BlackElo "2048"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8. Qb3 Nxc3 9. bxc3 Bc8 10. Bc4 e6 11. O-O Bd6 12. Bg5 Qc7 13. d5 e5 14. dxc6 bxc6 15. Rae1 O-O 16. Nd2 a5 17. Ne4 a4 18. Qc2 Ba3 19. Rd1 Kh8 20. Nf6 Qe7 21. Qxh7# 1-0
+

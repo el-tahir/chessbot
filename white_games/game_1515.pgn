@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qVYBuASh"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "gothmog731"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "19:11:26"]
+[WhiteElo "1992"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 Bg4 6. Nc3 e5 7. d5 Bxf3 8. Qxf3 Nd4 9. Qd1 Nf6 10. Be3 Be7 11. Bxd4 exd4 12. Qxd4 O-O 13. Bd3 Re8 14. O-O Ng4 15. f4 Bf6 16. Qb4 Ne3 17. Rf3 Ng4 18. Raf1 a5 19. Qb3 a4 20. Qd1 Bd4+ 21. Kh1 Ne3 22. Rxe3 Bxe3 23. Qh5 g6 24. Qh6 Qf6 25. e5 dxe5 26. fxe5 Qxe5 27. Qh3 Bd4 28. Qd7 Rad8 29. Qxf7+ Kh8 30. Ne4 Rf8 31. Qxf8+ Rxf8 32. Rxf8+ Kg7 33. Rf1 Qxd5 34. Nf6 Bxf6 0-1
+

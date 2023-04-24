@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lN7VbYrZ"]
+[Date "2022.10.23"]
+[White "Space8_8"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.10.23"]
+[UTCTime "19:32:28"]
+[WhiteElo "2014"]
+[BlackElo "2012"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 5. Bc4 Qd4 6. Bxf7+ Kd8 7. Bb3 Ng4 8. O-O h6 9. Nf7+ Kc8 10. Nxh8 Nc6 11. Nf7 b6 12. Qe2 Kb7 13. d3 exd3 14. cxd3 e5 15. Bd5 Bc5 16. Bxc6+ Kxc6 17. Qf3+ Kd7 18. Qxf5+ Ke8 19. Be3 Nxe3 20. fxe3 Qxe3+ 21. Kh1 Ke7 22. Nd5+ 1-0
+

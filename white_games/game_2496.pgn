@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WXwz64Ol"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "khaledabass"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "09:07:20"]
+[WhiteElo "1981"]
+[BlackElo "1953"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Bd3 e6 4. Nf3 Ne7 5. Bg5 O-O 6. Qd2 f6 7. Bh6 c6 8. Bxg7 Kxg7 9. h4 d5 10. h5 g5 11. Nxg5 fxg5 12. Qxg5+ Kh8 13. e5 Nf5 14. Nd2 Qxg5 0-1
+

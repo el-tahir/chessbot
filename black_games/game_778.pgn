@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Gut1Aem2"]
+[Date "2021.11.19"]
+[White "gungormemis"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:50:19"]
+[WhiteElo "2003"]
+[BlackElo "2058"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. f4 Nc6 3. e5 d6 4. Nf3 Bg4 5. exd6 exd6 6. Be2 Nf6 7. d4 cxd4 8. Nxd4 Bxe2 9. Nxe2 Be7 10. Nbc3 O-O 11. Nd5 Re8 12. O-O Qd7 13. Nxe7+ Rxe7 14. Nd4 Rae8 15. Nxc6 bxc6 16. Qf3 d5 17. Bd2 Ne4 18. Rad1 Re6 19. f5 Rh6 20. Bxh6 gxh6 21. Rde1 Kh8 22. f6 Rg8 23. Qf5 Qc7 24. Rxe4 dxe4 25. Qxe4 c5 26. Qf4 Qxf4 27. Rxf4 Rg6 28. h4 h5 29. Kf2 Kg8 30. Kf3 Kf8 31. Ke4 Ke8 32. Kd5 Rxg2 33. Rc4 Rg4 34. Rxg4 hxg4 35. Ke4 g3 36. Kf3 Kd7 37. Kxg3 Ke6 38. Kf4 Kxf6 39. Ke4 h5 40. c3 a5 41. Kd5 Kf5 42. Kxc5 Kg4 43. Kb5 Kxh4 44. c4 Kg3 45. c5 h4 46. c6 h3 47. c7 h2 48. c8=Q h1=Q 49. Qg8+ Kf4 50. Qxf7+ Kg5 51. Qg7+ Kf5 52. Qd7+ Kf6 53. Qc6+ 1-0
+

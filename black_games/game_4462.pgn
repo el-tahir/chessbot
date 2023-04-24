@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/aciPtuKp"]
+[Date "2020.05.12"]
+[White "Jafeth98"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "14:55:37"]
+[WhiteElo "2047"]
+[BlackElo "1987"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bg4 4. c4 e6 5. Nc3 Bb4 6. Ne5 O-O 7. Nxg4 Nxg4 8. cxd5 exd5 9. Qb3 Bxc3+ 10. bxc3 b6 11. h3 Nf6 12. g4 Re8 13. Bg2 Nc6 14. O-O-O Rxe2 15. c4 Na5 16. Qd3 Rxa2 17. cxd5 Qe8 18. Rde1 Qa4 19. Re2 Nb3+ 20. Kd1 Nc5+ 0-1
+

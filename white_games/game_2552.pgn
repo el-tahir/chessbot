@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ggq4432x"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "checkmategogogo"]
+[Result "0-1"]
+[UTCDate "2020.12.16"]
+[UTCTime "19:50:33"]
+[WhiteElo "1957"]
+[BlackElo "1958"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. f3 dxe4 5. fxe4 Bb4 6. e5 Ne4 7. Bd2 Qxd4 8. Nf3 Qf2# 0-1
+

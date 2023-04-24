@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bCaHPfXf"]
+[Date "2021.03.06"]
+[White "Vadim_2008"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.03.06"]
+[UTCTime "16:32:05"]
+[WhiteElo "2069"]
+[BlackElo "2057"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 Nc6 6. Nf3 Bg4 7. Be2 e6 8. a3 a5 9. h3 Bh5 10. Nc3 Be7 11. Nb5 O-O 12. Bf4 Rc8 13. O-O b6 14. Ne5 Bxe2 15. Qxe2 bxc5 16. Nxc6 Rxc6 17. Rac1 Qb6 18. dxc5 Bxc5 19. Nc3 Rfc8 20. Na4 Qb3 21. Nxc5 Rxc5 22. Rxc5 Rxc5 23. Rc1 Rxc1+ 24. Bxc1 h6 25. f3 a4 26. Qe5 Qd1+ 27. Kh2 Qxc1 28. Qb8+ Kh7 29. Qb4 Qc4 30. Qd2 Nh5 31. g3 Nf6 32. g4 Qb3 33. h4 Qxf3 34. g5 Ng4+ 35. Kg1 Qe3+ 0-1
+

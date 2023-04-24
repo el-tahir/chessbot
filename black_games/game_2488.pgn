@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kSDA0hoD"]
+[Date "2020.12.19"]
+[White "Stalinou"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.19"]
+[UTCTime "09:36:39"]
+[WhiteElo "1933"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A51"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bc5 4. Nc3 d6 5. e4 O-O 6. f4 c6 7. f5 cxd5 8. cxd5 a6 9. g4 Ne8 10. h4 Qa5 11. Nf3 Nd7 12. Bd3 b5 13. Bd2 b4 14. Ne2 Bb7 15. a3 Qb6 16. a4 Bf2+ 17. Kf1 Bg3 18. Be1 Bxe1 19. Qxe1 Nc5 20. Bc2 a5 21. b3 Ba6 22. Kg2 Rc8 23. Rc1 Nf6 24. Ng3 Nxg4 25. Kh3 Nf6 26. Rg1 g6 27. h5 Kg7 28. hxg6 hxg6 29. fxg6 fxg6 30. Nf5+ Kf7 31. Ng5+ Ke8 32. Ng7+ Kd7 33. N7e6 Rh8+ 34. Kg3 Nxe6 35. Nxe6 Rc3+ 36. Kg2 Ng4 37. Qxc3 Rh2+ 0-1
+

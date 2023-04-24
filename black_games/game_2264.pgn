@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/m6phQDZG"]
+[Date "2020.12.25"]
+[White "Chugunov_Vyacheslav"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:04:44"]
+[WhiteElo "2111"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. d4 e5 2. dxe5 Nc6 3. e4 Nxe5 4. Nf3 Bd6 5. Nxe5 Bxe5 6. f4 Bd6 7. Bd3 Qh4+ 8. g3 Qd8 9. O-O c6 10. Nd2 Bc7 11. Nf3 Ne7 12. b3 O-O 13. Bb2 d5 14. e5 Bg4 15. Qe1 Nf5 16. Kg2 Bb6 17. Bxf5 Bxf5 18. Nd4 Be4+ 19. Nf3 h5 20. h4 Qd7 21. Kh2 Qg4 22. Ng5 Bf5 23. Qd1 f6 24. Qxg4 Bxg4 25. Nf3 fxe5 26. Nxe5 Bf5 27. c4 dxc4 28. Nxc4 Bc7 29. Rad1 Rae8 30. Ne5 Rd8 31. Kg2 Bxe5 32. Bxe5 Bg4 33. Rd6 Kf7 34. Rf2 g6 35. Rfd2 Rxd6 36. Rxd6 Re8 37. Rf6+ Kg7 38. Rxc6+ Rxe5 39. Rc7+ Kf6 40. fxe5+ Kxe5 41. Rxb7 Kd4 42. Rxa7 Kc3 43. Rg7 Bf5 44. Ra7 Kb4 45. Rb7+ Ka3 46. b4 Kxa2 47. b5 Be4+ 48. Kf2 Bxb7 49. Ke3 Bc8 50. Kd4 Ka3 51. Kc5 Ka4 52. Kc6 Ka5 53. b6 Ka6 54. Kc7 Bb7 55. Kd6 Kxb6 56. Ke6 Be4 57. Ke5 Bf5 58. Kd6 Kb5 59. Kd5 Kb4 60. Kd4 Kb3 61. Ke3 Kb2 62. Kd2 Kb3 63. Ke3 Kc4 64. Kf4 Kd5 65. Ke3 Ke5 66. Kf3 Kd4 67. Kf4 Kd3 68. Kg5 Ke2 69. Kf4 Kf2 70. Ke5 Kxg3 0-1
+

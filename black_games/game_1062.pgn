@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gAbYkQS1"]
+[Date "2021.10.17"]
+[White "Sagesolomon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.17"]
+[UTCTime "16:05:32"]
+[WhiteElo "2004"]
+[BlackElo "2022"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. Nd4 Bg6 6. h4 h5 7. f5 exf5 8. e6 fxe6 9. Nxe6 Qe7 10. Qe2 Kd7 11. Nxf8+ Qxf8 12. Qf3 Na6 13. Bxa6 bxa6 14. O-O Nf6 15. d3 Qd6 16. Bf4 Qc5+ 17. Kh1 Ng4 18. Nc3 Rhe8 19. Rae1 a5 20. Qg3 d4 21. Nd1 Qxc2 22. Bc7 Qc5 23. Rxe8 Rxe8 24. Bb8 Qb6 25. Qd6+ Kc8 26. Qxg6 Re2 27. Bg3 Qb7 28. Qxf5+ Kd8 29. Qxh5 Qd7 30. Rf8+ Ke7 31. Qf7# 1-0
+

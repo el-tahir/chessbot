@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SqUo7pml"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "DirkKurzawa"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:41:19"]
+[WhiteElo "2128"]
+[BlackElo "2074"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 d6 5. Qe2 fxe4 6. Qxe4+ Be7 7. d3 Nc6 8. Ne3 Qf7 9. Nd5 Kd8 10. Be2 Nf6 11. Nxf6 Bxf6 12. O-O Re8 13. Qf3 Nd4 14. Qh5 Nxe2+ 0-1
+

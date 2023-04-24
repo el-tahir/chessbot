@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cmqmHOtq"]
+[Date "2020.12.28"]
+[White "EltahirAmin"]
+[Black "baroma06"]
+[Result "1-0"]
+[UTCDate "2020.12.28"]
+[UTCTime "07:49:02"]
+[WhiteElo "1987"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Nb3 e6 7. Be3 Qd8 8. Be2 Ne7 9. Qd2 O-O 10. h4 Nbc6 11. h5 d5 12. exd5 exd5 13. h6 Bh8 14. O-O-O Be6 15. Nd4 Nf5 16. Nxf5 gxf5 17. g4 d4 18. gxf5 dxc3 19. Rdg1+ Bg7 20. Qxc3 f6 21. fxe6 Re8 22. Rxg7+ Kh8 23. Bd3 Re7 24. Qxf6 1-0
+

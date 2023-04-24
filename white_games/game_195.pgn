@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ErVBMWoL"]
+[Date "2022.11.05"]
+[White "EltahirAmin"]
+[Black "kinwolss"]
+[Result "0-1"]
+[UTCDate "2022.11.05"]
+[UTCTime "05:47:32"]
+[WhiteElo "1995"]
+[BlackElo "1978"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Bd6 6. fxe5 Bxe5 7. Nf3 Nc6 8. Nxe5 Nxe5 9. Ng3 Ne7 10. Bf4 N7g6 11. Qd2 O-O 12. O-O-O b5 13. Nf5 Bxf5 14. exf5 Nxf4 15. Qxf4 Re8 16. Be2 Rc8 17. g4 Qd5 18. Rhf1 Qxa2 19. f6 Ng6 20. Qf5 Rxe2 21. fxg7 Qa1# 0-1
+

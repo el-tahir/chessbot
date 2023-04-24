@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KgUANE07"]
+[Date "2020.11.17"]
+[White "EltahirAmin"]
+[Black "yanageby"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "01:08:56"]
+[WhiteElo "1951"]
+[BlackElo "1974"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 c6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nf6 6. Be3 Be7 7. Be2 O-O 8. O-O h6 9. f4 c5 10. Nf3 Nc6 11. Qd2 Ng4 12. Rad1 Nxe3 13. Qxe3 Re8 14. Nd5 Bf8 15. c4 Ne7 16. Qd3 Nc6 17. Rfe1 Bg4 18. h3 Bxf3 19. Bxf3 Nd4 20. Qc3 Qh4 21. Rxd4 cxd4 22. Qxd4 b6 23. Nc7 Qxe1+ 24. Kh2 d5 25. Nxa8 Rxa8 26. cxd5 Bc5 27. Qe5 Bg1+ 28. Kh1 Bf2+ 29. Kh2 Qg1# 0-1
+

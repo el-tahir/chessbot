@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fmdSLVO3"]
+[Date "2020.12.23"]
+[White "srami"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "08:42:29"]
+[WhiteElo "1966"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. e3 e5 2. d4 exd4 3. exd4 Nf6 4. c4 Bb4+ 5. Nc3 O-O 6. Be2 c6 7. Bd2 d5 8. Qb3 Bxc3 9. Bxc3 Re8 10. O-O-O Ne4 11. Be1 Qg5+ 12. Kb1 Qxg2 13. Bf3 Qf1 14. cxd5 Qxe1 15. dxc6 Nxc6 16. Nh3 Nd2+ 17. Kc2 Nxd4+ 0-1
+

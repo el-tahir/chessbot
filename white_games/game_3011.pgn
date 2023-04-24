@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Ck9GtgqG"]
+[Date "2020.11.21"]
+[White "EltahirAmin"]
+[Black "chessmAniatr"]
+[Result "1-0"]
+[UTCDate "2020.11.21"]
+[UTCTime "10:20:37"]
+[WhiteElo "1909"]
+[BlackElo "1919"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Nc6 4. d3 e5 5. f4 Bd6 6. fxe5 Bxe5 7. Nf3 Bf6 8. Ng3 Ne5 9. Be2 Nxf3+ 10. Bxf3 Be5 11. Ne2 Qd6 12. O-O Bxh2+ 13. Kh1 Be5 14. c3 Qe7 15. Qe1 dxc3 16. bxc3 Qd6 17. d4 Bg3 18. Qd1 h5 19. Nxg3 Qxg3 20. Qd3 h4 21. e5 h3 22. Bc6+ Kf8 23. Qxg3 hxg2+ 24. Kxg2 Bh3+ 25. Kf2 Bxf1 26. Kxf1 bxc6 27. Ba3+ Ke8 28. Qxg7 Rh1+ 29. Kg2 Rxa1 30. Qxg8+ Kd7 31. Qxa8 Rxa2+ 32. Kf3 Rxa3 33. Qf8 Rxc3+ 34. Ke4 a5 35. Qxf7+ Kc8 36. e6 a4 37. e7 Rc1 38. e8=Q+ Kb7 39. Kd3 Rb1 40. Qa2 Rb4 41. Qe7 Rb3+ 42. Qxb3+ axb3 43. Qb4+ Kc8 44. Qxb3 Kd7 45. Qc4 Kd6 46. Qc5+ Kd7 47. Ke4 1-0
+

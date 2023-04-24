@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wvJf6rRr"]
+[Date "2020.05.30"]
+[White "Dozie"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.30"]
+[UTCTime "23:31:11"]
+[WhiteElo "2023"]
+[BlackElo "2020"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nf3 Bg4 6. Bf4 e6 7. Be2 Bd6 8. Bxd6 Qxd6 9. O-O a6 10. h3 Bh5 11. a4 Nc6 12. Re1 O-O 13. Ne5 Bxe2 14. Qxe2 Nxd4 15. Qd3 Nc6 16. Nxc6 bxc6 17. Rad1 c5 18. a5 c4 19. Qf3 Rfb8 20. Na4 Qb4 21. Nb6 Ra7 22. Ra1 Qxb2 23. Qg3 Rab7 24. Reb1 Qxc2 25. Qe5 Ne4 26. Qf4 Nc3 27. Rc1 Ne2+ 28. Kh1 Qxc1+ 29. Qxc1 Nxc1 30. Rxc1 Rc7 31. g4 Rc5 32. Ra1 Rb5 33. Kg2 R8xb6 34. axb6 Rxb6 35. Kf3 Kf8 36. Ke3 Ke7 37. Kd4 Kd6 38. f4 f6 39. Re1 Rb3 40. h4 Rd3# 0-1
+

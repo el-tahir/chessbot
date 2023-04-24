@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/52wqnlpG"]
+[Date "2022.06.02"]
+[White "EltahirAmin"]
+[Black "mostafa19801980"]
+[Result "1-0"]
+[UTCDate "2022.06.02"]
+[UTCTime "04:15:13"]
+[WhiteElo "2017"]
+[BlackElo "2030"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B08"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 d6 4. Nf3 Nf6 5. Be3 O-O 6. Bd3 a6 7. Qd2 Nc6 8. Bh6 Bg4 9. d5 Bxf3 10. gxf3 Ne5 11. Qe3 Bxh6 12. Qxh6 Nxf3+ 13. Ke2 Nd4+ 14. Ke3 c5 15. dxc6 Nxc6 16. h4 Qb6+ 17. Kd2 Qxb2 18. h5 Ne5 19. hxg6 fxg6 20. Nd5 Rf7 21. Rhb1 Qa3 22. Rxb7 Qa5+ 23. Kc1 Qe1+ 24. Kb2 Qxf2 25. Rf1 Qd4+ 26. Kb1 Nxd5 27. Rxf7 Kxf7 28. Qxh7+ Kf6 29. exd5 Re8 30. Qh2 Nxd3 31. cxd3 Qxd3+ 32. Qc2 Qxc2+ 33. Kxc2 g5 34. Rb3 Ke5 35. Rg3 Rg8 36. Rd3 g4 37. Kd1 g3 38. Ke1 Ke4 39. Rd2 g2 40. Re2+ Kxd5 41. Rd2+ Ke6 42. Re2+ Kd7 43. Kf2 g1=Q+ 44. Kf3 Rg3+ 45. Ke4 Rg4+ 46. Kd3 Qd4+ 47. Kc2 Qc4+ 48. Kd1 Rg1+ 49. Kd2 Qd4+ 50. Kc2 e5 51. Rd2 Qc4+ 52. Kb2 Qb4+ 53. Kc2 Qb1+ 54. Kc3 1-0
+

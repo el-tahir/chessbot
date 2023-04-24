@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n30GjkiI"]
+[Date "2023.03.26"]
+[White "EltahirAmin"]
+[Black "RoYce-1997"]
+[Result "1-0"]
+[UTCDate "2023.03.26"]
+[UTCTime "03:38:19"]
+[WhiteElo "2000"]
+[BlackElo "1996"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. Ng3 e6 5. Nf3 Be7 6. Bc4 O-O 7. O-O h6 8. d3 a6 9. Be3 Nc6 10. Qd2 b5 11. Bb3 Bb7 12. Rae1 Nd5 13. Bxh6 gxh6 14. Qxh6 Bf6 15. Nh5 Nce7 16. Nxf6+ Nxf6 17. Qxf6 Ng6 18. Qxd8 Raxd8 19. Ne5 Nxe5 20. Rxe5 Kg7 21. Rfe1 Kf6 22. f3 Rg8 23. Kf2 Rg7 24. g3 Rh8 25. h4 Rhg8 26. g4 Ke7 27. Kg3 Kd6 28. c4 Bc8 29. cxb5 axb5 30. Rxb5 f5 31. g5 f4+ 32. Kxf4 Rf8+ 33. Kg3 Bb7 34. Rxe6+ Kd7 35. Rxb7 Rgf7 36. Re3 Rf4 37. Bd5 Kd6 38. Be4 R4f7 39. Re2 Ra8 40. a3 Ra5 41. Rc2 Rc5 42. Rxc5 Kxc5 43. b4+ Kd4 44. g6 Re7 45. h5 Ke3 46. h6 Re5 47. Kg4 Re6 48. g7 Rxh6 49. g8=Q Rg6+ 50. Qxg6 c5 51. Qf5 Kd2 52. Qf4+ Kc3 53. d4 cxd4 54. Qc1+ Kb3 55. Rc7 d3 56. Bxd3 Ka4 57. Qc2+ Kxa3 58. Rc5 Kxb4 59. Qc4+ Ka3 60. Qa6+ Kb2 61. Qb5+ Ka1 62. Rc8 1-0
+

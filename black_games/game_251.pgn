@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bR6PKSMU"]
+[Date "2022.09.28"]
+[White "Qiwut_QR7"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.09.28"]
+[UTCTime "16:36:32"]
+[WhiteElo "2032"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. Bg5 Be7 9. Nbd2 O-O 10. h3 Bh5 11. Qc2 Bg6 12. Bxg6 hxg6 13. Ne5 Nxe5 14. dxe5 Nd7 15. Bxe7 Qxe7 16. f4 Rac8 17. Kh1 Nc5 18. Nf3 Ne4 19. Kh2 Qc5 20. Rad1 Rc6 21. a3 Rb6 22. Nd4 Rc8 23. h4 Qc4 24. Qc1 Nc5 25. g4 Nb3 26. Qe3 Nxd4 27. cxd4 Rxb2+ 28. Rf2 Rxf2+ 29. Qxf2 Qb3 30. f5 Rc2 31. Rd2 Rxd2 32. Qxd2 gxf5 33. gxf5 Qxa3 34. f6 g6 35. Qh6 Qf8 36. Qg5 a5 37. h5 Kh7 38. hxg6+ fxg6 39. Qh4+ Qh6 40. Kg3 Qxh4+ 41. Kxh4 a4 42. Kg5 a3 43. f7 Kg7 44. f8=Q+ Kxf8 45. Kxg6 a2 46. Kf6 a1=Q 47. Kxe6 Qxd4 48. Kd7 Qxe5 49. Kd8 d4 0-1
+

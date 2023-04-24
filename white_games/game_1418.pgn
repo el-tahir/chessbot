@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SJYCBgRO"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "fontana1233"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "00:38:59"]
+[WhiteElo "2018"]
+[BlackElo "1987"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 Nf6 7. Ne5 Nbd7 8. Nxg6 hxg6 9. d4 e6 10. Qf3 Bd6 11. Bg5 Qc7 12. O-O-O Bxg3 13. hxg3 O-O-O 14. Bf4 Qa5 15. Kb1 Nb6 16. Bb3 Nbd5 17. Bd2 Qb6 18. g4 Rxh1 19. Rxh1 Qxd4 20. Bc1 Qxg4 21. Qxg4 Nxg4 22. Rh7 Rg8 23. f3 Ngf6 24. Rh1 Rd8 25. Bg5 Kc7 26. a3 a6 27. c4 Ne7 28. Bf4+ Kc8 29. Re1 Nf5 30. Kc2 Nd4+ 31. Kc3 b5 32. Bd1 c5 33. cxb5 axb5 34. Be5 Nd5+ 35. Kd3 f6 36. Bh2 e5 37. Ke4 Nb6 38. Kd3 Nc4 39. Kc3 Kb7 40. f4 Nc6 41. Bf3 Kb6 42. fxe5 N6xe5 43. Be4 Nd6 44. Bc2 Ndc4 45. Bg1 Re8 46. Rd1 Re7 47. Rd5 Rd7 48. Rxc5 Kb7 49. Rxb5+ Kc6 50. Rb4 Rb7 51. Be4+ Kc7 52. Bxb7 Kd6 53. Rxc4 Nxc4 54. Kxc4 Ke6 55. a4 Kf5 56. a5 Kg5 57. a6 Kh6 58. a7 Kh5 59. a8=Q Kg5 60. Qg8 Kh5 61. Qxg7 Kg5 62. Be4 f5 63. b4 fxe4 64. Kd4 Kf5 65. Ke3 Kg5 66. b5 Kf5 67. b6 Kg5 68. b7 Kf5 69. b8=Q Kg5 70. Qd6 Kf5 71. Qdd4 Kg5 72. Qxe4 Kh5 73. Qgxg6# 1-0
+

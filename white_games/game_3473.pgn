@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LYuvjJhS"]
+[Date "2020.11.08"]
+[White "EltahirAmin"]
+[Black "chessinsilent"]
+[Result "1/2-1/2"]
+[UTCDate "2020.11.08"]
+[UTCTime "14:52:52"]
+[WhiteElo "1977"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. Nf3 O-O 7. Be2 h6 8. O-O c5 9. Be3 Nc6 10. c3 cxd4 11. Nxd4 Nxd4 12. Bxd4 Bd7 13. Qb3 Bc6 14. Rad1 Bd5 15. Qc2 Qc7 16. c4 Rac8 17. b3 b5 18. Qb2 bxc4 19. bxc4 Ba8 20. Rc1 Rb8 21. Qc3 Bb4 22. Qd3 Qc6 23. Bf3 Qa4 24. Ne4 Nxe4 25. Bxe4 Bxe4 26. Qxe4 Qxa2 27. Qe5 f6 28. Qxe6+ Kh7 29. Qf5+ Kh8 30. c5 Rbd8 31. Be3 Bd2 32. Ra1 Qd5 33. Qxd5 Rxd5 34. Bxd2 Rxd2 35. Rxa7 Rc2 36. Ra5 Rc8 1/2-1/2
+

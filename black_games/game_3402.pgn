@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SrkocIWO"]
+[Date "2020.11.10"]
+[White "Ding_Jr"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "13:37:17"]
+[WhiteElo "1926"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Nf3 c5 7. c3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Nbxd2 Ne7 11. O-O O-O 12. Ng5 g6 13. Qh3 h5 14. g4 Nec6 15. Ndf3 Nxd4 16. gxh5 Nxf3+ 17. Nxf3 g5 18. Kh1 f6 19. exf6 Qxf6 20. Nxg5 Qf5 21. Qg3 Kh8 22. Rg1 Rg8 23. f4 Nc6 24. Rge1 Rae8 25. Qc3+ Rg7 26. h6 Qf6 27. Qxf6 1-0
+

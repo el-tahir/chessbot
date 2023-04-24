@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bo8UELBB"]
+[Date "2020.05.13"]
+[White "diddi1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.13"]
+[UTCTime "10:03:07"]
+[WhiteElo "1930"]
+[BlackElo "1980"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c3 Bg4 6. Bf4 e6 7. Bb5+ Nc6 8. Nbd2 Qb6 9. Bxc6+ bxc6 10. b3 Be7 11. h3 Bh5 12. Qc2 O-O 13. Ne5 c5 14. Bg5 cxd4 15. Bxf6 Bxf6 16. Nd7 Qb5 17. Nxf8 Qe2# 0-1
+

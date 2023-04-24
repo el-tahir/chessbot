@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DCAqipmq"]
+[Date "2020.12.15"]
+[White "EltahirAmin"]
+[Black "Symonius"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "12:26:42"]
+[WhiteElo "1904"]
+[BlackElo "1910"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 b5 6. Be3 Bb7 7. Bd3 Be7 8. O-O Nf6 9. e5 Nd5 10. Ne4 d6 11. Qh5 O-O 12. Nf6+ Nxf6 13. exf6 g6 14. fxe7 gxh5 15. exd8=Q Rxd8 16. Bg5 Rd7 17. Bf6 Nc6 18. Nxc6 Bxc6 19. Rae1 e5 20. Re3 Kf8 21. Rh3 Ke8 22. Rxh5 Re7 23. Rxh7 Kd7 24. Bxe7 Kxe7 25. Bg6 Rf8 26. f4 Ke6 27. f5+ Kf6 28. Bh5 Rg8 29. g4 Bd5 30. h4 Rc8 31. c3 Rc4 32. g5+ Ke7 33. g6 Rxh4 34. gxf7 Rxh5 35. Rxh5 Bxf7 36. Rh7 Kf6 37. Rxf7+ Kxf7 38. Rd1 Ke7 39. Kg2 Kf6 40. Kf3 Kxf5 41. Rxd6 e4+ 42. Ke3 Ke5 43. Rxa6 1-0
+

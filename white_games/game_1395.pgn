@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/i8ZgR4J9"]
+[Date "2021.02.27"]
+[White "EltahirAmin"]
+[Black "PakSipayung"]
+[Result "0-1"]
+[UTCDate "2021.02.27"]
+[UTCTime "17:14:59"]
+[WhiteElo "2012"]
+[BlackElo "2018"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 d5 4. exd5 exd5 5. d4 c4 6. Bf4 Bd6 7. Bg3 Be6 8. Qd2 a6 9. Be2 b5 10. Ng5 Qe7 11. O-O Nf6 12. Rae1 O-O 13. f4 Qd7 14. f5 Bxg3 15. fxe6 Bxh2+ 16. Kxh2 fxe6 17. Bf3 Re8 18. Re5 Nc6 19. Re2 h6 20. Nh3 Qd6+ 21. Kh1 Ra7 22. Rfe1 Rae7 23. Qf4 Qxf4 24. Nxf4 Kf7 25. Rd1 Nb4 26. a3 Nc6 27. Nb1 g5 28. Nh5 Nd8 0-1
+

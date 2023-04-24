@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zj5Tm2HF"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "Killerblow07"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "02:09:39"]
+[WhiteElo "2097"]
+[BlackElo "2122"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb8 7. e5 Ng8 8. d6 Nc6 9. Nb5 cxd6 10. exd6 Qa5+ 11. Bd2 Qa4 12. Nc7+ Kd8 13. Nxa8 Bxd6 14. Bd3 Nf6 15. O-O Re8 16. Qf3 h6 17. Rae1 Rxe1 18. Rxe1 Ne5 19. Qf5 Nxd3 20. cxd3 Qg4 21. Qa5+ b6 22. Qc3 Bb7 23. Bxh6 Qxg2# 0-1
+

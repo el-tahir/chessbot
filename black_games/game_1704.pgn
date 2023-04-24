@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pQtXKqVN"]
+[Date "2021.02.09"]
+[White "aymanooov"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.09"]
+[UTCTime "21:59:47"]
+[WhiteElo "1985"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 Bg4 4. Nf3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 e6 8. Ba3 Nc6 9. Bb5 cxd4 10. Bxf8 Rxf8 11. cxd4 Qa5+ 12. Qd2 Qxb5 13. Rb1 Qxb1+ 0-1
+

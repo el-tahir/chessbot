@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O4C8Z1t5"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "opelonomi"]
+[Result "1-0"]
+[UTCDate "2021.10.15"]
+[UTCTime "07:58:12"]
+[WhiteElo "2014"]
+[BlackElo "2037"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 f5 3. Nf3 fxe4 4. Nxe4 Nf6 5. Ng3 Nc6 6. Bb5 d6 7. O-O Bd7 8. c3 h5 9. h4 Ng4 10. Qc2 Qe7 11. Qg6+ Kd8 12. Ng5 Be8 13. Ne6+ Kc8 14. Nf5 Bxg6 15. Nxe7+ Bxe7 16. d3 Kd7 17. Ng5 a6 18. Bc4 Bxg5 19. Bxg5 b5 20. Bd5 Bxd3 21. Rfe1 Raf8 22. f3 Nf6 23. Bb3 Bc4 24. Bc2 b4 25. Ba4 Bb5 26. Bc2 bxc3 27. bxc3 Nd5 28. a4 Bc4 29. Be4 Nf4 30. Rab1 Rb8 31. Rbd1 Rb2 32. Bxf4 exf4 33. Bf5+ Kd8 34. Re4 Bb3 35. Rde1 Rf8 36. Bg6 Rd2 37. Bxh5 Ne5 38. Bg4 c6 39. Bh5 Kc7 40. Rb4 Bd5 41. Reb1 c5 42. Bg4 Nxg4 43. fxg4 cxb4 44. c4 Bxc4 45. Rxb4 a5 46. Rxc4+ Kd7 47. Rc1 Rd1+ 48. Rxd1 Rc8 49. Rf1 Rc2 50. Kh2 Ra2 51. Kh3 Rxa4 52. h5 Re4 53. h6 gxh6 54. g5 Re3+ 55. Kg4 hxg5 56. Kxg5 Rf3 57. Kg4 Kc6 58. Kxf3 a4 59. Kxf4 a3 60. Ke3 a2 61. Ra1 Kd7 62. Rxa2 1-0
+

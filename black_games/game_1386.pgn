@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bc3QKG5B"]
+[Date "2021.02.27"]
+[White "Ardenno"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.27"]
+[UTCTime "21:57:22"]
+[WhiteElo "2040"]
+[BlackElo "2018"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. Nf3 c6 2. d4 d5 3. c4 Nf6 4. Nc3 Bg4 5. Ne5 Bf5 6. cxd5 cxd5 7. Qb3 Bc8 8. Bf4 Nc6 9. e3 e6 10. Be2 Be7 11. O-O O-O 12. Rfc1 Nd7 13. Nxc6 bxc6 14. Na4 Qa5 15. Rxc6 Nb6 16. Nxb6 axb6 17. Bc7 Bd7 18. Bxb6 Qd2 19. Rc2 Qb4 20. Qxb4 Bxb4 21. Bc5 Ba5 22. b4 Bc7 23. h3 Rfc8 24. b5 Rab8 25. a4 Ba5 26. Rac1 f5 27. Bd6 Rxc2 28. Rxc2 Rc8 29. Rxc8+ Bxc8 30. Bc5 Kf7 31. g4 Ke8 32. gxf5 exf5 33. Bd3 Kd7 34. Bxf5+ Kc7 35. Bxc8 Kxc8 36. f3 h5 37. e4 dxe4 38. fxe4 h4 39. Kf2 g5 40. Be7 1-0
+

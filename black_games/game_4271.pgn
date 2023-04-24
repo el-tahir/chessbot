@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gsYs5Rlr"]
+[Date "2020.10.14"]
+[White "venk13"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "06:45:56"]
+[WhiteElo "1982"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 Bg4 6. Nc3 e6 7. Qb3 Be7 8. Qxb7 Nbd7 9. Be2 O-O 10. cxd5 exd5 11. Nxd5 Rb8 12. Nxf6+ Nxf6 13. Qxa7 Qd5 14. Qxe7 Ne4 15. O-O Rfe8 16. Qa7 Rb7 17. Qa4 Rbe7 18. Be3 f5 19. Bc4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TvKEYYtI"]
+[Date "2020.12.14"]
+[White "EltahirAmin"]
+[Black "shebelaw"]
+[Result "0-1"]
+[UTCDate "2020.12.14"]
+[UTCTime "14:40:16"]
+[WhiteElo "1880"]
+[BlackElo "1910"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+15"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 Be7 6. Bc4 O-O 7. O-O b6 8. d4 Bb7 9. Bg5 Nd5 10. Bxe7 Qxe7 11. c3 c5 12. Re1 cxd4 13. Nxd4 Qg5 14. Nf3 Qd8 15. Qc2 Qc7 16. Bd3 g6 17. Rad1 Nf4 18. Bf1 Bxf3 19. gxf3 Nc6 20. Ne4 Ne5 21. Nf6+ Kg7 22. Ne4 Nxf3+ 23. Kh1 Nh3 24. Bxh3 Qxh2# 0-1
+

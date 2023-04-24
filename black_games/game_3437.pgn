@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wkl53B5D"]
+[Date "2020.11.09"]
+[White "SergeyManakov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "09:15:59"]
+[WhiteElo "1961"]
+[BlackElo "1944"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. b4 Nc6 3. bxc5 e5 4. Bc4 Bxc5 5. Bb2 Qf6 6. Nf3 Nge7 7. O-O O-O 8. c3 b6 9. d4 exd4 10. cxd4 Bb4 11. a3 Ba5 12. Nc3 Bb7 13. Nb5 Rac8 14. e5 Qh6 15. Nd6 Rc7 16. Bc1 Qg6 17. Bd3 Qe6 18. Ng5 Qd5 19. Bxh7+ Kh8 20. Qh5 1-0
+

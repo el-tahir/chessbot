@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/68ixtzKN"]
+[Date "2020.10.28"]
+[White "ArtemVS"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.28"]
+[UTCTime "11:59:04"]
+[WhiteElo "1993"]
+[BlackElo "1984"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. Nf3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Nbxd2 Ne7 11. a3 Nbc6 12. b4 a6 13. Nb3 O-O 14. O-O f6 15. exf6 Rxf6 16. Rfe1 Qd7 17. Re2 Raf8 18. Rae1 Nd8 19. Nc5 Qc6 20. Ne5 Qb5 21. Ned7 Qc6 22. Nxf8 Rxf8 23. Nxe6 Nxe6 24. Rxe6 1-0
+

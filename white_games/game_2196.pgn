@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/W75M5teL"]
+[Date "2020.12.28"]
+[White "EltahirAmin"]
+[Black "robotinho"]
+[Result "0-1"]
+[UTCDate "2020.12.28"]
+[UTCTime "08:05:13"]
+[WhiteElo "1978"]
+[BlackElo "2024"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Nc6 3. Nc3 Bg4 4. Bf4 Bxf3 5. exf3 e6 6. Bb5 Bd6 7. O-O Bxf4 0-1
+

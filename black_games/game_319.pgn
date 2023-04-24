@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/49O1cPar"]
+[Date "2022.07.28"]
+[White "alvaronlopez"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.07.28"]
+[UTCTime "00:06:59"]
+[WhiteElo "2017"]
+[BlackElo "2039"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. Nc3 c6 2. e4 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. f3 Bc8 7. Bc4 Nbd7 8. c3 Nb6 9. Bb3 Qc7 10. N1e2 e5 11. O-O Bd6 12. f4 exd4 13. Nxd4 O-O 14. Ngf5 Bxf5 15. Nxf5 Bc5+ 16. Kh1 Rad8 17. Qf3 Qd7 18. Ng3 Rfe8 19. f5 Nbd5 20. Bg5 h6 21. Bxf6 Nxf6 22. Rae1 Qd2 23. Rxe8+ Rxe8 24. Rd1 Qxb2 25. h3 Qf2 26. Qxf2 Bxf2 27. Nf1 Re7 28. Nh2 Kh7 29. Nf3 a5 30. Rd2 Bb6 31. Nd4 Ne4 32. Re2 Ng3+ 0-1
+

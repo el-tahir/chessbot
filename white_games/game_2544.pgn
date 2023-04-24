@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kFktSsVe"]
+[Date "2020.12.17"]
+[White "EltahirAmin"]
+[Black "Clar726"]
+[Result "0-1"]
+[UTCDate "2020.12.17"]
+[UTCTime "14:51:01"]
+[WhiteElo "1936"]
+[BlackElo "1914"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Bb4 7. Be2 O-O 8. Qd2 Bxc3 9. Qxc3 Nxe4 10. Qd3 d5 11. O-O-O Nb4 12. Qb3 a5 13. f3 Nc5 14. Qc3 Nxa2+ 0-1
+

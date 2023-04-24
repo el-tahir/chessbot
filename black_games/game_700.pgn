@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/arKR6OMe"]
+[Date "2021.11.22"]
+[White "SicilianMaster12345"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.22"]
+[UTCTime "02:51:54"]
+[WhiteElo "2057"]
+[BlackElo "2088"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Nc6 6. Bf4 Bg4 7. Qb3 Bc8 8. Nd2 e6 9. Ngf3 Bd6 10. Bxd6 Qxd6 11. h3 O-O 12. O-O e5 13. Nxe5 Nxe5 14. dxe5 Qxe5 15. Nf3 Qh5 16. Rad1 Be6 17. Qxb7 Rab8 18. Qxa7 Rxb2 19. a4 Ne4 20. Bxe4 dxe4 21. Nd4 Bd5 22. Qc5 e3 23. Nf5 exf2+ 24. Rxf2 Qxd1+ 25. Kh2 Rxf2 26. Qxf2 Qxa4 27. Ne7+ Kh8 28. Nxd5 Qc6 29. Ne7 Qc7+ 30. Qg3 Qxe7 31. Qxg7+ Kxg7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pfqbtfit"]
+[Date "2020.11.26"]
+[White "AhmadBryne"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.26"]
+[UTCTime "17:13:00"]
+[WhiteElo "1971"]
+[BlackElo "1908"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bg5 Nc6 6. Bxf6 exf6 7. Bd3 Be7 8. O-O O-O 9. Re1 Qb6 10. c3 Re8 11. Nbd2 Bg4 12. b3 Rab8 13. Bc2 Qc7 14. Qe2 Bb4 15. Qd3 Rxe1+ 16. Rxe1 Bd6 17. Qxh7+ Kf8 18. Qh8# 1-0
+

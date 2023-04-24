@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AGQM7uqO"]
+[Date "2020.12.21"]
+[White "EltahirAmin"]
+[Black "NeigeDuMatin"]
+[Result "0-1"]
+[UTCDate "2020.12.21"]
+[UTCTime "11:25:59"]
+[WhiteElo "1967"]
+[BlackElo "2023"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nxe5 5. d4 Ng6 6. dxc5 N8e7 7. Bc4 O-O 8. O-O d6 9. cxd6 cxd6 10. Qf3 Be6 11. Nd5 Ne5 12. Nxe7+ Qxe7 0-1
+

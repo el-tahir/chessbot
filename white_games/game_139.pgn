@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MVZUtwrs"]
+[Date "2023.02.14"]
+[White "EltahirAmin"]
+[Black "kalmaasali"]
+[Result "1-0"]
+[UTCDate "2023.02.14"]
+[UTCTime "22:33:07"]
+[WhiteElo "1957"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qb6 11. Nb5 a6 12. Nc7+ Kd8 13. Nxa8 Qxd6 14. Qxd6 Bxd6 15. Nb6 Nxf4 16. Nxc8 Kxc8 17. Bd3 Nxg2+ 18. Kf2 Nf4 19. Be4 Nf6 20. Bf3 h6 21. Rg1 g5 22. Be3 Nh3+ 23. Kg2 Nxg1 24. Kxg1 g4 25. Bg2 h5 26. Rf1 Be5 27. c3 Rh7 28. Bd4 Bxd4+ 29. cxd4 Ng8 30. Be4 Rg7 31. Bd5 Nh6 32. Rf6 Ng8 33. Rxf7 Rxf7 34. Bxf7 Nf6 35. Kg2 Kd8 36. Kg3 Ke7 37. Bg6 Kf8 38. Kh4 Kg7 39. Bxh5 Kh6 40. Bxg4 Ne4 41. Bxd7 b5 42. Bc8 a5 43. Bd7 b4 44. Kg4 Nf6+ 45. Kf5 Nxd7 46. Ke6 Nb6 47. d5 a4 48. d6 Kg6 49. d7 Nxd7 50. Kxd7 b3 51. axb3 axb3 52. Kd6 Kf5 53. Kd5 Kg4 54. Kc4 Kh3 55. Kxb3 Kxh2 56. Kc4 Kg3 57. Kc5 Kf4 58. Kc6 Ke5 59. b4 Kd4 60. b5 Kc4 61. b6 1-0
+

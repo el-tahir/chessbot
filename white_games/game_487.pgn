@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kk5FNGkB"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "ghostsurgeon"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:32:23"]
+[WhiteElo "2127"]
+[BlackElo "2208"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nge7 6. Be3 Ng6 7. Bd3 Be7 8. O-O d6 9. f4 a6 10. f5 Nge5 11. fxe6 fxe6 12. Qh5+ g6 13. Qe2 Bd7 14. Rf2 Qc7 15. Raf1 O-O-O 16. b4 Nxb4 17. Rb1 Qxc3 18. Rb3 Qa1+ 19. Rf1 Qxa2 20. Rxb4 Nxd3 21. Qxd3 Bb5 22. Nxb5 axb5 23. Qxb5 Qa6 24. Rc4+ Kb8 25. Qxa6 bxa6 26. Rb1+ Ka8 27. Rc7 Rb8 28. Ra7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XdxbWrhM"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "moguer_platero"]
+[Result "1-0"]
+[UTCDate "2020.11.04"]
+[UTCTime "18:44:40"]
+[WhiteElo "2054"]
+[BlackElo "2193"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 Nf6 7. Bg5 e6 8. Bc4 Be7 9. O-O-O O-O 10. f4 Qa5 11. Kb1 a6 12. h4 b5 13. Bb3 h6 14. e5 dxe5 15. fxe5 hxg5 16. exf6 Bxf6 17. Qg4 b4 18. Ne4 Qf5 19. Nxf6+ Qxf6 20. hxg5 Qg6 21. Qh4 f5 22. Rd6 Kf7 23. Re1 Re8 24. Qxb4 Re7 25. Qb6 Bb7 26. Rdxe6 Qxg5 27. Rf6+ Ke8 28. Rxe7+ Kxe7 29. Qe6+ Kd8 30. Rf7 Bc6 31. Qd6+ Kc8 32. Qc7# 1-0
+

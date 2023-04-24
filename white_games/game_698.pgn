@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JdigczK9"]
+[Date "2021.11.22"]
+[White "EltahirAmin"]
+[Black "astanacom"]
+[Result "1-0"]
+[UTCDate "2021.11.22"]
+[UTCTime "03:59:18"]
+[WhiteElo "2100"]
+[BlackElo "2102"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bd7 5. Ng3 Nf6 6. Be2 Na6 7. O-O Nc7 8. c3 Bg4 9. d4 Nfd5 10. h3 Bxf3 11. Bxf3 e6 12. Ne4 Be7 13. c4 Nf6 14. Be3 O-O 15. Qc2 Nce8 16. Rad1 Nxe4 17. Bxe4 Nf6 18. Bd3 Rc8 19. Bg5 h6 20. Bh4 Qb6 21. b3 Rfd8 22. Qb2 Qc7 23. Rfe1 Qf4 24. Bg3 Qg5 25. Re5 1-0
+

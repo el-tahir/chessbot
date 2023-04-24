@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kHxVBokA"]
+[Date "2020.12.15"]
+[White "brodyga_45"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.15"]
+[UTCTime "17:36:28"]
+[WhiteElo "1894"]
+[BlackElo "1922"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bg5 Qc7 5. Bd3 Bxd3 6. Qxd3 e6 7. Ne2 Be7 8. h4 Na6 9. a3 c5 10. f4 h6 11. Bxe7 Nxe7 12. g4 Rc8 13. Nbc3 cxd4 14. Nxd4 Nc5 15. Qe3 Nc6 16. b4 Nxd4 17. Qxd4 Nd7 18. Nb5 Qb6 19. Nd6+ Kd8 20. Qxb6+ axb6 21. Nxf7+ Ke7 22. Nxh8 Rxh8 23. O-O-O Rf8 24. Rdf1 g6 25. g5 h5 26. Rh3 Nxe5 27. Rc3 Nc4 28. a4 Ra8 0-1
+

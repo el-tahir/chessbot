@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uo3SOaN5"]
+[Date "2023.03.08"]
+[White "fcojavierl"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2023.03.08"]
+[UTCTime "03:44:24"]
+[WhiteElo "2005"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Be7 7. Bc4 O-O 8. a3 Qc7 9. O-O Rd8 10. Ba2 b6 11. Ncb5 Qb8 12. Nc3 Bb7 13. g3 a6 14. f4 Qc7 15. e5 Ne8 16. Qg4 d6 17. Nxe6 fxe6 18. Bxe6+ Kh8 19. f5 Nxe5 20. Qh5 Nf6 21. Qh3 Qc6 22. Nd5 Nxd5 23. Qxh7+ Kxh7 24. Rf4 Nxf4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/hAFbyKiL"]
+[Date "2020.12.19"]
+[White "EltahirAmin"]
+[Black "Asim59"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "17:18:40"]
+[WhiteElo "1994"]
+[BlackElo "990"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nh6 3. Nxe5 g5 4. d4 Bd6 5. Nf3 g4 6. Bxh6 gxf3 7. Qxf3 Rg8 8. Bc4 Qe7 9. h4 f5 10. Nd2 fxe4 11. Nxe4 Bb4+ 12. c3 Ba5 13. O-O-O Qf7 14. Qxf7+ Kd8 15. Qxg8+ Ke7 16. Bf8+ 1-0
+

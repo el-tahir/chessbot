@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xGNrcvS0"]
+[Date "2020.11.05"]
+[White "racatak"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.05"]
+[UTCTime "07:28:53"]
+[WhiteElo "2019"]
+[BlackElo "2042"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Ne5 Nf6 5. d4 Nc6 6. c3 Qc7 7. f4 e6 8. Bd3 Bd6 9. O-O Nd7 10. Kh1 f6 11. Qh5+ 1-0
+

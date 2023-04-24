@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/79oyMqPd"]
+[Date "2020.12.16"]
+[White "EltahirAmin"]
+[Black "Mr-Daoud"]
+[Result "1-0"]
+[UTCDate "2020.12.16"]
+[UTCTime "11:32:05"]
+[WhiteElo "1941"]
+[BlackElo "1933"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d5 4. Nxe5 dxe4 5. Bc4 Be6 6. Bxe6 fxe6 7. Qe2 Qd4 8. Ng4 h5 9. Nxf6+ gxf6 10. Qxe4 Qxe4+ 11. Nxe4 Be7 12. d3 Nc6 13. Bd2 O-O-O 14. Bc3 Rhf8 15. Kd2 f5 16. Ng3 e5 17. Nxh5 e4 18. Nf4 Bg5 19. Ke3 exd3 20. cxd3 Rfe8+ 21. Kf3 Bxf4 22. Kxf4 Rxd3 23. Kxf5 Ne7+ 24. Ke4 Rd7 25. Rad1 Nd5+ 26. Kd3 Nb4+ 27. Kc4 Rxd1 28. Rxd1 a5 29. a3 b5+ 30. Kxb5 c6+ 31. Kxa5 Nd5 32. Rd3 Kb7 33. Ka4 Re4+ 34. Kb3 Kb6 35. a4 Nf4 36. Rd4 Rxd4 37. Bxd4+ c5 38. Be3 Nd5 39. h4 Kc6 40. h5 Nf6 41. h6 Nh7 42. Kc4 Nf6 43. g4 Nxg4 44. h7 Ne5+ 45. Kc3 Nf7 46. a5 Kb5 47. a6 Kxa6 48. Bxc5 Kb5 49. Bd4 Kc6 50. h8=Q Kd5 1-0
+

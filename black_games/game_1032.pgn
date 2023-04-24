@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WoU3LkRt"]
+[Date "2021.10.22"]
+[White "Scatologo"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.10.22"]
+[UTCTime "14:12:16"]
+[WhiteElo "1986"]
+[BlackElo "2058"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. c3 Re8+ 9. Be3 Bf4 10. Qd2 Qe7 11. O-O Bxe3 12. Rfe1 Bxd2 13. Rxe7 Rxe7 14. Nxd2 0-1
+

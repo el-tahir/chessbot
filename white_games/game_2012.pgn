@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/3D1RtrDR"]
+[Date "2021.01.12"]
+[White "EltahirAmin"]
+[Black "porqueami"]
+[Result "0-1"]
+[UTCDate "2021.01.12"]
+[UTCTime "19:32:54"]
+[WhiteElo "1922"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. d4 Nc6 4. d5 exd5 5. exd5 Nce7 6. d6 Nc6 7. Qe2+ Be7 8. dxe7 Ngxe7 9. Bg5 O-O 10. O-O-O f6 11. Be3 d5 12. Bxc5 Bf5 13. Re1 Re8 14. Qf3 Bg6 15. Bd3 Qd7 16. Nh3 d4 17. Bc4+ Kh8 18. Ne4 Ne5 19. Qb3 Qg4 20. Nd6 Nxc4 21. Nxe8 Ne5 22. Nd6 Qxg2 23. Nf4 Qg5 24. Qg3 Qh6 25. Kb1 N7c6 26. Nxg6+ hxg6 27. Nf7+ Nxf7 28. Qc7 Nfe5 29. Bd6 Re8 30. Qxb7 Qd2 31. Rhf1 d3 32. cxd3 Qxd3+ 33. Ka1 Qxd6 34. f4 Qf8 35. fxe5 Nxe5 36. Qg2 Qf7 37. Qh3+ Kg8 38. Rc1 Rb8 39. a3 Qb3 40. Rb1 Qxh3 41. Rfc1 Qb3 42. Rc3 Qb5 43. Rb3 Qxb3 44. a4 Qxa4# 0-1
+

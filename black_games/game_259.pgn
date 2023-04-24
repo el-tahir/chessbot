@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EdGNGqm1"]
+[Date "2022.09.26"]
+[White "carlsenlagaver"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.09.26"]
+[UTCTime "05:35:58"]
+[WhiteElo "1994"]
+[BlackElo "2052"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A16"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 c5 3. b3 g6 4. Bb2 Bg7 5. e3 O-O 6. Rc1 b6 7. Bd3 Bb7 8. f3 d5 9. cxd5 Nxd5 10. Bb1 Nc6 11. a3 e5 12. Nge2 Qd7 13. Qc2 Rad8 14. Rd1 Qe6 15. Ng3 f5 16. O-O Rd7 17. Na4 Rfd8 18. Rfe1 Qd6 19. Ba2 Nce7 20. b4 cxb4 21. e4 bxa3 22. Ba1 Kh8 23. exd5 Nxd5 24. Bxd5 Qxd5 25. Nc3 Qd4+ 26. Kh1 Qh4 27. Nb5 Rd3 28. Bxe5 Rxf3 29. Bxg7+ Kxg7 30. Re7+ Qxe7 31. gxf3 Bxf3+ 32. Kg1 Bxd1 33. Qxd1 Qc5+ 34. d4 Qxb5 35. d5 Qxd5 0-1
+

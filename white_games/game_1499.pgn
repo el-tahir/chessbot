@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gAAkLisl"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "Thanos2049"]
+[Result "1-0"]
+[UTCDate "2021.02.24"]
+[UTCTime "20:00:53"]
+[WhiteElo "2006"]
+[BlackElo "1949"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A02"]
+[Termination "Time forfeit"]
+
+1. f4 e5 2. Nf3 d6 3. fxe5 Nc6 4. exd6 Bxd6 5. e4 g5 6. h3 g4 7. hxg4 Bg3+ 8. Ke2 Bxg4 9. d3 Nd4+ 10. Kd2 c5 11. c3 Nxf3+ 12. gxf3 Be6 13. Kc2 b5 14. Be3 Bd6 15. Nd2 b4 16. Qe2 bxc3 17. bxc3 a5 18. Rb1 a4 19. a3 Rb8 20. Bg2 Bb3+ 21. Nxb3 axb3+ 22. Rxb3 Rxb3 23. Kxb3 Ne7 24. d4 Qb6+ 25. Kc2 Kd7 26. Bh3+ Kc7 27. e5 cxd4 28. cxd4 Qc6+ 29. Kb2 Rb8+ 30. Ka2 Bxa3 31. Qd3 Nd5 32. Rb1 Rxb1 33. Qxb1 Nc3+ 34. Kxa3 Nxb1+ 35. Kb2 Nc3 36. Bd2 Nd5 37. Bf1 Qb6+ 38. Kc1 Nb4 39. Kd1 Na2 40. Ke2 Qb5+ 41. Kd1 Qxf1+ 42. Kc2 Qc4+ 43. Bc3 Nb4+ 44. Kd2 Na2 45. Ba1 Qb3 46. Ke2 Qc2+ 47. Ke3 1-0
+

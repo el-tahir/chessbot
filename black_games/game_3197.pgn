@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OSdtxrMX"]
+[Date "2020.11.15"]
+[White "MrMyky"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "08:56:16"]
+[WhiteElo "1915"]
+[BlackElo "1963"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. c3 c5 9. O-O cxd4 10. Nxd4 Nc6 11. Qc2 g6 12. Nxc6 bxc6 13. Bh6 Re8 14. Rfe1 Bf8 15. Bxf8 Kxf8 16. Rad1 Rxe1+ 17. Rxe1 Bb7 18. Qd2 Kg7 19. Qe3 Qd5 20. Qe7 c5 21. Be4 Qd2 22. Bxb7 Rb8 23. Bf3 Rxb2 24. Qe2 Qxc3 25. h3 Rxe2 26. Rxe2 a5 27. Re7 Qa1+ 28. Kh2 Qxa2 29. Rd7 Qc4 30. Bd5 Qf4+ 31. Kh1 a4 32. Rxf7+ Kh6 33. g3 Qxf2 34. h4 a3 35. g4 a2 36. g5+ fxg5 37. Rxf2 a1=Q+ 38. Kh2 Qe5+ 39. Kg1 Qxd5 40. hxg5+ Qxg5+ 41. Rg2 Qc1+ 42. Kh2 c4 43. Kh3 c3 44. Kh4 Qf4+ 45. Kh3 Qf3+ 46. Kh2 Qxg2+ 47. Kxg2 c2 48. Kh3 c1=Q 49. Kg4 Qg5+ 50. Kh3 Kg7 51. Kh2 Kf6 52. Kh3 Kf5 53. Kh2 Kf4 54. Kh3 Kf3 55. Kh2 Qg2# 0-1
+

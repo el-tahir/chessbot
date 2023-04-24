@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Kq5gzc6X"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "eslam-elnaidany"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "00:38:30"]
+[WhiteElo "2031"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nd7 5. Qd2 e5 6. Nf3 Ngf6 7. Be2 O-O 8. h4 Qe7 9. O-O-O a5 10. Ne1 Nb6 11. Bh6 Bg4 12. f3 Bd7 13. g4 Rfe8 14. Bxg7 Kxg7 15. h5 Ng8 16. hxg6 fxg6 17. Ng2 Be6 18. Rh2 Bc4 19. Rdh1 h6 20. Rxh6 Nxh6 21. Qxh6+ Kf7 22. Qh7+ Ke6 23. Qxg6+ Qf6 24. d5+ Bxd5 25. exd5+ Nxd5 26. Qf5+ Qxf5 27. gxf5+ Kxf5 28. Nxd5 e4 29. Nxc7 exf3 30. Bxf3 1-0
+

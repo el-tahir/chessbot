@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KegqA5sg"]
+[Date "2021.01.03"]
+[White "EltahirAmin"]
+[Black "kasim1386"]
+[Result "1-0"]
+[UTCDate "2021.01.03"]
+[UTCTime "08:11:32"]
+[WhiteElo "1946"]
+[BlackElo "1924"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 c5 4. d3 e5 5. f4 Nc6 6. Nf3 Bd6 7. fxe5 Nxe5 8. Ng3 Bg4 9. Be2 Nf6 10. Nxe5 Bxe2 11. Qxe2 Bxe5 12. O-O O-O 13. Nf5 Qc7 14. h3 g6 15. Bh6 Bh2+ 16. Kh1 gxf5 17. Rxf5 Kh8 18. Rxf6 Be5 19. Rf5 Rg8 20. Raf1 f6 21. Qh5 Rg6 22. Bf4 Rag8 23. g4 Bxf4 24. R1xf4 Rg5 25. Rxg5 fxg5 26. Rf7 1-0
+

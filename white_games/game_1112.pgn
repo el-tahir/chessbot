@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/taXhStcI"]
+[Date "2021.10.15"]
+[White "EltahirAmin"]
+[Black "Hlons"]
+[Result "1-0"]
+[UTCDate "2021.10.15"]
+[UTCTime "06:17:43"]
+[WhiteElo "2017"]
+[BlackElo "2005"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Be6 4. d4 exd4 5. Nxd4 Nf6 6. Nxe6 fxe6 7. Bd3 Be7 8. Be3 O-O 9. Qd2 c6 10. O-O-O d5 11. exd5 exd5 12. Bg5 Nbd7 13. h4 h6 14. Qe2 Qe8 15. Rde1 Bd8 16. Bxf6 Bxf6 17. Qg4 Qd8 18. Qg6 Ne5 19. Qh7+ Kf7 20. Bf5 Rh8 21. Rxe5 Rxh7 22. Be6+ Kf8 23. Re2 Qd6 24. Bf5 Rh8 25. Rhe1 Kf7 26. h5 Rhd8 27. Nd1 Qf4+ 28. Ne3 d4 29. Bg6+ Kf8 30. g3 Qd6 31. Nf5 Qb4 32. a3 Qb6 33. Re6 d3 34. Re8+ Rxe8 35. Rxe8+ Rxe8 36. c3 1-0
+

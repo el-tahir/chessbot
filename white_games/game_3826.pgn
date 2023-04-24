@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/je4910Ot"]
+[Date "2020.11.02"]
+[White "EltahirAmin"]
+[Black "calypso55"]
+[Result "1-0"]
+[UTCDate "2020.11.02"]
+[UTCTime "14:34:44"]
+[WhiteElo "2003"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Nc3 Nc6 5. Be3 e5 6. Qd2 Bg4 7. d5 Bxf3 8. gxf3 Nce7 9. h4 h5 10. Bh3 c5 11. f4 a6 12. f5 b5 13. Bg5 f6 14. Be3 Qa5 15. f4 b4 16. Ne2 c4 17. fxe5 fxe5 18. Bg5 Bf6 19. fxg6 Nxg6 20. Rf1 c3 21. bxc3 bxc3 22. Qd3 Bxg5 23. hxg5 N8e7 24. Qf3 Rf8 25. Qxh5 Rxf1+ 26. Kxf1 Qb4 27. Ng3 Qc4+ 28. Qe2 Qd4 29. Rd1 Qb6 30. Nf5 Nf4 31. Qg4 Qb5+ 32. Kg1 Qe2 33. Qxe2 Nxe2+ 34. Kf2 Nf4 35. Bg4 Neg6 36. Rb1 Rc8 37. Rb6 Rd8 38. Nxd6+ Ke7 39. Nc8+ Kf7 40. Rf6+ Kg7 41. Nd6 Rxd6 42. Rxd6 Nh4 43. Bd7 Nfg6 44. Re6 Nf8 45. Re7+ Kg6 46. Bf5+ Kxg5 47. Rg7+ Kf4 48. Rg4# 1-0
+

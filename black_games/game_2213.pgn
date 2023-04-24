@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AgstPGRe"]
+[Date "2020.12.27"]
+[White "murademrahli"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "17:46:47"]
+[WhiteElo "1973"]
+[BlackElo "1972"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 Bf5 4. Nf3 e6 5. e3 c6 6. Be2 Bb4 7. O-O O-O 8. Qb3 Na6 9. Ne5 Qe7 10. cxd5 Bxc3 11. bxc3 cxd5 12. Bxa6 bxa6 13. Ba3 Qd8 14. Bxf8 Qxf8 15. Qa4 Ne4 16. c4 f6 17. Nf3 g5 18. cxd5 g4 19. Nh4 Nc3 20. Qxa6 Be4 21. dxe6 Qh6 22. g3 Re8 23. Rfc1 Nd5 24. Qe2 Rxe6 25. Qxg4+ Kf7 26. Nf5 Qf8 27. Qh5+ Kg8 28. Nh6+ Kh8 29. Rc4 f5 30. Rac1 Qxh6 31. Rc8+ Kg7 32. Qe8 Rxe8 33. Rxe8 Qh3 0-1
+

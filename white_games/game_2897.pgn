@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PPv35lr6"]
+[Date "2020.11.24"]
+[White "EltahirAmin"]
+[Black "aliocalali"]
+[Result "1-0"]
+[UTCDate "2020.11.24"]
+[UTCTime "14:36:35"]
+[WhiteElo "1882"]
+[BlackElo "1879"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. O-O Nc6 8. c3 Qb6 9. Na3 cxd4 10. cxd4 Bxa3 11. bxa3 Nge7 12. Rb1 Qc7 13. Bf4 Nf5 14. Rfc1 O-O 15. g4 Nfe7 16. Ng5 g6 17. h4 h6 18. Nf3 Kg7 19. Kg2 Ng8 20. Rh1 Rad8 21. h5 g5 22. Bxg5 hxg5 23. Nxg5 Nh6 24. Qh7# 1-0
+

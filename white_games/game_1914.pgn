@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YTwoVCaS"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "hisovic"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "18:25:35"]
+[WhiteElo "1959"]
+[BlackElo "1982"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 b6 7. O-O Bb7 8. Re1 Be7 9. Bd2 Nxe4 10. Bxe4 Bxe4 11. Rxe4 Nf6 12. Re1 Qd5 13. Rc1 O-O-O 14. Be3 h5 15. c4 Qb7 16. a3 h4 17. h3 Ne4 18. Ne5 Rhf8 19. b4 g5 20. c5 f5 21. cxb6 axb6 22. Re2 f4 23. Rec2 Bd6 24. Bd2 Nxd2 25. Rxd2 Bxe5 26. dxe5 Rxd2 27. Qxd2 Rd8 28. Qa2 Qd5 29. Qc2 Rd7 30. Re1 Qd2 31. Qxd2 Rxd2 32. Ra1 Re2 33. a4 Rxe5 34. a5 bxa5 35. bxa5 Kb7 36. Kf1 c5 37. Ra4 Ka6 38. g3 f3 39. gxh4 gxh4 40. Kg1 Rg5+ 41. Kf1 Rd5 42. Ke1 Rd4 43. Ra3 Re4+ 44. Kf1 Rf4 45. Ke1 e5 46. Kf1 e4 47. Ra4 Kb5 48. Ra3 Rf6 49. Ke1 Rd6 50. Kf1 c4 51. Ke1 Rd3 52. Rxd3 cxd3 53. Kd2 Kxa5 54. Ke3 Kb5 55. Kd2 Kc4 56. Ke3 Kc3 57. Kxe4 d2 58. Kxf3 d1=Q+ 0-1
+

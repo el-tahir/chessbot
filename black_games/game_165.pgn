@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ry2NxJMw"]
+[Date "2023.01.30"]
+[White "hansolo11"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.01.30"]
+[UTCTime "16:57:46"]
+[WhiteElo "1930"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bf4 Bd6 7. Ne2 O-O 8. Qd2 Bg4 9. f3 Bh5 10. O-O-O Bg6 11. Kb1 Na6 12. Bxd6 Qxd6 13. Nf4 Nb4 14. Nxg6 hxg6 15. c3 Nd5 16. h4 Rae8 17. h5 Qf4 18. hxg6 fxg6 19. Bc4 Qxd2 20. Rxd2 Re3 21. Rh3 Rfe8 22. a3 b5 23. Bb3 a5 24. g4 Kf7 25. Bxd5+ cxd5 26. Rf2 g5 27. Rhh2 Kg6 28. Kc2 a4 29. Kd2 Re1 30. Re2 R8xe2+ 31. Rxe2 Rb1 32. Kc2 Rf1 33. Re3 f5 34. gxf5+ Kxf5 35. Re5+ Kf4 36. Rxd5 Kxf3 37. Rxg5 Rf2+ 38. Kb1 Rf1+ 39. Ka2 Ke4 40. Rxg7 Kd5 41. Rg5+ Kc4 42. Rc5+ Kd3 43. Rxb5 1-0
+

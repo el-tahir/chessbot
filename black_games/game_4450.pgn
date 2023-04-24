@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WCrIZASb"]
+[Date "2020.05.12"]
+[White "Arethas"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.12"]
+[UTCTime "17:38:14"]
+[WhiteElo "2017"]
+[BlackElo "1975"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 c5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O b6 8. dxc5 Bxc5 9. e4 Nf6 10. Qa4 Bb7 11. Rd1 Qc7 12. Bf4 e5 13. Bxe5 Qe7 14. Bxf6 Qxf6 15. e5 Qe6 16. Nd4 1-0
+

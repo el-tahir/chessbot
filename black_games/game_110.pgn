@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZvdLF3vn"]
+[Date "2023.02.24"]
+[White "ALEXANDR-PIRS"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.24"]
+[UTCTime "02:10:48"]
+[WhiteElo "1957"]
+[BlackElo "1948"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. Bd3 Bxd3 6. Qxd3 Nd7 7. Be3 Ne7 8. O-O-O Nf5 9. f4 Be7 10. g4 Nxe3 11. Qxe3 c5 12. dxc5 Bxc5 13. Qg3 Qa5 14. f5 O-O 15. f6 gxf6 16. exf6 Nxf6 17. g5 Ne4 18. Nxe4 dxe4 19. h4 Qxa2 20. h5 e3 21. c3 Rad8 22. Ne2 Qa1+ 23. Kc2 Qa4+ 24. Kc1 Qe4 25. Qf4 Rxd1+ 26. Rxd1 Qxf4 27. Nxf4 f6 28. Nxe6 Be7 29. Nxf8 Bxf8 30. gxf6 Kf7 31. Rf1 Bh6 32. Kd1 Bg5 33. Ke2 h6 34. b4 b5 35. Ra1 Kxf6 36. Rxa7 Bf4 37. Rb7 Be5 38. Rxb5 Bxc3 39. Kxe3 Bb2 40. Rd5 Ke6 41. Ke4 Ba3 42. b5 Bb2 43. b6 1-0
+

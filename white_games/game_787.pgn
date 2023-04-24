@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/poymsxcE"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "Tinlaura"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:22:34"]
+[WhiteElo "2055"]
+[BlackElo "2097"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Be6 4. d4 exd4 5. Nxd4 Nc6 6. h4 Nxd4 7. Qxd4 Nf6 8. Bg5 Be7 9. a4 c5 10. Qd2 h6 11. Be3 Ng4 12. Bf4 Bxh4 13. Be2 Bxf2+ 14. Kf1 Bd4 15. Nb5 Nf6 16. Nxd6+ Ke7 17. Nb5 Nxe4 18. Qd3 f5 19. Rd1 g5 20. Bh2 a6 21. Na3 Qd5 22. c4 Qc6 23. b3 Rad8 24. Bg1 Bxg1 25. Qxd8+ Rxd8 26. Rxd8 Kxd8 27. Rxg1 Ng3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/95JnRW3T"]
+[Date "2022.04.01"]
+[White "Sparring_Bot"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.01"]
+[UTCTime "01:20:09"]
+[WhiteElo "1970"]
+[BlackElo "2114"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A56"]
+[Termination "Normal"]
+
+1. d4 c5 2. d5 Nf6 3. c4 d6 4. Nc3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Qb3 Qc7 8. Bg2 Nbd7 9. Bd2 e6 10. g5 Ng8 11. h4 h6 12. h5 Bh7 13. dxe6 fxe6 14. g6 Ngf6 15. gxh7 O-O-O 16. Nh3 Nxh7 17. Nf4 Re8 18. Qa4 Kb8 19. Nb5 Qb6 20. Ba5 Qa6 21. Nc7 1-0
+

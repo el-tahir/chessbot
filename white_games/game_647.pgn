@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UUn1Ir3S"]
+[Date "2022.04.28"]
+[White "EltahirAmin"]
+[Black "GiantKiller15"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "20:41:06"]
+[WhiteElo "2130"]
+[BlackElo "2126"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. d3 Nge7 5. Be3 O-O 6. Bxc5 d6 7. Be3 Bg4 8. Be2 f5 9. exf5 Nxf5 10. Qd2 a6 11. O-O-O b5 12. h3 Bxf3 13. Bxf3 Nfd4 14. Bxc6 Nxc6 15. d4 e4 16. Nxe4 b4 17. Ng5 a5 18. Qd3 h6 19. Qh7# 1-0
+

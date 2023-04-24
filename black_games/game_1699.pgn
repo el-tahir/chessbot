@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lnuYpBFI"]
+[Date "2021.02.10"]
+[White "amrhany1"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.10"]
+[UTCTime "17:35:07"]
+[WhiteElo "1901"]
+[BlackElo "1967"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. h3 Nf6 5. d4 Nc6 6. c3 Bf5 7. Bd3 Bxd3 8. Qxd3 e6 9. O-O Bd6 10. Re1 h6 11. Nbd2 O-O 12. Nf1 Rc8 13. Nh4 Qc7 14. Kh1 Rfe8 15. Nf3 e5 16. Nxe5 Bxe5 17. dxe5 Nxe5 18. Qd4 Nf3 19. Bf4 Nxd4 20. Bxc7 Rxe1 21. Rxe1 Nc2 22. Re7 Kf8 23. Bd6 Rc6 24. Rxb7+ Rxd6 25. Rxa7 Rb6 26. b3 Ne4 27. Ra8+ Ke7 28. Ra7+ Kf6 29. c4 dxc4 30. bxc4 Nxf2+ 31. Kg1 Nd3 32. Ng3 Rb1+ 33. Kh2 Nf2 34. Ra6+ Ke5 35. Ra5+ Kd4 36. c5 Ne3 37. c6 f5 38. Nxf5+ Nxf5 39. Rxf5 Rc1 40. Rxf2 Rxc6 41. Rf7 g5 42. Ra7 Kc3 43. Kg3 Kb4 44. h4 Rc5 45. hxg5 hxg5 46. Kg4 Kb5 47. Kh5 Kb6 48. g4 Kxa7 49. Kg6 Ka6 50. Kh5 Ka5 51. Kg6 Ka4 52. Kh5 Ka3 53. Kg6 Kxa2 54. Kh5 Kb3 55. Kg6 Kc3 56. Kh5 Kd3 57. Kg6 Ke3 58. Kh5 Kf3 59. Kh6 Kxg4 60. Kg6 Kf3 61. Kh5 g4+ 62. Kh4 g3 63. Kh3 Kf2 64. Kg4 g2 65. Kh3 g1=Q 66. Kh4 Ke1 67. Kh3 Rc8 68. Kh4 Rh8# 0-1
+

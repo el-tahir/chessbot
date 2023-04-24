@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n89rolRx"]
+[Date "2021.02.20"]
+[White "kumbafuwewe"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.20"]
+[UTCTime "13:28:46"]
+[WhiteElo "1940"]
+[BlackElo "1934"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nc6 5. Bb5 Nf6 6. Nf3 e6 7. Ne5 Bd7 8. Nxd7 Qxd7 9. O-O a6 10. Ba4 Bd6 11. Bb3 O-O-O 12. Ne2 e5 13. c3 e4 14. Be3 Ng4 15. Rc1 Bxh2+ 16. Kh1 Qe6 17. g3 Nxe3 18. fxe3 Qh6 19. Kg2 Rd6 20. Rh1 Rf6 21. Nf4 g5 22. Rxh2 Qg6 23. Qg4+ Qf5 24. Qxf5+ Rxf5 25. Nxd5 1-0
+

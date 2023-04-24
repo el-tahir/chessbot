@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JVffDZ1p"]
+[Date "2020.12.05"]
+[White "EltahirAmin"]
+[Black "debussybartok"]
+[Result "0-1"]
+[UTCDate "2020.12.05"]
+[UTCTime "21:17:44"]
+[WhiteElo "1825"]
+[BlackElo "1858"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B90"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 e5 7. Nb3 Be7 8. Be2 O-O 9. O-O Be6 10. f4 exf4 11. Bxf4 Nc6 12. Bf3 Ne5 13. Bxe5 dxe5 14. Nd5 b5 15. Qe1 Rc8 16. c3 Bxd5 17. exd5 Bd6 18. Rd1 Qb6+ 19. Kh1 Rfe8 20. Be4 Nxe4 21. Qxe4 f6 22. Rf3 Rc4 23. Qf5 Qc7 24. Rh3 h6 25. Nd2 Rf4 26. Qg6 Qf7 27. Rxh6 Qxg6 28. Rxg6 Kf7 29. Rg3 e4 30. Re1 e3 31. Rgxe3 Rxe3 32. Rxe3 Rf2 33. Rd3 Bf4 34. Kg1 Rxd2 35. Rxd2 Bxd2 36. b3 Bxc3 37. Kf2 Ke7 38. Ke3 Kd6 39. Kd3 Bb4 40. Ke4 g6 41. h4 Be1 0-1
+

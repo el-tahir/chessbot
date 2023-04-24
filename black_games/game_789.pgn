@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ibHByn6i"]
+[Date "2021.11.19"]
+[White "SeniorMonk"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:14:30"]
+[WhiteElo "2074"]
+[BlackElo "2047"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bc4 O-O 8. O-O Re8 9. Be3 Bg4 10. h3 Bh5 11. Be2 Bc7 12. c3 Qd6 13. g3 Nd7 14. Kg2 Rxe3 15. g4 Bg6 16. fxe3 Qg3+ 17. Kh1 Be4 0-1
+

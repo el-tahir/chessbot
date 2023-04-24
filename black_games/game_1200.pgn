@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/026SPGH5"]
+[Date "2021.10.11"]
+[White "slymnats"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.11"]
+[UTCTime "04:09:09"]
+[WhiteElo "2046"]
+[BlackElo "2068"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 c5 7. Nf3 Nc6 8. c3 Qb6 9. O-O Nge7 10. b3 Nf5 11. Be3 cxd4 12. Bxd4 Ncxd4 13. Nxd4 Nxd4 14. cxd4 Be7 15. Nd2 O-O 16. Nf3 Rac8 17. Ng5 Bxg5 18. fxg5 Rc7 19. Rf3 Rfc8 20. Raf1 Qa6 21. Qxa6 bxa6 22. h4 Rf8 23. h5 Rc2 24. a4 Rb2 25. Kh2 a5 26. Kh3 g6 27. h6 a6 28. Rc3 Rb8 29. Rff3 Kf8 30. Rc7 R2xb3 31. Rxf7+ Ke8 32. Rxh7 Rxf3+ 33. gxf3 Rb4 34. Rg7 Rxd4 35. h7 1-0
+

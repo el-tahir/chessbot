@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/O6WWjXXL"]
+[Date "2021.02.24"]
+[White "EltahirAmin"]
+[Black "Jandycrowns"]
+[Result "1-0"]
+[UTCDate "2021.02.24"]
+[UTCTime "19:37:43"]
+[WhiteElo "2006"]
+[BlackElo "1991"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Ng6 7. Bd3 d6 8. Rf1 Nf6 9. Kg1 O-O 10. Bg5 h6 11. Be3 Ng4 12. Bd2 Qh4 13. h3 Nf6 14. Qe1 Qxe1 15. Raxe1 Bd7 16. Bxh6 Nxe4 17. Nxe4 gxh6 18. Nf6+ Kg7 19. Nxd7 Rfe8 20. Rxe8 Rxe8 21. Nf6 Re6 22. Ne4 d5 23. Nc5 Rb6 24. b3 Ne7 25. Rf3 Nc6 26. Rg3+ Kf8 27. Nd7+ Ke7 28. Nxb6 axb6 29. Rg7 Nxd4 30. Rh7 1-0
+

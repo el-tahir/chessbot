@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hfvlh0c5"]
+[Date "2020.11.14"]
+[White "jesusrivas"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "22:07:53"]
+[WhiteElo "1979"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Ng5 Nf6 5. Bc4 Bf5 6. O-O e6 7. Re1 h6 8. Ngxe4 Bxe4 9. Nxe4 Be7 10. d4 Nbd7 11. c3 Nb6 12. Bd3 Nbd5 13. Qf3 b5 14. Qg3 O-O 15. Nxf6+ Bxf6 16. Bxh6 c5 17. dxc5 Ne7 18. Rad1 Ng6 19. Bxg6 Qb8 20. Bf4 e5 21. Rxe5 Bxe5 22. Bxe5 Qe8 23. Bh7+ Kxh7 24. Qxg7# 1-0
+

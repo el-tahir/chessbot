@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/nauWctHe"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "kaisser"]
+[Result "1-0"]
+[UTCDate "2020.12.30"]
+[UTCTime "10:32:21"]
+[WhiteElo "1977"]
+[BlackElo "1959"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Ne5 7. f4 Ng6 8. e5 Ng8 9. d6 cxd6 10. exd6 Nf6 11. Nb5 Qa5+ 12. Bd2 Qxb5 13. Bxb5 1-0
+

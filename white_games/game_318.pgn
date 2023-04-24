@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/T8SbRTym"]
+[Date "2022.07.28"]
+[White "EltahirAmin"]
+[Black "Phoenixchess2009"]
+[Result "0-1"]
+[UTCDate "2022.07.28"]
+[UTCTime "01:04:49"]
+[WhiteElo "2045"]
+[BlackElo "2057"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Bd6 6. dxe5 Bxe5 7. Bc4 O-O 8. O-O Bxc3 9. bxc3 Nxe4 10. Bd3 Nc5 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Qxc5 d6 14. Qd4 Bf5 15. Bb2 Qf6 16. Qb4 a5 17. Qb3 a4 18. Qb4 c5 19. Qb6 a3 20. Bc1 Qxc3 21. Bf4 d5 22. Qxb7 d4 23. Qd5 Bxc2 24. Rfc1 d3 25. Be5 Qb4 26. Qf3 Qb6 27. Qg3 Qg6 28. Qe3 c4 29. Re1 Rfc8 30. Bc3 Rd8 31. Qe5 d2 32. Bxd2 Rxd2 33. Re3 Qf6 34. Qg3 Rd1+ 35. Rxd1 Bxd1 36. Rf3 Bxf3 37. Qxf3 Qxf3 38. gxf3 Rd8 39. Kf1 Rd2 40. Kg2 Rxa2 41. Kg3 Rb2 42. h4 a2 43. h5 a1=Q 44. f4 Kh7 45. Kg4 Kh6 46. f3 Rg2+ 47. Kf5 Qf6+ 48. Ke4 Re2+ 49. Kd5 Qe6+ 50. Kd4 Rd2+ 51. Kc3 Qe3+ 52. Kxc4 Qb3+ 53. Kxb3 Rd3+ 54. Kc4 Rxf3 55. Kd4 Rxf4+ 56. Ke5 Rh4 57. Kf5 Kxh5 58. Ke5 g5 59. Kd5 g4 60. Ke5 g3 61. Kf6 g2 62. Kg7 g1=Q+ 63. Kf8 Rg4 64. Ke8 Qf1 65. Kf8 f5 66. Ke8 f4 67. Kf8 f3 68. Ke8 Qe1+ 69. Kf8 f2 70. Kf7 f1=Q# 0-1
+

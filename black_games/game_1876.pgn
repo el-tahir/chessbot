@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/shvRCxkV"]
+[Date "2021.01.22"]
+[White "Andre729"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "22:43:25"]
+[WhiteElo "1950"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bg4 4. e3 e6 5. h3 Bh5 6. Nc3 c5 7. Nb5 Na6 8. g4 Bg6 9. Ne5 Rc8 10. Nxg6 hxg6 11. g5 Ne4 12. Bd3 Nxg5 13. Qg4 Ne4 14. f3 Nd6 15. Nxd6+ Bxd6 16. Bxa6 bxa6 17. O-O-O cxd4 18. Rxd4 Qc7 19. c3 e5 20. Rxd5 exf4 21. exf4 O-O 22. h4 Ba3 23. Kc2 Bxb2 24. Rd3 Bxc3 25. Kd1 Qc4 26. Rd7 Qa4+ 27. Ke2 Qxd7 28. Qxd7 Rcd8 29. Qxa7 Rd2+ 30. Ke3 Re8+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cdk8MyTm"]
+[Date "2020.12.09"]
+[White "WildCatKatana"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.09"]
+[UTCTime "12:49:34"]
+[WhiteElo "2014"]
+[BlackElo "1913"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C66"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. d4 exd4 6. Re1 Bd7 7. e5 dxe5 8. Nxe5 Nxe5 9. Rxe5+ Be7 10. Bxd7+ Qxd7 11. Qe2 Nd5 12. Nd2 O-O 13. Rxd5 Qxd5 14. Qxe7 Rae8 15. Qxc7 Re1+ 16. Nf1 Qb5 17. Bh6 Qxf1# 0-1
+

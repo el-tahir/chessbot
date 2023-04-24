@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4kfx19K7"]
+[Date "2021.01.23"]
+[White "Kommunist2020"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.23"]
+[UTCTime "17:06:41"]
+[WhiteElo "1953"]
+[BlackElo "1986"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 e5 3. Ne2 d6 4. g3 Bg4 5. Bg2 Be7 6. f3 Bh5 7. O-O Nc6 8. h3 Qd7 9. f4 O-O-O 10. f5 Bxe2 11. Qxe2 g6 12. g4 Rdg8 13. g5 Nh5 14. f6 Bd8 15. Nc3 Nd4 16. Qd1 h6 17. h4 hxg5 18. hxg5 Ng3 19. Rf2 Rh7 20. Be3 Rgh8 21. Bxd4 Rh1+ 22. Bxh1 Rxh1+ 23. Kg2 Qh3+ 24. Kf3 Rxd1 25. Nxd1 Nf5+ 26. Ke2 Nxd4+ 27. Kd2 c5 28. c3 Nf3+ 29. Ke2 Nxg5 30. Ne3 Qh5+ 31. Kd2 Nf3+ 32. Kc2 Bxf6 33. Raf1 Nd4+ 34. cxd4 cxd4 35. Nd5 Bd8 36. Rxf7 Qe2+ 37. Kb3 Qxd3+ 38. Ka4 b5+ 39. Kb4 Qc4+ 0-1
+

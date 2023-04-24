@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/h76OESBW"]
+[Date "2020.12.13"]
+[White "EltahirAmin"]
+[Black "marvellousmakore"]
+[Result "1-0"]
+[UTCDate "2020.12.13"]
+[UTCTime "06:38:09"]
+[WhiteElo "1915"]
+[BlackElo "1910"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 d5 3. dxc5 e5 4. c4 Nf6 5. Nf3 Nc6 6. Nc3 Bxc5 7. cxd5 Nb4 8. Nxe5 O-O 9. e4 Nxe4 10. Nxe4 Re8 11. Nxc5 Rxe5+ 12. Be2 Rxd5 13. Qb3 Qa5 14. Nd3 Nxd3+ 15. Kf1 Nxc1 16. Rxc1 Be6 17. Qxb7 Rad8 18. f3 g6 19. Kf2 Rd2 20. Rhe1 R8d7 21. Qc8+ Rd8 22. Qc3 Qb6+ 23. Kf1 Rc8 24. Qxd2 Rb8 25. b3 a5 26. Bc4 Bxc4+ 27. Rxc4 Rf8 28. Rec1 Qf6 29. Rc8 h5 30. Rxf8+ Kxf8 31. Qxa5 Qb2 32. Qc5+ Kg8 33. Qc3 Qxa2 34. Rd1 Qa6+ 35. Kg1 Qe2 36. Rd8+ Kh7 37. Rh8# 1-0
+

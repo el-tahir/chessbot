@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iemCp3bF"]
+[Date "2020.11.03"]
+[White "roberto6789"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:12:14"]
+[WhiteElo "2060"]
+[BlackElo "2057"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D10"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. f3 e6 5. cxd5 cxd5 6. e4 Bb4 7. e5 Nfd7 8. Bd3 Nc6 9. Ne2 Qb6 10. Be3 f6 11. exf6 Nxf6 12. Qd2 O-O 13. O-O Bd6 14. Bf4 e5 15. Bg3 Bd7 16. Kh1 Rae8 17. Rae1 e4 18. Bxd6 exd3 19. Qxd3 Re6 20. Bg3 Rfe8 21. Bh4 Re3 22. Qd2 Nb4 23. a3 Nd3 24. Bxf6 Nxe1 25. Rxe1 Qxf6 26. Nxd5 Qe6 27. Nxe3 Qxe3 28. Qxe3 Rxe3 29. Kg1 Bb5 30. Kf2 Rb3 31. d5 Rxb2 32. Ke3 Rb3+ 33. Kd4 Rxa3 34. Nc3 Bd7 35. Re7 Bf5 36. Rxb7 a5 37. d6 Ra1 38. g4 Be6 39. Re7 Bc8 40. Re8+ Kf7 41. Rxc8 Ra3 42. Ne4 Ra1 43. Rc7+ Ke6 44. Re7# 1-0
+

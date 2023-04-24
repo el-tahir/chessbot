@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2NkPcH0r"]
+[Date "2020.12.20"]
+[White "Georgy2020"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.20"]
+[UTCTime "22:30:46"]
+[WhiteElo "1920"]
+[BlackElo "1970"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 Bc5 3. Nf3 Ne7 4. Nc3 a5 5. a3 Ra6 6. Ne4 Rg6 7. Nxc5 1-0
+

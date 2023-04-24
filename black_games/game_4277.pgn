@@ -1,0 +1,19 @@
+[Event "Beirut Disaster Relief Arena"]
+[Site "https://lichess.org/Ww9vmW2M"]
+[Date "2020.08.08"]
+[White "ArchiePawn"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.08.08"]
+[UTCTime "12:01:04"]
+[WhiteElo "2205"]
+[BlackElo "2005"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Bg4 6. Nxf6+ gxf6 7. d3 Nd7 8. g3 Ne5 9. Bg2 Qb6 10. h3 Nxf3+ 11. Bxf3 Be6 12. c3 O-O-O 13. Be3 Qa6 14. c4 Bg7 15. h4 f5 16. O-O Rhg8 17. a4 Bf6 18. Kh2 Bd4 19. Bf4 Qb6 20. Rab1 f6 21. Qxe6+ Rd7 22. Qxg8+ Rd8 23. Qe6+ Rd7 24. b4 Bxf2 25. a5 Qd8 26. Rxf2 1-0
+

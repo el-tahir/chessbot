@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HtBJkjTv"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "patoz19"]
+[Result "0-1"]
+[UTCDate "2020.11.14"]
+[UTCTime "21:26:26"]
+[WhiteElo "1954"]
+[BlackElo "1985"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Bb4 7. Bb5 Nxe4 8. Qd3 Nxc3 9. bxc3 Be7 10. O-O O-O 11. f4 Bf6 12. f5 a6 13. Bc4 Ne5 14. Qe2 Nxc4 15. Qxc4 d5 16. Qe2 e5 17. Nf3 d4 18. cxd4 exd4 19. Rad1 Qd5 20. Nxd4 Qxa2 21. c4 Qxe2 22. Nxe2 b5 23. cxb5 axb5 24. Rb1 Bd7 25. Rfd1 Bxf5 26. Rxb5 Bg4 27. Rd2 Bxe2 28. Rxe2 h6 29. Rb6 Rfe8 30. Kf2 Ra3 31. Bxh6 Bd4+ 32. Be3 Bxe3+ 33. Rxe3 Raxe3 34. Rb8 Rxb8 35. Kxe3 f6 36. Kf3 Kf7 37. h4 g6 38. g4 Kg7 39. Kf4 Rb4+ 40. Kg3 Kh6 41. Kh3 f5 42. g5+ Kh5 43. Kg3 Rxh4 0-1
+

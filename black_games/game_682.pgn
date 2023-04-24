@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0WP4gqNp"]
+[Date "2022.01.03"]
+[White "Elbonis"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.01.03"]
+[UTCTime "17:23:23"]
+[WhiteElo "2082"]
+[BlackElo "2108"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Bg4 4. e5 Bxd1 5. Nxd1 Ne4 6. f3 Nc5 7. dxc5 e6 8. b4 a5 9. c3 Nc6 10. Bb5 axb4 11. cxb4 Be7 12. f4 O-O 13. Bxc6 bxc6 14. Bb2 Ra4 15. a3 Qa8 16. Nf3 f6 17. exf6 Bxf6 18. Ne5 Bxe5 19. Bxe5 Rxb4 20. O-O Re4 21. Nc3 Re3 22. a4 Qd8 23. a5 d4 24. Nd1 Re2 25. a6 d3 26. Nc3 Rc2 27. a7 Qa8 28. Bxc7 Rxc3 29. Rfb1 d2 30. Rb8 Rc1+ 31. Kf2 Rxa1 32. Rxa8 Rxa8 0-1
+

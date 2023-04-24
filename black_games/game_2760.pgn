@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wR3DcQB0"]
+[Date "2020.12.05"]
+[White "Anitalu"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.05"]
+[UTCTime "15:50:51"]
+[WhiteElo "1853"]
+[BlackElo "1829"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. b4 c6 2. Bb2 d5 3. f4 Nf6 4. Nf3 Nbd7 5. a3 Qc7 6. d3 h5 7. e3 h4 8. h3 e6 9. Ne5 Bd6 10. Nxd7 Bxd7 11. Bxf6 gxf6 12. Nc3 Bxf4 13. exf4 Qxf4 14. Ne2 Qd6 15. Qd2 O-O-O 16. Qf4 Qe7 17. d4 e5 18. dxe5 fxe5 19. Qe3 d4 20. Qd3 f5 21. c3 dxc3 22. Qxc3 e4 23. Qc5 Qxc5 24. bxc5 Rhg8 25. Rd1 Kc7 26. Nf4 Rg3 27. a4 e3 28. Be2 Rxg2 29. Kf1 Rf2+ 30. Ke1 Rxf4 31. Rg1 Rxa4 32. Rg7 Kc8 33. Rd3 Be6 34. Rxe3 Bd5 35. Ree7 Rb4 36. Kf2 a5 37. Ke3 a4 38. Bd3 Be4 39. Bxe4 fxe4 40. Rg4 Rb3+ 41. Kf4 Rxh3 42. Rxe4 a3 43. Ra4 Rf8+ 44. Ke4 Rf2 45. Rf4 Rxf4+ 46. Kxf4 Rb3 47. Kg4 h3 48. Kf4 h2 49. Rxa3 Rxa3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0nf2flY9"]
+[Date "2021.01.01"]
+[White "Umer_Garry_Kasparov"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.01.01"]
+[UTCTime "21:58:00"]
+[WhiteElo "1940"]
+[BlackElo "1952"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B04"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 Nb6 4. Nf3 d6 5. exd6 cxd6 6. c3 Nc6 7. Bg5 Bg4 8. Bd3 Qc7 9. h3 Bh5 10. g4 Bg6 11. Bxg6 hxg6 12. Nbd2 e6 13. c4 Be7 14. Rc1 Rc8 15. Ne4 Na5 16. c5 Nd7 17. Bxe7 Kxe7 18. cxd6+ Qxd6 19. Nxd6 Kxd6 20. Ne5 Ke7 21. Nxd7 Kxd7 22. Rxc8 Rxc8 23. O-O Nc4 24. Qa4+ Ke7 25. Rc1 Nb6 26. Qa3+ Ke8 27. Rxc8+ Nxc8 28. Qc5 Kd7 29. b4 b6 30. Qb5+ Kd6 31. Qe5+ Kc6 32. Qxg7 Kb5 33. Qxf7 Kxb4 34. Qxe6 a5 35. Qxc8 a4 36. Qe6 Ka3 37. Qxb6 Kxa2 38. Qxg6 a3 39. Qd3 Kb2 40. Qxa3+ Kxa3 41. h4 Kb4 42. Kg2 Kc4 43. Kg3 Kxd4 44. f4 Kd5 45. g5 Ke6 46. Kg4 Kf7 47. Kh5 Kg8 48. Kh6 Kh8 49. f5 Kg8 50. f6 Kh8 51. g6 Kg8 52. f7+ Kh8 53. f8=R# 1-0
+

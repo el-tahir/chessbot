@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Pn90IdZe"]
+[Date "2023.02.22"]
+[White "EltahirAmin"]
+[Black "EthanOConnell"]
+[Result "0-1"]
+[UTCDate "2023.02.22"]
+[UTCTime "05:17:16"]
+[WhiteElo "1960"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 c6 3. d4 d5 4. e5 Nfd7 5. Bd3 e6 6. h4 c5 7. dxc5 Nxe5 8. Nf3 Nxd3+ 9. Qxd3 Bxc5 10. Bg5 Qb6 11. O-O Bd7 12. Ne5 Bc6 13. Kh1 Bxf2 14. Qf3 f6 15. Rxf2 d4 16. Nxc6 Nxc6 17. Bxf6 O-O 18. Qh5 dxc3 19. Bxc3 Qxf2 20. Qg4 e5 21. Qe6+ Kh8 22. Rd1 Qxh4+ 23. Kg1 Qf2+ 24. Kh1 Rf6 0-1
+

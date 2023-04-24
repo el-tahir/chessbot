@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OnSV0Tol"]
+[Date "2020.11.21"]
+[White "EltahirAmin"]
+[Black "diegschess"]
+[Result "1-0"]
+[UTCDate "2020.11.21"]
+[UTCTime "10:14:02"]
+[WhiteElo "1903"]
+[BlackElo "1907"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 c5 6. Nb3 Nc6 7. Be3 Be7 8. Be2 O-O 9. O-O Be6 10. f4 Qc8 11. Nd5 Ng4 12. Bc1 Bxd5 13. exd5 Nxh2 14. Kxh2 Nd8 15. Bg4 f5 16. Bf3 Bf6 17. Qe2 b6 18. Nd2 Qc7 19. Nc4 Nf7 20. Ne3 Rae8 21. Qf2 Bd4 22. Re1 Nh6 23. c3 Ng4+ 24. Bxg4 Bxe3 25. Bxe3 fxg4 26. c4 Qf7 27. Qh4 Qf5 28. Qg5 g3+ 29. Kxg3 Qd3 30. Rad1 Rxe3+ 31. Kf2 Qxd1 32. Rxd1 Re4 33. g3 Rxc4 34. Re1 Rc2+ 35. Kg1 Rxb2 36. Re7 g6 37. Qh6 Rf7 38. Re8+ 1-0
+

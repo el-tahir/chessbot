@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Rb2HHwdl"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "attari1999saeed"]
+[Result "0-1"]
+[UTCDate "2020.11.10"]
+[UTCTime "22:07:42"]
+[WhiteElo "1958"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Bg4 5. Be2 Nbd7 6. Bg5 Be7 7. Qd2 O-O 8. O-O-O Bxf3 9. Bxf3 exd4 10. Qxd4 c5 11. Qe3 Nd5 12. Nxd5 Bxg5 13. Nf4 Qf6 14. g3 Ne5 15. Kb1 Nc4 16. Qe2 Qxb2# 0-1
+

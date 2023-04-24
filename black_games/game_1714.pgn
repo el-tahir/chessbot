@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/p4PMR8Me"]
+[Date "2021.02.08"]
+[White "Whatsgoingon27"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.08"]
+[UTCTime "13:45:08"]
+[WhiteElo "1943"]
+[BlackElo "1933"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. e5 Bb4+ 5. c3 Ba5 6. Bd3 Ne7 7. f4 Nd7 8. Qg4 Ng6 9. h4 c5 10. h5 Nxf4 11. Bxf4 O-O 12. Bh6 g6 13. Bxf8 Nxf8 14. h6 cxd4 15. Qxd4 Bb6 16. Qf4 Bd7 17. Nf3 a6 18. Ng5 Qe7 19. Rf1 Be8 20. Nd2 Nd7 21. O-O-O Rc8 22. Rf3 Nc5 23. Bc2 Rc7 24. Rdf1 d4 25. Nc4 dxc3 26. Nd6 cxb2+ 27. Kxb2 f5 28. exf6 Qd7 29. f7+ Kf8 30. fxe8=Q# 1-0
+

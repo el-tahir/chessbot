@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vdbSkOdl"]
+[Date "2023.03.04"]
+[White "EltahirAmin"]
+[Black "Roly24"]
+[Result "0-1"]
+[UTCDate "2023.03.04"]
+[UTCTime "05:18:06"]
+[WhiteElo "2001"]
+[BlackElo "2001"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 d4 4. Ne2 c5 5. d3 Nc6 6. Bg5 e5 7. Qd2 Be7 8. Bxe7 Qxe7 9. O-O-O b5 10. Kb1 a5 11. g4 f6 12. g5 Be6 13. gxf6 Nxf6 14. Ng5 Bg8 15. h4 h6 16. Nf3 Qe6 17. b3 a4 18. Bh3 Qf7 19. h5 axb3 20. Bf5 Ke7 21. cxb3 Nb4 22. Nxe5 Qe8 23. Ng6+ Kd6 24. a4 bxa4 25. Nxd4 axb3 26. Nb5+ Qxb5 27. Qf4+ Kc6 28. Ne7+ Kb6 29. Qd6+ Nc6 30. Nxc6 Qxc6 31. Qxc6+ Kxc6 32. Kb2 Ra2+ 33. Kc3 Rc2# 0-1
+

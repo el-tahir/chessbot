@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/PQh0TeFA"]
+[Date "2021.01.20"]
+[White "EltahirAmin"]
+[Black "neverlucy"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "13:28:53"]
+[WhiteElo "1968"]
+[BlackElo "2010"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 Bg4 5. Bc2 Nc6 6. h3 Bh5 7. d4 cxd4 8. cxd4 Rc8 9. Nc3 Qb6 10. d5 Bxf3 11. Qxf3 Nd4 12. Qd3 Nxc2+ 13. Qxc2 g6 14. Be3 Qa5 15. O-O Bg7 16. Rfc1 O-O 17. Qe2 b5 18. a3 b4 19. axb4 Qxb4 20. Ra4 Qb3 21. Rxa7 Qb4 22. Rxe7 Rfe8 23. Rxe8+ Nxe8 24. Bd2 Qxb2 25. Nb5 Rxc1+ 26. Bxc1 Qxe2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/C3bsw2xm"]
+[Date "2020.11.29"]
+[White "EltahirAmin"]
+[Black "Masood098"]
+[Result "0-1"]
+[UTCDate "2020.11.29"]
+[UTCTime "07:39:12"]
+[WhiteElo "1896"]
+[BlackElo "1929"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Nxe5 Qh4 5. d4 Nxe5 6. dxc5 Nf6 7. Be2 Nfg4 8. Bxg4 Nxg4 9. Bf4 Qxf2# 0-1
+

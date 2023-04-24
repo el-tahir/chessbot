@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ly6s7Agz"]
+[Date "2020.05.30"]
+[White "EltahirAmin"]
+[Black "deepak_reddy"]
+[Result "0-1"]
+[UTCDate "2020.05.30"]
+[UTCTime "10:24:48"]
+[WhiteElo "2050"]
+[BlackElo "1939"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 e6 3. Bd3 Bb7 4. Nf3 Nf6 5. Nc3 Bb4 6. Qe2 d5 7. e5 Ne4 8. Bd2 Nxd2 9. Qxd2 c5 10. a3 Ba5 11. Rb1 Nc6 12. O-O cxd4 13. Nxd4 Nxd4 14. b4 Bxb4 15. axb4 Nc6 16. f4 h6 17. b5 Nb8 18. f5 exf5 19. Bxf5 O-O 20. Bd3 Nd7 21. Rbe1 Qc7 22. e6 fxe6 23. Rxe6 Rxf1+ 24. Bxf1 Nc5 25. Qe2 Nxe6 26. Qxe6+ Qf7 27. Qg4 Rf8 28. Bd3 Qf2+ 0-1
+

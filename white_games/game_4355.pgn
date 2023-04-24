@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZrsRBv9P"]
+[Date "2020.05.14"]
+[White "EltahirAmin"]
+[Black "CrazyPaw"]
+[Result "1-0"]
+[UTCDate "2020.05.14"]
+[UTCTime "23:35:18"]
+[WhiteElo "2008"]
+[BlackElo "2010"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Bd3 Nf6 6. c3 Bg4 7. O-O e6 8. Bg5 Be7 9. Nbd2 O-O 10. Qc2 Nh5 11. Bxe7 Qxe7 12. Bxh7+ Kh8 13. Bd3 Nf4 14. Rae1 g6 15. Ne5 Nxe5 16. dxe5 Kg7 17. Re3 Rh8 18. Rg3 Qh4 19. h3 Bxh3 20. gxh3 Nxh3+ 21. Kg2 Ng5 22. Nf3 Nxf3 23. Kxf3 d4 24. Bxg6 fxg6 25. Qxg6+ Kf8 26. Qg7+ Ke8 27. Qg6+ Kd7 28. Qf7+ Qe7 29. Qg6 dxc3 30. Rd1+ Kc6 31. Qe4+ Kb5 32. a4+ Kc5 33. b4+ Kb6 34. a5+ Kc7 35. Qc4+ Kb8 36. Qxc3 Rf8+ 37. Kg2 Qh4 38. Rd7 Qe4+ 39. Kf1 Qh1+ 40. Ke2 Qe4+ 41. Kd2 Qc6 42. Qxc6 bxc6 43. Rgg7 Kc8 44. Rb7 Kd8 45. Rbc7 Ke8 46. Rgd7 Rd8 47. Rxd8+ Kxd8 48. Rc8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xeoFAqTw"]
+[Date "2020.10.26"]
+[White "EltahirAmin"]
+[Black "Pastra"]
+[Result "1-0"]
+[UTCDate "2020.10.26"]
+[UTCTime "13:46:22"]
+[WhiteElo "1975"]
+[BlackElo "2008"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. Bg5 Qb6 7. Nxc6 bxc6 8. Rb1 Bb4 9. e5 Ne4 10. Be3 Qa5 11. Bd2 Nxd2 12. Qxd2 O-O 13. a3 Be7 14. Bd3 d5 15. f4 Bb7 16. O-O c5 17. Qf2 c4 18. Be2 Bc5 19. Kh1 Bxf2 20. Rxf2 d4 21. Na2 Bd5 22. Nb4 Rab8 23. f5 Rxb4 24. axb4 Qxb4 25. f6 g6 26. h4 h5 27. Kh2 d3 28. cxd3 cxd3 29. Bxd3 Qxh4+ 30. Kg1 Qd4 31. Be2 Qxe5 32. Re1 Qg5 33. b4 Rb8 34. Rb1 Rb5 35. Bxb5 Be4 36. Rd1 Qxb5 37. Rd8+ Kh7 38. Rf8 Qxb4 39. Rxf7+ Kh6 40. Rxa7 Qb6 41. Ra1 Bd5 42. Rf1 e5 43. f7 Bxf7 44. Kh1 Be6 45. Rf8 Bf5 46. Rh8+ Kg5 47. Rf8 Qb4 48. R8xf5+ gxf5 49. Rxf5+ 1-0
+

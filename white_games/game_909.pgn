@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xrlGABnz"]
+[Date "2021.11.08"]
+[White "EltahirAmin"]
+[Black "VerdElefante"]
+[Result "0-1"]
+[UTCDate "2021.11.08"]
+[UTCTime "02:06:06"]
+[WhiteElo "2066"]
+[BlackElo "2063"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 g6 5. Nf3 Bg7 6. c4 Qb6 7. Nc3 Nf6 8. Bd3 O-O 9. h4 h5 10. Rg1 a6 11. Ng5 Qc7 12. Be2 b6 13. g4 hxg4 14. Bxg4 Nxg4 15. Qxg4 d5 16. Nxd5 Bxg4 17. Nxc7 Rac8 18. Rxg4 Rxc7 19. Ke2 Ne5 20. Rg2 Nxc4 21. Bd2 Nxb2 22. h5 Nd3 23. Kxd3 Bxa1 24. hxg6 fxg6 25. Ne6 Rd7+ 26. Ke2 Rf6 27. Nf4 Kf7 28. f3 Rc7 29. Nd5 Rc2 30. Nxf6 exf6 31. Kd3 Rxa2 32. Rg4 a5 33. f4 Ra3+ 34. Kc2 Ra4 35. Kd3 g5 36. Rg3 gxf4 37. exf4 b5 38. f5 Ra3+ 0-1
+

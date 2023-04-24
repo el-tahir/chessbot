@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yyM1x1Ps"]
+[Date "2021.03.02"]
+[White "elgranpez"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.02"]
+[UTCTime "23:25:52"]
+[WhiteElo "2006"]
+[BlackElo "2034"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Bd3 Bxd3 6. Qxd3 Ne7 7. Ne2 Ng6 8. Be3 Be7 9. Nd2 O-O 10. f4 f6 11. g3 fxe5 12. dxe5 Na6 13. h4 Rf7 14. h5 Nf8 15. g4 Bh4+ 16. Kd1 Rc8 17. g5 Bg3 18. Nxg3 1-0
+

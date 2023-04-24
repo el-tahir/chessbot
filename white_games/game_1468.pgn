@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gkb59V2X"]
+[Date "2021.02.25"]
+[White "EltahirAmin"]
+[Black "UVERSA2029"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "14:29:39"]
+[WhiteElo "2004"]
+[BlackElo "2036"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B50"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 e5 5. Bc2 Be7 6. d4 cxd4 7. cxd4 Bg4 8. dxe5 Bxf3 9. Qxf3 dxe5 10. O-O Nc6 11. Rd1 Qb6 12. b3 O-O 13. Bb2 Rad8 14. Nc3 Nd4 15. Qd3 Nxb3 16. Qxd8 Rxd8 17. Bxb3 Rxd1+ 18. Rxd1 h6 19. Nd5 Nxd5 20. Rxd5 Bf6 21. Bxe5 Bxe5 22. Rxe5 Qd4 23. Re8+ Kh7 24. h3 b5 25. Re7 a5 26. Kh1 a4 27. Bd5 f5 28. f3 fxe4 29. Bxe4+ Kg8 30. Bg6 Qd1+ 31. Kh2 Qd6+ 32. Re5 Qxe5+ 0-1
+

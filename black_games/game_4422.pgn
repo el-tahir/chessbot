@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/OJNvfTph"]
+[Date "2020.05.12"]
+[White "zeybacher_SAT"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.12"]
+[UTCTime "22:24:44"]
+[WhiteElo "1925"]
+[BlackElo "1965"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D03"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Bg4 4. c4 e6 5. Nc3 Be7 6. e3 O-O 7. cxd5 Nxd5 8. Bxe7 Nxe7 9. Be2 c6 10. Ne5 Bxe2 11. Qxe2 Nd7 12. Nxd7 Qxd7 13. O-O Rad8 14. Rad1 Nd5 15. e4 Nf4 16. Qg4 Ng6 17. Na4 b6 18. Nc3 Qe7 19. Rd2 Rd7 20. Rfd1 Rfd8 21. f4 Qb4 22. Ne2 c5 23. d5 exd5 24. exd5 Qc4 25. b3 Qe4 26. Qf3 Qxf3 27. gxf3 Kf8 28. f5 Ne7 29. Ng3 Rxd5 30. Rxd5 Rxd5 31. Rxd5 Nxd5 32. Kf2 Ke7 33. Ke2 Kd6 34. Kd3 Ke5 35. Kc4 a6 36. f6 Nxf6 37. Ne2 Nd5 38. f4+ Nxf4 39. Nxf4 Kxf4 40. Kd5 Kg4 41. Kc6 Kh3 42. Kxb6 Kxh2 43. Kxc5 h5 44. Kb6 h4 45. Kxa6 Kg2 46. b4 h3 47. b5 h2 48. b6 h1=Q 49. b7 Qf1+ 50. Ka7 Qf2+ 51. Kb8 Qxa2 52. Kc8 Qc4+ 53. Kb8 0-1
+

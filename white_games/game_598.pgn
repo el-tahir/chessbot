@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/83QOT02n"]
+[Date "2022.05.03"]
+[White "EltahirAmin"]
+[Black "vitaliy-poletaev50"]
+[Result "1-0"]
+[UTCDate "2022.05.03"]
+[UTCTime "20:57:17"]
+[WhiteElo "2047"]
+[BlackElo "2063"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Nc6 6. d5 Nb4 7. a3 Na6 8. e5 Ng8 9. d6 cxd6 10. exd6 Qf6 11. Nb5 Qe6+ 12. Be2 Nf6 13. O-O Ne4 14. Re1 Kd8 15. Bf3 f5 16. Bxe4 fxe4 17. Bg5+ Ke8 18. Qd4 Kf7 19. Rxe4 h6 20. Rxe6 dxe6 21. Qf4+ Kg6 22. Be7 Bxe7 23. dxe7 Bd7 24. Nd4 Rae8 25. Qe4+ Kf7 26. Qxb7 Nc5 27. Qc7 Rc8 28. Qf4+ Kxe7 29. Nb5 Rc6 30. Rd1 Rf8 31. Qh4+ Rf6 32. g4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/tT8Qty0A"]
+[Date "2020.12.23"]
+[White "EltahirAmin"]
+[Black "pustovalov1"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "19:03:39"]
+[WhiteElo "1985"]
+[BlackElo "1943"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 f5 2. Nc3 fxe4 3. Nxe4 d5 4. Ng3 Nf6 5. Nf3 Nc6 6. d4 e6 7. Bb5 Be7 8. Bg5 h6 9. Ne5 Bd7 10. Bxf6 Nxe5 11. Qh5+ Nf7 12. Bxg7 Rh7 13. Bxd7+ Qxd7 14. Be5 O-O-O 15. Qg6 Nxe5 16. Qxh7 Bb4+ 0-1
+

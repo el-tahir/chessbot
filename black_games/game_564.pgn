@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wx436Rs1"]
+[Date "2022.05.08"]
+[White "AGM95"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.08"]
+[UTCTime "05:38:04"]
+[WhiteElo "2075"]
+[BlackElo "2069"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B33"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nxc6 bxc6 7. Bc4 e6 8. Bb3 d5 9. exd5 cxd5 10. Be3 Qc7 11. Qd2 a5 12. Ba4+ Bd7 13. Bxd7+ Qxd7 14. O-O Bd6 15. Bf4 O-O 16. Bxd6 Qxd6 17. a3 Rab8 18. Rab1 Rfc8 19. Na2 Qc5 20. c3 Qc4 21. b4 Ne4 22. Qd4 Qxa2 23. b5 Nxc3 0-1
+

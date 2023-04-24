@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/eSi5wRbg"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "Galaxy0"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "14:51:07"]
+[WhiteElo "1951"]
+[BlackElo "1895"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 f5 4. d4 fxe4 5. Nxe4 d5 6. Nc3 e4 7. Ne5 Bd6 8. Qh5+ g6 9. Nxg6 hxg6 10. Qxh8 Be6 11. Be2 a6 12. h4 Nd7 13. h5 Qf6 14. Qxf6 Ndxf6 15. h6 Nh7 16. f3 exf3 17. Bxf3 c6 18. Be3 O-O-O 19. O-O-O Bf5 20. Rde1 Ngf6 21. Ne2 Re8 22. Nf4 Be4 23. Bxe4 Rxe4 24. Nxg6 Ng4 25. Bd2 Kd7 26. Rxe4 dxe4 27. Rh4 Ngf6 28. Ne5+ Ke6 29. g4 Bxe5 30. dxe5 Kxe5 31. g5 Kf5 32. gxf6 Kxf6 33. Rxe4 b5 34. Rd4 Ke6 35. Rd8 Kf7 36. Ra8 Kg6 37. Rxa6 Kh5 38. Rxc6 Nf8 39. Rc5+ Kg6 40. Rxb5 Nh7 41. a4 Nf6 42. a5 Ng4 43. Rb6+ Kh7 44. a6 Nxh6 45. Rxh6+ Kg7 46. a7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vOfGF9cJ"]
+[Date "2020.12.15"]
+[White "marshaolivia"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "21:07:26"]
+[WhiteElo "1972"]
+[BlackElo "1931"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D13"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 Nf6 4. Nf3 cxd5 5. Nc3 Nc6 6. Bf4 Bg4 7. Qb3 e6 8. Ne5 Rc8 9. Nxg4 Nxg4 10. e3 Qd7 11. Be2 Be7 12. Bxg4 h5 13. Be2 h4 14. h3 g5 15. Bh2 f5 16. Nb5 O-O 17. O-O f4 18. Bg4 a6 19. Nc3 Bd6 20. Rad1 Rce8 21. e4 dxe4 22. Nxe4 Bb8 23. Nxg5 Nxd4 24. Qd3 e5 25. Bxd7 1-0
+

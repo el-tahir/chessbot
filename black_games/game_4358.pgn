@@ -1,0 +1,19 @@
+[Event "Matulović"]
+[Site "https://lichess.org/7F8727xt"]
+[Date "2020.05.14"]
+[White "Gatkuoth"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.14"]
+[UTCTime "23:11:04"]
+[WhiteElo "1453"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Bg4 6. Bb5+ Nc6 7. O-O e6 8. h3 Bh5 9. g4 Bg6 10. Ne5 Rc8 11. Bg5 Be7 12. Nxg6 hxg6 13. Qf3 Kf8 14. Bxc6 bxc6 15. Ne2 Rb8 16. b3 Ne4 17. Kh2 Nxg5 18. c4 Nxf3+ 0-1
+

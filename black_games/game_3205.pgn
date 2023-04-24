@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1kaihnef"]
+[Date "2020.11.15"]
+[White "TonyMoronni"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.15"]
+[UTCTime "06:47:06"]
+[WhiteElo "1898"]
+[BlackElo "1951"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. Bb5+ Nc6 7. O-O cxd4 8. Bxc6+ bxc6 9. Nxd4 Bc5 10. Be3 Bxd4 11. Bxd4 Ne7 12. Bc5 O-O 13. Nd2 Rb8 14. b4 a5 15. a3 Re8 16. Nf3 Ng6 17. Nd4 Be4 18. g3 Qc7 19. Bd6 Qb6 20. c3 Rb7 21. Bc5 Qd8 22. Nxc6 Qc8 23. Nxa5 Rd7 24. Nb3 Rc7 25. Nd4 f6 26. exf6 gxf6 27. Qd2 e5 28. fxe5 fxe5 29. Nb5 Rxc5 30. bxc5 Qxc5+ 31. Nd4 exd4 32. Qxd4 Rc8 33. Rfc1 Qe7 34. a4 Rc4 35. Qf2 Qd7 36. a5 Qc7 37. a6 Rxc3 38. Rxc3 Qxc3 39. Qe1 Ne5 40. Rc1 Qxe1+ 41. Rxe1 Nf3+ 42. Kf2 Nxe1 43. Kxe1 Kf7 44. Kd2 d4 45. a7 Ba8 46. Kd3 Kg6 47. Kxd4 Kg5 48. Ke3 Kg4 49. Kf2 h5 50. Kg1 Kh3 51. Kf2 Kxh2 0-1
+

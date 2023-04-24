@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/KHAODjH0"]
+[Date "2023.03.10"]
+[White "EltahirAmin"]
+[Black "Ashraful723"]
+[Result "0-1"]
+[UTCDate "2023.03.10"]
+[UTCTime "05:25:37"]
+[WhiteElo "1998"]
+[BlackElo "1981"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 d5 8. exd6 Be6 9. d5 Bd7 10. dxc7 Qxc7 11. O-O Qxc4 12. Re1+ N8e7 13. d6 O-O-O 14. dxe7 Bxe7 15. Be3 Kb8 16. Qf3 Bc6 17. Qg3+ Bd6 18. Qh3 Qh4 19. Qxh4 Nxh4 20. g3 Nf3+ 0-1
+

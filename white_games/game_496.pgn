@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9XJYUHmG"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "Xedeng"]
+[Result "0-1"]
+[UTCDate "2022.05.10"]
+[UTCTime "19:11:01"]
+[WhiteElo "2134"]
+[BlackElo "2019"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 Nxd4 5. Nxd4 cxd4 6. Qxd4 Nf6 7. Bc4 b6 8. O-O Bb7 9. f3 Bc5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HrdDLA62"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "Slori"]
+[Result "1-0"]
+[UTCDate "2023.03.08"]
+[UTCTime "22:02:50"]
+[WhiteElo "1992"]
+[BlackElo "2035"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 Bg4 5. Be2 cxd4 6. Nxd4 Bxe2 7. Ncxe2 g6 8. Be3 Bg7 9. O-O Nf6 10. f3 O-O 11. Qd2 Ne5 12. Bh6 Rc8 13. Bxg7 Kxg7 14. Nf4 Qd7 15. Nd3 Nc4 16. Qc1 e5 17. Ne2 Qc7 18. c3 Nb6 19. Ng3 Rfe8 20. Qg5 Nbd7 21. Nb4 h6 22. Nf5+ Kh7 23. Qxh6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NdwQ4GP0"]
+[Date "2022.07.30"]
+[White "EltahirAmin"]
+[Black "qubin1000"]
+[Result "0-1"]
+[UTCDate "2022.07.30"]
+[UTCTime "14:49:51"]
+[WhiteElo "2025"]
+[BlackElo "2046"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B70"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 O-O 8. O-O-O Nc6 9. Be2 Nxd4 10. Qxd4 Ng4 11. e5 Bxe5 12. Qd2 Nxf2 13. Rde1 Nxh1 14. Rxh1 Re8 15. h4 Qa5 16. h5 Bf5 17. hxg6 hxg6 18. Bf4 Bg7 19. Bh6 Bh8 20. Be3 Rac8 21. Bd4 e5 22. Qh6 Bg7 23. Qh7+ Kf8 24. Be3 Rxc3 25. bxc3 Qxc3 26. Bh6 Qxc2# 0-1
+

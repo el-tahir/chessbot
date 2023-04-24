@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xnAbb7y7"]
+[Date "2021.10.30"]
+[White "EltahirAmin"]
+[Black "ignatiusjuntak"]
+[Result "0-1"]
+[UTCDate "2021.10.30"]
+[UTCTime "09:41:00"]
+[WhiteElo "2054"]
+[BlackElo "2063"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Nf6 7. Bc4 Be7 8. O-O O-O 9. Bg5 a6 10. Rae1 b5 11. Bb3 c5 12. Qe3 c4 13. f4 cxb3 14. axb3 h6 15. Bh4 Nh7 16. Bg3 Bf6 17. e5 dxe5 18. fxe5 Bg5 19. Qe4 Qb6+ 20. Kh1 Bb7 21. Qg4 f5 22. exf6 Nxf6 23. Qe6+ Qxe6 24. Rxe6 b4 25. Ne2 Be4 26. Nd4 Bd5 27. Re7 Rae8 28. Rfe1 Rxe7 29. Rxe7 Ne4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lX1ORjqv"]
+[Date "2020.11.08"]
+[White "Schachzockerchen"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.08"]
+[UTCTime "09:36:01"]
+[WhiteElo "1908"]
+[BlackElo "1917"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. Be3 e6 8. Be2 Bd6 9. Nbd2 O-O 10. Qc2 Rc8 11. O-O-O Bf5 12. Bd3 Nb4 13. cxb4 Rxc2+ 14. Bxc2 Qc7 15. Ne1 Rc8 0-1
+

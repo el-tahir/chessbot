@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/L1yTckP4"]
+[Date "2021.10.12"]
+[White "Beth-Harmon"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.10.12"]
+[UTCTime "04:36:38"]
+[WhiteElo "2058"]
+[BlackElo "2088"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. f3 Nd7 4. Nc3 Nb6 5. b3 e6 6. Bb2 Bd6 7. e5 Bc7 8. f4 f6 9. Qg4 fxe5 10. Qxg7 Ne7 11. Qxh8+ Kd7 12. Qxd8+ 1-0
+

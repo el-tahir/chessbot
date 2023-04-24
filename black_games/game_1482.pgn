@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/57oV0M1E"]
+[Date "2021.02.25"]
+[White "yerasimos87"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.25"]
+[UTCTime "11:41:03"]
+[WhiteElo "1956"]
+[BlackElo "1962"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 Bg4 7. O-O e6 8. Re1 Be7 9. h3 Bh5 10. g4 Bg6 11. Ne5 Qc7 12. Nxg6 hxg6 13. Qf3 O-O-O 14. Bf4 Bd6 15. Bg3 Bxg3 16. Qxg3 Qxg3+ 17. fxg3 Rxh3 18. Kg2 Rdh8 19. Na3 Rh2+ 20. Kf3 Rxb2 21. c4 Rhh2 22. cxd5 Rhf2+ 23. Ke3 Nxg4+ 24. Ke4 f5# 0-1
+

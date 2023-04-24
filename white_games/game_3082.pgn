@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ly4xW6ne"]
+[Date "2020.11.17"]
+[White "EltahirAmin"]
+[Black "ShinigamiKeiyakusha"]
+[Result "0-1"]
+[UTCDate "2020.11.17"]
+[UTCTime "23:17:13"]
+[WhiteElo "1996"]
+[BlackElo "2008"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nxe4 Bf5 5. Nbc3 Bxe4 6. Nxe4 Nxe4 7. Bc4 Nd6 8. Qf3 Nxc4 9. Qxb7 Nd7 10. Qe4 Nd6 11. Qe2 e6 12. d4 Be7 13. Bf4 O-O 14. O-O Bg5 15. Be5 Nxe5 16. dxe5 Nf5 17. f4 Be7 18. Rf3 Nd4 19. Qe4 Nxf3+ 20. gxf3 Bc5+ 21. Kh1 Qd2 22. Rf1 Rfd8 23. f5 Qd4 24. Qe2 exf5 25. e6 f6 26. e7 Re8 27. Rd1 Qf2 28. Qe6+ Kh8 29. Qc6 Rab8 30. Rd8 Rbxd8 31. exd8=Q Rxd8 32. Qb7 Qg1# 0-1
+

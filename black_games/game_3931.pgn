@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/MIsm8eXz"]
+[Date "2020.10.30"]
+[White "Logarithmus"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.30"]
+[UTCTime "14:33:01"]
+[WhiteElo "2021"]
+[BlackElo "2037"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D15"]
+[Termination "Normal"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Bg4 5. Ne5 Bf5 6. cxd5 cxd5 7. Qb3 e6 8. Qxb7 Nbd7 9. Nb5 Rc8 10. e3 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Qa5+ 13. Nc3 Rb8 14. Qc6 Rxb2+ 15. Kc1 Rc2+ 0-1
+

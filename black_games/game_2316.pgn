@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/NylA2LMt"]
+[Date "2020.12.23"]
+[White "Grundnorm566"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.23"]
+[UTCTime "10:35:56"]
+[WhiteElo "1981"]
+[BlackElo "2007"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Ne5 e6 7. Bb5 Qc7 8. Bxc6+ bxc6 9. Bf4 Bd6 10. O-O O-O 11. Re1 Ba6 12. Qf3 Rab8 13. Rab1 c5 14. dxc5 Qxc5 15. g4 Bxe5 16. Bxe5 Rb4 17. Bxf6 gxf6 18. Kh1 Qe7 19. Rg1 Kh8 20. a3 Rc4 21. Rbe1 Rg8 22. Nxd5 Qb7 23. Qxf6+ Rg7 24. h3 Qxd5+ 25. Kh2 Rxc2 26. Rd1 Rd2 27. Rc1 Qd6+ 28. Rg3 Kg8 29. h4 Rxg4 30. Qf3 Rxg3 31. Kh1 0-1
+

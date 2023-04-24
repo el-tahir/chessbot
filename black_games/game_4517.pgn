@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0c6wGlKr"]
+[Date "2020.05.11"]
+[White "Allen_Zimmerman"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.05.11"]
+[UTCTime "22:54:53"]
+[WhiteElo "1980"]
+[BlackElo "1989"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A51"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bb4+ 4. Nc3 d6 5. Qc2 O-O 6. e4 c6 7. Nf3 cxd5 8. cxd5 Bg4 9. Be2 Nbd7 10. O-O Rc8 11. Qd3 Nc5 12. Qd1 Bxc3 13. bxc3 Nfxe4 14. Be3 Nxc3 15. Qd2 Nxe2+ 16. Qxe2 e4 17. Bxc5 exf3 18. gxf3 Bh3 19. Bxa7 Bxf1 20. Rxf1 Qa5 21. Bd4 Qxd5 22. Qe3 Rfe8 23. Qf4 Rc4 24. Rd1 h6 25. Qd2 Qxf3 26. Qb2 Qxd1+ 27. Kg2 Qxd4 28. Qxb7 Qe4+ 29. Qxe4 Rexe4 30. Kf3 Ra4 31. h4 Rxh4 32. a3 Rhg4 33. Ke3 h5 34. f3 Rxa3+ 35. Kf2 Rb4 36. Kg3 h4+ 37. Kf2 Rb2+ 38. Ke1 Ra1# 0-1
+

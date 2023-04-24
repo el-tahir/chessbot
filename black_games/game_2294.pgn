@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oruLmLJn"]
+[Date "2020.12.24"]
+[White "Gus23"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.24"]
+[UTCTime "07:26:00"]
+[WhiteElo "1919"]
+[BlackElo "1989"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bc5 6. e3 Qe7 7. Be2 Ncxe5 8. O-O a5 9. Nc3 c6 10. a3 O-O 11. h3 Nxf3+ 12. Bxf3 Ne5 13. Ne4 b6 14. Nxc5 Qxc5 15. b3 Ba6 16. Re1 Rad8 17. Be2 Ng6 18. Bd6 Qg5 19. Bxf8 Nh4 20. g3 Kxf8 21. Qd6+ Kg8 22. Qf4 Qg6 23. Qxh4 c5 24. Rad1 1-0
+

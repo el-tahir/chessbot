@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uIBfJwR1"]
+[Date "2020.12.24"]
+[White "EltahirAmin"]
+[Black "Coconut88"]
+[Result "1-0"]
+[UTCDate "2020.12.24"]
+[UTCTime "13:58:23"]
+[WhiteElo "1952"]
+[BlackElo "1964"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. Qe3 h6 8. Bc4 Be6 9. Bxe6 Qxe6 10. Bd2 O-O-O 11. O-O-O Kb8 12. Rhe1 Nf6 13. f3 Re8 14. Nb5 b6 15. Kb1 Qd7 16. Nd4 d5 17. e5 Ng8 18. f4 Bc5 19. Bc3 a5 20. Qg3 g6 21. h4 Rh7 22. Re2 Ne7 23. Rde1 Bxd4 24. Bxd4 Nf5 25. Qf2 Qd8 26. Bc3 Qxh4 27. Qxh4 Nxh4 28. e6 Nf5 29. exf7 Rf8 30. Re8+ Rxe8 31. fxe8=Q+ 1-0
+

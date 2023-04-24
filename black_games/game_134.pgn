@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7SVbPt4G"]
+[Date "2023.02.17"]
+[White "teymur_98"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.17"]
+[UTCTime "11:05:23"]
+[WhiteElo "1966"]
+[BlackElo "1969"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. cxd5 Nxd5 7. Nc3 Nxc3 8. bxc3 Bg4 9. Be2 e6 10. O-O Bd6 11. h3 Bh5 12. c4 Bc7 13. d5 Qd6 14. dxc6 Qxc6 15. Nd4 Qd6 16. g3 Bg6 17. Bf4 e5 18. Nb5 Qc6 19. Bf3 e4 20. Nxc7+ Ke7 21. Nxa8 exf3 22. Nc7 Rd8 23. Nd5+ Kf8 24. Re1 Qc8 25. Qxf3 Qxc4 26. Rad1 h5 27. Ne3 Qc8 28. Rxd8+ Qxd8 29. Qd5 Qf6 30. Rd1 h4 31. Qd8+ Qxd8 32. Rxd8+ Ke7 33. Rd5 hxg3 34. Bxg3 Ke6 35. Rd6+ Ke7 36. Rxg6 fxg6 37. Ng4 a6 38. Ne5 Kf6 39. Nd7+ Ke6 40. Nc5+ Kd5 41. Nxb7 Kc4 42. Bd6 Kc3 43. a3 Kd4 44. Bb4 Kc4 45. Nd8 Kb5 46. Ne6 a5 47. Bf8 g5 48. Nxg5 Kc4 49. Bxg7 Kd5 50. Bf8 Ke5 51. Kg2 Kf6 52. Nf3 Kf5 53. Kg3 a4 54. h4 Kg6 55. Bb4 Kh5 56. Kh3 Kg6 57. Kg4 Kf6 58. h5 Kg7 59. Nh4 Kh6 60. f4 Kg7 61. f5 Kf6 62. h6 Kf7 63. Kg5 Kg8 64. Ng6 Kh7 65. f6 Kg8 66. Ne7+ Kf7 67. h7 Ke6 68. h8=Q Kf7 69. Qg7+ Ke6 70. Nc8 Ke5 71. f7+ Ke6 72. Qf6+ Kd7 73. Qe7+ Kc6 74. Qd6+ Kb5 75. Qb6+ Kc4 76. f8=Q Kb3 77. Qf3+ Kc4 78. Qc5# 1-0
+

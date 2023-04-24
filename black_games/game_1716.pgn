@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/LieOtlSK"]
+[Date "2021.02.08"]
+[White "Maido_Squad"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.08"]
+[UTCTime "13:41:49"]
+[WhiteElo "1974"]
+[BlackElo "1945"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D11"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. e3 Bg4 5. Bd3 e6 6. h3 Bh5 7. Qe2 Bb4+ 8. Bd2 Bxd2+ 9. Nbxd2 O-O 10. O-O Nbd7 11. Rfd1 Rc8 12. Rac1 Qa5 13. a3 Rfe8 14. e4 dxe4 15. Nxe4 e5 16. Nxf6+ Nxf6 17. dxe5 Bxf3 18. Qxf3 Rxe5 19. b4 Qxa3 20. Bxh7+ Nxh7 21. Qxa3 1-0
+

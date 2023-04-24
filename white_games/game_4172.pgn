@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ZB2IstMU"]
+[Date "2020.10.15"]
+[White "EltahirAmin"]
+[Black "EverV"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "19:23:23"]
+[WhiteElo "1964"]
+[BlackElo "1948"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. b4 g6 3. bxc5 Nc6 4. c3 Bg7 5. d4 Nf6 6. Nf3 Nxe4 7. Bb2 O-O 8. Nbd2 Nxd2 9. Qxd2 d6 10. cxd6 exd6 11. Bc4 Re8+ 12. Kd1 Bg4 13. h4 a6 14. Kc2 b5 15. Bb3 Rc8 16. Ng5 b4 17. Bxf7+ Kh8 18. Bxe8 Qxe8 19. f3 bxc3 20. Bxc3 Nxd4+ 21. Kd3 Bf5+ 22. Ne4 d5 23. Bxd4 dxe4+ 24. fxe4 Qxe4# 0-1
+

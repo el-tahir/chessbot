@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/koiNqqyV"]
+[Date "2021.02.16"]
+[White "baroma06"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2021.02.16"]
+[UTCTime "15:29:57"]
+[WhiteElo "2010"]
+[BlackElo "2001"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. Nf3 c5 4. Bg5 Nc6 5. e3 e6 6. a3 h6 7. Bh4 Be7 8. Bb5 Qb6 9. a4 a6 10. a5 Qc7 11. Bg3 Bd6 12. Ne5 Bd7 13. Bxc6 bxc6 14. O-O O-O 15. f4 Rab8 16. b3 Rb4 17. dxc5 Bxc5 18. Nd3 Bxe3+ 19. Kh1 Rd4 20. Qf3 Bd2 21. Ne2 Re4 22. f5 Qa7 23. fxe6 Bxe6 24. Nef4 Bc3 25. Nxe6 fxe6 26. Rad1 Bxa5 27. Nf4 Bc7 28. Nd3 Re3 29. Qf2 Bb6 30. Qf4 Qe7 31. c4 Nh5 32. Qh4 Rxf1+ 33. Rxf1 Nxg3+ 34. hxg3 Qxh4+ 35. gxh4 Re4 36. c5 Bc7 37. g3 Re3 38. Nf4 Rxb3 39. Nxe6 Rxg3 40. Rf8+ Kh7 41. Nxc7 Rh3+ 42. Kg2 Rxh4 43. Ra8 Rc4 44. Nxa6 d4 45. Rc8 d3 46. Rxc6 Rd4 47. Nb4 d2 48. Rd6 Rxd6 49. cxd6 d1=Q 50. Kf2 Qd4+ 51. Kf3 Qxb4 52. Ke3 Qxd6 53. Ke4 h5 54. Ke3 h4 55. Kf3 h3 56. Kf2 Qg6 57. Ke3 h2 58. Kd4 h1=Q 59. Kc4 Qf1+ 60. Kc5 Qgg2 61. Kd4 Qge2 62. Kc5 Qfd1 63. Kb4 Qec2 64. Ka3 Qdb1 1/2-1/2
+

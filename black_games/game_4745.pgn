@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/cgvIdevP"]
+[Date "2020.05.07"]
+[White "YodaTavares"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.07"]
+[UTCTime "19:32:06"]
+[WhiteElo "2018"]
+[BlackElo "2011"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E21"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Nf3 O-O 5. e4 d5 6. e5 Ne4 7. Qc2 c5 8. cxd5 Qxd5 9. Be3 cxd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Bd3 Nxc3 13. bxc3 Ba5 14. Bxh7+ Kh8 15. Be4 Qxe5 16. Bxc6 Qxc3+ 17. Qxc3 Bxc3+ 18. Ke2 Ba6+ 19. Kf3 Rac8 20. Bd7 Rc7 21. Rac1 Rd8 22. Ba4 Rd5 23. Bb3 Rf5+ 24. Kg3 Be5+ 25. f4 Rxc1 26. Rxc1 Bd6 27. Rc6 g5 28. Rxd6 gxf4+ 29. Bxf4 Bd3 1-0
+

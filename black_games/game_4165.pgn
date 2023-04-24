@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qRij5q5c"]
+[Date "2020.10.16"]
+[White "cevdetala"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.16"]
+[UTCTime "16:52:43"]
+[WhiteElo "1917"]
+[BlackElo "1932"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D45"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. e3 Nf6 4. Nc3 e6 5. Nf3 b6 6. Bd3 Bb7 7. Qc2 Bd6 8. cxd5 cxd5 9. Nb5 Be7 10. Bd2 a6 11. Nc7+ Kf8 12. Nxa8 Bxa8 13. Rc1 Bd6 14. a3 h5 15. Bb4 Ke7 16. Bxd6+ Kxd6 17. b4 Nbd7 18. Bxa6 h4 19. Bb5 Rh5 20. Bxd7 Nxd7 21. h3 e5 22. dxe5+ Nxe5 23. Nxe5 Rxe5 24. O-O Rg5 25. f4 Rg3 26. e4 d4 27. e5+ Ke7 28. Qc7+ Ke8 29. Qxd8+ Kxd8 30. Rf2 Rxa3 31. Rd1 d3 32. Rf3 Bxf3 33. gxf3 Ke7 34. Kf2 Rb3 35. f5 Rxb4 36. Rxd3 Rb2+ 37. Ke3 b5 38. f4 g6 39. Ke4 Rb4+ 40. Rd4 gxf5+ 41. Kd5 Rxd4+ 42. Kxd4 Ke6 43. Kc5 f6 44. exf6 Kxf6 45. Kxb5 Ke6 46. Kc5 Kf6 47. Kd6 Kg6 48. Ke6 Kh5 49. Kxf5 Kh6 50. Ke6 1-0
+

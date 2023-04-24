@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mSl5Ryml"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "pakhan873"]
+[Result "1-0"]
+[UTCDate "2023.03.08"]
+[UTCTime "20:46:56"]
+[WhiteElo "1992"]
+[BlackElo "1968"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B56"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Ng4 7. Be2 Nxe3 8. fxe3 g6 9. O-O Bg7 10. Bc4 O-O 11. Qd2 Ne5 12. Bb3 a6 13. h3 b5 14. Rf2 Bb7 15. Raf1 Rc8 16. Nf3 Nc4 17. Qc1 Qc7 18. Nd2 Qb6 19. Bxc4 bxc4 20. Nd5 Bxd5 21. exd5 Qxe3 22. c3 Qc5 23. Rd1 Qxd5 24. Nf3 Qc5 25. Nd4 e5 26. Nf3 f5 27. Ng5 Qb6 28. Rd5 Rfe8 29. Qd2 Rcd8 30. Qe2 Qc6 31. Qd2 e4 32. Rf1 h6 33. Nxe4 Rxe4 34. Rd1 Be5 35. Qxh6 Qe8 36. h4 Qf7 37. h5 Qg7 38. Qxg6 Qxg6 39. hxg6 Kg7 40. Kf2 Kxg6 41. Kf3 Kg5 42. Ra5 Rf4+ 43. Ke3 Ra8 44. Rad5 Re4+ 45. Kf2 Rf4+ 46. Ke3 Rg4 47. Rg1 f4+ 48. Kf3 Rg3+ 49. Ke4 Kg4 50. Re1 Re3+ 51. Rxe3 fxe3 52. Kxe3 Kg3 53. Rd2 Rf8 54. Ke4 Rf7 55. Re2 Rf4+ 56. Kd5 Rf2 57. Re3+ Kxg2 58. Ke6 Rf3 59. Rxe5 Rg3 60. Rd5 Rg6+ 61. Kd7 Rh6 62. Rxd6 Rxd6+ 63. Kxd6 Kf2 64. Kc5 Ke2 65. Kxc4 Kd2 66. Kc5 Kc2 67. c4 Kxb2 68. Kb6 Kxa2 69. Kxa6 Kb2 70. c5 Kc3 71. Kb7 Kd3 72. c6 Ke4 73. c7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jqebmkr6"]
+[Date "2022.05.10"]
+[White "EltahirAmin"]
+[Black "REDKLION"]
+[Result "1-0"]
+[UTCDate "2022.05.10"]
+[UTCTime "02:04:33"]
+[WhiteElo "2096"]
+[BlackElo "2085"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 d6 3. Nf3 Bg4 4. Be2 e6 5. d4 Be7 6. Bg5 Nbd7 7. Qd3 a6 8. O-O-O O-O 9. h3 Bh5 10. g4 Bg6 11. Rdg1 d5 12. Nd2 c5 13. h4 cxd4 14. Qxd4 Bc5 15. Qd3 Ne5 16. Qh3 dxe4 17. h5 Nf3 18. Bxf3 exf3 19. hxg6 fxg6 20. Bxf6 Qxf6 21. Qxh7+ Kf7 22. Qh4 Qxh4 23. Rxh4 Bxf2 24. Rf1 Be3 25. Rxf3+ Kg8 26. Rxe3 Rad8 27. Rd3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/scMIHmfu"]
+[Date "2021.01.01"]
+[White "EltahirAmin"]
+[Black "ghost"]
+[Result "0-1"]
+[UTCDate "2021.01.01"]
+[UTCTime "20:47:34"]
+[WhiteElo "1959"]
+[BlackElo "1919"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. Be2 d6 5. O-O Bg4 6. Ne1 Be6 7. Kh1 Nf6 8. d3 Qd7 9. f4 exf4 10. Bxf4 d5 11. e5 Ng8 12. Bf3 O-O-O 13. Na4 Be7 14. Qe2 g5 15. Be3 d4 16. Bg1 f6 17. exf6 Nxf6 18. c3 g4 19. Bxc6 Qxc6 20. Bxd4 Rdf8 21. Nc2 Rhg8 22. Nb4 Qxa4 23. Qxe6+ Qd7 24. Qxd7+ Nxd7 25. Nd5 Bd6 26. c4 c6 27. Ne3 h5 28. Bxa7 b6 29. Nf5 Bc7 30. Ne7+ Kb7 31. Nxg8 Rxg8 32. Rf7 Nc5 33. Bxb6 Kxb6 34. d4 Nd3 35. c5+ Kb5 36. Rxc7 Kc4 37. b3+ Kxd4 38. Rxc6 Nxc5 39. a4 Nxb3 40. Rd1+ Ke5 41. Rh6 Rg5 42. Rb1 Nd4 43. Rb4 Ke4 44. a5 Ke3 45. a6 Rf5 46. a7 Rf1# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BelLXKfd"]
+[Date "2020.12.25"]
+[White "EltahirAmin"]
+[Black "RBergmann"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "10:48:59"]
+[WhiteElo "1959"]
+[BlackElo "1960"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B34"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 e6 7. Be2 Nge7 8. Qd2 O-O 9. h4 d5 10. h5 dxe4 11. Nxc6 Nxc6 12. O-O-O Qxd2+ 13. Bxd2 Nd4 14. Bc4 a6 15. Nxe4 b5 16. Bd3 Bb7 17. Bc3 e5 18. h6 Bh8 19. Rde1 Rac8 20. Nd6 Rc7 21. Nxb7 Rxb7 22. Rh4 Rd8 23. Rhe4 f5 24. Rh4 e4 25. Bf1 b4 26. Bd2 Rb6 27. Be3 Rbd6 28. Bc4+ Kf8 29. f3 Rc6 30. Bg5 Rd7 31. Bb3 Nxb3+ 32. axb3 Rcd6 33. fxe4 fxe4 34. Rhxe4 Rd5 35. Rf1+ Rf5 36. Rfe1 Bf6 37. Re8+ Kf7 38. Bxf6 Rxf6 39. g4 Rf2 40. g5 Rg2 41. Rf1+ Kxe8 42. Re1+ Re7 43. Rd1 Ree2 44. c3 Rc2+ 45. Kb1 Rxb2+ 46. Ka1 Ra2+ 47. Kb1 Rgb2+ 48. Kc1 bxc3 49. Re1+ Kd7 50. Rf1 Ra1# 0-1
+

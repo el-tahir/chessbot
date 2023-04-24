@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/K5LZz1ar"]
+[Date "2021.01.23"]
+[White "aG_Puzzles"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.23"]
+[UTCTime "12:22:31"]
+[WhiteElo "1955"]
+[BlackElo "1967"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 c6 2. Bf4 d5 3. e3 Nf6 4. c4 Bg4 5. Be2 Bxe2 6. Nxe2 e6 7. O-O Bd6 8. Be5 Bxe5 9. dxe5 Nfd7 10. f4 Qb6 11. Qd2 Na6 12. cxd5 cxd5 13. Nd4 Nac5 14. Nc3 O-O 15. Rf3 f6 16. exf6 Nxf6 17. Raf1 Nfe4 18. Nxe4 Nxe4 19. Qc2 Rac8 20. Qe2 Rce8 21. Nb3 e5 22. Nd2 Qxb2 23. Rd1 exf4 24. Rxf4 Rxf4 25. exf4 Qb6+ 0-1
+

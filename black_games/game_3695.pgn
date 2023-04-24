@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/k7GXwaly"]
+[Date "2020.11.05"]
+[White "mars1965"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "10:12:54"]
+[WhiteElo "2038"]
+[BlackElo "2030"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 e6 5. g4 Ne7 6. gxf5 Nxf5 7. Bd3 Nxh4 8. Nf3 Ng6 9. Bxg6 fxg6 10. Bg5 Be7 11. Qd2 Nd7 12. Bxe7 Qxe7 13. Qg5 Qb4+ 14. Nbd2 Qxb2 15. Rb1 Qxc2 16. Rxb7 O-O 17. Rxd7 Qc1+ 18. Ke2 Qxh1 19. Qe7 Qh6 20. Qxe6+ Kh8 21. Qxc6 Qf4 22. Qxd5 Rab8 23. e6 Rb2 24. Rd8 Rxd2+ 25. Nxd2 Qxf2+ 26. Kd3 Qg3+ 27. Kc4 Qc7+ 28. Kb3 Rxd8 29. Qc4 Rb8+ 30. Kc3 Qa5+ 31. Kd3 Qa3+ 32. Ke4 Qe7 33. d5 g5 34. Qc6 Rb4+ 35. Nc4 h6 36. Ke5 Qf6+ 37. Kd6 Qf8+ 38. Kd7 Rb8 39. e7 Qe8+ 40. Ke6 Rb6 41. Nd6 Rxc6 42. dxc6 Qxc6 43. e8=Q+ Qxe8+ 44. Nxe8 h5 45. Nd6 Kh7 46. Kf5 Kh6 47. Nf7+ Kh7 48. Nxg5+ Kh6 49. Nf7+ Kh7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/hnbbTZw3"]
+[Date "2021.10.18"]
+[White "EltahirAmin"]
+[Black "navarromolinaes"]
+[Result "0-1"]
+[UTCDate "2021.10.18"]
+[UTCTime "01:28:20"]
+[WhiteElo "2011"]
+[BlackElo "2022"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Bb4 7. Bd2 Be7 8. Bd3 Nf6 9. O-O O-O 10. f4 d6 11. f5 e5 12. Nf3 Qb6+ 13. Kh1 Qxb2 14. Rb1 Qa3 15. Rb3 Qc5 16. Na4 Qc6 17. Nc3 b5 18. Qe1 Nbd7 19. Bg5 Nc5 20. Rb1 Bb7 21. Bxf6 Bxf6 22. Nd5 Kh8 23. Qg3 Rg8 24. Nh4 Bxh4 25. Qxh4 Nxd3 26. cxd3 Qc2 27. f6 Bxd5 28. fxg7+ Rxg7 0-1
+

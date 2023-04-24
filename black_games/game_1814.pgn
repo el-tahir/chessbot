@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4zBTYtWk"]
+[Date "2021.01.28"]
+[White "Filidor1977"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.28"]
+[UTCTime "08:30:48"]
+[WhiteElo "2036"]
+[BlackElo "2047"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. e5 d5 3. exd6 exd6 4. Nf3 Nf6 5. d4 Bg4 6. Bd3 Be7 7. c3 O-O 8. Bf4 Nbd7 9. h3 Bh5 10. Nbd2 Rc8 11. Qc2 c5 12. O-O cxd4 13. Nxd4 Nc5 14. Be2 Bg6 15. Nf5 Re8 16. Rfd1 Qd7 17. g4 d5 18. Nf3 Nce4 19. N3d4 Bc5 20. Qd3 h5 21. Nh4 Nxf2 22. Kxf2 Bxd3 0-1
+

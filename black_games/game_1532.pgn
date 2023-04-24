@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/CZ4ABU2p"]
+[Date "2021.02.23"]
+[White "wolf-fox"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.02.23"]
+[UTCTime "14:24:45"]
+[WhiteElo "1957"]
+[BlackElo "1943"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bg5 Nc6 6. c3 e6 7. Bd3 Be7 8. O-O O-O 9. Qc2 h6 10. Bh4 Bd7 11. Bg3 Rc8 12. Nbd2 Nb4 13. Qb1 Nxd3 14. Qxd3 a6 15. Rfe1 Bb5 16. Qe3 Ng4 17. Qf4 Nf6 18. Ne5 Rc6 19. Nxc6 Bxc6 20. h3 Nh5 21. Qe3 Nxg3 22. Qxg3 Bd6 23. Qf3 Re8 24. Nb3 f6 25. Qd1 e5 26. dxe5 fxe5 27. Qd2 e4 28. Rad1 Qf6 29. Nd4 Rf8 30. Nxc6 bxc6 31. Re2 Bc5 32. Rf1 e3 33. Qd3 exf2+ 34. Kh1 Qf4 35. Re6 Bd6 36. Rxd6 Qxd6 37. c4 d4 38. b4 c5 39. a3 cxb4 40. axb4 Qe5 41. c5 Qe1 42. Kh2 Qxb4 43. c6 Qd6+ 44. g3 Qxc6 45. Qxd4 Qf6 46. Qxf6 Rxf6 47. Kg2 Kf7 48. Rxf2 Rxf2+ 49. Kxf2 Ke6 50. Ke2 Kd5 51. Kd2 Kc4 52. Kc2 a5 53. h4 g6 54. g4 Kd4 55. g5 h5 56. Kb3 Ke4 57. Ka4 Kf4 58. Kxa5 Kg4 59. Kb5 Kxh4 60. Kc4 Kxg5 61. Kd3 Kg4 62. Ke2 Kg3 63. Kf1 h4 64. Kg1 Kh3 65. Kh1 g5 66. Kg1 g4 67. Kf2 Kh2 68. Kf1 g3 69. Ke2 g2 70. Kf3 g1=Q 71. Kf4 Kg2 72. Kg4 h3 73. Kh4 h2 74. Kg4 h1=Q 75. Kg5 Kf2+ 76. Kf4 Ke1 77. Ke5 Qf2 78. Ke6 Qhg2 79. Kd6 Qgf3 80. Ke6 Q3e3+ 81. Kd6 Qfd2+ 82. Kc6 Qec3+ 83. Kb6 Qdb2+ 84. Ka6 Qca3# 0-1
+

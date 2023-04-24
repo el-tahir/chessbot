@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zqzRP1zJ"]
+[Date "2022.04.28"]
+[White "Nubiko"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.28"]
+[UTCTime "22:05:08"]
+[WhiteElo "2136"]
+[BlackElo "2107"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. e5 Qc7 3. Nf3 d6 4. exd6 Qxd6 5. d4 Nf6 6. c3 Bg4 7. Be2 Nbd7 8. O-O O-O-O 9. h3 Bh5 10. Na3 e5 11. Nc4 Qc7 12. Nfxe5 Bxe2 13. Qxe2 Nxe5 14. dxe5 Nd5 15. Bg5 Be7 16. Bxe7 Qxe7 17. Nd6+ Kb8 18. c4 Nc7 19. Rad1 Rd7 20. Nf5 Qg5 21. Rxd7 Qxf5 22. Qd3 Ne6 23. Qxf5 1-0
+

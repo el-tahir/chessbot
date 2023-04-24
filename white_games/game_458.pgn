@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G777OCwb"]
+[Date "2022.05.16"]
+[White "EltahirAmin"]
+[Black "rbalaji35"]
+[Result "0-1"]
+[UTCDate "2022.05.16"]
+[UTCTime "04:45:50"]
+[WhiteElo "2079"]
+[BlackElo "2109"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. d3 h6 5. Be3 Bb6 6. Qd2 Ne7 7. Be2 Be6 8. O-O Nd7 9. Rad1 O-O 10. d4 exd4 11. Nxd4 Ng6 12. Nxe6 fxe6 13. Bxh6 gxh6 14. Qxh6 Qf6 15. e5 Ndxe5 16. Ne4 Qg7 17. Qh3 Nf4 0-1
+

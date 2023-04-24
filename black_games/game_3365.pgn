@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vPw3T4ex"]
+[Date "2020.11.10"]
+[White "Legalize_Caruana"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.10"]
+[UTCTime "23:43:09"]
+[WhiteElo "1977"]
+[BlackElo "1932"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O Bg4 9. c3 c5 10. dxc5 Bxc5 11. Qc2 h6 12. Bf4 Nc6 13. h3 Bxf3 14. gxf3 Qd7 15. Rad1 Qxh3 16. Bf5 Qxf3 17. Bg3 Rad8 18. Rde1 Ne5 19. Bxe5 fxe5 20. Rxe5 Qg3+ 0-1
+

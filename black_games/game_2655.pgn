@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G74EV9vQ"]
+[Date "2020.12.13"]
+[White "secousse_sismique"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.12.13"]
+[UTCTime "17:48:49"]
+[WhiteElo "1787"]
+[BlackElo "1901"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 c5 6. Be3 Bxd3 7. Qxd3 cxd4 8. Bxd4 Nc6 9. Nf3 Bb4 10. O-O Nge7 11. a3 Ba5 12. Rfd1 O-O 13. Rab1 Nf5 14. Qe2 Ncxd4 15. Nxd4 Nxd4 16. Rxd4 Bb6 17. Rdd1 Rc8 18. h3 Qg5 19. Nb5 Rc4 20. Nd6 Rf4 21. Rf1 f6 22. exf6 R8xf6 23. Kh1 Rxf2 24. Rxf2 Rxf2 25. Qg4 Qxg4 26. hxg4 g5 27. Nxb7 Rf6 28. Nd6 Rh6# 0-1
+

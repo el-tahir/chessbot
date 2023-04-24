@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/JGZ6Erfo"]
+[Date "2020.12.15"]
+[White "silvestro1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.15"]
+[UTCTime "19:36:35"]
+[WhiteElo "1942"]
+[BlackElo "1938"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Qxd5 5. Nc3 Nf6 6. Nf3 Qd8 7. Bc4 Nc6 8. O-O Bg4 9. d3 e6 10. h3 Bh5 11. g4 Nxg4 12. hxg4 Bxg4 13. Qe2 Nd4 14. Bb5+ Ke7 15. Nxd4 Bxe2 16. Ncxe2 a6 17. Ba4 Qd5 18. Be3 Kd8 19. Nf4 Qg5+ 20. Kh1 Bd6 21. Ndxe6+ fxe6 22. Nxe6+ Ke7 23. Nxg5 Rhf8 24. Bb3 Rf5 25. Ne4 Bc7 26. Rac1 Rh5+ 27. Kg2 Be5 28. d4 Rh2+ 29. Kf3 Bf6 30. Nxf6 Kxf6 31. Rc7 Rf8 32. Rg1 g6 33. Bg5+ Kf5 34. Rxb7 h6 35. Be3 g5 36. Ke2 Ke4 37. Re7+ Kf5 38. Bc2+ Kf6 39. Ra7 Rc8 40. Rxa6+ Kg7 41. Bd3 Rb8 42. b3 Rh4 43. Rc1 g4 44. Rc7+ Kf8 45. Rf6+ Ke8 46. Bg6+ Kd8 47. Rh7 Kc8 48. Rf8# 1-0
+

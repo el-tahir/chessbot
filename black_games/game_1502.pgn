@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HkuNpSVt"]
+[Date "2021.02.24"]
+[White "petrous13"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.02.24"]
+[UTCTime "19:48:47"]
+[WhiteElo "1984"]
+[BlackElo "2006"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bg6 5. f4 e6 6. h4 h5 7. Nc3 Be7 8. g5 Bb4 9. Bd2 Ne7 10. Nf3 Nf5 11. Bd3 Ng3 12. Rg1 Bxd3 13. cxd3 Nf5 14. Qb3 Bxc3 15. Bxc3 Qc7 16. O-O-O Nd7 17. Kb1 c5 18. dxc5 Nxc5 19. Qb5+ Qc6 20. Qxc6+ bxc6 21. d4 Ne4 22. Bb4 Kd7 23. Rc1 Rhc8 24. Rc2 c5 25. dxc5 a5 26. Ba3 Ra6 27. Rgc1 Rac6 28. g6 fxg6 29. Ng5 Nxg5 30. fxg5 Nxh4 31. Rf1 Nf5 32. Ka1 Rh8 33. b4 axb4 34. Bxb4 h4 35. Bd2 h3 36. Rb1 Rb8 37. Rxb8 1-0
+

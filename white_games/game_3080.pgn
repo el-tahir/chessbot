@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a3xG6UX8"]
+[Date "2020.11.18"]
+[White "EltahirAmin"]
+[Black "Ingvar2501"]
+[Result "1-0"]
+[UTCDate "2020.11.18"]
+[UTCTime "11:56:14"]
+[WhiteElo "1984"]
+[BlackElo "1978"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bb5 Qb6 8. Bxc6 bxc6 9. dxc5 Ba6 10. cxb6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/1yQEe85N"]
+[Date "2022.11.18"]
+[White "EltahirAmin"]
+[Black "LoradCapa"]
+[Result "0-1"]
+[UTCDate "2022.11.18"]
+[UTCTime "14:07:10"]
+[WhiteElo "1995"]
+[BlackElo "2009"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nge7 6. Be3 Nxd4 7. Qxd4 Nc6 8. Qd2 Bb4 9. O-O-O Qa5 10. a3 Bxc3 11. Qxc3 Qxc3 12. bxc3 O-O 13. Bb5 a6 14. Bxc6 bxc6 15. Rd6 Rb8 16. e5 f6 17. f4 fxe5 18. fxe5 Rf5 19. Bd4 c5 20. Bxc5 Rxe5 21. Kd2 Rxc5 0-1
+

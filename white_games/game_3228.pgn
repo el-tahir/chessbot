@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yy7XyCjj"]
+[Date "2020.11.14"]
+[White "EltahirAmin"]
+[Black "yunikolov"]
+[Result "1-0"]
+[UTCDate "2020.11.14"]
+[UTCTime "22:49:54"]
+[WhiteElo "1948"]
+[BlackElo "1943"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. Nf3 e5 3. Nc3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Qe7 7. Bc4 c6 8. O-O h5 9. exf6 Qxf6 10. Re1+ Be7 11. Qe2 d5 12. Bxd5 Qxd4 13. Bg5 cxd5 14. Bxe7 Be6 15. Rad1 Qg4 16. Qxg4 hxg4 17. Ba3 O-O-O 18. g3 a6 19. Ne2 Kc7 20. Nd4 Rhe8 21. Re3 Nf8 22. Rde1 Nh7 23. Nxe6+ fxe6 24. Rxe6 Rxe6 25. Rxe6 Ng5 26. Re7+ Kb6 27. Rxg7 Nf3+ 28. Kf1 Nxh2+ 29. Ke2 Re8+ 30. Kd3 Re6 31. Rh7 Nf3 32. Rg7 Nh2 33. Rg5 Kc6 34. c4 Rf6 35. cxd5+ Kb6 36. Re5 Rxf2 37. d6 Kc6 38. Rc5+ Kb6 39. Rf5 Rxf5 40. d7 Rd5+ 41. Ke4 Rxd7 42. Kf4 Nf3 43. Kxg4 Nd2 44. Kf5 Nc4 45. Bf8 Na3 46. Bxa3 Rf7+ 47. Ke6 Rf2 48. g4 Rf3 49. g5 Rg3 50. Kf6 1-0
+

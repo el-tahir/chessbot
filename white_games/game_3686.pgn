@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Hu1dNPGv"]
+[Date "2020.11.05"]
+[White "EltahirAmin"]
+[Black "Yot_33"]
+[Result "0-1"]
+[UTCDate "2020.11.05"]
+[UTCTime "11:59:09"]
+[WhiteElo "2029"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 e6 2. Nc3 Ne7 3. d4 Ng6 4. Bd3 c6 5. h4 d6 6. h5 Ne7 7. Bg5 h6 8. Bh4 f6 9. e5 dxe5 10. dxe5 f5 11. g4 Qd4 12. gxf5 Nxf5 13. Nf3 Qb4 14. Bxf5 exf5 15. e6 Be7 16. Ne5 O-O 17. Bxe7 Qxe7 18. Ng6 Qxe6+ 19. Ne2 Re8 20. Qd3 Nd7 21. Nf4 Qe5 22. O-O-O Nc5 23. Qc4+ Be6 24. Nxe6 Nxe6 25. Nd4 Kh8 26. Rhe1 Qf4+ 27. Kb1 Nxd4 28. Rxe8+ Rxe8 29. c3 Qe4+ 30. Ka1 Nc2+ 31. Kb1 Na3+ 32. Ka1 Nxc4 33. Rb1 Qe1 0-1
+

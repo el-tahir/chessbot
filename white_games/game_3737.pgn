@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2xF1BIGy"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "Johanthebest"]
+[Result "1-0"]
+[UTCDate "2020.11.04"]
+[UTCTime "12:36:25"]
+[WhiteElo "2030"]
+[BlackElo "2028"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 Be7 8. Qf3 f6 9. O-O d5 10. Bxd5 c6 11. Bb3 Nh6 12. Bxh6 gxh6 13. Rae1 Rf8 14. exf6 Rxf6 15. Qxf6 1-0
+

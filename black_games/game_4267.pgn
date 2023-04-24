@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lICAYDAD"]
+[Date "2020.10.14"]
+[White "carraspeo"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "07:00:41"]
+[WhiteElo "2033"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. c3 Nc6 8. O-O Nge7 9. g4 Ng6 10. f4 cxd4 11. cxd4 Nb4 12. Qd2 Rc8 13. a3 Nc2 14. Ra2 Ne7 15. b4 Qb6 16. Rxc2 Nc6 17. Rxc6 bxc6 18. Bb2 Be7 19. Kg2 h5 20. Nbc3 hxg4 21. Ng3 Kd7 22. Na4 Qd8 23. Nc5+ Bxc5 24. bxc5 Rb8 25. Bc3 Qh4 26. Kg1 Rb3 27. Rf2 Qh3 28. Qc2 Rxa3 29. Qb2 Ra6 30. Qb7+ Ke8 31. Qxa6 Qh7 32. Qb6 axb6 33. cxb6 Qb1+ 34. Nf1 Qxb6 35. Rb2 Qc7 36. Bb4 g3 37. hxg3 Qb6 38. Bc3 Qc7 39. Bb4 Kd7 40. Bd6 Qa7 41. Bc5 Qc7 42. Ra2 Rb8 43. Bd6 Qc8 44. Bxb8 Qxb8 45. Ne3 Qb6 46. Rd2 c5 47. dxc5 Qxc5 48. Kf2 d4 49. Nd1 d3+ 50. Ne3 Qd4 51. Kf3 f6 52. exf6 gxf6 53. g4 e5 54. fxe5 fxe5 55. Nf5 e4+ 56. Kf4 Qd5 57. Ne3 Qd6+ 58. Kxe4 Ke6 59. Rxd3 Qe5+ 60. Kf3 Kf6 61. Ke2 Qg5 62. Rd5 Qh4 63. Kd3 Qh2 64. Rf5+ Kg7 65. g5 Qh1 66. Kd4 Qh2 67. Rf6 Qd6+ 68. Rxd6 Kf7 69. Ke5 Kg8 70. Kf6 Kh8 71. g6 Kg8 72. Rd8# 1-0
+

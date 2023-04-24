@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gvyZMi9e"]
+[Date "2020.10.23"]
+[White "EltahirAmin"]
+[Black "Acalidus"]
+[Result "1-0"]
+[UTCDate "2020.10.23"]
+[UTCTime "18:29:56"]
+[WhiteElo "1900"]
+[BlackElo "1916"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Bb4 7. Bd3 d5 8. exd5 Nxd5 9. Qd2 Nxc3 10. bxc3 Be7 11. O-O Ne5 12. Be4 O-O 13. f4 Ng6 14. f5 exf5 15. Nxf5 Bf6 16. Qf2 Qa5 17. c4 Bxa1 18. Rxa1 Re8 19. Bd3 Qc3 20. Rf1 Be6 21. Bd4 Qa3 22. Nxg7 Qxa2 23. Nxe8 Rxe8 24. Qf6 Bxc4 25. Qg7# 1-0
+

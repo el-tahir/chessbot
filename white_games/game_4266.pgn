@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RbuFetDF"]
+[Date "2020.10.14"]
+[White "EltahirAmin"]
+[Black "BlackrizlaII"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "07:07:08"]
+[WhiteElo "1990"]
+[BlackElo "2020"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 f6 6. Nf3 Bg4 7. h3 Bxf3 8. gxf3 Nc6 9. Ng3 Qc7 10. fxe5 fxe5 11. h4 O-O-O 12. Bh3+ Kb8 13. Bd2 g6 14. Qe2 Bh6 15. Bxh6 Nxh6 16. Qd2 Qg7 17. Kd1 Rhf8 18. Rf1 Rf4 19. b3 Rxh4 20. Bg2 Rf8 21. Kc1 Rhf4 22. Kb2 Nf7 23. a4 h6 24. a5 Ng5 25. Ne2 R4f7 26. f4 exf4 27. Nxf4 Ne5 28. Nd5 Rxf1 29. Rxf1 Rxf1 30. Bxf1 Nef3 31. Qg2 Qe5 32. Be2 Nh4 33. Qg4 Nhf3 34. Qd7 Qe6 35. Qc7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/haVQ5tbF"]
+[Date "2021.01.22"]
+[White "EltahirAmin"]
+[Black "hhii"]
+[Result "1-0"]
+[UTCDate "2021.01.22"]
+[UTCTime "18:06:23"]
+[WhiteElo "1959"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Nc6 6. e5 Ng8 7. f4 Bc5 8. dxc5 1-0
+

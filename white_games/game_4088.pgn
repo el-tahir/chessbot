@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/WBRpDSZF"]
+[Date "2020.10.24"]
+[White "EltahirAmin"]
+[Black "wilsom7"]
+[Result "1-0"]
+[UTCDate "2020.10.24"]
+[UTCTime "01:01:37"]
+[WhiteElo "1917"]
+[BlackElo "1897"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B43"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 b5 6. h4 Bb7 7. Bg5 Ne7 8. Qg4 f6 9. Be3 Ng6 10. f4 Nc6 11. h5 Nge7 12. O-O-O Rc8 13. Nxe6 Qb6 14. Bxb6 1-0
+

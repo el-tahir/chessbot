@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oM5on0jh"]
+[Date "2020.10.16"]
+[White "EltahirAmin"]
+[Black "heltherik"]
+[Result "0-1"]
+[UTCDate "2020.10.16"]
+[UTCTime "17:42:16"]
+[WhiteElo "1938"]
+[BlackElo "1937"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 g6 4. d4 cxd4 5. Qxd4 Nf6 6. Bg5 Bg7 7. Qd3 O-O 8. O-O-O Nc6 9. h4 h5 10. g3 Bg4 11. Bg2 Ne5 12. Nxe5 Bxd1 13. Nxg6 Bxc2 14. Kxc2 fxg6 15. e5 dxe5 16. Qxg6 Rc8 17. Bxf6 Rxf6 18. Qxh5 Rxf2+ 19. Kb1 Qd2 20. Bd5+ Kf8 21. Na4 Qc2+ 0-1
+

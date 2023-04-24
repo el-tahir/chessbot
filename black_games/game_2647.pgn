@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/HEqAX5CE"]
+[Date "2020.12.14"]
+[White "Edu_BS78"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "10:38:27"]
+[WhiteElo "1896"]
+[BlackElo "1911"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. f3 Bf5 6. Bd3 Nxe4 7. fxe4 Bg6 8. Nf3 e6 9. Ne5 Bxe4 10. Bxe4 Qh4+ 11. Kf1 Qxe4 12. c3 Bd6 13. Nf3 Nd7 14. Qb3 O-O-O 15. Kf2 e5 16. Re1 Qf5 17. dxe5 Nxe5 18. c4 Nd3+ 19. Ke2 Rhe8+ 20. Be3 Nxe1 21. Rxe1 Bc5 22. Kf2 Bxe3+ 23. Rxe3 Qc5 24. h3 Qxe3+ 25. Qxe3 Rxe3 26. Kxe3 Re8+ 27. Kf2 Kc7 28. b3 Kb6 29. Nd4 Kc5 30. Nc2 a5 31. g3 Rd8 32. Ke2 b5 33. Na3 bxc4 34. Nxc4 Kb4 35. h4 a4 36. Nd2 axb3 37. Nxb3 c5 38. Nd2 Ka3 39. Nc4+ Kxa2 40. Ke3 Kb3 41. Na5+ Kb4 42. Nc6+ Kb5 43. Nxd8 c4 44. Kd2 Kb4 45. Nxf7 c3+ 46. Kc1 Kb3 47. Ne5 h6 48. g4 g5 49. h5 Kb4 50. Nf7 Kc4 51. Nxh6 Kd4 52. Kc2 Ke5 53. Nf5 Kf4 54. h6 Kxg4 55. h7 Kf3 56. h8=Q g4 1-0
+

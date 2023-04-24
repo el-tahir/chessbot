@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BmkpBode"]
+[Date "2022.05.23"]
+[White "EltahirAmin"]
+[Black "Scary-vicktoh"]
+[Result "0-1"]
+[UTCDate "2022.05.23"]
+[UTCTime "01:39:20"]
+[WhiteElo "2055"]
+[BlackElo "2055"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 c6 5. Bc4 e6 6. d4 Nf6 7. Bd2 Qb6 8. Bb3 Nbd7 9. O-O Bd6 10. Qe2 O-O 11. Rae1 Re8 12. Ne4 Nxe4 13. Qxe4 Nf6 14. Qh4 Qc7 15. Bg5 Nd5 16. Bc1 b6 17. c3 a6 18. Bc2 g6 19. Bh6 Bb7 20. Bc1 c5 21. Ng5 Nf6 22. dxc5 bxc5 23. Ne4 Nxe4 24. Bxe4 Bxe4 25. Qxe4 Bxh2+ 26. Kh1 Bd6 27. g3 Rac8 28. Kg2 Qc6 29. Rh1 Qxe4+ 30. Rxe4 f5 31. Ra4 Ra8 32. Rah4 Re7 33. Bg5 Rg7 34. Bf6 Rf7 35. Bg5 e5 36. Rd1 Be7 37. Bxe7 Rxe7 38. Rc4 Rc8 39. Rd5 e4 40. Rdxc5 Rd8 41. Rd4 Rb8 42. b4 Rbe8 43. a4 e3 44. fxe3 Rxe3 45. b5 axb5 46. axb5 Re2+ 47. Kf3 R8e3+ 48. Kf4 Kg7 49. Rc7+ Kh6 50. Rdd7 Re4+ 51. Kf3 R2e3+ 52. Kg2 Kg5 53. Rd4 Re2+ 54. Kf3 R4e3# 0-1
+

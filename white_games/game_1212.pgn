@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/LtCBMOyR"]
+[Date "2021.06.10"]
+[White "EltahirAmin"]
+[Black "RangerOfTheWind"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:48:16"]
+[WhiteElo "2101"]
+[BlackElo "1780"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 Ne7 7. Bg5 Qb6 8. Qxb6 axb6 9. a3 Nc6 10. Nb5 Ne7 1-0
+

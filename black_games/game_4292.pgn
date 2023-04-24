@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uzW019zB"]
+[Date "2020.08.06"]
+[White "perisai-diri"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.08.06"]
+[UTCTime "09:44:18"]
+[WhiteElo "2027"]
+[BlackElo "2007"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Bg4 6. O-O e6 7. h3 Bh5 8. c3 Be7 9. Bf4 Nc6 10. Qb3 Qd7 11. Nbd2 O-O 12. Ne5 Nxe5 13. dxe5 Ne8 14. Rac1 Rb8 15. Rfe1 Nc7 16. c4 Rfc8 17. c5 Na6 18. Bxa6 bxa6 19. Qa3 Bxc5 20. Rxc5 Rxc5 21. Qxc5 Rxb2 22. Nb3 h6 23. Rc1 Kh7 24. Qa3 Re2 25. Nd4 Re4 26. Qd3 Bg6 27. Qd2 Qa4 28. Ne2 Bh5 29. Nc3 Rxf4 30. Nxa4 Rxa4 31. Qc2+ 1-0
+

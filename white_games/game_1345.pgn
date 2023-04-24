@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iUVslNmY"]
+[Date "2021.03.01"]
+[White "EltahirAmin"]
+[Black "HeriHadi"]
+[Result "1-0"]
+[UTCDate "2021.03.01"]
+[UTCTime "22:04:27"]
+[WhiteElo "2042"]
+[BlackElo "2032"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 c6 4. d4 exd4 5. Nxd4 f6 6. Be3 g6 7. Bc4 Bg7 8. O-O Ne7 9. f4 a5 10. a4 Nd7 11. Ne6 Nb6 12. Nxd8 Nxc4 13. Bc1 Kxd8 14. b3 Nb6 15. Bb2 Kc7 16. Qf3 Bd7 17. Rad1 Rad8 18. Rd2 Nec8 19. Rfd1 Be6 20. e5 fxe5 21. fxe5 d5 22. Ne2 Rhf8 23. Qc3 Rf5 24. Qc5 Bh6 25. Rd3 Rdf8 26. Ng3 R5f7 27. Rf1 Bf4 28. Rdf3 Nd7 29. Qxa5+ b6 30. Qe1 Bg4 31. Rc3 Nc5 32. Rxc5 bxc5 33. Qa5+ Kd7 34. Qxc5 Be6 35. a5 Kc7 36. a6 Kd8 37. Qxc6 Ke7 38. Qc7+ Ke8 39. Qc6+ Bd7 40. Qxd5 Re7 41. Re1 Ref7 42. Ne4 Be3+ 43. Nf2 Rxf2 44. Qxd7+ Kxd7 45. Rd1+ Ke8 46. g4 Rd2+ 47. Kh1 Rxd1+ 48. Kg2 Rd2+ 49. Kg3 1-0
+

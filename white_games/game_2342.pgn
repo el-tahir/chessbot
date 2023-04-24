@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/68zXAKNq"]
+[Date "2020.12.22"]
+[White "EltahirAmin"]
+[Black "stewy_18"]
+[Result "0-1"]
+[UTCDate "2020.12.22"]
+[UTCTime "07:20:11"]
+[WhiteElo "1948"]
+[BlackElo "1911"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C17"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. e5 c5 5. Nf3 Nc6 6. h4 Qc7 7. Bd2 cxd4 8. Na4 Bxd2+ 9. Kxd2 Nxe5 10. Bd3 Bd7 11. Nxd4 Nxd3 12. Kxd3 Bxa4 13. Qg4 Ne7 14. Qxg7 Rg8 15. Qxh7 Qc4+ 16. Kd2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/4mFHNFTc"]
+[Date "2022.04.30"]
+[White "luisamos1805"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.04.30"]
+[UTCTime "04:04:21"]
+[WhiteElo "2097"]
+[BlackElo "2103"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+
+1. Nf3 c5 2. e3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. a3 e6 7. c4 d5 8. Nd2 Bd6 9. c5 Bc7 10. b4 O-O 11. Bb2 b6 12. Nb3 Bb7 13. Be2 e5 14. Qd2 Ne4 15. Qc2 f5 16. Rd1 f4 17. exf4 exf4 18. O-O Qh4 19. Bf3 g5 20. c6 Bc8 21. Rxd5 g4 22. Bxe4 f3 23. g3 Qh3 24. Bxh7+ Kf7 25. Qg6+ Ke7 26. Re1+ 1-0
+

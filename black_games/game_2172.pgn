@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b5WdVuU1"]
+[Date "2020.12.29"]
+[White "lluckless"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.29"]
+[UTCTime "10:02:35"]
+[WhiteElo "1972"]
+[BlackElo "1965"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. Nc3 Bg4 7. Be2 e6 8. c5 Be7 9. h3 Bh5 10. Bf4 O-O 11. O-O b6 12. cxb6 Qxb6 13. Rb1 Rac8 14. Be3 Rc7 15. Ne5 Bxe2 16. Qxe2 Rfc8 17. Rfd1 Nd7 18. Nxd7 Rxd7 19. Qg4 Bf6 20. a3 e5 21. Qxd7 exd4 22. Qxc8+ 1-0
+

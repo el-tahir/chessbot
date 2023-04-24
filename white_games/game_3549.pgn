@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/7ew8Lx6c"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "gigiderpro"]
+[Result "0-1"]
+[UTCDate "2020.11.07"]
+[UTCTime "17:19:26"]
+[WhiteElo "1987"]
+[BlackElo "1958"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 g6 3. d4 Bg7 4. Nf3 d6 5. Be2 Na6 6. O-O Nc7 7. Be3 Nf6 8. Qe1 O-O 9. Rd1 Ng4 10. Bg5 h6 11. Bh4 g5 12. Bg3 f5 13. h3 f4 14. Bh2 Nxh2 15. Nxh2 Ne6 16. Bg4 Nxd4 17. Bxc8 Qxc8 18. Ne2 Nxc2 19. Qd2 f3 20. Nxf3 Rxf3 21. gxf3 Qxh3 22. Qxc2 Be5 23. Ng3 h5 24. Qd2 Bf4 25. Qd3 h4 26. e5 hxg3 27. fxg3 Qxg3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/sRr7NsqG"]
+[Date "2020.10.21"]
+[White "EltahirAmin"]
+[Black "amirmahdi2006"]
+[Result "1-0"]
+[UTCDate "2020.10.21"]
+[UTCTime "16:10:09"]
+[WhiteElo "1863"]
+[BlackElo "1874"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B07"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 g6 4. Be3 Bg7 5. Bd3 O-O 6. Qd2 Nc6 7. O-O-O a6 8. f4 b5 9. h3 Bb7 10. g4 h5 11. gxh5 Nxh5 12. Be2 Ng3 13. Rh2 Nxe2+ 14. Rxe2 Nb8 15. Nf3 Nd7 16. Ng5 Nf6 17. h4 Nh5 18. f5 Rc8 19. Rh2 b4 20. Nd5 Bxd5 21. exd5 Qd7 22. Rf1 Ng3 23. Rf3 Nxf5 24. h5 gxh5 25. Rxh5 f6 26. Ne6 Nxe3 27. Qxe3 Rf7 28. Rfh3 c5 29. Rh7 Rc6 30. Qg3 cxd4 31. Rxg7+ Rxg7 32. Qxg7# 1-0
+

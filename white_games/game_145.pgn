@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/TeUsfYOH"]
+[Date "2023.02.08"]
+[White "EltahirAmin"]
+[Black "ManPawn2"]
+[Result "1-0"]
+[UTCDate "2023.02.08"]
+[UTCTime "21:01:04"]
+[WhiteElo "1942"]
+[BlackElo "2002"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Be2 O-O 9. h4 b6 10. Bd3 c4 11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qh5 Bxg5 14. hxg5 f5 15. g6 Nf6 16. Qh8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/M4x29xKN"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "yetgarcia"]
+[Result "1-0"]
+[UTCDate "2022.07.24"]
+[UTCTime "17:43:36"]
+[WhiteElo "1991"]
+[BlackElo "2015"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 c5 4. d3 Nc6 5. Bg5 h6 6. Bxd8 1-0
+

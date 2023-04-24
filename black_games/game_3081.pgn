@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/X4jXE3nr"]
+[Date "2020.11.17"]
+[White "AlpacaLearnsChess"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.17"]
+[UTCTime "23:33:58"]
+[WhiteElo "1965"]
+[BlackElo "1990"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. Nf3 Nb6 7. O-O Nbd5 8. c3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Nxf6+ exf6 12. Re1+ Be7 13. Bxg6 hxg6 14. Qe2 Rxh3 15. Kg2 Rh8 16. g5 f5 17. Ne5 Qc7 18. Nc4 O-O-O 19. Ne5 f6 20. c4 fxe5 21. cxd5 exd4 22. Qxe7 Qh2+ 23. Kf1 Qh1+ 24. Ke2 Qh5+ 25. Kd3 Rde8 26. Qxe8+ Rxe8 27. Rxe8+ Kd7 28. Re2 Qf3+ 29. Kd2 Qxd5 30. b3 c5 31. Bb2 b5 32. Rae1 Kc6 33. Re6+ Kb7 34. Re7+ Ka6 35. Rxg7 f4 36. Rxg6+ Ka5 37. Ree6 c4 38. a3 c3+ 39. Ke1 Qh1+ 40. Ke2 Qh5+ 41. Kd3 Qf3+ 42. Kxd4 b4 43. Re5+ 1-0
+

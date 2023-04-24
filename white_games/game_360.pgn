@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rS1pTNI6"]
+[Date "2022.07.24"]
+[White "EltahirAmin"]
+[Black "fado79"]
+[Result "1-0"]
+[UTCDate "2022.07.24"]
+[UTCTime "19:49:43"]
+[WhiteElo "2002"]
+[BlackElo "1994"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ Ke7 5. Qxe5+ Kf7 6. Bc4+ Kg6 7. h4 h5 8. Qf5+ Kh6 9. d4+ g5 10. Bxg5+ Kg7 11. Bxd8 d5 12. Qxd5 Nc6 13. Qf7+ Kh6 14. Bg5# 1-0
+

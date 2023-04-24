@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lz1AXkbs"]
+[Date "2021.01.21"]
+[White "Check71"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2021.01.21"]
+[UTCTime "11:12:48"]
+[WhiteElo "1969"]
+[BlackElo "1954"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A41"]
+[Termination "Normal"]
+
+1. d4 d6 2. Bf4 Nf6 3. e3 Bg4 4. Nf3 Nc6 5. c3 e5 6. dxe5 dxe5 7. Bg5 Bd6 8. h3 Bh5 9. g4 Bg6 10. Nbd2 Qd7 11. Nh4 Ne4 12. Nxe4 Bxe4 13. Bg2 Bxg2 14. Nxg2 f6 15. Bh4 O-O-O 16. O-O g5 17. Bg3 h5 18. Qe2 hxg4 19. hxg4 Qh7 20. f3 Bc5 21. Kf2 f5 22. b4 f4 23. bxc5 fxg3+ 24. Kxg3 e4 25. Rab1 Ne5 26. f4 Qh2+ 27. Kf2 Nd3+ 28. Qxd3 exd3 0-1
+

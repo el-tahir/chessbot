@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/fwDkSafx"]
+[Date "2020.12.19"]
+[White "heryas2509"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.19"]
+[UTCTime "17:02:16"]
+[WhiteElo "1972"]
+[BlackElo "1988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B21"]
+[Termination "Normal"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O Qa5 8. Qe2 Nf6 9. Bd2 O-O 10. Nd5 Qc7 11. Rac1 Qd8 12. e5 Nxd5 13. Bxd5 Kh8 14. Rfd1 Qc7 15. Bg5 b6 16. Bxe7 Re8 17. Bd6 Qxd6 18. Bxf7 Qe7 19. Bxe8 Qxe8 20. Rd2 Bb7 21. Rcd1 Rd8 22. e6 dxe6 23. Rxd8 Nxd8 24. Ng5 h6 25. Rxd8 Qxd8 26. Nf7+ Kh7 27. Nxd8 Bd5 28. Nxe6 Bf6 29. Nf4 Bb7 30. Qd3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/peg2x4Cy"]
+[Date "2023.03.08"]
+[White "EltahirAmin"]
+[Black "HabibAbbasi"]
+[Result "0-1"]
+[UTCDate "2023.03.08"]
+[UTCTime "03:04:35"]
+[WhiteElo "1988"]
+[BlackElo "1926"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. d3 d6 5. Bg5 f6 6. Bh4 Be7 7. Be2 Nh6 8. h3 Nf7 9. O-O Be6 10. Qd2 O-O 11. Nh2 Nd4 12. f4 a6 13. fxe5 dxe5 14. Ng4 Qd7 15. Rf2 b5 16. Bd1 b4 17. Ne2 Bxg4 18. hxg4 Nd6 19. Nxd4 cxd4 20. g5 f5 21. Bf3 fxe4 22. Bxe4 Nxe4 23. Rxf8+ Rxf8 24. dxe4 Rf4 25. Qe1 Qg4 26. g3 Rxe4 27. Qf1 Bxg5 28. Qc4+ Kf8 29. Rf1+ Ke7 30. Rf7+ Kd6 31. Qc7+ Kd5 32. Rd7+ Ke6 33. Qd6+ Kf5 34. Rf7+ Bf6 35. Qd7+ Kg6 36. Rxf6+ gxf6 37. Qe8+ Kf5 38. Qd7+ Kg6 39. Qe8+ Kh6 40. Qf8+ Qg7 41. Qxb4 Rxh4 42. Qd2+ Kg6 43. gxh4 Kf7+ 44. Kh2 Ke6 45. Qb4 Qc7 46. Qb3+ Ke7 47. Qb4+ Qd6 48. Qb7+ Ke6 49. Qb3+ Qd5 50. Qb6+ Kf5 51. Qb3 Qxb3 52. axb3 Ke4 53. Kg3 d3 0-1
+

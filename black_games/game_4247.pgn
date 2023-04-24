@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rsUFfU15"]
+[Date "2020.10.14"]
+[White "desaint40"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "11:21:18"]
+[WhiteElo "1998"]
+[BlackElo "1999"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A51"]
+[Termination "Normal"]
+
+1. c4 Nf6 2. d4 e5 3. e3 exd4 4. exd4 d5 5. c5 Bg4 6. Nf3 Nc6 7. a3 b6 8. b4 Be7 9. Bb2 O-O 10. Be2 Qd7 11. Nbd2 Rae8 12. O-O Kh8 13. Bb5 Ng8 14. Qa4 Qf5 15. Bxc6 Rd8 16. Rfe1 Bg5 17. Bb5 h5 18. h3 Bxd2 19. hxg4 hxg4 20. Nxd2 Qh5 21. Qd1 f5 22. Re5 Qh4 23. g3 Qg5 24. Qe2 Nf6 25. Re1 Ne4 26. Nxe4 dxe4 27. d5 Rf6 28. Qf1 Rh6 29. Qg2 g6 30. Rxf5+ Kh7 31. Rxg5 1-0
+

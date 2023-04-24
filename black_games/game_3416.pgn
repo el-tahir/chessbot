@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/oLNKexof"]
+[Date "2020.11.09"]
+[White "Roger_mtl"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.09"]
+[UTCTime "18:57:38"]
+[WhiteElo "1841"]
+[BlackElo "1946"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bd3 Nc6 6. c3 e6 7. O-O Bd6 8. Re1 h6 9. Be3 O-O 10. Qd2 Rb8 11. h3 b5 12. Bxh6 gxh6 13. Qxh6 Ne4 14. Bxe4 dxe4 15. Ng5 f5 16. Qh7# 1-0
+

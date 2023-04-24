@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/RiCVSglo"]
+[Date "2020.11.05"]
+[White "Aydar1986"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.05"]
+[UTCTime "12:52:48"]
+[WhiteElo "2018"]
+[BlackElo "2010"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. Nge2 Bg4 8. Bg5 e6 9. O-O Be7 10. h3 Bf5 11. Nf4 h6 12. Bh4 Rb8 13. Bg3 Rxb2 14. Nd3 Rb7 15. Re1 Bd6 16. Ne5 c5 17. dxc5 Bxc5 18. Ng4 O-O 19. Nxf6+ Qxf6 20. Ne2 Rb2 21. c3 Rfb8 22. Bxb8 Rxb8 23. Nd4 Be4 24. f3 Bh7 25. Kh1 e5 26. Nb3 Bf2 27. Re2 Bg3 28. Qxd5 Rd8 29. Qc5 Bd3 30. Rd2 Bf4 31. Rdd1 Qh4 32. Nd2 Qg3 33. Qg1 Be2 34. Ne4 Rxd1 35. Rxd1 Qg6 36. Rd8+ Kh7 37. Qxa7 f5 38. Qa8 Qb6 39. Rh8+ Kg6 40. Qe8# 1-0
+

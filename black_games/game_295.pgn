@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zZpfKYzd"]
+[Date "2022.07.29"]
+[White "A210_012A"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2022.07.29"]
+[UTCTime "21:28:56"]
+[WhiteElo "2011"]
+[BlackElo "2043"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Bb4 7. Qd3 O-O 8. O-O-O Qa5 9. Kb1 Bxc3 10. bxc3 Rb8 11. Nb3 Qc7 12. f3 Rd8 13. g4 a5 14. h4 a4 15. Nd4 b5 16. h5 b4 17. g5 Ne8 18. c4 b3 19. cxb3 axb3 20. Nxb3 Nb4 21. Qd2 Qb7 22. g6 fxg6 23. hxg6 h6 24. Bxh6 Qa6 25. Bg5 Nd6 26. Rh8+ 1-0
+

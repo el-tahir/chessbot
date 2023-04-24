@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d8STzKJQ"]
+[Date "2020.05.13"]
+[White "EltahirAmin"]
+[Black "redamater"]
+[Result "0-1"]
+[UTCDate "2020.05.13"]
+[UTCTime "00:33:34"]
+[WhiteElo "1981"]
+[BlackElo "2089"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. Bc4 dxc4 0-1
+

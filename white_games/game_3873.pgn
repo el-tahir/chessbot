@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dGlBdQul"]
+[Date "2020.10.31"]
+[White "EltahirAmin"]
+[Black "Zhopavel"]
+[Result "0-1"]
+[UTCDate "2020.10.31"]
+[UTCTime "18:17:29"]
+[WhiteElo "1964"]
+[BlackElo "1887"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3 c5 5. exd5 exd5 6. Nf3 Nc6 7. Be3 Ng4 8. Bg5 f6 9. Bh4 c4 10. Be2 Be7 11. O-O g5 12. Nxg5 fxg5 13. Bxg4 gxh4 14. Bh5+ Kd7 15. Qg4+ Kc7 16. Nb5+ Kb6 17. Qe2 Kxb5 18. b3 Nxd4 19. bxc4+ dxc4 20. Rab1+ Kc5 21. Qe5+ Kc6 22. Rfd1 Bc5 23. c3 Re8 24. Bxe8+ Qxe8 25. Qxe8+ Bd7 26. cxd4 Rxe8 27. dxc5 Bg4 28. Re1 Rxe1+ 29. Rxe1 Kxc5 30. Re4 Bd1 31. Rxh4 h5 32. Rxh5+ Bxh5 33. g3 c3 34. Kg2 c2 0-1
+

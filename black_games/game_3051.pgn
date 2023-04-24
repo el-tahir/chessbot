@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/up6QCD4o"]
+[Date "2020.11.19"]
+[White "honorarycitizen"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.11.19"]
+[UTCTime "20:44:40"]
+[WhiteElo "1981"]
+[BlackElo "1933"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B14"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. Bf4 Bb4 8. Bd3 Qa5 9. Rc1 Ne4 10. Bd2 Nxd2 11. Qxd2 O-O 12. O-O Bd7 13. cxd5 exd5 14. a3 Bxc3 15. Qxc3 Qd8 16. Rfe1 Rc8 17. Qd2 Be6 18. Ng5 Bd7 19. Nxh7 Re8 20. Ng5 Nxd4 21. Bh7+ Kh8 22. Rxe8+ Qxe8 23. Qxd4 Rxc1+ 24. Qd1 Rxd1# 0-1
+

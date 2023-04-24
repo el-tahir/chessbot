@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w18BFyEx"]
+[Date "2020.11.29"]
+[White "EltahirAmin"]
+[Black "Chess_Magi"]
+[Result "0-1"]
+[UTCDate "2020.11.29"]
+[UTCTime "20:41:16"]
+[WhiteElo "1887"]
+[BlackElo "1869"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+32"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 f5 2. Nc3 fxe4 3. Nxe4 d5 4. Ng3 e5 5. d4 Nc6 6. dxe5 Nxe5 7. Nf3 Bg4 8. Be2 Nxf3+ 9. Bxf3 Qe7+ 10. Be3 Bxf3 11. gxf3 O-O-O 12. Qe2 Qb4+ 13. c3 Qd6 14. O-O-O a6 15. Nf5 Qf6 16. Qd3 g6 17. Nd4 Ne7 18. h4 h5 19. Bg5 Bh6 20. Bxh6 Rxh6 21. Rde1 Rhh8 22. Rhg1 Qxh4 23. Ne6 Rd6 24. Rh1 Qxf2 25. Nc5 Nf5 26. Rhf1 Qxc5 0-1
+

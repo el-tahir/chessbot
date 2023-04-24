@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6AEMRUSs"]
+[Date "2020.05.11"]
+[White "CachaZabrodski"]
+[Black "EltahirAmin"]
+[Result "1/2-1/2"]
+[UTCDate "2020.05.11"]
+[UTCTime "00:44:30"]
+[WhiteElo "1960"]
+[BlackElo "1926"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A52"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. e3 Ngxe5 8. Nxe5 Nxe5 9. a3 Bd6 10. Be2 O-O 11. O-O b6 12. b4 Bb7 13. Bf3 Nxf3+ 14. Nxf3 Rae8 15. Bxd6 cxd6 16. Nd4 Qe4 17. Qf3 Qxf3 18. gxf3 d5 19. c5 bxc5 20. bxc5 Rc8 21. Rfb1 Bc6 22. Rb4 Rb8 23. Rab1 Rxb4 24. Rxb4 Rc8 25. Kg2 Kf8 26. Kg3 Ke7 27. Kf4 Kf6 28. h4 h5 29. e4 dxe4 30. fxe4 Re8 31. Nxc6 dxc6 32. Rb7 Re7 33. Rxe7 Kxe7 34. Ke5 a5 35. f4 f6+ 36. Kf5 Kf7 37. e5 g6+ 38. Ke4 f5+ 39. Kd4 Ke6 40. Kc4 Kd7 41. Kb3 Ke6 42. Ka4 Kd5 43. Kxa5 Kxc5 44. e6 Kd6 45. Kb6 c5 46. e7 Kxe7 47. Kxc5 Kd7 48. Kb6 Kd6 49. a4 Kd5 50. a5 Ke4 51. a6 Kxf4 52. a7 Kg4 53. a8=Q Kxh4 54. Qg2 g5 55. Qh2+ Kg4 56. Qg2+ Kf4 57. Kc5 g4 58. Qh2+ Kg5 59. Qg3 h4 60. Qe3+ f4 61. Qe5+ Kg6 62. Qxf4 g3 63. Qg4+ Kf6 64. Qxh4+ Kf5 65. Qxg3 Ke4 66. Qd6 Ke3 67. Kc4 Ke4 68. Qd5+ Ke3 69. Kc3 Kf4 70. Qd4+ Kf3 71. Kd3 Kg3 72. Qe5+ Kf3 73. Qf5+ Kg3 74. Ke3 Kg2 75. Qg6+ Kf1 76. Qh5 Kg2 77. Qh4 Kf1 78. Qf4+ Kg2 79. Qf5 Kh2 80. Ke2 Kg2 81. Qg6+ Kh3 1/2-1/2
+

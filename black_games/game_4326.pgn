@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/naLIqIzV"]
+[Date "2020.05.30"]
+[White "vco1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "11:22:14"]
+[WhiteElo "1987"]
+[BlackElo "2046"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nf6 7. h4 h5 8. Bd3 Bxd3 9. Qxd3 e6 10. Bd2 Bd6 11. O-O-O Nbd7 12. Ne4 Nxe4 13. Qxe4 Qa5 14. Bxa5 1-0
+

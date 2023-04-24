@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VtQjtZvE"]
+[Date "2020.12.14"]
+[White "ACHERONT"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.14"]
+[UTCTime "13:18:39"]
+[WhiteElo "1902"]
+[BlackElo "1902"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. d3 d5 3. f4 dxe4 4. Nc3 exd3 5. Bxd3 Nf6 6. Nf3 Bg4 7. Be3 e6 8. h3 Bh5 9. g4 Bg6 10. Qe2 Bb4 11. a3 Ba5 12. b4 Bc7 13. O-O-O Qe7 14. f5 exf5 15. gxf5 Bh5 16. Qg2 Bxf3 17. Qxf3 Nbd7 18. Bc5 Nxc5 19. Rhe1 Nxd3+ 20. cxd3 Be5 21. d4 O-O-O 22. dxe5 Rxd1+ 23. Kxd1 Qd7+ 24. Kc2 Nd5 25. e6 fxe6 26. fxe6 Qe7 27. Nxd5 cxd5 28. Qxd5 Kb8 29. Qd7 Rc8+ 30. Kb3 Qxd7 31. exd7 Rd8 32. Re7 Kc7 33. Rxg7 Rxd7 34. Rxd7+ Kxd7 35. Kc4 h5 36. Kd5 a6 37. h4 b6 38. Ke5 Ke7 39. Kf5 Kd6 40. Kg5 Kc6 41. Kxh5 Kb5 42. Kg6 Ka4 43. h5 Kxa3 44. h6 Kxb4 45. h7 a5 46. h8=Q 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/N3rhnl5L"]
+[Date "2020.10.25"]
+[White "EltahirAmin"]
+[Black "Jessieboy"]
+[Result "1-0"]
+[UTCDate "2020.10.25"]
+[UTCTime "10:33:15"]
+[WhiteElo "1970"]
+[BlackElo "1997"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. f4 Bb4 8. f5 Qh4+ 9. g3 Qe4+ 10. Qe2 Qxh1 11. fxg6 hxg6 12. Bd2 Rxh2 13. Qd3 d5 14. O-O-O Bxc3 15. Qxc3 Qe4 16. Qxc7 Ne7 17. Bb4 Bd7 18. Bd3 Qe3+ 19. Kb1 Qxd4 20. Qd6 Qxb4 21. Qxb4 Rc8 22. Bb5 Nc6 23. Bxc6 Bxc6 24. e6 fxe6 25. Qd6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SQY8vvmI"]
+[Date "2020.11.20"]
+[White "yohanes146"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.20"]
+[UTCTime "11:49:43"]
+[WhiteElo "1889"]
+[BlackElo "1897"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. c4 Nc6 6. c5 Bg4 7. Be2 e6 8. Nc3 b6 9. Bb5 Qc7 10. Qa4 Rc8 11. Ne5 Be7 12. Nxc6 O-O 13. Nxe7+ Qxe7 14. f3 Bh5 15. b4 Rc7 16. Bf4 Rcc8 17. Bd6 Qxd6 18. cxd6 Rxc3 19. O-O Rd8 20. d7 Rc7 21. Rac1 1-0
+

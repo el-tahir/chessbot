@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dxU3Rgcz"]
+[Date "2020.12.20"]
+[White "Gima1"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.12.20"]
+[UTCTime "21:19:30"]
+[WhiteElo "2000"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 Bg4 6. f3 Bc8 7. c3 e6 8. Be3 Bd6 9. Bf2 Qb6 10. Qc2 Nd5 11. Ne4 Be7 12. Bd3 Nd7 13. a3 Bf6 14. Nxf6+ N7xf6 15. c4 Nf4 16. Bf1 Qc7 17. Bg3 N6h5 18. Kf2 Nxg3 19. hxg3 Ng6 20. Bd3 b6 21. Re1 Bb7 22. Bxg6 fxg6 23. Rxe6+ Kf7 24. Re4 c5 25. Rf4+ Ke7 26. d5 Rhf8 27. Re4+ Kd7 28. Rxh7 Rf7 29. Re6 b5 30. b3 a5 31. Qxg6 Raf8 32. Rxg7 Kc8 33. Rg8 Kb8 34. d6 Qd8 35. Qxf7 Rxg8 36. Re7 Bc6 37. d7 Rf8 38. Qe6 Kc7 39. Qe5+ Kb6 40. Qd6 Kb7 41. Ne2 Rxf3+ 42. gxf3 Kb6 43. Nf4 Kb7 44. Ne6 Qxe7 45. Qxe7 Bxd7 46. Qxd7+ Kb6 47. Qc7+ Ka6 48. Nxc5# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/jnDqhB2w"]
+[Date "2020.11.27"]
+[White "SergeySlobodenuk"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.11.27"]
+[UTCTime "17:21:53"]
+[WhiteElo "1930"]
+[BlackElo "1925"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Ne2 e6 6. Ng3 Bg6 7. Be2 Nd7 8. Bxh5 Bxh5 9. Nxh5 Ne7 10. Bg5 Qb6 11. b3 Nf5 12. c3 c5 13. g4 Rxh5 14. gxf5 Rxg5 15. hxg5 cxd4 16. fxe6 fxe6 17. cxd4 Bb4+ 18. Nd2 Qxd4 19. Rh8+ Nf8 20. Rc1 Qxe5+ 21. Qe2 Qf5 22. Qb5+ Kf7 23. Qxb7+ Kg6 24. Qxb4 Qxg5 25. Rxf8 Rxf8 26. Qxf8 Qf5 27. Qe8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/IZDqPfvZ"]
+[Date "2023.02.14"]
+[White "mustafaengur"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2023.02.14"]
+[UTCTime "22:31:16"]
+[WhiteElo "1966"]
+[BlackElo "1963"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B15"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O 8. O-O h6 9. h3 Nd7 10. c4 Re8 11. c5 Bc7 12. b4 Nf8 13. b5 cxb5 14. Bxb5 Bd7 15. Bc4 Ne6 16. Be3 Nf4 17. d5 Bf5 18. d6 Bb8 19. Bxf4 Be4 20. Bd5 Bg6 1-0
+

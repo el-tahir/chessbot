@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EbTMKxr4"]
+[Date "2020.11.18"]
+[White "EltahirAmin"]
+[Black "chessinsilent"]
+[Result "0-1"]
+[UTCDate "2020.11.18"]
+[UTCTime "12:32:34"]
+[WhiteElo "1973"]
+[BlackElo "2034"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B40"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 e6 3. c3 a6 4. d4 d5 5. e5 Nc6 6. Be2 Qc7 7. O-O Nge7 8. Be3 Ng6 9. Nbd2 Be7 10. Rc1 c4 11. b3 b5 12. a4 Bb7 13. axb5 axb5 14. bxc4 dxc4 15. Rb1 b4 16. Bxc4 bxc3 17. Ne4 O-O 18. Nxc3 Nxd4 19. Nxd4 Qxc4 20. Rxb7 Qxc3 21. Qe2 Rfb8 22. Rc1 Ra1 23. Rxb8+ Bf8 24. Qd2 Rxc1+ 25. Qxc1 Qa5 26. h3 Qxe5 27. Nf3 Qxb8 28. h4 Nf4 29. Bxf4 Qa8 30. h5 h6 31. Ne5 Qd5 32. Qd2 Qb5 33. Nd7 Qxh5 34. Nxf8 g5 35. Bd6 g4 36. Qd3 f5 37. Qb5 g3 38. fxg3 Qd1+ 39. Kh2 Qxd6 40. Ng6 Qd1 41. Qe8+ Kg7 42. Nf4 Qg4 43. Nxe6+ Kf6 44. Nf4 Qg5 45. Qe6+ Kg7 46. Qd7+ Kf6 47. Qd6+ Kf7 48. Ne6 Qh5+ 49. Kg1 Qg6 50. Qd7+ Kf6 51. Nf4 Qxg3 52. Qd6+ Kg5 53. Ne6+ Kg4 54. Qxg3+ Kxg3 55. Nf8 f4 56. Nh7 h5 57. Nf6 h4 0-1
+

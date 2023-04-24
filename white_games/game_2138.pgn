@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/w98nooQC"]
+[Date "2020.12.30"]
+[White "EltahirAmin"]
+[Black "LaMarmota"]
+[Result "0-1"]
+[UTCDate "2020.12.30"]
+[UTCTime "11:26:12"]
+[WhiteElo "2009"]
+[BlackElo "1971"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 d6 8. Qf3 Qe7 9. O-O dxe5 10. Re1 f6 11. Bf4 Nxf4 12. Qxf4 exf4 13. Rxe7+ Bxe7 14. Re1 Bd7 15. Nd5 Kd8 16. Nxf4 Bd6 17. Nd5 c6 18. Ne3 Nh6 19. d5 Kc7 20. Rd1 Nf5 21. Nf1 Rhe8 22. f3 Bc5+ 23. Kh1 Ne3 24. Nxe3 Bxe3 25. d6+ Kb6 26. h4 Rad8 27. b4 a5 28. c3 axb4 29. cxb4 c5 30. a4 cxb4 31. Rb1 Bd2 32. Kg1 Bxa4 33. Kf2 Rxd6 34. h5 Bc2 35. Rb2 Be3+ 36. Kg3 b3 37. Bf7 Red8 38. Bxb3 Bxb3 39. Rxb3+ Kc7 40. Rxe3 b5 41. Re7+ R8d7 42. Re1 b4 43. Rc1+ Kb6 44. Rb1 Kb5 45. Kf2 Rd3 46. Ke2 b3 47. g4 Kb4 48. h6 Rd2+ 49. Ke3 gxh6 50. Ke4 R7d3 51. Kf5 b2 52. Kxf6 Rxf3+ 53. Kg7 Rc3 54. Kxh6 Rc1 55. Rxb2+ Rxb2 56. g5 Rg2 57. Kh5 Rxg5+ 58. Kxg5 h6+ 59. Kxh6 Kc4 60. Kg5 Rf1 61. Kg6 Kd4 62. Kg5 Ke4 63. Kg4 Rf3 64. Kg5 Ke5 65. Kg6 Rg3+ 66. Kh5 Kf5 67. Kh4 Rg4+ 68. Kh3 Kf4 69. Kh2 Kf3 70. Kh3 Rf4 71. Kh2 Kf2 72. Kh3 Re4 73. Kh2 Rh4# 0-1
+

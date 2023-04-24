@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kERYNvSm"]
+[Date "2021.03.04"]
+[White "MisterKatsu"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2021.03.04"]
+[UTCTime "22:43:14"]
+[WhiteElo "2045"]
+[BlackElo "2023"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Ne2 Nd7 8. Ng3 Qb6 9. c3 O-O-O 10. Nd2 f6 11. Nf3 fxe5 12. Nxe5 Nxe5 13. dxe5 Bc5 14. f4 Bf2+ 15. Ke2 d4 16. Kxf2 dxc3+ 17. Qe3 cxb2 18. Rb1 Qxe3+ 19. Bxe3 Ne7 20. Rxb2 Nd5 21. Rd1 Rhf8 22. Kf3 Rd7 23. Ne4 Rdf7 24. Nd6+ Kd7 25. Rxb7+ 1-0
+

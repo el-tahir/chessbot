@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/up3ovBjk"]
+[Date "2021.01.23"]
+[White "EltahirAmin"]
+[Black "Kommunist2020"]
+[Result "1-0"]
+[UTCDate "2021.01.23"]
+[UTCTime "17:01:05"]
+[WhiteElo "1980"]
+[BlackElo "1958"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 e6 4. Nf3 Ne7 5. Bc4 O-O 6. Bg5 f6 7. Be3 d5 8. Bb3 c6 9. h4 h6 10. Qd2 Kh7 11. O-O-O dxe4 12. Nxe4 Nd5 13. Nfg5+ fxg5 14. Nxg5+ Kg8 15. Bxd5 exd5 16. Nf3 h5 17. Bh6 Qf6 18. Bxg7 Kxg7 19. Ng5 Qf4 20. Qxf4 Rxf4 21. f3 Na6 22. Rde1 Rf8 23. Re7+ Kg8 24. Rhe1 Bf5 25. Rxb7 Rae8 26. Rxe8 Rxe8 27. Rxa7 Nb8 28. Kd2 Nd7 29. Ra6 Rc8 30. a4 Kg7 31. a5 Kf6 32. Ra7 c5 33. Ra6+ Kg7 34. dxc5 Rxc5 35. c3 Ne5 36. Ra7+ Bd7 37. f4 Nc4+ 38. Kc1 Nxa5 39. Rxd7+ Kf8 40. b4 Rxc3+ 41. Kb2 Rb3+ 42. Kc2 Rxb4 43. Rxd5 Nc6 44. Rd6 Nd4+ 45. Kc3 Ra4 46. Rxd4 Ra3+ 47. Kd2 Rg3 48. Rd6 Kg7 49. Ke2 Rxg2+ 50. Kf3 Ra2 51. Rd7+ Kf6 52. Rf7# 1-0
+

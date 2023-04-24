@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/BKJYUS83"]
+[Date "2020.11.10"]
+[White "EltahirAmin"]
+[Black "stankovic6"]
+[Result "1-0"]
+[UTCDate "2020.11.10"]
+[UTCTime "21:17:34"]
+[WhiteElo "1943"]
+[BlackElo "1922"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 c6 4. Nxe5 d5 5. exd5 cxd5 6. d4 Bd6 7. Bb5+ Bd7 8. Nxd7 Nbxd7 9. O-O a6 10. Re1+ Be7 11. Bxd7+ Qxd7 12. Qe2 Kf8 13. Bg5 Re8 14. Qf3 h6 15. Bh4 Bd6 16. Rxe8+ Kxe8 17. Bxf6 gxf6 18. Qxf6 Rg8 19. Nxd5 Bxh2+ 20. Kxh2 Qxd5 21. Re1+ Kd7 22. Re7+ Kc8 23. f3 Qg5 24. Qxg5 hxg5 25. Rxf7 b5 26. Ra7 Rg6 27. Kg3 Kb8 28. Rh7 a5 29. Kg4 Rc6 30. c3 b4 31. Kxg5 bxc3 32. bxc3 Rxc3 33. f4 Rd3 34. Rd7 Rg3+ 35. Kf6 Rxg2 36. f5 Kc8 37. Ra7 Rxa2 38. Ke7 Re2+ 39. Kd6 Rf2 40. Ke6 Re2+ 41. Kf6 Rd2 42. Kg7 Rxd4 43. f6 Rf4 44. f7 Kb8 45. Re7 Rg4+ 46. Kf6 Rf4+ 47. Ke6 Re4+ 48. Kd7 Rd4+ 49. Ke8 a4 50. f8=Q a3 51. Kf7+ Rd8 52. Qxd8# 1-0
+

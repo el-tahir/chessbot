@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/YjhdFm4A"]
+[Date "2021.11.19"]
+[White "EltahirAmin"]
+[Black "Perfectos"]
+[Result "0-1"]
+[UTCDate "2021.11.19"]
+[UTCTime "04:00:31"]
+[WhiteElo "2044"]
+[BlackElo "2067"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. Nc3 a6 3. d4 h6 4. Nf3 g5 5. h4 Bg7 6. hxg5 hxg5 7. Rxh8 Bxh8 8. Bxg5 Nc6 9. Qd2 Bg4 10. Be2 Bxf3 11. Bxf3 Nxd4 12. O-O-O Ne6 13. Bh4 Nf6 14. Qe3 Bg7 15. e5 Ng8 16. Bh5 Bh6 0-1
+

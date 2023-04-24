@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/QUwsIGZm"]
+[Date "2021.02.23"]
+[White "EltahirAmin"]
+[Black "ADDADZ"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "19:04:21"]
+[WhiteElo "1982"]
+[BlackElo "1942"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4 d5 8. Bxd5 Bb4 9. Qf3 Bxc3+ 10. bxc3 Be6 11. Bxb7 Rb8 12. O-O N8e7 13. Ba3 O-O 14. Rfe1 Nh4 15. Qe4 Neg6 16. Bxf8 Kxf8 17. Ba6 Kg8 18. Rab1 Bd5 19. Rxb8 Qxb8 20. Qxd5 h6 21. e6 1-0
+

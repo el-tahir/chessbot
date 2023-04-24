@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/dAXTb9lg"]
+[Date "2020.10.15"]
+[White "ShekerMeker"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2020.10.15"]
+[UTCTime "16:23:49"]
+[WhiteElo "1979"]
+[BlackElo "1975"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. Bxc6 Bxc6 8. Nxc6 bxc6 9. O-O Nf6 10. Bg5 O-O 11. Kh1 Re8 12. Qd3 Re6 13. Qg3 Qf8 14. Bh6 Nh5 15. Qg4 Rxh6 16. f4 Nf6 17. Qf3 Qd8 18. e5 Nd5 19. Nxd5 cxd5 20. Qxd5 Rxh2+ 0-1
+

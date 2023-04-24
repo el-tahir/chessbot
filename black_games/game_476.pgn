@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/G4GtpnTV"]
+[Date "2022.05.13"]
+[White "Garuda_Damanik"]
+[Black "EltahirAmin"]
+[Result "0-1"]
+[UTCDate "2022.05.13"]
+[UTCTime "23:11:32"]
+[WhiteElo "2055"]
+[BlackElo "2122"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 Nc6 6. c3 e5 7. Nf3 e4 8. Bb5 exf3 9. Qxf3 Be7 10. O-O O-O 11. Re1 Re8 12. Bg5 Nd7 13. Nd2 Bxg5 0-1
+

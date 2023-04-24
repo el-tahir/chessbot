@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/DhIALWVn"]
+[Date "2020.11.04"]
+[White "EltahirAmin"]
+[Black "shaunletrero37"]
+[Result "1-0"]
+[UTCDate "2020.11.04"]
+[UTCTime "13:24:35"]
+[WhiteElo "2047"]
+[BlackElo "2051"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C11"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bd3 Nb6 8. O-O c4 9. Be2 a6 10. b3 Bb4 11. Bb2 cxb3 12. axb3 Qc7 13. Bd3 O-O 14. Bxh7+ Kxh7 15. Ng5+ Kg6 16. Qg4 f5 17. exf6 Rxf6 18. Nxe6+ Kf7 19. Nxc7 Bxg4 20. Nxa8 Nxa8 21. Nxd5 Rd6 22. Nxb4 Nxb4 23. c4 Nd3 24. Bc3 b6 25. Rxa6 Nc7 26. Raa1 Ne6 27. f5 Nxd4 28. Ra7+ Kf6 29. h3 Be2 30. Rfa1 Kxf5 31. R1a2 g6 32. Bxd4 Nc1 33. Rd2 Nxb3 34. Rxe2 Nxd4 35. Rf7+ Kg5 36. Re5+ Kh6 37. g4 Nc6 38. g5+ 1-0
+

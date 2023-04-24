@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/UNF0chWv"]
+[Date "2020.10.14"]
+[White "Vazir161"]
+[Black "EltahirAmin"]
+[Result "1-0"]
+[UTCDate "2020.10.14"]
+[UTCTime "15:06:54"]
+[WhiteElo "2000"]
+[BlackElo "2004"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A46"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 c6 3. Bf4 d5 4. e3 Bg4 5. Be2 e6 6. h3 Bh5 7. O-O Bd6 8. Bxd6 Qxd6 9. Nbd2 O-O 10. c4 c5 11. cxd5 Nxd5 12. Rc1 cxd4 13. Nxd4 Bg6 14. N2f3 Nc6 15. Nxc6 bxc6 16. Nd4 Rab8 17. Rxc6 Qd7 18. Rc1 Rxb2 19. a4 Rd8 20. Bb5 Qe7 21. Nc6 Qf6 22. Nxd8 Qxd8 23. e4 Bxe4 24. Qd4 Rxb5 25. axb5 Bg6 26. Rfe1 h6 27. Rc5 Qa5 28. Rec1 Qa2 29. Qc4 Qd2 30. Rc8+ Kh7 31. h4 Nf4 32. g3 Ne2+ 33. Kg2 Nxc1 34. Qxc1 Be4+ 35. Kg1 Qd3 36. Rc3 Qxb5 37. Re3 Bd5 38. Re1 a5 39. Qb1+ Kg8 40. Qxb5 a4 41. Qxa4 1-0
+

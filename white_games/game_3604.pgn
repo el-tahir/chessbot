@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/suw2lq3K"]
+[Date "2020.11.07"]
+[White "EltahirAmin"]
+[Black "maykatepar"]
+[Result "1-0"]
+[UTCDate "2020.11.07"]
+[UTCTime "11:07:05"]
+[WhiteElo "1967"]
+[BlackElo "1972"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Qe7 7. Bc4 d6 8. f4 dxe5 9. fxe5 Bg4 10. Qd3 O-O-O 11. O-O Nxe5 12. dxe5 Rxd3 13. exf6 gxf6 14. Bxd3 h5 15. Bf4 Bh6 16. Rae1 Qc5+ 17. Kh1 Bxf4 18. Rxf4 a6 19. Rc4 Qf2 20. Rf1 Qd2 21. Nd5 c6 22. Nxf6 Be2 23. Rd4 Bxd3 24. cxd3 Rd8 25. Ne4 Qe2 26. Nd6+ Rxd6 27. Rdf4 Rxd3 28. h3 Rg3 29. R4f2 Qe4 30. Rg1 h4 31. Rxf7 Qc2 32. Rf8+ Kc7 33. Rf7+ Kb6 34. Rff1 Ka7 35. Rb1 c5 36. b4 cxb4 37. Rxb4 Qxa2 38. Rbb1 Qc2 39. Rbc1 Qf2 40. Rcf1 Qe2 41. Kh2 a5 42. Kh1 b6 43. Re1 Qf2 44. Rgf1 1-0
+

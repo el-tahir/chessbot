@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/n0qNwXMc"]
+[Date "2021.11.15"]
+[White "EltahirAmin"]
+[Black "Nebra5ka"]
+[Result "0-1"]
+[UTCDate "2021.11.15"]
+[UTCTime "15:16:46"]
+[WhiteElo "2054"]
+[BlackElo "2048"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. f4 Nc6 6. Nf3 Bd6 7. fxe5 Nxe5 8. Ng3 Bg4 9. Be2 Bxf3 10. Bxf3 Nf6 11. O-O O-O 12. Bg5 Be7 13. Nf5 Ng6 14. Qe1 h6 15. Bd2 Nd7 16. Qg3 Bg5 17. Be1 Ne7 18. h4 Nxf5 19. exf5 Be3+ 20. Kh1 Qf6 21. Be4 Ne5 22. c3 h5 23. cxd4 cxd4 24. Bf2 Ng4 25. Bf3 Qxf5 26. Bxg4 Qxg4 27. Qxg4 hxg4 28. Bxe3 dxe3 29. Rfe1 Rae8 30. Re2 f5 31. g3 f4 32. gxf4 Rxf4 33. Rae1 Rf3 34. Kg2 Kh7 35. d4 Kh6 36. d5 Kh5 37. d6 Kxh4 38. d7 Rg3+ 39. Kh2 Rd8 40. Rd1 Rf3 41. Rd6 Rf2+ 42. Rxf2 exf2 43. Kg2 g3 44. Rg6 Rxd7 45. Rxg3 f1=Q+ 46. Kxf1 Kxg3 47. b4 Rd2 48. a4 Ra2 49. b5 Rxa4 50. b6 axb6 51. Kg1 Ra1# 0-1
+

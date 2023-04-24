@@ -1,0 +1,19 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SF2sJcBl"]
+[Date "2020.11.12"]
+[White "EltahirAmin"]
+[Black "Permagnus"]
+[Result "1-0"]
+[UTCDate "2020.11.12"]
+[UTCTime "21:26:31"]
+[WhiteElo "1977"]
+[BlackElo "1981"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Bb4 7. exf6 Bxc3+ 8. bxc3 Qxf6 9. Bc4 O-O 10. O-O c6 11. Be3 d5 12. Bd3 Bf5 13. Rb1 Rab8 14. a4 Ne7 15. a5 Qg6 16. Re1 Bxd3 17. cxd3 f5 18. Bf4 Qf7 19. Bxb8 Rxb8 20. Qe2 Ng6 21. Qe6 Qxe6 22. Rxe6 Kf7 23. Ree1 Nf4 24. Re3 g5 25. g3 Ng6 26. a6 b6 27. c4 dxc4 28. dxc4 b5 29. d5 cxd5 30. cxd5 Ne7 31. d6 Nd5 32. Re5 Nf6 33. Rxf5 Rd8 34. Rxg5 Ke6 35. Rgxb5 Rxd6 36. Rb7 Ne4 37. Rxa7 Nd2 38. Re1+ Kf5 39. Rxh7 1-0
+
